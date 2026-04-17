@@ -1,0 +1,100 @@
+{
+  "id": "thread-111",
+  "subject": "[Pre-read] Oct-25 SIP monthly meeting",
+  "date": "2025-10-26",
+  "deck_filename": "SIP Monthly Meeting 20251027.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "data-analysis",
+    "regional",
+    "shopee",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease kindly find attached Oct SIP monthly doc for your review,\r\n\r\nThank you,\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - So we will start recognising from Jan’26 onwards?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- On shift of recognition at Import market >> What is the delta at each\r\n   country level for previous submission vs new submission?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide12\r\n\r\n   - For CNSIP under Swamp, where is the P&L being recognised right now?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- When will we bring it under CNSIP?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- For the changes we wanted to make for Swamp SIP, where did we land on\r\n   it in the end?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 18\r\n\r\n   - Does this include Swamp?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 20\r\n\r\n   - Is this not a lane by lane analysis?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Every lane would have their own\r\n   issues?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "So we will know how small/big CNSIP needs to be in each market?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 30\r\n\r\n   - Became worse?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 39\r\n\r\n   - @Keljin Chua <keljin.chua@shopee.com> so this is aligned with you?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "MYSG will not be owned by SG?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 42\r\n\r\n   - Hard to read this slide in general, how does seller setup go down MOM?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- What is the TR% here?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Is it total or paid ads?"
+        }
+      ]
+    }
+  ]
+}

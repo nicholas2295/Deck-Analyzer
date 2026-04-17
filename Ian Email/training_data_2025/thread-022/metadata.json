@@ -1,0 +1,254 @@
+{
+  "id": "thread-022",
+  "subject": "[TH] CB weekly update - Week of 28 Feb ’25",
+  "date": "2025-03-02",
+  "deck_filename": "LFF B2B Integrated Channel Proposal 2025.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "data-analysis",
+    "shopee",
+    "tech",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cheng Derek",
+      "Jianghong Liu",
+      "Yu Cheng"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Yu Cheng",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Teams,\r\n\r\nHere refer THCB weekly update- Week of 28 Feb 2025\r\n\r\n1) THCB Budget update\r\n\r\nBudget highlights\r\n\r\n   -\r\n\r\n   Overall CB: Gross ADO lower than target mainly from CNY holiday which\r\n   saw the same trend with LY impact on CNY around -10% ADO and -9% in ADG in\r\n   Feb’24.\r\n   -\r\n\r\n   CBMP P&L: Expect PC2 to land at -0.6%. PRM over target mainly from  DDVC\r\n   during campaign period; peak day and payday,\r\n   -\r\n\r\n   CBWH P&L: WH ADO MoM -4% mainly from drop in SCS orders fulfilled from\r\n   TH Local warehouse, and drop in NNWH MP orders. WH Revenue MoM -13% due to\r\n   increase in proportion of orders fulfilled from NNWH vs TH Local warehouse,\r\n   where NNWH RPO (0.19) is lower than Local warehouse RPO (0.39). WH P&L MoM\r\n   -23% due to increase in % costs allocated to CB from TH Local warehouse.\r\n   -\r\n\r\n   CB Lovito: Feb Seller PnL MoM drop as we self-rebate more on voucher,\r\n   and invested more in ads to drive traffic; ADO and ADGMV missed target\r\n   mainly as traffic loss(SR traffic loss and platform downtrend) and platform\r\n   FSV reduction and OOS which both impacted our CR.\r\n\r\n2) THCB OKR update\r\n\r\nOKR Highlights\r\n\r\n   -\r\n\r\n   %ADO and ADG: Overall ADO improved from last week mainly from the\r\n   outperform during Payday period (+105% to ADO target). %ADG still remain\r\n   the same trend as last week behind target mainly from growth of plat.\r\n   -\r\n\r\n   LS ADO/ ADG: Shopee Choice and Lovito are the main drivers of both ADO\r\n   and ADG contributing over 14% ADO and 6.4% ADG. For MP sellers, the top 3\r\n   contributors are Mossdoom (+26% MoM ADG), JisuLife (1.2x MoM ADG), and\r\n   Papafeel (+1% MoM ADG) mainly from the view boost initiative.\r\n   -\r\n\r\n   VDO ADO/ ADG: Shopee Choice and Lovito are the top contributors of both\r\n   ADO and ADG. MP sellers that show a strong growth and contribute\r\n   significantly are Mossdoom (+16% MoM ADG), Goojoodoq (+32% MoM ADG), and\r\n   Ugreen (+17% MoM ADG).\r\n\r\n\r\n3) Key updates/ topics for approval\r\n\r\n   -\r\n\r\n   [For Up"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nFor CBWH, can we split up into NN and TH WH?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "but RR is green. Is this something similar in the whole platform?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Yu Cheng",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong\r\n\r\nHere refer the feedbacks on your questions:\r\n\r\nFrom Ian\r\n\r\nFor CBWH, can we split up into NN and TH WH? Especially if the aim is to\r\nget more into TH WH, our OKR should be more dedicated towards that area\r\n\r\nYes, THCB side will share THCB LFF ADO performance + WH P&L split by THWH\r\nand NNWH moving forward.\r\nBelow table is Feb full month THCB LFF RR split by THWH and NNWH:\r\n*Overall Feb total THCB LFF (FBS+3PF) ADO achieved 124k, MoM +1.6%, RR\r\n106%.* (ADO uplift mainly comes from 3PF MoM +2.0% vs FBS MoM +0.1%)\r\n\r\nFor FBS RR (Splited by THWH and NNWH)\r\n--THWH : *Total ADO achieved 11k, MoM -4.1%, RR 67%.* Mainly impacted by CN\r\nMP sellers not achieved target with *MoM +2.3%, RR 80%* and *Choice MoM\r\n-26.4%; RR 35%*\r\n--NNWH: *Total ADO achieved 17K, MoM +3.2%; RR 93%.* *CN MP sellers MoM\r\n-12.3%, RR 88% while Choice MoM 10.8%, RR 96% *\r\n\r\n\r\n\r\nFrom JH\r\n\r\nCBMP P&L: Expect PC2 to land at -0.6%. PRM over target mainly from  DDVC\r\nduring campaign period; peak day and payday,\r\n\r\nbut RR is green. Is this something similar in the whole platform?\r\nBI helped to refresh pnl data as of today Monday morning. There will be\r\ndata changed vs Last Friday data.\r\nOverall Feb full month CB PC2 as of 2 Mar are aligned in the same direction\r\nas TH platform landed at +0.08% while platform landed at +0.35%.\r\nBoth CB and Plat PC2 are positive and perform better than target.\r\n\r\n**note: please note that data show is as of 2 Mar, it may not reflect the\r\ncomplete NMV for full month Feb as it will take 10 days to reflect actual\r\nGTF and 3PL margin from completed order.\r\n\r\n\r\nThx\r\n\r\nJack Cheng\r\n\r\n\r\n\r\nJianghong Liu <jianghong.liu@shopee.com> 于2025年3月2日周日 21:34写道："
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q2",
+          "question": "Thanks, seems like we are quite behind on our TH WH then, for both Choice\r\nand MP.\r\n\r\n\r\n\r\n*From:* Yu Cheng <yu.cheng@shopee.com>\r\n*Sent:* Monday, 3 March 2025 4:04 pm\r\n*To:* Jianghong Liu <jianghong.liu@shopee.com>\r\n*Cc:* Ian Ho <hoi@sea.com>; Handhika Wiguna Jahja <jahjah@sea.com>; Karan\r\nAmbani <karan.ambani@shopee.com>; Ken Laowachara <ken.laowacha@shopee.com>;\r\nEric Bui <eric.bui@shopee.com>; Faye Yan <faye.yan@shopee.com>; Book\r\nKrasaesian <book.krasaesi@shopee.com>; Larry Lin <larry.lin@shopee.com>;\r\nMengxiao Yu <william.yu@shopee.com>; Keljin Chua <keljin.chua@shopee.com>;\r\nNing Li <ning.li@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Jason\r\nYu <jason.yu@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>; Max\r\nGoh Shi Long <max.gohsl@shopee.com>; Wong Si Ying <siying.wong@shopee.com>;\r\nYuna Kwon <yuna.kwon@shopee.com>; Cheng Derek <derek.cheng@shopee.com>; Leo\r\nChen <leo.chenyh@shopee.com>; Lynn Lin <lynn.lin@shopee.com>; Jolene Wang <\r\njolene.wang@shopee.com>; James Li <james.li@shopee.com>; Peggy Chen <\r\npeiqi.chen@shopee.com>; Phyllis Wang <phyllis.wang@shopee.com>; Toon\r\nWimwipa <toon.bhumsiri@shopee.com>; Winnie Peng <winnie.peng@shopee.com>;\r\nJane Natnicha <jane.teranano@shopee.com>; Gene Jiwachotkamjon <\r\ngene.jiwachot@shopee.com>; Pat Laohapairoj <pat.laohapai@shopee.com>;\r\nTiffany Jin <tiffany.jin@shopee.com>; anny fan <anny.fan@shopee.com>; Ray\r\nWang <ray.wang01@shopee.com>; Bufei Liu <bufei.liu@shopee.com>; Songie Song\r\n<songie.song@shopee.com>\r\n*Subject:* Re: [TH] CB weekly update - Week of 28 Feb ’25\r\n\r\n\r\n\r\nHi Ian and Jianghong\r\n\r\n\r\n\r\nHere refer the feedbacks on your questions:\r\n\r\n\r\n\r\nFrom Ian\r\n\r\nFor CBWH, can we split up into NN and TH WH?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Especially if the aim is to\r\nget more into TH WH, our OKR should be more dedicated towards that area\r\n\r\nYes, THCB side will share THCB LFF ADO performance + WH P&L split by THWH\r\nand NNWH moving forward.\r\n\r\nBelow table is Feb full month THCB LFF RR split by THWH and NNWH:\r\n\r\n*Overall Feb total THCB LFF (FBS+3PF) ADO achieved 124k, MoM +1.6%, RR\r\n106%.* (ADO uplift mainly comes from 3PF MoM +2.0% vs FBS MoM +0.1%)\r\n\r\n\r\n\r\nFor FBS RR (Splited by THWH and NNWH)\r\n\r\n--THWH : *Total ADO achieved 11k, MoM -4.1%, RR 67%.* Mainly impacted by CN\r\nMP sellers not achieved target with *MoM +2.3%, RR 80%* and *Choice MoM\r\n-26.4%; RR 35%*\r\n\r\n--NNWH: *Total ADO achieved 17K, MoM +3.2%; RR 93%.* *CN MP sellers MoM\r\n-12.3%, RR 88% while Choice MoM 10.8%, RR 96% *\r\n\r\n\r\n\r\n\r\n\r\nFrom JH\r\n\r\nCBMP P&L: Expect PC2 to land at -0.6%. PRM over target mainly from  DDVC\r\nduring campaign period; peak day and payday,\r\n\r\nbut RR is green. Is this something similar in the whole platform?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "BI helped to refresh pnl data as of today Monday morning. There will be\r\ndata changed vs Last Friday data.\r\n\r\nOverall Feb full month CB PC2 as of 2 Mar are aligned in the same direction\r\nas TH platform landed at +0.08% while platform landed at +0.35%.\r\n\r\nBoth CB and Plat PC2 are positive and perform better than target.\r\n\r\n***note: please note that data show is as of 2 Mar, it may not reflect the\r\ncomplete NMV for full month Feb as it will take 10 days to reflect actual\r\nGTF and 3PL margin from completed order.*\r\n\r\n\r\n\r\nThx\r\n\r\n\r\n\r\nJack Cheng\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nJianghong Liu <jianghong.liu@shopee.com> 于2025年3月2日周日 21:34写道：\r\n\r\nCBMP P&L: Expect PC2 to land at -0.6%. PRM over target mainly from  DDVC\r\nduring campaign period; peak day and payday,\r\n\r\n\r\n\r\nbut RR is green. Is this something similar in the whole platform?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cheng Derek",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q2",
+          "answer": "Seasonal downtrend: the downtrend of winter trendy SKUs (e.g. hoodie,\r\n   long-sleeved base shirts, full-coverage crocs) resulted in a noticeable\r\n   decline in CBWH ADO. Meanwhile, sellers’ delay to publish and inbound new\r\n   spring SKUs caused by CNY further slowed down ADO recovery of these\r\n   sellers. Fashion sellers were mainly impacted, with ~1k target gap, account\r\n   for 55% of total ADO gap, key sellers as follows:"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Kuadu, target gap 264, accounting for 14% of total ADO gap;"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Posee, target gap 239, accounting for 12% of ADO gap;"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q5",
+          "question": "*Seasonal downtrend:* the downtrend of winter trendy SKUs (e.g."
+        },
+        {
+          "question_id": "Q6",
+          "question": "Kuadu, target gap 264, accounting for 14% of total ADO gap;"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Posee, target gap 239, accounting for 12% of ADO gap;"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*OOS issue:* mainly caused by factory shutdown during CNY and sea"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Rockbros, target gap 217, 11% of ADO gap;"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Mobi Garden, target gap 134, 7% of ADO gap."
+        },
+        {
+          "question_id": "Q11",
+          "question": "Sellers with downtrend issues already published and inbound new"
+        },
+        {
+          "question_id": "Q12",
+          "question": "OOS sellers already replenished by the end of Feb;"
+        },
+        {
+          "question_id": "Q13",
+          "question": "In Mar, will allocate more free ads and item rebate resources to help"
+        },
+        {
+          "question_id": "Q14",
+          "question": "TH encounters the biggest impact of winter-spring trend changes"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Key sellers mentioned above are not ranked top in other sites."
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Cheng Derek",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q5",
+          "answer": "Projection of the OOS and the volume to replenish"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Push the sellers to replenish\r\n\r\n*For 1), MP FBS replenishment SOP is established based on the OOS forecast:\r\n*\r\n\r\nMTD OOS ADO = Σ((OOS daysa * model-level OOS orders on the OOS dayb) / MTD\r\ndays of the month) for all FBS models in this site. (This definition are\r\naligned with Reg PMO)\r\n\r\n*For 2), we will replenish based on the seller tiering: *"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "[OOS ADO coverage 75%] Each week, Top 100 OOS ADO shop by site will be\r\n   pushed to do replenishment by RM team 1 by 1"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "[OOS ADO coverage 25%] Every 2 weeks, mass seller communication to do\r\n   replenishment push through TS tool\r\n\r\n\r\nHowever, the current OOS data have some visibility issues that Reg PMO is\r\nfixing together with us, we expect to resume by EOW.\r\n\r\n\r\n\r\nBest,\r\nDerek\r\n\r\n\r\nNotes on the formula:"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "OOS days is defined as # of Days FBS SKU stock is 0"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "model-level OOS orders on the OOS day is the total orders for the model\r\n   over the L60D /sellable days in the L60D * adjustment factorc"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "adjustment factor is to normalize the model’s OOS orders impact with L3\r\n   cat level for ADO movement of L60D of \"D0\" last year, to reflect the\r\n   seasonality and eliminate the outliner impact."
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nFor the CB MP SKUs, we will do two steps to mitigate:\r\n\r\n1) Projection of the OOS and the volume to replenish\r\n\r\n2) Push the sellers to replenish\r\n\r\n*For 1), MP FBS replenishment SOP is established based on the OOS forecast:\r\n*\r\n\r\nMTD OOS ADO = Σ((OOS daysa * model-level OOS orders on the OOS dayb) / MTD\r\ndays of the month) for all FBS models in this site. (This definition are\r\naligned with Reg PMO)\r\n\r\n*For 2), we will replenish based on the seller tiering: *\r\n\r\n   1.\r\n\r\n   [OOS ADO c"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nFor the CB MP SKUs, we will do two steps to mitigate:\r\n\r\n1) Projection of the OOS and the volume to replenish\r\n\r\n2) Push the sellers to replenish\r\n\r\n*For 1), MP FBS replenishment SOP is established based on the OOS forecast:\r\n*\r\n\r\nMTD OOS ADO = Σ((OOS daysa * model-level OOS orders on the OOS dayb) / MTD\r\ndays of the month) for all FBS models in this site. (This definition are\r\naligned with Reg PMO)\r\n\r\n*For 2), we will replenish based on the seller tiering: *\r\n\r\n   1.\r\n\r\n   [OOS ADO c"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nFor the CB MP SKUs, we will do two steps to mitigate:\r\n\r\n1) Projection of the OOS and the volume to replenish\r\n\r\n2) Push the sellers to replenish\r\n\r\n*For 1), MP FBS replenishment SOP is established based on the OOS forecast:\r\n*\r\n\r\nMTD OOS ADO = Σ((OOS daysa * model-level OOS orders on the OOS dayb) / MTD\r\ndays of the month) for all FBS models in this site. (This definition are\r\naligned with Reg PMO)\r\n\r\n*For 2), we will replenish based on the seller tiering: *\r\n\r\n   1.\r\n\r\n   [OOS ADO c"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nFor the CB MP SKUs, we will do two steps to mitigate:\r\n\r\n1) Projection of the OOS and the volume to replenish\r\n\r\n2) Push the sellers to replenish\r\n\r\n*For 1), MP FBS replenishment SOP is established based on the OOS forecast:\r\n*\r\n\r\nMTD OOS ADO = Σ((OOS daysa * model-level OOS orders on the OOS dayb) / MTD\r\ndays of the month) for all FBS models in this site. (This definition are\r\naligned with Reg PMO)\r\n\r\n*For 2), we will replenish based on the seller tiering: *\r\n\r\n   1.\r\n\r\n   [OOS ADO c"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q16",
+          "question": "Projection of the OOS and the volume to replenish"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Push the sellers to replenish"
+        },
+        {
+          "question_id": "Q18",
+          "question": "[OOS ADO coverage 75%] Each week, Top 100 OOS ADO shop by site will"
+        },
+        {
+          "question_id": "Q19",
+          "question": "[OOS ADO coverage 25%] Every 2 weeks, mass seller communication to do"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Cheng Derek",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nHow does sellers send to us right now?\r\n\r\n\r\nSellers handle FBS first mile by themselves. Shopee will recommend managed\r\n3PLs with more stable lead time performance for sellers’ reference, but\r\ndoes not actually involve in first mile.\r\n\r\n   -\r\n\r\n   How seller chooses 3PL: values most on convenience (does not want to\r\n   spend much effort in first mile selection as it takes up only a small\r\n   portion of the total cost). More big sellers use unmanaged while mid-long\r\n   tail sellers use managed 3PL as Shopee recommends.\r\n   -\r\n\r\n   3PL solution: seller ship to 3PL’s CN warehouse, 3PL will then complete\r\n   the shipment to CBWH including custom clearance.\r\n\r\n\r\n\r\n Does it make sense to arrange regular linehauls every week? So we create a\r\nhabit for sellers to replenish?\r\n\r\n\r\nYes, the direction is to more proactively manage sellers to replenish and\r\nto support weekly linehauls shipments.  SLS team is pushing integrated B2B\r\nchannel (Shopee official first mile solution) with shorter and more stable\r\nE2E leadtime, also saving sellers from scheduling inbound after custom\r\nclearance, expected to go live in end of Q2\r\n\r\n\r\nAttached please find the plan for the Shopee offical first mile plan from\r\nour SLS team for more details.\r\n\r\n\r\n\r\n\r\nBest,\r\n\r\nDerek"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nHow does sellers send to us right now?\r\n\r\n\r\nSellers handle FBS first mile by themselves. Shopee will recommend managed\r\n3PLs with more stable lead time performance for sellers’ reference, but\r\ndoes not actually involve in first mile.\r\n\r\n   -\r\n\r\n   How seller chooses 3PL: values most on convenience (does not want to\r\n   spend much effort in first mile selection as it takes up only a small\r\n   portion of the total cost). More big sellers use unmanaged while mid-long\r\n   tail sellers use"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nHow does sellers send to us right now?\r\n\r\n\r\nSellers handle FBS first mile by themselves. Shopee will recommend managed\r\n3PLs with more stable lead time performance for sellers’ reference, but\r\ndoes not actually involve in first mile.\r\n\r\n   -\r\n\r\n   How seller chooses 3PL: values most on convenience (does not want to\r\n   spend much effort in first mile selection as it takes up only a small\r\n   portion of the total cost). More big sellers use unmanaged while mid-long\r\n   tail sellers use"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nHow does sellers send to us right now?\r\n\r\n\r\nSellers handle FBS first mile by themselves. Shopee will recommend managed\r\n3PLs with more stable lead time performance for sellers’ reference, but\r\ndoes not actually involve in first mile.\r\n\r\n   -\r\n\r\n   How seller chooses 3PL: values most on convenience (does not want to\r\n   spend much effort in first mile selection as it takes up only a small\r\n   portion of the total cost). More big sellers use unmanaged while mid-long\r\n   tail sellers use"
+        }
+      ]
+    }
+  ]
+}

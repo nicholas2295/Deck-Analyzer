@@ -1,0 +1,77 @@
+{
+  "id": "thread-063",
+  "subject": "[For Review] Jun CB Monthly Management Meeting",
+  "date": "2025-06-21",
+  "deck_filename": "[Jun'25] CB Monthly Management Meeting_v0.2.pdf",
+  "deck_topic_tags": [
+    "pricing",
+    "regional",
+    "shopee",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH,\r\n\r\nPlease find attached deck for the upcoming Monthly CB Management Meeting on\r\n25th Jun for your review.\r\n\r\nCNLS Section is currently WIP and will be updated by 23rd June before 2nd\r\nreview.\r\n\r\nLet me know if you have any questions.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Slide 84-89\r\n\r\n   - For the net price comp here on Match SKUs, what is the contribution to\r\n   Shopee ADO and TB ADO for the market?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "I briefed SMT and SLS team on my feedback.\r\n\r\n@Shuning Wang <shuning.wang@shopee.com> Slide 65: I thought we want to keep\r\n2 shops, one CB and one CNLS, but with some sort of information (sold\r\ncount, review, B2B shipping etc) linkage between the 2 shops."
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH,\r\n\r\nPlease find v2 of deck updated with content from all BUs and removing the\r\nSLS portion, let me know if further questions.\r\n\r\nResponses to Ian/JH question in blue as below:\r\n\r\n*Ian Question*\r\n\r\nSlide 84-89 (Now 98-105)\r\n\r\n   -\r\n\r\n   For the net price comp here on Match SKUs, what is the contribution to\r\n   Shopee ADO and TB ADO for the market?\r\n\r\n\r\n\r\nFor Shopee, matched SKUs contributed ~1% to ADO, due to a low match rate\r\nand 80%+ of them having no sales in May as most SKUs were from 铺货型\r\nresellers on SHP. This match results are representative and indicate an\r\nassortment gap for Shopee in these categories\r\n\r\nFor Taobao, we don’t have the exact number as TB front-end only shows\r\nglobal items sold and thus we are not able to split by site / by category\r\nADO coverage. Directionally, we estimate TBG coverage to be high because we\r\ncrawled based on the top 2,000 best-selling SKUs per keyword(热搜词) of each\r\nL3 category\r\n\r\nMay'2025\r\n\r\nPlatform\r\n\r\nCB\r\n\r\nADO coverage of matched SKUs\r\n\r\nSKU with sales in May %\r\n\r\nADO coverage of matched SKUs\r\n\r\nSKU with sales in May %\r\n\r\nFocus category total\r\n\r\nGrand total\r\n\r\n0.84%\r\n\r\n12.7%\r\n\r\n1.11%\r\n\r\n6.0%\r\n\r\nSG\r\n\r\n1.05%\r\n\r\n7.2%\r\n\r\n0.91%\r\n\r\n5.3%\r\n\r\nMY\r\n\r\n0.83%\r\n\r\n11.6%\r\n\r\n1.19%\r\n\r\n5.5%\r\n\r\nTW\r\n\r\n0.81%\r\n\r\n18.7%\r\n\r\n1.21%\r\n\r\n9.8%\r\n\r\nFashion\r\n\r\nTotal\r\n\r\n0.40%\r\n\r\n8.4%\r\n\r\n0.65%\r\n\r\n6.1%\r\n\r\nSG\r\n\r\n0.56%\r\n\r\n4.0%\r\n\r\n0.61%\r\n\r\n3.7%\r\n\r\nMY\r\n\r\n0.41%\r\n\r\n7.3%\r\n\r\n0.66%\r\n\r\n6.3%\r\n\r\nTW\r\n\r\n0.36%\r\n\r\n12.5%\r\n\r\n0.71%\r\n\r\n9.5%\r\n\r\nFurniture\r\n\r\nTotal\r\n\r\n0.66%\r\n\r\n9.6%\r\n\r\n1.03%\r\n\r\n5.5%\r\n\r\nSG\r\n\r\n0.58%\r\n\r\n7.4%\r\n\r\n0.73%\r\n\r\n6.7%\r\n\r\nMY\r\n\r\n0.74%\r\n\r\n8.4%\r\n\r\n1.10%\r\n\r\n3.2%\r\n\r\nTW\r\n\r\n0.59%\r\n\r\n12.7%\r\n\r\n1.89%\r\n\r\n22.5%\r\n\r\nBeauty\r\n\r\nTotal\r\n\r\n1.26%\r\n\r\n14.7%\r\n\r\n2.24%\r\n\r\n7.8%\r\n\r\nSG\r\n\r\n1.43%\r\n\r\n7.8%\r\n\r\n1.34%\r\n\r\n6.1%\r\n\r\nMY\r\n\r\n1.22%\r\n\r\n14.9%\r\n\r\n2.83%\r\n\r\n9.3%\r\n\r\nTW\r\n\r\n1.25%\r\n\r\n21.0%\r\n\r\n2.44%\r\n\r\n8.3%\r\n\r\nF&B\r\n\r\nTotal\r\n\r\n2.20%\r\n\r\n20.4%\r\n\r\n3.02%\r\n\r\n4.0%\r\n\r\nSG\r\n\r\n3.14%\r\n\r\n9.8%\r\n\r\n2.12%\r\n\r\n4.4%\r\n\r\nMY\r\n\r\n2.06%\r\n\r\n16.9%\r\n\r\n5.11%\r\n\r\n3.6%\r\n\r\nTW\r\n\r\n2.14%\r\n\r\n38.3%\r\n\r\n0.76%\r\n\r\n10.3%\r\n\r\n* SKU with"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "I added 2 more comments for Derek and Jiahui to follow up. The rest are\r\nfine with me. Once they are done, you can send out."
+        }
+      ]
+    }
+  ]
+}

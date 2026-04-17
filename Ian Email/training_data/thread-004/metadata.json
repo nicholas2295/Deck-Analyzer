@@ -1,0 +1,184 @@
+{
+  "id": "thread-004",
+  "subject": "KR/JP Bi-weekly Update_250107",
+  "date": "2026-01-07",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20260107.pdf",
+  "deck_topic_tags": [
+    "team-performance",
+    "marketing",
+    "user-growth",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Dabin Kim",
+      "Junho Kim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Junho Kim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nHappy New Year!\r\nPlease find the attachment for Jan 7 KR/JP bi-weekly meeting.\r\n[image: image.png]\r\nThank you.\r\n\r\nBest\r\n\r\n*Junho Kim, 김준호*\r\n\r\nShopee | KR/JP\r\n\r\n*Mobile:* +82 10 3247 2\r\n\r\n*Address:* Centerfield West 16F, 231 Teheran-ro, Seoul, Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - What happened to Cosrx in VN?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "What is their operating model exactly?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- How will management of this brand be moving forward?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 9\r\n\r\n   - Do we have a LFF view for 2026 and how will it look like?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- How has ADO in TH been impacted with the recent tax increase?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 12\r\n\r\n   - Torridien >> NPC continues to be an issue?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- What is their feedback on joining local OS?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 17\r\n\r\n   - TH situation looks not good?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 19 – 20\r\n\r\n   - On campaign participation I cannot tell % of actual\r\n   - How about campaign participation in all other markets?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "I did not hear\r\n   back. It seems that it is an issue in TH and TW?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Others\r\n\r\n   - What are the key projects that we are working on right now?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Is there a\r\n   priority list to go through and status?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- I remember we wanted to discuss RM KPIs for 2026, where did we land on\r\n   that?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- Any updates on JP?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "What are we working on right now?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- I remember we wanted to have a seller awards event in KR, what is the\r\n   latest on that?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- What is the latest on the F&B acquisition and SLS integration for TW?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Dabin Kim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU efficiency*New SKU\r\nADO = New SKU# * Target SKU efficiency*New SKU# = Addressable SKU# *\r\nConversion %*SKU# is model level*Existing SKU = SKUs inbounded before ‘26\r\nJan 1*New SKU = SKUs inbounding starting ‘26 Jan 1*Addressable SKU# = # of\r\nmanaged brands’ SLS SKU with  ADI>=0.5*Existing SKU# is projected based on\r\nhistorical SKU# depreciation trends and new SKU# is projected based on\r\ntarget conversion % from the addressable SKU pool, which is managed brands’\r\nSLS SKUs with ADI ≥ 0.5. Each existing and new target ADO is projected by\r\nmultiplying the respective target SKU# by the corresponding target SKU\r\nefficiency.*\r\n\r\n*Follow Up Question 2: Review 2026 TH LFF target (consider total LFF\r\neligible shops and SKUs based on current ADIS, only including managed brand\r\nsellers), new SLS to LFF SKU CVR% projection given TH SLS tax hike\r\n(benchmarking SLS to LFF SKU CVR change when SLS tax was implemented in\r\nother markets)*\r\n\r\n[image: image.png]\r\nA: We adjusted 2026 Dec TH LFF target ADO from 2,745 to 3,442 (TH LFF%\r\nincreased by 9%p, increasing 2026 total LFF% by 1%p). The order projection\r\nincrease is expected to come from new LFF SKUs, as we increased the target\r\nSLS SKU conversion rate from 16% to 32%, benchmarking MY’s SLS SKU\r\nconversion rate growth at 2x after the '24 LVG tax hike from SLS.\r\n\r\n*Follow Up Question 3: Check TH 2026 FBS space capacity and whether TH\r\nneeds to lower down ADIS (also check whether there is meaningful ADO if we\r\ndo lower down ADIS)*\r\n\r\nA: TH 2026 FB"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\nplease find the answers to your questions regarding the 2026 LFF target.\r\n\r\n*Follow Up Question 1: Sharing recap of 2026 LFF bottom up projection\r\ncalculation methodology*\r\n\r\nA: The calculation logic for 2026 LFF target projection is as follows:\r\nLFF 2026 ADO Projection = Existing LFF SKU ADO + New LFF SKU ADO\r\nNew LFF SKU ADO = Total Addressable New LFF SKUs * Historical SLS to LFF\r\nCVR% * Target SKU Efficiency\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Note: *Existing SKU ADO = Existing SKU# * Target SKU ef"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "id": "thread-076",
+  "subject": "Jul SIP monthly meeting",
+  "date": "2025-07-20",
+  "deck_filename": "SIP Monthly Meeting 20250721.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "finance",
+    "quarterly-review",
+    "growth",
+    "pricing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Wei Qiang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached monthly SIP update for our discussion on coming monday.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Seller PC2 here includes fee that we pay to platform?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Do we get any\r\n   discount to the fee?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Why is CN SIP so negative on PC2?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "What was it previously?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- Can we also show the MP PC2 and SLS P&L as separate row items?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 6\r\n\r\n   - Local SIP PC2 is negative at negative?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- Can we also show the MP PC2 and SLS P&L as separate row items?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- CN SIP is growing very slowly MOM?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "At such a low base, I would have\r\n   thought that it should be growing much faster?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- WH Cross selling does not feel like it is growing much as well?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Have\r\n   we open it up to Local/CB FBS yet?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 7\r\n\r\n   - Any sense why IDMY is 1 more day longer than IDSG?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 8\r\n\r\n   - Where did we land on the fraud situation?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 9\r\n\r\n   - Do not quite understand what the issue is here. Think the our main\r\n   contribution for these markets will come from CNSIP, so we can rely on CN\r\n   SLS side?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 12\r\n\r\n   - Growth feels very low for the # of new SKUs that we brought live?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Do\r\n   we know why?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Are the numbers within expectation?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 14\r\n\r\n   - For new sellers, why % of SKUs dropping?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- For rejected sellers, acceptance rate is just too low?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "And why % of\r\n   SKU acceptance also so low?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- What are the reasons for rejection right now?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "We have to address it 1\r\n   by 1?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 15\r\n\r\n   - #1/#3/#4 are probably all not valid?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "How exactly are we addressing\r\n   this?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q25",
+          "question": "Slide 17\r\n\r\n   - How do we decide what SKUs to incubate with ads?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "And how do we decide\r\n   how many SKUs to incubate?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "- How do we get these SKUs into CSPU pool (if applicable)?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Where they\r\n   will benefit from organic traffic is the prices are good?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Slide 19\r\n\r\n   - Does it make sense to onboard so many SKUs in one go?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Or does it make\r\n   sense to stagger and incubate them properly?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Slide 20\r\n\r\n   - What does this extra budget that we are referring to?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "There is no\r\n   extra budget that we can ask from local markets, I am not sure why we keep\r\n   bringing this concept up\r\n\r\n\r\n\r\nSlide 25\r\n\r\n   - What is this full BPSF fee waiver about?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Slide 26\r\n\r\n   - What is this PRM support about?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 30\r\n\r\n   - Average waiting time is so long?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "When are we solving this?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "- Where do I see the Shopbot CSAT?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- When are we taking over the management of CS for each import market?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "In general, performance does not seem to see any improvement\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Monday, 21 July 2025 12:33 pm\r\n*To:* 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Cc:* 'Jianghong Liu' <jianghong.liu@shopee.com>; 'Shuning Wang' <\r\nshuning.wang@shopee.com>; 'Keljin Chua' <keljin.chua@shopee.com>; 'Jason\r\nYu' <jason.yu@shopee.com>; 'Yu Zhang' <yu.zhang@shopee.com>; 'Ailin Xie' <\r\nailin.xie@shopee.com>; 'Wei Qiang' <wei.qiang@shopee.com>; 'Chiong Zhi Ann'\r\n<zhiann.chiong@shopee.com>; 'Huang Wan-Jung' <wanjung.huangwj@shopee.com>;\r\n'Nicholas Lim' <nicholas.lim@shopee.com>; 'Keith Huang' <\r\nkeith.huang@shopee.com>; 'Joe Li' <joe.liyc@shopee.com>; 'Lim Wan Ting' <\r\nwanting.lim@shopee.com>; 'Ren Jiahui' <jiahui.ren@shopee.com>; 'Eveline\r\nSeah' <eveline.seahyl@shopee.com>; 'Lee Jia Yi' <jiayi.jylee@shopee.com>;\r\n'Fandi Nie' <fandi.nie@shopee.com>; 'Faye Yan' <faye.yan@shopee.com>\r\n*Subject:* RE: Jul SIP monthly meeting\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Seller PC2 here includes fee that we pay to platform?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Do we get any\r\n   discount to the fee?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "- Why is CN SIP so negative on PC2?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "What was it previously?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "- Can we also show the MP PC2 and SLS P&L as separate row items?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Slide 6\r\n\r\n   - Local SIP PC2 is negative at negative?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- Can we also show the MP PC2 and SLS P&L as separate row items?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "- CN SIP is growing very slowly MOM?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "At such a low base, I would have\r\n   thought that it should be growing much faster?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "- WH Cross selling does not feel like it is growing much as well?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Have\r\n   we open it up to Local/CB FBS yet?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "Slide 7\r\n\r\n   - Any sense why IDMY is 1 more day longer than IDSG?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Slide 8\r\n\r\n   - Where did we land on the fraud situation?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "Slide 9\r\n\r\n   - Do not quite understand what the issue is here. Think the our main\r\n   contribution for these markets will come from CNSIP, so we can rely on CN\r\n   SLS side?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Slide 12\r\n\r\n   - Growth feels very low for the # of new SKUs that we brought live?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "Do\r\n   we know why?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Are the numbers within expectation?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "Slide 14\r\n\r\n   - For new sellers, why % of SKUs dropping?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "- For rejected sellers, acceptance rate is just too low?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "And why % of\r\n   SKU acceptance also so low?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "- What are the reasons for rejection right now?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "We have to address it 1\r\n   by 1?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Slide 15\r\n\r\n   - #1/#3/#4 are probably all not valid?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "How exactly are we addressing\r\n   this?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n   Seller PC2\r\n   -\r\n\r\n      Jun: Seller PC2 became negative due to reinvesting 5% GMV to counter\r\n      revenue from mgt fee removal (~$160k) and OPEX deterioration (~$40k) and\r\n      incubate new SKUs\r\n      -\r\n\r\n      May: slightly positive as our target is breakeven\r\n      -\r\n\r\n   MP PC2\r\n   -\r\n\r\n      Continue to be worsened MoM from May to Jul due to higher platform\r\n      PRM cost (generic to all sellers, not dedicated PRM to CNSIP)\r\n\r\n\r\n\r\n   -\r\n\r\n   Can we also show the MP PC2 and SLS P&L as separate row items?\r\n\r\n\r\nLocal SIP:\r\n\r\n\r\n   -\r\n\r\n   Seller PC2\r\n   -\r\n\r\n      Jul is on track to target PC2 (-3% for MYSG while breakeven for other\r\n      lanes)\r\n      -\r\n\r\n      Jun and May are higher than target due to under-spending of the\r\n      budget because actual budget is higher than projected\r\n      -\r\n\r\n         Jun: one-time passback from ID on fraud case claw back (~$400k)\r\n         -\r\n\r\n         May: higher than expected passback from export markets from\r\n         regional BPSF reduction initiative\r\n         -\r\n\r\n   MP PC2\r\n   -\r\n\r\n      Jul proj vs Jun: maintain at similar level as Jun\r\n      -\r\n\r\n      Jun vs May: MoM worsened due to higher platform PRM cost (generic to\r\n      all sellers, not dedicated to local SIP)\r\n      -\r\n\r\n   SLS PC2\r\n   -\r\n\r\n      Jul proj vs Jun: MoM worsened due to transitioning to new vendors in\r\n      Jul and will be adjusting ASF on 22 Jul for 14 lanes\r\n      -\r\n\r\n      Jun vs May: MoM improved due to ADO growth\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n "
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Seller PC2 here includes fee that we pay to platform? Do we get any\r\n   discount to the fee?\r\n   -\r\n\r\n      Yes, seller PC2 includes platform fee (commission, service fee,\r\n      transaction fee, infrastructure fee) as SIP cost (markup in SIP listing\r\n      price)\r\n      -\r\n\r\n      We do not get any discount to the fee, we pay the same as a normal MP\r\n      seller\r\n      -\r\n\r\n   Why is CN SIP so negative on PC2? What was it previously?\r\n\r\n\r\nCNSIP:\r\n\r\n\r\n   -\r\n\r\n  "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPls find the summary of next steps.\r\n\r\n[image: image.png]\r\n\r\nThanks a lot.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Wei Qiang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nNoted. We will assess overall ROI, taking into account topline growth\r\nversus incremental staff cost, and then back-estimate the right level of\r\ntrade-off between deflection rate and CSAT."
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the updates on the follow-up actions in the attachment. In\r\nsummary,\r\n\r\n1. SIP UE\r\n\r\n   - Local SIP UE remains healthy at $0.69 for Q2-25 despite fraud loss in\r\n   Apr\r\n   - CNSIP UE $0.56 in Jun, half of Apr/May due to PC2 reinvestment to\r\n   counter management fee removal, but still higher than CNCB ($0.46)\r\n   - Key reasons for higher CNSIP UE vs CNCB MP are 1) higher MP PC2 due to\r\n   higher ads takerate; 2) higher SLS PnL due to higher mix of parcels to\r\n   Latam lanes with higher PPO (same SLS rate card)\r\n\r\n2. CNSIP ramp up\r\n\r\n   - Propose to migrate new SKUs acquired earliest possible to generate\r\n   organic topline and marketing budget to fund more SKU incubation; no CB\r\n   ops/listing BPM concerns\r\n   - Incubate new SKUs the same approach as local SIP, use budget from 1)\r\n   new seller commission waiver; 2) new SKU organic orders; 3) import market\r\n   seller programs\r\n   - Project 28.3k ADO from new SKUs by Dec\r\n\r\n\r\n3. Chatbot rollout (DR/CSAT trade-off)\r\n\r\n   - Higher Chatbot CSAT from new chatbot leads to higher shop CSAT and\r\n   higher order conversion, however staff cost of incremental orders converted\r\n   is high at $7-$27 per order\r\n   - However overall impact to SIP EBITDA is manageable as total staff cost\r\n   is small compared to the total SIP profit\r\n   - Propose to target 52% chatbot CSAT + 56% chatbot Deflection, to reach\r\n   66% shop CSAT (+11pp vs now), with minimal negative impact to overall SIP\r\n   economics"
+        }
+      ]
+    }
+  ]
+}

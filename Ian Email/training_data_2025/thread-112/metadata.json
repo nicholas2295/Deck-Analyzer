@@ -1,0 +1,202 @@
+{
+  "id": "thread-112",
+  "subject": "SIP Weekly Update - Week ending 31 Oct",
+  "date": "2025-11-02",
+  "deck_filename": "SIP weekly update_week ending 31 Oct.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "finance",
+    "marketing",
+    "pricing",
+    "data-analysis"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find SIP weekly update attached for your review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 13\r\n\r\n   - For new direct lanes, how does the SKU efficiency compare with SIP?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- For import to SG, @Jason Yu <jason.yu@shopee.com> will be the PIC\r\n   right?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Can remind me where we land on MY?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 17\r\n\r\n   - For Ads TR here, what is the denominator?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Total direct GMV ?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Seems\r\n   very high?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- How about ADO coverage?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Why so high for VN?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 18\r\n\r\n   - Do not understand this very well. How does CN sellers use paid ads\r\n   right now?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "How does it compare to what SEA Direct Sellers have?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- And from a product point of view, what are we building to allow them\r\n   to have the same access?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 21\r\n\r\n   - What is this about?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "rebate 50% of ads top up through platform sponsored vouchers; 3) provide\r\n   adxpress service\r\n   -\r\n\r\n   Data validated with both SGBI and CB FP&A\r\n\r\n\r\n   -\r\n\r\n   How about ADO coverage? Why so high for VN?\r\n   -\r\n\r\n      ADO coverage = lane level Ads ADO / total ADO\r\n      -\r\n\r\n      Higher ADO coverage for VNMY direct at 46% due to lower ads CPO at\r\n      $1.1 vs all other lanes (e.g., IDMY $4.6). VNMY lower ads CPO\r\ndriven up by\r\n      top 10 shops 100% ads adoption with low ads CPO; IDMY out of 10\r\ntop shops,\r\n      6 without ads adoption.\r\n      -\r\n\r\n      Next step: working with ID team to drive up top sellers ads investment\r\n\r\n [image: image.png]\r\n\r\n\r\n\r\nSlide 18\r\n\r\n   -\r\n\r\n   Do not understand this very well. How does CN sellers use paid ads right\r\n   now? How does it compare to what SEA Direct Sellers have?\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   CNCB sellers primarily use overseas shop balance to purchase ads, i.e.,\r\n   deduct the cost from their shop earnings. Under existing Shopee system\r\n   design, this payment method is only possible when seller’s overseas shop is\r\n   linked to a 3PP wallet (e.g. Payoneer).\r\n   -\r\n\r\n   For SEA Direct sellers as-is\r\n   -\r\n\r\n      MY export sellers are able to purchase ads the same way as CNCB\r\n      sellers, as they are using 3PP wallet (Payoneer), continuing since MYSG\r\n      Direct launch last Mar\r\n      -\r\n\r\n      For ID/VN export sellers at launch, aligned with Christin/Anh to 1)\r\n      launch without 3PP to improve seller adoption; 2) improve system\r\nto enable\r\n      shop balance purchase without needing 3PP wallet by EOY; 3)\r\ninterim to use\r\n      offline manual adjustment for seller payout - which cannot be\r\nused for ads\r\n      purchase due to system limitations\r\n\r\n\r\n   -\r\n\r\n   And from a product point of view, what are we building to allow them to\r\n   have the same access?\r\n   -\r\n\r\n      Product is developing the system feature to enable SEA Direct sellers\r\n      to use overseas shop balance to purchase ads credit v"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   For new direct lanes, how does the SKU efficiency compare with SIP?\r\n   -\r\n\r\n      Overall still lower than SIP, except for MYSG\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\n   SKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\n   lanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\n   Jul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q13",
+          "question": "§  Root cause: seller’s price is still high as only 50% of ID sellers used\r\nthe best local price to do the overseas pricing\r\n\r\n\r\n\r\n\r\n\r\nWhy is this the case?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Wednesday, 5 November 2025 10:16 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jason Yu <jason.yu@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>; Wei\r\nLoong Yong <weiloong.yong@shopee.com>; Linda Sun <linda.sun@shopee.com>;\r\nXiao Xuan Soh <xiaoxuan.soh@shopee.com>; Keith Huang <keith.huang@shopee.com>;\r\nJoe Li <joe.liyc@shopee.com>; Lim Wan Ting <wanting.lim@shopee.com>; Ren\r\nJiahui <jiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>;\r\nLee Jia Yi <jiayi.jylee@shopee.com>; Faye Yan <faye.yan@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 31 Oct\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nSlide 13\r\n\r\n   - For new direct lanes, how does the SKU efficiency compare with SIP?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- Overall still lower than SIP, except for MYSG\r\n\r\no   Reason 1: Newly onboarded SKUs start with low SKU eff diluted overall\r\nSKU effi. Compare SKU effi across Jul to Sep onboarding months across 3 top\r\nlanes as below, SKU effi gap with SIP narrowed as SKUs matured; MYSG\r\nJul-Aug batches, VNMY Jul batch already have SKU effi better than SIP\r\n\r\n\r\n\r\no   Reason 2: Lower traffic exposure\r\n\r\n§  Root cause: sellers face pain-points in ads top up and estimating ads\r\nbudget\r\n\r\n§  Next steps: 1) short-term: Reg Direct team to explore co-fund ads\r\ninvestment with import markets; ETA end-Nov; 2) long term: System feature\r\nin development to allow seller purchase with shop balance within seller\r\ncenter, ETA Dec-Mar\r\n\r\no   Reason 3: Lower CR, especially in ID export lanes\r\n\r\n§  Root cause: seller’s price is still high as only 50% of ID sellers used\r\nthe best local price to do the overseas pricing\r\n\r\n§  Next steps: In progress of working with ID team to negotiate price with\r\ntop 20 sellers, ETA mid-Nov\r\n\r\no   Reg team will focus on ads investment and price comp improvement as P1\r\nin Nov, then move to additional reg initiative push in Dec, including\r\n\r\n§  Seller investment: AMS, video, livestream\r\n\r\n§  Conversion improvement: CS, key ops metrics\r\n\r\n\r\n\r\n   - For import to SG, @Jason Yu will be the PIC right?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Can remind me where\r\n   we land on MY?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- Yes aligned that @Jason Yu <jason.yu@shopee.com> team will own the\r\n      Direct selling ADO into MY and into SG, this will include\r\n\r\n\r\n   - topline/PnL targets\r\n         - marketing program/resources\r\n         - Seller/SKU acquisition direction in export market\r\n         - Optimization across import BUs to drive growth\r\n\r\n\r\n   - Regional direct team will focus on cross-lane efforts including\r\n\r\n\r\n   - Launch new lanes, secure local resources to start business\r\n         - Align and report regional topline target, track progress across\r\n         lanes, coordinate market resources across lanes\r\n         - Initiate and drive regional initiatives to improve seller\r\n         experience and drive growth across lanes (ads investment, price comp,\r\n         content enablement)\r\n         - Establish and operate inter-market infrastructure and process\r\n         (system, logistics, payment, CS, ops policy)\r\n\r\n\r\n\r\nSlide 17\r\n\r\n   - For Ads TR here, what is the denominator?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Total direct GMV ?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Seems\r\n   very high?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "o   Denominator = total direct GMV at lane level\r\n\r\no   Oct Ads TR across lane <5%, all below import market CNCB average, and\r\nmost lower than their local shop (except MYSG), indicating room to improve\r\n\r\no   MYSG Direct TR higher than seller’s local shop because SG platform has\r\nprovided incentives to Direct sellers including 1) 20% off paid-ads top-up;\r\n2) rebate 50% of ads top up through platform sponsored vouchers; 3) provide\r\nadxpress service\r\n\r\no   Data validated with both SGBI and CB FP&A\r\n\r\n   - How about ADO coverage?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Why so high for VN?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "- ADO coverage = lane level Ads ADO / total ADO\r\n      - Higher ADO coverage for VNMY direct at 46% due to lower ads CPO at\r\n      $1.1 vs all other lanes (e.g., IDMY $4.6). VNMY lower ads CPO\r\ndriven up by\r\n      top 10 shops 100% ads adoption with low ads CPO; IDMY out of 10\r\ntop shops,\r\n      6 without ads adoption.\r\n      - Next step: working with ID team to drive up top sellers ads\r\n      investment\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSlide 18\r\n\r\n   - Do not understand this very well. How does CN sellers use paid ads\r\n   right now?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "How does it compare to what SEA Direct Sellers have?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "o   CNCB sellers primarily use overseas shop balance to purchase ads, i.e.,\r\ndeduct the cost from their shop earnings. Under existing Shopee system\r\ndesign, this payment method is only possible when seller’s overseas shop is\r\nlinked to a 3PP wallet (e.g. Payoneer).\r\n\r\no   For SEA Direct sellers as-is\r\n\r\n§  MY export sellers are able to purchase ads the same way as CNCB sellers,\r\nas they are using 3PP wallet (Payoneer), continuing since MYSG Direct\r\nlaunch last Mar\r\n\r\n§  For ID/VN export sellers at launch, aligned with Christin/Anh to 1)\r\nlaunch without 3PP to improve seller adoption; 2) improve system to enable\r\nshop balance purchase without needing 3PP wallet by EOY; 3) interim to use\r\noffline manual adjustment for seller payout - which cannot be used for ads\r\npurchase due to system limitations\r\n\r\n   - And from a product point of view, what are we building to allow them\r\n   to have the same access?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- Product is developing the system feature to enable SEA Direct sellers\r\n      to use overseas shop balance to purchase ads credit via seller center.\r\n      Target to roll-out in mid Dec after 12.12. Timeline for each\r\nexport market\r\n      as below:\r\n\r\n\r\n   - ID / VN Export - by Dec 2025\r\n         - MY / SG Export - by Jan 2026\r\n         - Others - by Mar 2026\r\n\r\nSlide 21\r\n\r\n   - What is this about?"
+        }
+      ]
+    }
+  ]
+}

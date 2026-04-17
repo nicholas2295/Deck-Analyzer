@@ -1,0 +1,266 @@
+{
+  "id": "thread-013",
+  "subject": "Feb SIP monthly meeting - pre-reads",
+  "date": "2025-02-10",
+  "deck_filename": "SIP Monthly Meeting 20250211.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "product-launch",
+    "quarterly-review",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the monthly SIP meeting document for our discussion tomorrow at\r\n2pm.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - Who is managing this right now?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "I think measurement of CS is more than\r\n   just CRR\r\n   - I do not know how we are managing for upselling/conversion, how we are\r\n   managing for encouraging of buyers to rate well/change rating etc.\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - On expanding of seller centre to other lanes, what is the latest\r\n   timeline around this?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 13\r\n\r\n   - For each export market, what is the charging mechanism?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Shall we have\r\n   something that is standardized across the markets?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "So we can properly\r\n   measure impact (what is it compared to now, what is the decrease/increase\r\n   in orders, what is the net increase/decrease, impact to overall platform?)\r\n   Instead of going market by market to negotiate\r\n   - In my mind, it should be COGS +, the true cost to serve plus some\r\n   margins..\r\n\r\n\r\n\r\nSlide 15\r\n\r\n   - The acceptance rate is probably too low to be even meaningful?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 23\r\n\r\n   - What is the ROI that we should be aiming for?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- How do we scale this meaningfully?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 24\r\n\r\n   - How do I understand this table?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- We probably should not be spending Ads on PC2 negative SKUs?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 25\r\n\r\n   - How does this impact overall PC2 of this lane?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Does PC2 include paid\r\n   ads spending here?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 35\r\n\r\n   - Why would top few GGPs stop investing over CNY period in MY?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "That does\r\n   not sound right?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 36\r\n\r\n   - What is the % of TB fashion as total CB fashion in these markets after\r\n   this year?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Not quite sure very meaningful yet\r\n\r\n\r\n\r\nSlide 39\r\n\r\n   - How about other markets?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Slide 40\r\n\r\n   - Is there anything we are doing for MY?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 44\r\n\r\n   - Nothing seemed to have changed much?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 48\r\n\r\n   - These sellers will migrate and sell via SLS?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- Pitching status feels very slow?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Slide 53\r\n\r\n-          IDMY cannot launch earlier?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Slide 54\r\n\r\n-          So we will not have pilot sellers to sell during Raya period?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Others\r\n\r\n-          For SIP, what is the % of sales via LS/Video right now?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "How do\r\nwe measure vs top CB sellers?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "-          For SIP, what is the % of sales via AMS right now?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "How do we\r\nmeasure vs top CB sellers?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "-          Are we using the above to further improve our conversion of\r\nsales?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "[ID/VN/MY export] RM price nego"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "[All lanes] Regional seller discount product\r\n\r\nP MP fees (seller priced into price)\r\n\r\nPassed back from P MP to SIP standalone P&L (w.e.f. Mar’25)\r\n\r\nYes\r\n\r\nNone (completed)\r\n\r\nP BPSF\r\n\r\nSame as local order\r\n\r\nNo\r\n\r\nPropose to continue nego by markets following regional guidance to charge\r\nbased on true costs"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "VN: already fair charge"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "MY: aligned with MY, pending Ian approval"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "ID: ongoing alignment with Christin"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Rest markets: ETA end Q1\r\n\r\n\r\n\r\n\r\nSlide 15\r\n\r\n   -\r\n\r\n   The acceptance rate is probably too low to be even meaningful?\r\n   -\r\n\r\n      The 3% acceptance rate is for the 20% price discount program which is\r\n      expected\r\n      -\r\n\r\n      MY is in-progress of 10% price reduction pitching, including 73%\r\n      unresponsive to 20% tier pitching; ETA end-Feb\r\n\r\n\r\n\r\nSlide 23\r\n\r\n   -\r\n\r\n   What is the ROI that we should be aiming for?\r\n   -\r\n\r\n      We will target the CNCB ads ROI for their new SKU and old SKU first,\r\n      and continuously improve from there. For reference\r\n\r\n\r\n\r\n   -\r\n\r\n   How do we scale this meaningfully?\r\n   -\r\n\r\n      For new SKUs, we have a tool to automate the new SKU ads adjustment\r\n      process and will roll out gradually from IDMY to other lanes to prevent\r\n      significant topline impact\r\n      -\r\n\r\n         From biz side, we are constrained by budget (there is only so much\r\n         we can release from old skus, if we want to have more budget\r\nwe need to\r\n         raise price which will hurt price competitiveness)\r\n         -\r\n\r\n      For old SKU, we will raise a product tool to automate multiple cycles\r\n      for ads cut\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   -\r\n\r\n   How do I understand this table?\r\n   -\r\n\r\n      After we reduced daily ads expenditure for existing ads SKU group\r\n      from $386 to $302 (-22%), this group of SKU’s ADO didn’t change much\r\n      -\r\n\r\n         Indicating these SKUs have low dependency on ads\r\n         -\r\n\r\n         PC2 for these SKU improves by 1% due to ads cut\r\n\r\n\r\n\r\n   -\r\n\r\n   We probably should not be spending Ads on PC2 negative SKUs?\r\n\r\n\r\n   -\r\n\r\n   Yes, our goal is to eventually remove ads on PC2-ve SKUs; only keeping a\r\n   very limited number of selected loss leaders to drive shop traffic/build up\r\n   sold count\r\n   -\r\n\r\n   Execution wise, we will do by batches to minimize significant topline\r\n   impact\r\n\r\n\r\nSlide 25\r\n\r\n   -\r\n\r\n   How does this impact overall PC2 of this lane? Does PC2 include paid ads\r\n   spending he"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Who is managing this right now? I think measurement of CS is more than\r\n   just CRR\r\n   -\r\n\r\n      SIP CS management:\r\n      -\r\n\r\n         Local CS agents operate SIP chats, shared with other internal biz\r\n         (e.g., SBS)\r\n         -\r\n\r\n         A local SIP CS TL is assigned in each local team to manage\r\n         SIP-related agent matters\r\n         -\r\n\r\n         SIP Ops team to 1) monitor the local CS performance, 2)\r\n         collaborate with local CS team "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease kindly find the next-steps summarized as below\r\n\r\n# Topic Action item PIC ETA\r\n1 Ops - CS Work with Greg to propose improvement plan on CS management for\r\nSIP into SG+MY, including pre-sales/post-sales KPI (measuring capabilities\r\nof agents to improve conversion/upselling), cost of management (# agents,\r\nshared or dedicated), timeline (acting now, if not, when) Qiang Wei / Greg SIP\r\nmonthly meeting (11 Mar)\r\n2 Ops - CS Understand from regional CS team on the CS management plan for\r\nCNSIP Latam lanes Qiang Wei Weekly SIP email (14 Feb)\r\n3 P&L - BPSF Compile regional view of impact from charging SIP P BPSF at\r\ntrue cost of service Steven SIP monthly meeting (11 Mar)\r\n4 Commercial - Ads optimization Proceed to launch optimization plan for\r\nIDMY in Feb, and scale up to other lanes from Mar Zhang Yu SIP monthly\r\nmeeting (11 Mar)\r\n5 Commercial - Ads optimization Develop automation tool for old SKU ads\r\noptimization Hongjun / Zhang Yu SIP monthly meeting (11 Mar)\r\n6 Commercial - Video Understand how CN SCS make videos across markets and\r\npropose how SIP will scale up video Zhang Yu Weekly SIP email (21 Feb)\r\n7 Commercial - AMS Assess scale-up plan and payment process on AMS across\r\nall SIP A markets Zhang Yu / Steven Weekly SIP email (21 Feb)\r\n8 TB - Fashion Benchmark counter TB fashion targets against 1) SHP CB\r\nfashion; 2) TB fashion GMV, by market Nicholas Weekly SIP email (14 Feb)\r\n9 TB - Fashion Assess ROI for the upsized marketing plan in SG+MY, and\r\npropose similar approaches to other markets if better ROI Nicholas Weekly\r\nSIP email (28 Feb)\r\n10 TB - Furniture Monitor migration and performance of top 3 GGPs\r\nNicholas Weekly\r\nSIP email (14 Feb)"
+        }
+      ]
+    }
+  ]
+}

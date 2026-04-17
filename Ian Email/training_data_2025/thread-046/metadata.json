@@ -1,0 +1,1548 @@
+{
+  "id": "thread-046",
+  "subject": "[Pre-read] SCS & Lovito bi-weekly update_2025.04.22",
+  "date": "2025-04-21",
+  "deck_filename": "SCS & Lovito bi-weekly dicussion_2025.04.22.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "growth",
+    "marketing",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS and Lovito for our\r\ndiscussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For Buyer experience, shall we expand to have more OKRs around Shop\r\n   CS?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Just looking at CSAT is not sufficient anymore\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Think we will adopt this version for our internal tracking\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - Feels like a lot off things to do, but not very clear what are the key\r\n   things that each cluster should focus on and do right now\r\n   - On #5 – Which is the competitor platform that we are looking at right\r\n   now to increase assortment?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 11\r\n\r\n   - What does PDP optimization mean exactly?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- Did we check on TB Fashion?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "And how can we help to grow TB fashion in\r\n   local markets?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Would it be via SCS or Lovito?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- Feels like our growth will come from more optimization as compared to\r\n   new SKUs?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Does not feel right for Fashion?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 12\r\n\r\n   - I do not disagree with this, but struggle to link with the impact on\r\n   Slide 11, which line does it relate to?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 15\r\n\r\n   - What does Other good listings mean here?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 19\r\n\r\n   - Did we check if TB snacks was something that we could do?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 20 -27\r\n\r\n   - Hard for me to understand in general\r\n   - I understood Slide 11 and 15 better\r\n\r\n\r\n\r\nSlide 29\r\n\r\n   - How fast can we get these new listings to be covered in SPU?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- When will we be starting B4?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 31\r\n\r\n   - How are we managing translation right now?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- How are we adhering to attributes requirements across various markets?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- For eg. Do we have a size chart for Fashion?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- How are we ensuring that all our listings come with a video?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 35 – 38\r\n\r\n   - Who is coordinating the definitions right now?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Is it Mohit or Christin\r\n   side?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Slide 40 – 43\r\n\r\n   - How will this impact us?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Slide 45\r\n\r\n   - Shall we increase PH penetration%?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "No reason for PH < MY?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "And obvious\r\n   cost savings for LFF?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "- How about SG?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Can we do more LFF for SG as well?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Slide 47\r\n\r\n   - For chatbot, is this the LLM chatbot?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Slide 48\r\n\r\n   - How is the performance of PH agents compared to VN agents?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Slide 50\r\n\r\n   - Are we keeping Shuning team involved in the process?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "I told them to\r\n   follow what SCS is doing just be behind on timeline\r\n   - For eg. we should use same agency if it make sense\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - Option 1 is something that is already available for us right?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Slide 52\r\n\r\n   - So how does this impact us exactly?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Slide 53\r\n\r\n   - For rating invitation\r\n      - Message is so long and hard to read. Should simplify it probably\r\n      - Should we just give every reviewer?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Instead of having to do lucky\r\n      draw?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "- For bad reviewers\r\n      - Did we manage to find out how sellers operate this on our platform\r\n      right now?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "- And I think the wording is very bad right now. It feels like\r\n      bribery. It should be more along the lines of how we can do better. And\r\n      would you like to give us another try via a voucher?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Slide 54\r\n\r\n   - BR and PH still seems very bad when compared to the other markets?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "What else do we need to do here?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q37",
+          "question": "Slide 71\r\n\r\n   - We seem to be missing targets this month by quite a bit?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "What is the\r\n   reason here?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Slide 72\r\n\r\n   - I think we cannot keep putting it on traffic issue. SCS has been able\r\n   to meet targets in general, but Lovito keeps going down?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Slide 75\r\n\r\n   - Where are we right now in terms of Bag ADO?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "- Depending on the similarity choices here, how will it impact our Bags\r\n   ADO?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "- Do we have a similar issue for shoes?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Slide 76\r\n\r\n   - Not quite sure how to read this table\r\n\r\n\r\n\r\nSlide 78\r\n\r\n   - Can grow faster?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "Slide 79\r\n\r\n   - Performance is very poor?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "What markets are we selling to right now?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "- Are we pricing ourselves too high?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "- What are we doing about this?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "It is hard to justify future\r\n   collaboration if the ADO is so low?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 12:00 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nThanks\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For Buyer experience, shall we expand to have more OKRs around Shop\r\n   CS?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Just looking at CSAT is not sufficient anymore\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Think we will adopt this version for our internal tracking\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - Feels like a lot off things to do, but not very clear what are the key\r\n   things that each cluster should focus on and do right now\r\n   - On #5 – Which is the competitor platform that we are looking at right\r\n   now to increase assortment?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "Slide 11\r\n\r\n   - What does PDP optimization mean exactly?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "- Did we check on TB Fashion?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "And how can we help to grow TB fashion in\r\n   local markets?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Would it be via SCS or Lovito?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "- Feels like our growth will come from more optimization as compared to\r\n   new SKUs?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "Does not feel right for Fashion?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Slide 12\r\n\r\n   - I do not disagree with this, but struggle to link with the impact on\r\n   Slide 11, which line does it relate to?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Slide 15\r\n\r\n   - What does Other good listings mean here?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Slide 19\r\n\r\n   - Did we check if TB snacks was something that we could do?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Slide 20 -27\r\n\r\n   - Hard for me to understand in general\r\n   - I understood Slide 11 and 15 better\r\n\r\n\r\n\r\nSlide 29\r\n\r\n   - How fast can we get these new listings to be covered in SPU?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "- When will we be starting B4?"
+        },
+        {
+          "question_id": "Q62",
+          "question": "Slide 31\r\n\r\n   - How are we managing translation right now?"
+        },
+        {
+          "question_id": "Q63",
+          "question": "- How are we adhering to attributes requirements across various markets?"
+        },
+        {
+          "question_id": "Q64",
+          "question": "- For eg. Do we have a size chart for Fashion?"
+        },
+        {
+          "question_id": "Q65",
+          "question": "- How are we ensuring that all our listings come with a video?"
+        },
+        {
+          "question_id": "Q66",
+          "question": "Slide 35 – 38\r\n\r\n   - Who is coordinating the definitions right now?"
+        },
+        {
+          "question_id": "Q67",
+          "question": "Is it Mohit or Christin\r\n   side?"
+        },
+        {
+          "question_id": "Q68",
+          "question": "Slide 40 – 43\r\n\r\n   - How will this impact us?"
+        },
+        {
+          "question_id": "Q69",
+          "question": "Slide 45\r\n\r\n   - Shall we increase PH penetration%?"
+        },
+        {
+          "question_id": "Q70",
+          "question": "No reason for PH < MY?"
+        },
+        {
+          "question_id": "Q71",
+          "question": "And obvious\r\n   cost savings for LFF?"
+        },
+        {
+          "question_id": "Q72",
+          "question": "- How about SG?"
+        },
+        {
+          "question_id": "Q73",
+          "question": "Can we do more LFF for SG as well?"
+        },
+        {
+          "question_id": "Q74",
+          "question": "Slide 47\r\n\r\n   - For chatbot, is this the LLM chatbot?"
+        },
+        {
+          "question_id": "Q75",
+          "question": "Slide 48\r\n\r\n   - How is the performance of PH agents compared to VN agents?"
+        },
+        {
+          "question_id": "Q76",
+          "question": "Slide 50\r\n\r\n   - Are we keeping Shuning team involved in the process?"
+        },
+        {
+          "question_id": "Q77",
+          "question": "I told them to\r\n   follow what SCS is doing just be behind on timeline\r\n   - For eg. we should use same agency if it make sense\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - Option 1 is something that is already available for us right?"
+        },
+        {
+          "question_id": "Q78",
+          "question": "Slide 52\r\n\r\n   - So how does this impact us exactly?"
+        },
+        {
+          "question_id": "Q79",
+          "question": "Slide 53\r\n\r\n   - For rating invitation\r\n      - Message is so long and hard to read. Should simplify it probably\r\n      - Should we just give every reviewer?"
+        },
+        {
+          "question_id": "Q80",
+          "question": "Instead of having to do lucky\r\n      draw?"
+        },
+        {
+          "question_id": "Q81",
+          "question": "- For bad reviewers\r\n      - Did we manage to find out how sellers operate this on our platform\r\n      right now?"
+        },
+        {
+          "question_id": "Q82",
+          "question": "- And I think the wording is very bad right now. It feels like\r\n      bribery. It should be more along the lines of how we can do better. And\r\n      would you like to give us another try via a voucher?"
+        },
+        {
+          "question_id": "Q83",
+          "question": "Slide 54\r\n\r\n   - BR and PH still seems very bad when compared to the other markets?"
+        },
+        {
+          "question_id": "Q84",
+          "question": "What else do we need to do here?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q85",
+          "question": "Others\r\n\r\n   - How are we looking at Taobao Fashion and seeing if we can help local\r\n   markets close their gap there\r\n\r\n\r\n\r\nIn general, I am most concerned about Lovito, not quite sure what we are\r\ndoing to ensure we meet our breakeven targets + grow much faster from there\r\non to take on a more significant part of our CB business.\r\n\r\n\r\n\r\n*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 1:20 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nSlide 71\r\n\r\n   - We seem to be missing targets this month by quite a bit?"
+        },
+        {
+          "question_id": "Q86",
+          "question": "What is the\r\n   reason here?"
+        },
+        {
+          "question_id": "Q87",
+          "question": "Slide 72\r\n\r\n   - I think we cannot keep putting it on traffic issue. SCS has been able\r\n   to meet targets in general, but Lovito keeps going down?"
+        },
+        {
+          "question_id": "Q88",
+          "question": "Slide 75\r\n\r\n   - Where are we right now in terms of Bag ADO?"
+        },
+        {
+          "question_id": "Q89",
+          "question": "- Depending on the similarity choices here, how will it impact our Bags\r\n   ADO?"
+        },
+        {
+          "question_id": "Q90",
+          "question": "- Do we have a similar issue for shoes?"
+        },
+        {
+          "question_id": "Q91",
+          "question": "Slide 76\r\n\r\n   - Not quite sure how to read this table\r\n\r\n\r\n\r\nSlide 78\r\n\r\n   - Can grow faster?"
+        },
+        {
+          "question_id": "Q92",
+          "question": "Slide 79\r\n\r\n   - Performance is very poor?"
+        },
+        {
+          "question_id": "Q93",
+          "question": "What markets are we selling to right now?"
+        },
+        {
+          "question_id": "Q94",
+          "question": "- Are we pricing ourselves too high?"
+        },
+        {
+          "question_id": "Q95",
+          "question": "- What are we doing about this?"
+        },
+        {
+          "question_id": "Q96",
+          "question": "It is hard to justify future\r\n   collaboration if the ADO is so low?"
+        },
+        {
+          "question_id": "Q97",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 12:00 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nThanks\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For Buyer experience, shall we expand to have more OKRs around Shop\r\n   CS?"
+        },
+        {
+          "question_id": "Q98",
+          "question": "Just looking at CSAT is not sufficient anymore\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Think we will adopt this version for our internal tracking\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - Feels like a lot off things to do, but not very clear what are the key\r\n   things that each cluster should focus on and do right now\r\n   - On #5 – Which is the competitor platform that we are looking at right\r\n   now to increase assortment?"
+        },
+        {
+          "question_id": "Q99",
+          "question": "Slide 11\r\n\r\n   - What does PDP optimization mean exactly?"
+        },
+        {
+          "question_id": "Q100",
+          "question": "- Did we check on TB Fashion?"
+        },
+        {
+          "question_id": "Q101",
+          "question": "And how can we help to grow TB fashion in\r\n   local markets?"
+        },
+        {
+          "question_id": "Q102",
+          "question": "Would it be via SCS or Lovito?"
+        },
+        {
+          "question_id": "Q103",
+          "question": "- Feels like our growth will come from more optimization as compared to\r\n   new SKUs?"
+        },
+        {
+          "question_id": "Q104",
+          "question": "Does not feel right for Fashion?"
+        },
+        {
+          "question_id": "Q105",
+          "question": "Slide 12\r\n\r\n   - I do not disagree with this, but struggle to link with the impact on\r\n   Slide 11, which line does it relate to?"
+        },
+        {
+          "question_id": "Q106",
+          "question": "Slide 15\r\n\r\n   - What does Other good listings mean here?"
+        },
+        {
+          "question_id": "Q107",
+          "question": "Slide 19\r\n\r\n   - Did we check if TB snacks was something that we could do?"
+        },
+        {
+          "question_id": "Q108",
+          "question": "Slide 20 -27\r\n\r\n   - Hard for me to understand in general\r\n   - I understood Slide 11 and 15 better\r\n\r\n\r\n\r\nSlide 29\r\n\r\n   - How fast can we get these new listings to be covered in SPU?"
+        },
+        {
+          "question_id": "Q109",
+          "question": "- When will we be starting B4?"
+        },
+        {
+          "question_id": "Q110",
+          "question": "Slide 31\r\n\r\n   - How are we managing translation right now?"
+        },
+        {
+          "question_id": "Q111",
+          "question": "- How are we adhering to attributes requirements across various markets?"
+        },
+        {
+          "question_id": "Q112",
+          "question": "- For eg. Do we have a size chart for Fashion?"
+        },
+        {
+          "question_id": "Q113",
+          "question": "- How are we ensuring that all our listings come with a video?"
+        },
+        {
+          "question_id": "Q114",
+          "question": "Slide 35 – 38\r\n\r\n   - Who is coordinating the definitions right now?"
+        },
+        {
+          "question_id": "Q115",
+          "question": "Is it Mohit or Christin\r\n   side?"
+        },
+        {
+          "question_id": "Q116",
+          "question": "Slide 40 – 43\r\n\r\n   - How will this impact us?"
+        },
+        {
+          "question_id": "Q117",
+          "question": "Slide 45\r\n\r\n   - Shall we increase PH penetration%?"
+        },
+        {
+          "question_id": "Q118",
+          "question": "No reason for PH < MY?"
+        },
+        {
+          "question_id": "Q119",
+          "question": "And obvious\r\n   cost savings for LFF?"
+        },
+        {
+          "question_id": "Q120",
+          "question": "- How about SG?"
+        },
+        {
+          "question_id": "Q121",
+          "question": "Can we do more LFF for SG as well?"
+        },
+        {
+          "question_id": "Q122",
+          "question": "Slide 47\r\n\r\n   - For chatbot, is this the LLM chatbot?"
+        },
+        {
+          "question_id": "Q123",
+          "question": "Slide 48\r\n\r\n   - How is the performance of PH agents compared to VN agents?"
+        },
+        {
+          "question_id": "Q124",
+          "question": "Slide 50\r\n\r\n   - Are we keeping Shuning team involved in the process?"
+        },
+        {
+          "question_id": "Q125",
+          "question": "I told them to\r\n   follow what SCS is doing just be behind on timeline\r\n   - For eg. we should use same agency if it make sense\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - Option 1 is something that is already available for us right?"
+        },
+        {
+          "question_id": "Q126",
+          "question": "Slide 52\r\n\r\n   - So how does this impact us exactly?"
+        },
+        {
+          "question_id": "Q127",
+          "question": "Slide 53\r\n\r\n   - For rating invitation\r\n      - Message is so long and hard to read. Should simplify it probably\r\n      - Should we just give every reviewer?"
+        },
+        {
+          "question_id": "Q128",
+          "question": "Instead of having to do lucky\r\n      draw?"
+        },
+        {
+          "question_id": "Q129",
+          "question": "- For bad reviewers\r\n      - Did we manage to find out how sellers operate this on our platform\r\n      right now?"
+        },
+        {
+          "question_id": "Q130",
+          "question": "- And I think the wording is very bad right now. It feels like\r\n      bribery. It should be more along the lines of how we can do better. And\r\n      would you like to give us another try via a voucher?"
+        },
+        {
+          "question_id": "Q131",
+          "question": "Slide 54\r\n\r\n   - BR and PH still seems very bad when compared to the other markets?"
+        },
+        {
+          "question_id": "Q132",
+          "question": "What else do we need to do here?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q133",
+          "question": "Others\r\n\r\n   - I remember we wanted to be more Malay for Lovito in MY?"
+        },
+        {
+          "question_id": "Q134",
+          "question": "How did that\r\n   impact conversion?"
+        },
+        {
+          "question_id": "Q135",
+          "question": "Did that change our user base?"
+        },
+        {
+          "question_id": "Q136",
+          "question": "- For Lovito LS, can remind me on the language that we are using for SG\r\n   and MY right now?"
+        },
+        {
+          "question_id": "Q137",
+          "question": "Did we move towards English for SG and Malay for MY?"
+        },
+        {
+          "question_id": "Q138",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 1:24 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nOthers\r\n\r\n   - How are we looking at Taobao Fashion and seeing if we can help local\r\n   markets close their gap there\r\n\r\n\r\n\r\nIn general, I am most concerned about Lovito, not quite sure what we are\r\ndoing to ensure we meet our breakeven targets + grow much faster from there\r\non to take on a more significant part of our CB business.\r\n\r\n\r\n\r\n*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 1:20 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nSlide 71\r\n\r\n   - We seem to be missing targets this month by quite a bit?"
+        },
+        {
+          "question_id": "Q139",
+          "question": "What is the\r\n   reason here?"
+        },
+        {
+          "question_id": "Q140",
+          "question": "Slide 72\r\n\r\n   - I think we cannot keep putting it on traffic issue. SCS has been able\r\n   to meet targets in general, but Lovito keeps going down?"
+        },
+        {
+          "question_id": "Q141",
+          "question": "Slide 75\r\n\r\n   - Where are we right now in terms of Bag ADO?"
+        },
+        {
+          "question_id": "Q142",
+          "question": "- Depending on the similarity choices here, how will it impact our Bags\r\n   ADO?"
+        },
+        {
+          "question_id": "Q143",
+          "question": "- Do we have a similar issue for shoes?"
+        },
+        {
+          "question_id": "Q144",
+          "question": "Slide 76\r\n\r\n   - Not quite sure how to read this table\r\n\r\n\r\n\r\nSlide 78\r\n\r\n   - Can grow faster?"
+        },
+        {
+          "question_id": "Q145",
+          "question": "Slide 79\r\n\r\n   - Performance is very poor?"
+        },
+        {
+          "question_id": "Q146",
+          "question": "What markets are we selling to right now?"
+        },
+        {
+          "question_id": "Q147",
+          "question": "- Are we pricing ourselves too high?"
+        },
+        {
+          "question_id": "Q148",
+          "question": "- What are we doing about this?"
+        },
+        {
+          "question_id": "Q149",
+          "question": "It is hard to justify future\r\n   collaboration if the ADO is so low?"
+        },
+        {
+          "question_id": "Q150",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 22 April 2025 12:00 pm\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'alfred su' <alfred.su@shopee.com>; 'Amina\r\nYin' <amina.yin@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv' <\r\nroy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito bi-weekly update_2025.04.22\r\n\r\n\r\n\r\nThanks\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For Buyer experience, shall we expand to have more OKRs around Shop\r\n   CS?"
+        },
+        {
+          "question_id": "Q151",
+          "question": "Just looking at CSAT is not sufficient anymore\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Think we will adopt this version for our internal tracking\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - Feels like a lot off things to do, but not very clear what are the key\r\n   things that each cluster should focus on and do right now\r\n   - On #5 – Which is the competitor platform that we are looking at right\r\n   now to increase assortment?"
+        },
+        {
+          "question_id": "Q152",
+          "question": "Slide 11\r\n\r\n   - What does PDP optimization mean exactly?"
+        },
+        {
+          "question_id": "Q153",
+          "question": "- Did we check on TB Fashion?"
+        },
+        {
+          "question_id": "Q154",
+          "question": "And how can we help to grow TB fashion in\r\n   local markets?"
+        },
+        {
+          "question_id": "Q155",
+          "question": "Would it be via SCS or Lovito?"
+        },
+        {
+          "question_id": "Q156",
+          "question": "- Feels like our growth will come from more optimization as compared to\r\n   new SKUs?"
+        },
+        {
+          "question_id": "Q157",
+          "question": "Does not feel right for Fashion?"
+        },
+        {
+          "question_id": "Q158",
+          "question": "Slide 12\r\n\r\n   - I do not disagree with this, but struggle to link with the impact on\r\n   Slide 11, which line does it relate to?"
+        },
+        {
+          "question_id": "Q159",
+          "question": "Slide 15\r\n\r\n   - What does Other good listings mean here?"
+        },
+        {
+          "question_id": "Q160",
+          "question": "Slide 19\r\n\r\n   - Did we check if TB snacks was something that we could do?"
+        },
+        {
+          "question_id": "Q161",
+          "question": "Slide 20 -27\r\n\r\n   - Hard for me to understand in general\r\n   - I understood Slide 11 and 15 better\r\n\r\n\r\n\r\nSlide 29\r\n\r\n   - How fast can we get these new listings to be covered in SPU?"
+        },
+        {
+          "question_id": "Q162",
+          "question": "- When will we be starting B4?"
+        },
+        {
+          "question_id": "Q163",
+          "question": "Slide 31\r\n\r\n   - How are we managing translation right now?"
+        },
+        {
+          "question_id": "Q164",
+          "question": "- How are we adhering to attributes requirements across various markets?"
+        },
+        {
+          "question_id": "Q165",
+          "question": "- For eg. Do we have a size chart for Fashion?"
+        },
+        {
+          "question_id": "Q166",
+          "question": "- How are we ensuring that all our listings come with a video?"
+        },
+        {
+          "question_id": "Q167",
+          "question": "Slide 35 – 38\r\n\r\n   - Who is coordinating the definitions right now?"
+        },
+        {
+          "question_id": "Q168",
+          "question": "Is it Mohit or Christin\r\n   side?"
+        },
+        {
+          "question_id": "Q169",
+          "question": "Slide 40 – 43\r\n\r\n   - How will this impact us?"
+        },
+        {
+          "question_id": "Q170",
+          "question": "Slide 45\r\n\r\n   - Shall we increase PH penetration%?"
+        },
+        {
+          "question_id": "Q171",
+          "question": "No reason for PH < MY?"
+        },
+        {
+          "question_id": "Q172",
+          "question": "And obvious\r\n   cost savings for LFF?"
+        },
+        {
+          "question_id": "Q173",
+          "question": "- How about SG?"
+        },
+        {
+          "question_id": "Q174",
+          "question": "Can we do more LFF for SG as well?"
+        },
+        {
+          "question_id": "Q175",
+          "question": "Slide 47\r\n\r\n   - For chatbot, is this the LLM chatbot?"
+        },
+        {
+          "question_id": "Q176",
+          "question": "Slide 48\r\n\r\n   - How is the performance of PH agents compared to VN agents?"
+        },
+        {
+          "question_id": "Q177",
+          "question": "Slide 50\r\n\r\n   - Are we keeping Shuning team involved in the process?"
+        },
+        {
+          "question_id": "Q178",
+          "question": "I told them to\r\n   follow what SCS is doing just be behind on timeline\r\n   - For eg. we should use same agency if it make sense\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - Option 1 is something that is already available for us right?"
+        },
+        {
+          "question_id": "Q179",
+          "question": "Slide 52\r\n\r\n   - So how does this impact us exactly?"
+        },
+        {
+          "question_id": "Q180",
+          "question": "Slide 53\r\n\r\n   - For rating invitation\r\n      - Message is so long and hard to read. Should simplify it probably\r\n      - Should we just give every reviewer?"
+        },
+        {
+          "question_id": "Q181",
+          "question": "Instead of having to do lucky\r\n      draw?"
+        },
+        {
+          "question_id": "Q182",
+          "question": "- For bad reviewers\r\n      - Did we manage to find out how sellers operate this on our platform\r\n      right now?"
+        },
+        {
+          "question_id": "Q183",
+          "question": "- And I think the wording is very bad right now. It feels like\r\n      bribery. It should be more along the lines of how we can do better. And\r\n      would you like to give us another try via a voucher?"
+        },
+        {
+          "question_id": "Q184",
+          "question": "Slide 54\r\n\r\n   - BR and PH still seems very bad when compared to the other markets?"
+        },
+        {
+          "question_id": "Q185",
+          "question": "What else do we need to do here?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q69",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q70",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q71",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q72",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q73",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q74",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q75",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q76",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q77",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q78",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q79",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q80",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q81",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q82",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q83",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q84",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q85",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q86",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q87",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q88",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q89",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q90",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q91",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q92",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q93",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q94",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q95",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q96",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q97",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q98",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q99",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q100",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q101",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q102",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q103",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q104",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q105",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q106",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q107",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q108",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q109",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q110",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q111",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q112",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q113",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q114",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q115",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q116",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q117",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q118",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q119",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q120",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q121",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q122",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q123",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q124",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q125",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q126",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q127",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q128",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q129",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q130",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q131",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q132",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q133",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q134",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q135",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q136",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q137",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q138",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q139",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q140",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q141",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q142",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q143",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q144",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q145",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q146",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q147",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q148",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q149",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q150",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q151",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q152",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q153",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q154",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q155",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q156",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q157",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q158",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q159",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q160",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q161",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q162",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q163",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q164",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q165",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q166",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q167",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q168",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q169",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q170",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q171",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q172",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q173",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q174",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q175",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q176",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q177",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q178",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q179",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q180",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q181",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q182",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q183",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q184",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q185",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from yesterday's meeting. Thank you!\r\n\r\n[image: image.png]"
+        }
+      ]
+    }
+  ]
+}

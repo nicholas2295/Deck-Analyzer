@@ -1,0 +1,62 @@
+{
+  "id": "thread-004",
+  "subject": "SIP Weekly Update - Week of 6 Jan",
+  "date": "2025-01-12",
+  "deck_filename": "SIP Weekly Update - Week of 6 Jan.pdf",
+  "deck_topic_tags": [
+    "regional",
+    "cross-border",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find SIP weekly update attached for your review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nFor Taobao Fashion, when are we starting for other markets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "For the\r\nupcoming CB meetings with local markets, can we show the case study for\r\nSG/MY?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "HI Ian\r\n\r\nAttaching a deck\r\n<https://docs.google.com/presentation/d/1GKrS902lkI-SCz63ijDiM3gOvli0LEkmBdIyZBGID9w/edit#slide=id.g325097aba49_0_135>\r\nto address your questions\r\n\r\nFor Taobao Fashion, when are we starting for other markets?\r\n\r\nPage1 shows a gantt chart, we will finish sku migration this week and start\r\nmarketing push from next week.\r\n\r\n\r\nFor the upcoming CB meetings with local markets, can we show the case study\r\nfor SG/MY?\r\n\r\nNoted, will address in coming meetings\r\n\r\nFor Taobao Furniture, I still do not understand what you are saying. I need\r\nit presented in the same way as Taobao Fashion..\r\n\r\nPage 2/3 shows the coming month push plan in 3 phases and current universal\r\n\r\n\r\nThanks"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "HI Ian\r\n\r\nAttaching a deck\r\n<https://docs.google.com/presentation/d/1GKrS902lkI-SCz63ijDiM3gOvli0LEkmBdIyZBGID9w/edit#slide=id.g325097aba49_0_135>\r\nto address your questions\r\n\r\nFor Taobao Fashion, when are we starting for other markets?\r\n\r\nPage1 shows a gantt chart, we will finish sku migration this week and start\r\nmarketing push from next week.\r\n\r\n\r\nFor the upcoming CB meetings with local markets, can we show the case study\r\nfor SG/MY?\r\n\r\nNoted, will address in coming meetings\r\n\r\nFor Taobao Fur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "id": "thread-012",
+  "subject": "SIP weekly update - week ending 30 Jan",
+  "date": "2026-02-02",
+  "deck_filename": "SIP weekly update_week ending 30 Jan.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "finance",
+    "growth",
+    "marketing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find attached for review - 1) SIP weekly update; 2) Swarm Feb-26\r\nbusiness plan.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   - Why is seller standalone for CNSIP negative?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- Swarm is going to lose much more than expected?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 4\r\n\r\n   - Without Flash, we still have SPX?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 7\r\n\r\n   - P&L different than Slide 3?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Why P&L drop so much MOM?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Seller P&L\r\n   should be positive for CNSIP regardless of target setting?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 8\r\n\r\n   - I thought Swarm UE  was expected to be -2.X?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Why is it -1 here?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 13\r\n\r\n   - What are next steps for #6?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "When is it ready?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- When will we pass chat to sellers?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- When will we be able to use seller vouchers from export market?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 15\r\n\r\n   - For direct selling to BN, do sellers who are already operating for MY\r\n   need to agree again?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 20\r\n\r\n   - Is there a view to show ADO by export lanes?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- Does it make sense to work with local ERPs in ID/MY/VN to help sellers\r\n   export?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Similar to how we work with JST in CN?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 23\r\n\r\n   - Think most markets have BSC as well on top of SG\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   - SIP is not in VN right now?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Do we know why?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much more than expected?\r\n   -\r\n\r\n      Yes, Jan will miss target, mainly due to VN order higher than\r\n      expected with VN platform growth, but VN UE is lower than other markets\r\n      -\r\n\r\n      We’ve already raised prices twice in Jan, which improved UE but not\r\n      enough to fully close the gap.\r\n      -\r\n\r\n      Feb plan is clear: further price increases to bring UE to -$0.99\r\n      (+$0.33 MoM) and seller P&L to -$133k (+$77k MoM).\r\n\r\n\r\nSlide 4 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   Without Flash, we still have SPX?\r\n   -\r\n\r\n      Yes, SPX is the primary last-mile provider to SIP.\r\n      -\r\n\r\n      However, SPX coverage in East Malaysia is currently partial; ~200 SIP\r\n      orders in EM are not yet serviceable by SPX (or BEST) following the Flash\r\n      switch.\r\n      -\r\n\r\n      The impact is small and contained; we are in progress of confirming\r\n      with MY PIC on the timeline to enable SPX coverage for the remaining\r\n      high-ADO areas in EM.\r\n\r\n\r\nSlide 7 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   P&L different than Slide 3? Why P&L drop so much MOM? Seller P&L should\r\n   be positive for CNSIP regardless of target setting?\r\n   -\r\n\r\n      Both Slide 3 and this page are consistent - seller PnL breakeven,\r\n      -$122k below target, -$94k MoM.\r\n      -\r\n\r\n      The gap vs target and MoM drop are not business deterioration;\r\n      instead both are driven by a one-time system setup issue when\r\napplying the\r\n      2% commission rebate, which temporarily "
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Why is seller standalone for CNSIP negative?\r\n   -\r\n\r\n      Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      -\r\n\r\n      However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n      -\r\n\r\n   Swarm is going to lose much mor"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q19",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\n*Slide 3 **Engielyn Toh* <engielyn.toheq@shopee.com>\r\n\r\n   - *Why is seller standalone for CNSIP negative?*\r\n\r\n\r\n   - Seller standalone for CNSIP is now breakeven, latest projection +$8k\r\n      to +$67k\r\n      - However it is below the P&L target (+$122k) due to one-time system\r\n      issue when setting up 2% comms rebate. The issue is resolved. Expected\r\n      CNSIP seller P&L to be positive and hit target from Feb onwards.\r\n\r\n\r\n   - *Swarm is going to lose much more than expected?*\r\n\r\n\r\n   - Yes, Jan will miss target, mainly due to VN order higher than expected\r\n      with VN platform growth, but VN UE is lower than other markets\r\n      - We’ve already raised prices twice in Jan, which improved UE but not\r\n      enough to fully close the gap.\r\n      - Feb plan is clear: further price increases to bring UE to -$0.99\r\n      (+$0.33 MoM) and seller P&L to -$133k (+$77k MoM).\r\n\r\n\r\n\r\n\r\n\r\nUE here is seller or program?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*Slide 13 **Ren Jiahui* <jiahui.ren@shopee.com>\r\n\r\n   - *What are next steps for #6?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "When is it ready?*\r\n\r\n\r\n   - KRSIP system request under PRD, on track to be ready by end Mar’26\r\n      - Business rollout: Seller pitching to start from mid-Mar, start to\r\n      sell from early Apr\r\n\r\n\r\n   - *When will we pass chat to sellers?*\r\n\r\n\r\n   - *Direct*: currently ID export shop chats are handled by SIP agents; in\r\n      progress of returning chats to sellers and complete by 2 Mar. All other\r\n      lanes chats are handled by sellers already.\r\n      - *SIP*: system request currently under PM’s feasibility study;\r\n      target end Jun’26 live; business rollout from Jul’26 starting\r\nfrom AME lanes\r\n\r\n\r\n   - *When will we be able to use seller vouchers from export market?*\r\n\r\n\r\n   - *Direct*: System request submitted, pending dev prioritization review\r\n      by mid-Feb; target to go live by *Apr/May*\r\n      - *SIP*: Biz requirement confirmed, pending HQ legal assessment.\r\n      Target to go live by *end-Q2*\r\n\r\n\r\n\r\nWe should be pushing for Seller vouchers for SIP first?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "That has higher\r\nimpact?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "*Slide 15 **Wei Qiang* <wei.qiang@shopee.com>\r\n\r\n   - *For direct selling to BN, do sellers who are already operating for MY\r\n   need to agree again?*\r\n\r\n\r\n   - No, for *both SIP and Direct*, we have aligned with ID biz/legal to\r\n      use the *opt-out model* (seller notifications + opt-out link) to\r\n      maximize seller adoption.\r\n      - Biz launch on track, *mid-Feb* for both IDBN SIP and IDBN Direct\r\n\r\n\r\n\r\n*Slide 20 *\r\n\r\n   - *Is there a view to show ADO by export lanes?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Joanne Lim Xinyi\r\n   <joanne.limxy@shopee.com>*\r\n\r\n\r\n   - Yes please see below the Feb MTD performance in export market view..\r\n\r\no   Key highlights\r\n\r\n§  Direct scale (compared to SIP)\r\n\r\n·       Direct ADO = 17% of SIP; Direct ADG = 26% of SIP\r\n\r\n·       On track to reach FY26 targets: 30% SIP ADO and 50% SIP ADG by\r\nDec’26\r\n\r\n§  Growth concentration by export lane:\r\n\r\n·       ID export has the highest growth potential, followed by VN export\r\n\r\n·       Penetration today: ID Direct = 9% of IDSIP, VN Direct = 15% of\r\nVNSIP, MY Direct = 47% of MYSIP\r\n\r\n§  Next steps to accelerate ID/VN growth:\r\n\r\n·       Acquisition: Feb focus on targeted Raya sellers and Mall/managed\r\nseller repitching\r\n\r\n·       ADO/seller investment:\r\n\r\no   Upsized Raya exposure in SG/MY (Feb–Mar)\r\n\r\no   Global wallet rollout (Mar–Apr) to simplify ads investment\r\n\r\no   Seller voucher sync (Apr–May) to replicate local vouchers for Direct\r\nshops\r\n\r\no   Explore digital RM bot to support Direct seller growth\r\n\r\n\r\n\r\nCan we always show both import and export views in future?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "How are we growing ID and VN direct?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Who is owning this piece?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "- *Does it make sense to work with local ERPs in ID/MY/VN to help\r\n   sellers export?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Similar to how we work with JST in CN?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Huang Wan-Jung\r\n   <wanjung.huangwj@shopee.com>*\r\n\r\n\r\n   - We will assess the Swarm+JST model for local exports, based on 1)\r\n      *potential*: top ERP distribution, seller/SKU pool, overlap with\r\n      local BD acquisition efforts; 2) *feasibility*: system requirements,\r\n      legal considerations. Proposal ETA 20 Feb (Feb SIP monthly meeting)\r\n      - FYI, we are already working with ERPs at a functional level. We\r\n      have engaged local ERP vendors in each export market to support\r\nthe Direct\r\n      model, and sellers can already use ERPs to manage daily Direct shop\r\n      operations.\r\n      - For deeper commercial collaboration (seller acquisition): we\r\n      explored this with top ERP providers Q2 last year, but did not proceed\r\n      further then because:\r\n\r\n\r\n   - ERP providers were not willing to commit resources before lanes were\r\n         fully live, and\r\n         - They requested platform marketing exposure (e.g. seller center\r\n         banners) in exchange of joint marketing (e.g. promote Direct in their\r\n         seller webinar), which we did not prioritise at that stage.\r\n\r\n\r\n   - With Direct lanes now operational, we are restarting acquisition\r\n      discussions with key ERPs (e.g. SiteGiant, FairCloud)\r\n\r\n\r\n\r\n*Slide 23 *\r\n\r\n   - *Think most markets have BSC as well on top of SG Wei Qiang\r\n   <wei.qiang@shopee.com>*\r\n\r\n\r\n   - SIP has built BSC across all SIP–SG/MY/TW lanes (table below)\r\n      - For Direct lanes, BSC has been rolled out in MYSG, and in\r\n      development for other SG import lanes. The rest are in the dev\r\nqueue based\r\n      on ADO impact.\r\n\r\n\r\n\r\nTable: BSC rollout status for SIP lanes.\r\n\r\n*Export/Import markets*\r\n\r\n*SG*\r\n\r\n*MY*\r\n\r\n*PH*\r\n\r\n*TH*\r\n\r\n*TW*\r\n\r\n*Local*\r\n\r\nHas BSC\r\n\r\nHas BSC\r\n\r\nNA\r\n\r\nNA\r\n\r\nHas BSC\r\n\r\n*CNCB*\r\n\r\nY\r\n\r\nY\r\n\r\nY\r\n\r\n*IDSIP*\r\n\r\nY\r\n\r\nY\r\n\r\nY\r\n\r\n*MYSIP*\r\n\r\nY\r\n\r\n-\r\n\r\n-\r\n\r\n*VNSIP*\r\n\r\nY\r\n\r\nY\r\n\r\nY\r\n\r\n*THSIP*\r\n\r\nY\r\n\r\nY\r\n\r\n-\r\n\r\n*PHSIP*\r\n\r\nY\r\n\r\nY\r\n\r\n-\r\n\r\n*TWSIP*\r\n\r\nY\r\n\r\nY\r\n\r\n-\r\n\r\n\r\n\r\n*Slide 27*\r\n\r\n   - *SIP is not in VN right now?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Do we know why?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Wei Qiang\r\n   <wei.qiang@shopee.com>*\r\n\r\n\r\n   - Local SIP was into VN but closed in 2022 H2 due to low ADO potential\r\n      ~600 with high RR/COD/logistics cost.\r\n      - We’re now preparing a re-entry with lower logistics cost ($1 less\r\n      vs 2022), differentiated assortment from TH/MY, and TH GR needs, starting\r\n      with TH→VN.\r\n\r\n\r\n\r\nWhat is the sense of ADO impact here?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "We do not think ID/VN would make sense?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE to -$0.99 (+$0.33\r\n   MoM) and seller P&L to -$133k (+$77k MoM).\r\n\r\nUE here is seller or program?\r\n\r\n   -\r\n\r\n   UE here is seller view, please see both seller and program UE view below\r\n   for Dec-Jan, where we see MoM improvement.\r\n   -\r\n\r\n   For Feb, to be shared after revisiting UE assumptions.\r\n\r\n\r\n\r\n\r\nDec actual\r\n\r\nJan actual\r\n\r\nTopline\r\n\r\nADO\r\n\r\n4,498\r\n\r\n5,068\r\n\r\nADG\r\n\r\n$38,093\r\n\r\n$39,768\r\n\r\nABS\r\n\r\n$8.47\r\n\r\n$7.85\r\n\r\nP&L\r\n\r\nSeller P&L\r\n\r\n-$275,994\r\n\r\n-$262,711\r\n\r\nMP PC2\r\n\r\n-$5,710\r\n\r\n$6,507\r\n\r\nSLS P&L\r\n\r\n$38,281\r\n\r\n$31,746\r\n\r\nProgram P&L\r\n\r\n-$243,423\r\n\r\n-$224,458\r\n\r\nUE\r\n\r\nSeller UE\r\n\r\n-$1.98\r\n\r\n-$1.67\r\n\r\nProgram UE\r\n\r\n-$1.75\r\n\r\n-$1.43\r\n\r\n\r\n\r\nSlide 13 Ren Jiahui <jiahui.ren@shopee.com>\r\n\r\n   -\r\n\r\n   When will we be able to use seller vouchers from export market?\r\n\r\n\r\n   -\r\n\r\n   Direct: System request submitted, pending dev prioritization review by\r\n   mid-Feb; target to go live by Apr/May\r\n   -\r\n\r\n   SIP: Biz requirement confirmed, pending HQ legal assessment. Target to\r\n   go live by end-Q2\r\n\r\nWe should be pushing for Seller vouchers for SIP first? That has higher\r\nimpact?\r\n\r\n   -\r\n\r\n   Yes, aligned voucher resync for SIP has higher impact; but also\r\n   significantly higher complexity compared to Direct, so it requires more\r\n   time to sort-out.\r\n   -\r\n\r\n   Key constraints we are optimizing in our system design process now: 1) meet\r\n   legal requirements to ensure voucher collection is seen as an individual\r\n   buyer decision/action instead of SIP; 2) mitigate SIP P&L r"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian, please see our responses below *in green*.\r\n\r\nSlide 3 Engielyn Toh <engielyn.toheq@shopee.com>\r\n\r\n   -\r\n\r\n   Swarm is going to lose much more than expected?\r\n\r\n\r\n   -\r\n\r\n   Yes, Jan will miss target, mainly due to VN order higher than expected\r\n   with VN platform growth, but VN UE is lower than other markets\r\n   -\r\n\r\n   We’ve already raised prices twice in Jan, which improved UE but not\r\n   enough to fully close the gap.\r\n   -\r\n\r\n   Feb plan is clear: further price increases to bring UE"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q33",
+          "question": "*How are we growing ID and VN direct?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Who is owning this piece?*\r\n\r\n   - *Ownership*: ID and VN Direct growth is owned by the *local ID and VN\r\n   export teams*, who commit export seller and topline targets to their\r\n   country managers respectively. They are the primary KPI and business owners\r\n   for export business, accountable for delivery lane by lane, and mobilizing\r\n   local RM resources and RM KPI.\r\n   - *Role of the Regional Direct team (SIP team)*: The Regional Direct\r\n   team is the regional program owner, responsible for program design, core\r\n   enablers, and scalability. The team focuses on building up system and\r\n   commercial foundations on a regional scale, and removing structural\r\n   constraints so local teams can grow faster, more predictably, and at scale.\r\n   - *How ID/VN Direct growth is being driven*\r\n      - *Seller & SKU acquisition*: Local export teams lead acquisition and\r\n      repitching (Mall/managed sellers, import-market wishlists such as\r\n      Raya/CNY), with incentives aligned to import market priorities.\r\n      - *SKU supply & efficiency*: Regional Direct team continuously drives\r\n      system and ops improvements (SKU migration, global wallet, seller voucher\r\n      resync) to expand usable supply and improve seller ROI.\r\n      - *Capacity unlock*: To address limited local export RM capacity,\r\n      Regional Direct team has built automation tools (RM bots,\r\nacquisition bots)\r\n      and is piloting AI-led seller support (Digital RM) to structurally scale\r\n      export RM capacity, starting from ID.\r\n   - *Operating model:* Business targets are jointly set by local ID/VN\r\n   teams and the Regional Direct team, aligned with import market CB teams in\r\n   each lane based on import market strategic priority. The targets are\r\n   reviewed with clear ownership and follow-up actions on a regional level\r\n   once monthly.\r\n\r\n\r\n\r\n\r\n\r\nWhat are the targets here for the year?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Monday, 9 February 2026 5:52 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Yuanfeng Wu <yuanfeng.wu@shopee.com>; Xiao Xuan Soh <\r\nxiaoxuan.soh@shopee.com>; Joanne Lim Xinyi <joanne.limxy@shopee.com>; Wei\r\nQiang <wei.qiang@shopee.com>; Emily Pang Jee Suan <emily.pangjs@shopee.com>;\r\nMax Xu Yue <max.xuyue@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>; Wei\r\nLoong Yong <weiloong.yong@shopee.com>; Brenda Lim Ler Shyuan <\r\nbrenda.limls@shopee.com>; Engielyn Toh <engielyn.toheq@shopee.com>; Linda\r\nSun <linda.sun@shopee.com>; Faye Yan <faye.yan@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Lim Wan Ting <wanting.lim@shopee.com>; Ren Jiahui <\r\njiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>; Lee Jia\r\nYi <jiayi.jylee@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>; Peiya\r\nXia <peiya.xia@shopee.com>\r\n*Subject:* Re: SIP weekly update - week ending 30 Jan\r\n\r\n\r\n\r\nHi Ian, please see our responses below *in green*.\r\n\r\n\r\n\r\n*Slide 3 **Engielyn Toh* <engielyn.toheq@shopee.com>\r\n\r\n·  *Swarm is going to lose much more than expected?*\r\n\r\no   Yes, Jan will miss target, mainly due to VN order higher than expected\r\nwith VN platform growth, but VN UE is lower than other markets\r\n\r\no   We’ve already raised prices twice in Jan, which improved UE but not\r\nenough to fully close the gap.\r\n\r\no   Feb plan is clear: further price increases to bring UE to -$0.99\r\n(+$0.33 MoM) and seller P&L to -$133k (+$77k MoM).\r\n\r\n*UE here is seller or program?*\r\n\r\n   - UE here is seller view, please see both seller and program UE view\r\n   below for Dec-Jan, where we see MoM improvement.\r\n   - For Feb, to be shared after revisiting UE assumptions.\r\n\r\n\r\n\r\n*Dec actual*\r\n\r\n*Jan actual*\r\n\r\n*Topline*\r\n\r\n*ADO*\r\n\r\n4,498\r\n\r\n5,068\r\n\r\n*ADG*\r\n\r\n$38,093\r\n\r\n$39,768\r\n\r\n*ABS*\r\n\r\n$8.47\r\n\r\n$7.85\r\n\r\n*P&L*\r\n\r\n*Seller P&L*\r\n\r\n-$275,994\r\n\r\n-$262,711\r\n\r\n*MP PC2*\r\n\r\n-$5,710\r\n\r\n$6,507\r\n\r\n*SLS P&L*\r\n\r\n$38,281\r\n\r\n$31,746\r\n\r\n*Program P&L*\r\n\r\n-$243,423\r\n\r\n-$224,458\r\n\r\n*UE*\r\n\r\n*Seller UE*\r\n\r\n-$1.98\r\n\r\n-$1.67\r\n\r\n*Program UE*\r\n\r\n-$1.75\r\n\r\n-$1.43\r\n\r\n\r\n\r\n\r\n\r\n*Slide 13 **Ren Jiahui* <jiahui.ren@shopee.com>\r\n\r\n·  *When will we be able to use seller vouchers from export market?*\r\n\r\no   Direct: System request submitted, pending dev prioritization review by\r\nmid-Feb; target to go live by Apr/May\r\n\r\no   SIP: Biz requirement confirmed, pending HQ legal assessment. Target to\r\ngo live by end-Q2\r\n\r\n*We should be pushing for Seller vouchers for SIP first?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "That has higher\r\nimpact?*\r\n\r\n   - Yes, aligned voucher resync for SIP has higher impact; but also\r\n   significantly higher complexity compared to Direct, so it requires more\r\n   time to sort-out.\r\n   - Key constraints we are optimizing in our system design process\r\nnow: 1) *meet\r\n   legal requirements* to ensure voucher collection is seen as an\r\n   individual buyer decision/action instead of SIP; 2) *mitigate SIP P&L\r\n   risk* when voucher cost allocation to the end seller is\r\nunsuccessful; 3) *reduce\r\n   negative seller sentiment* if they are unwilling to use local vouchers\r\n   for overseas orders.\r\n   - Direct model is more straightforward as Direct sellers fully control\r\n   voucher mechanics and P&L for their overseas shops. This allows us to move\r\n   Direct into the pipeline faster with lower execution risk.\r\n   - Therefore, we moved forward with Direct, while continuing SIP design\r\n   and HQ legal alignment in parallel, targeting design readiness before CNY.\r\n\r\n\r\n\r\n\r\n\r\n*Slide 20 *\r\n\r\n·  *Is there a view to show ADO by export lanes?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "Joanne Lim Xinyi\r\n<joanne.limxy@shopee.com>*\r\n\r\no   Yes please see below the Feb MTD performance in export market view..\r\n\r\no   Key highlights\r\n\r\n§  Direct scale (compared to SIP)\r\n\r\n·       Direct ADO = 17% of SIP; Direct ADG = 26% of SIP\r\n\r\n·       On track to reach FY26 targets: 30% SIP ADO and 50% SIP ADG by\r\nDec’26\r\n\r\n§  Growth concentration by export lane:\r\n\r\n·       ID export has the highest growth potential, followed by VN export\r\n\r\n·       Penetration today: ID Direct = 9% of IDSIP, VN Direct = 15% of\r\nVNSIP, MY Direct = 47% of MYSIP\r\n\r\n§  Next steps to accelerate ID/VN growth:\r\n\r\n·       Acquisition: Feb focus on targeted Raya sellers and Mall/managed\r\nseller repitching\r\n\r\n·       ADO/seller investment:\r\n\r\no   Upsized Raya exposure in SG/MY (Feb–Mar)\r\n\r\no   Global wallet rollout (Mar–Apr) to simplify ads investment\r\n\r\no   Seller voucher sync (Apr–May) to replicate local vouchers for Direct\r\nshops\r\n\r\no   Explore digital RM bot to support Direct seller growth\r\n\r\n*Can we always show both import and export views in future?*\r\n\r\n   - Yes. Will include both import and export views in all future reports\r\n   on direct selling.\r\n\r\n\r\n\r\n*How are we growing ID and VN direct?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Who is owning this piece?*\r\n\r\n   - *Ownership*: ID and VN Direct growth is owned by the *local ID and VN\r\n   export teams*, who commit export seller and topline targets to their\r\n   country managers respectively. They are the primary KPI and business owners\r\n   for export business, accountable for delivery lane by lane, and mobilizing\r\n   local RM resources and RM KPI.\r\n   - *Role of the Regional Direct team (SIP team)*: The Regional Direct\r\n   team is the regional program owner, responsible for program design, core\r\n   enablers, and scalability. The team focuses on building up system and\r\n   commercial foundations on a regional scale, and removing structural\r\n   constraints so local teams can grow faster, more predictably, and at scale.\r\n   - *How ID/VN Direct growth is being driven*\r\n\r\n\r\n   - *Seller & SKU acquisition*: Local export teams lead acquisition and\r\n      repitching (Mall/managed sellers, import-market wishlists such as\r\n      Raya/CNY), with incentives aligned to import market priorities.\r\n      - *SKU supply & efficiency*: Regional Direct team continuously drives\r\n      system and ops improvements (SKU migration, global wallet, seller voucher\r\n      resync) to expand usable supply and improve seller ROI.\r\n      - *Capacity unlock*: To address limited local export RM capacity,\r\n      Regional Direct team has built automation tools (RM bots,\r\nacquisition bots)\r\n      and is piloting AI-led seller support (Digital RM) to structurally scale\r\n      export RM capacity, starting from ID.\r\n\r\n\r\n   - *Operating model:* Business targets are jointly set by local ID/VN\r\n   teams and the Regional Direct team, aligned with import market CB teams in\r\n   each lane based on import market strategic priority. The targets are\r\n   reviewed with clear ownership and follow-up actions on a regional level\r\n   once monthly.\r\n\r\n\r\n\r\n\r\n\r\n*Slide 27*\r\n\r\n·  *SIP is not in VN right now?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Do we know why?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Wei Qiang\r\n<wei.qiang@shopee.com>*\r\n\r\no   Local SIP was into VN but closed in 2022 H2 due to low ADO potential\r\n~600 with high RR/COD/logistics cost.\r\n\r\no   We’re now preparing a re-entry with lower logistics cost ($1 less vs\r\n2022), differentiated assortment from TH/MY, and TH GR needs, starting with\r\nTH→VN.\r\n\r\n*What is the sense of ADO impact here?* *We do not think ID/VN would make\r\nsense?*\r\n\r\n   - SIP plans to re-enter Vietnam starting March with assortments from\r\n   *TH/ID/MY/PH*. *TH–VN is prioritized to support Thailand GR needs*, with\r\n   ID/MY/PH–VN launches planned for April-May 26 following the TH–VN rollout.\r\n   - Total ADO projection is* ~4.1k by Dec’26*.\r\n\r\n\r\n\r\n*Export market*\r\n\r\n*Import market*\r\n\r\n*Target launch timeline*\r\n\r\n*FY26 Dec ADO projection*\r\n\r\nTH\r\n\r\nVN\r\n\r\nMar-26\r\n\r\n941\r\n\r\nID\r\n\r\nVN\r\n\r\nApr-26\r\n\r\n1,882\r\n\r\nMY\r\n\r\nVN\r\n\r\nMay-26\r\n\r\n376\r\n\r\nPH\r\n\r\nVN\r\n\r\nMay-26\r\n\r\n941\r\n\r\n*Total*\r\n\r\n4,140"
+        }
+      ]
+    }
+  ]
+}

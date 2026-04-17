@@ -1,0 +1,698 @@
+{
+  "id": "thread-001",
+  "subject": "KR/JP Bi-weekly Update_251203",
+  "date": "2025-12-02",
+  "deck_filename": "KRJP Commission Review_Jan'26_v3.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "growth",
+    "category",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Chaemin Yoon",
+      "Faye Yan",
+      "Haenle Suh",
+      "Hyeyun Choi",
+      "LI Ning",
+      "Shuning Wang",
+      "Yuna Kwon"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Chaemin Yoon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find the attachment for 3 Dec KR/JP Bi-weekly meeting.\r\n[image: image.png]\r\nBest regards,\r\n-- \r\n\r\n*Chaemin Yoon*\r\nSeller Management Team 3 | KRCB"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - If LFF for VN can > 50%, what is stopping us from doing that for the\r\n   other markets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Comparatively, markets like SG/PH/TH feels like there is\r\n   still room to grow\r\n\r\n\r\n\r\nSlide 12\r\n\r\n   - For these rejections, how do they hope to make it up in terms of\r\n   assortment, NPC and LFF?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Given that TT now operates cross border, how are these brands\r\n   managing?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Do they operate with 2 shops via distributor?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 13\r\n\r\n   - For those in A, do we have local distributors name?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "How does the local\r\n   distributors do vs CB?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "And vs local distributors in TT?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 15\r\n\r\n   - Torridien is not good?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "And we still have so little matched SKU?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "And\r\n   big assortment gap?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- Cosrx assortment gap is big as well?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 17\r\n\r\n   - Seems like situation in TH is not good in general?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Have we started to\r\n   negotiate yet?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Am not sure price differential is all due to TT rebates?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 23\r\n\r\n   - Can show 2025 numbers and the growth % and P&L impact for each\r\n   scenario?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- Why do we not want to go for Aggressive #1?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "The difference is just +2\r\n   HC and more agency right?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "- What does subsidy slot x2 mean?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Slide 24\r\n\r\n   - Can show me the latest (Nov) Gross TR% for KR and JP?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Broken down into\r\n      - Mall (KR/JP)\r\n      - Non-Mall (KR/JP)\r\n   - How are we thinking about TR increase for 2026?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- Will we be increasing commissions for KR?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Will it come from Mall or\r\n      MP?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Will it come from compulsory paid ads?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "What is the median paid ads\r\n      right now?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "And if we look at SMT 1 -3, how many sellers fall below the\r\n      median?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- For JP, how does the MP commissions compare to KR MP?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Should we\r\n      increase commissions on top of compulsory paid ads?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Why did we arrive at\r\n      2%?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "What is the median paid ads right now?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Hyeyun Choi",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nPlease find our answers to your questions in the link below.\r\n\r\nhttps://docs.google.com/document/d/1Vcy07Bs_F-Yz5P6iR6WShDqKzVSxRAjcVwdfYTQL9J0/edit?tab=t.y2oekz4t7t8m\r\n\r\nThank you,\r\nHyeyun"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Hyeyun Choi",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the action items from our previous meeting.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\nStatus\r\n\r\n1\r\n\r\nTTS\r\n\r\nMonitor for TTS onboarding trend (#1-2 SMT, 3-4 Projects)\r\n\r\n1) SHP seller newly opening TTS as CB : weekly crawl and cross check via\r\nSMT RM\r\n\r\n2) SHP seller from TTS local into TTS CB : same as #1\r\n\r\n3) non-SHP seller : monthly crawl TTS and cross check with Korean brand\r\nlist (ex. Interview with ex. TT employee)\r\n\r\n4) Build up to expand non-beauty brand list\r\n\r\nChowon/\r\n\r\nHelena/\r\n\r\nChaemin(SMT)\r\n\r\nHyeyun(Prj)\r\n\r\n#1~3 Set up monitoring SOP by 12 Dec (Hyeyun)\r\n\r\n#4 by 30 Jan\r\n\r\n2\r\n\r\nJP ‘26 Target\r\n\r\n1) Double check and update on the latest updated YoY of platform\r\n\r\n2) paid ads charging should be booked under +gross paid ads, not commission\r\nrevenue (need to check where - is booked)\r\n\r\n3) Use Gross GMV not Net GMV\r\n\r\n4) add on SLS PnL for full picture\r\n\r\nHaenle/Joanne\r\n\r\n10 Dec\r\n\r\nFinal adjustment in spending will be shared from local to CBBI on 8 Dec\r\n\r\n3\r\n\r\nMall conversion\r\n\r\n1) Check on the latest mall criteria and propose to standardize / change if\r\nneeded. Update on the status of below item #2\r\n\r\n2) Convert managed brands into Mall\r\n\r\n#1 Chansong & Max\r\n#2 SMT\r\n\r\n#1 by 19 Dec\r\n#2 by end of Dec\r\n\r\n4\r\n\r\nCommission\r\n\r\n1) Compare the total Take-rate in one table, broken down by:\r\n\r\n   -\r\n\r\n   commission and paid ads.\r\n   -\r\n\r\n   mall/ marketplace\r\n   -\r\n\r\n   By market\r\n   -\r\n\r\n   By KR/JP/CN/local\r\n\r\n(For beauty only for now)\r\n\r\n2) Propose for commission changes or take rate improvement plans if needed\r\n\r\n#1 Max\r\n#2 Haenle (JP) Yuna (KR)\r\n\r\n#1 by 12 Dec\r\n#2 by 12 Dec (KR)\r\n\r\n#2 by 10 Dec(JP) same as topic 2 follow up\r\n\r\n5\r\n\r\nTake rate/SIP\r\n\r\nAssess if can / how to 1) increase ads take rate for both brand/resellers\r\nand 2) incentivize SIP registration for brands as well (instead of\r\npenalizing like resellers)\r\n\r\nYuna\r\n\r\n12 Dec\r\n\r\n6\r\n\r\nHiring\r\n\r\nUpdate the headcounts numbers based on the latest PC2% target.\r\n\r\nStart hiring for"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Two parts that need other teams' understanding to change ETA:\r\n\r\n   - TTS onboarding monitoring SOP set up (item 1) from 12Dec to 17Dec, due\r\n   to the timeline of local BI team's input @Hyeyun Choi\r\n   <hyeyun.choi@shopee.com>\r\n   - KR commission and take rate (items 4 & 5) from 12Dec to 19Dec, because\r\n   KR will need to compare KR's to-be take rate (given the new take-rate\r\n   related programs planned) based on CN and local's '26 planned increase in\r\n   commission and take rate we got on 12 Dec @Yuna Kwon\r\n   <yuna.kwon@shopee.com>\r\n\r\n\r\nBest,\r\nYuna"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Haenle Suh",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\nFollowing up with JP’s ‘26 topline target and PnL simulation by scenario\r\nand please refer to below for summary. For detail can refer to the\r\nattached. Let me know if any questions. Thanks.\r\n\r\n\r\n   1.\r\n\r\n   ‘26 Dec ADO target 25k('26 full year vs. '25 full year YoY 63% vs. PLT’s\r\n   YoY 27% which is also the original case scenario) with more \"systematic\"\r\n   key growth drivers - new sellers/new sku/ads program. (note: If hiring\r\n   on track, will review by end of ‘26 Q1 to aim for aggressive scenario of\r\n   ADO 30k by ‘26 Dec as we discussed)\r\n   2.\r\n\r\n   Both commission and compulsory ads programs will contribute to\r\n   increasing overall JP TR% (also considering JP have ~3% gap vs. competitors\r\n   for commission) to 14.12% and gross ads TR% up to 2.7%(vs. ‘25 avg of\r\n   1.5%)\r\n\r\n\r\n   -\r\n\r\n   Base commission increase of 1*%** for all markets(TH increase 2%\r\n   following local)* given that JP non mall X Beauty comms TR% is lower vs\r\n   local by 1~4% in MY/TH/VN/PH(biggest gap in TH by 4%, thus higher increase\r\n   in commission) while JP is higher in SG/TW vs. local\r\n   -\r\n\r\n   Compulsory ads program of 2% for all markets*(excl TW/BR following\r\n   local)* as the median of JP sellers(with ~50% of GMV)’ avg ads TR% is\r\n   1.3% and sense this is still within manageable in terms of seller sentiment.\r\n\r\n(note: will monitor seller reaction and review again in beginning of H2 if\r\nadditional increase in ads program is feasible)"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q30",
+          "question": "- KR commission and take rate (items 4 & 5) from 12Dec to 19Dec, because\r\n   KR will need to compare KR's to-be take rate (given the new take-rate\r\n   related programs planned) based on CN and local's '26 planned increase in\r\n   commission and take rate we got on 12 Dec @Yuna Kwon\r\n   <yuna.kwon@shopee.com>\r\n\r\nCan send earlier?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "We probably nee to announce earlier if we want it to\r\nstart in Jan?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Have we already started preparing seller communications?"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "LI Ning",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q30",
+          "answer": "Add Opal and Alex to follow up with KR/JP take rate raise plan for MY\r\n\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS\r\n\r\n\r\nIan Ho <hoi@sea.com>于2025年12月14日 周日下午2:24写道："
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Add Opal and Alex to follow up with KR/JP take rate raise plan for MY\r\n\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS\r\n\r\n\r\nIan Ho <hoi@sea.com>于2025年12月14日 周日下午2:24写道："
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Add Opal and Alex to follow up with KR/JP take rate raise plan for MY\r\n\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS\r\n\r\n\r\nIan Ho <hoi@sea.com>于2025年12月14日 周日下午2:24写道："
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q33",
+          "question": "Any updates to this?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "We have already finalized for CN side, just waiting\r\nfor KR/JP\r\n\r\n\r\n\r\n*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Sunday, 14 December 2025 7:25 am\r\n*To:* 'Yuna Kwon' <yuna.kwon@shopee.com>; 'Hyeyun Choi' <\r\nhyeyun.choi@shopee.com>; 'Yuna Kwon' <yuna.kwon@shopee.com>\r\n*Cc:* 'Chaemin Yoon' <chaemin.yoon@shopee.com>; 'Haenle Suh' <\r\nhaenle.suh@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Angela\r\nHsu Yi-Han' <angela.hsu@shopee.com>; 'Chi Tran Linh' <\r\nchi.tranlinh@shopee.com>; 'Faye Yan' <faye.yan@shopee.com>; 'Lisa' <\r\nhongngoc.bui@shopee.com>; 'Jason Yu' <jason.yu@shopee.com>; 'Jenny Law' <\r\njenny.law@shopee.com>; 'Joanne Lee' <joanne.lee@shopee.com>; 'Jorell Eric\r\nGarcia' <jorell.garcia@shopee.com>; 'Keljin Chua' <keljin.chua@shopee.com>;\r\n'Max Goh Shi Long' <max.gohsl@shopee.com>; 'Kristina Paula Pablo' <\r\nkristina.pablo@shopee.com>; 'Nuttamon Assawaprapakul' <\r\nnut.assawapr@shopee.com>; 'Yu Cheng' <yu.cheng@shopee.com>; 'Summer Nguyen'\r\n<phuonganh.nguyenxuan@shopee.com>; 'Nicholas Lim' <nicholas.lim@shopee.com>;\r\n'Heeyoung Hwang' <heeyoung.hwang@shopee.com>; 'alfred su' <\r\nalfred.su@shopee.com>; 'Yao Jiaqi' <jiaqi.yao@shopee.com>; 'Allison Cheng' <\r\nallison.cheng@shopee.com>; 'Tina Lee' <tina.leeyt@shopee.com>; 'Ning Li' <\r\nning.li@shopee.com>; 'Hyunji Seo' <hyunji.seo@shopee.com>; 'Chowon Yun' <\r\nchowon.yun@shopee.com>; 'Helena Choi' <helena.choi@shopee.com>; 'Hyeonju\r\nYi' <hyeonju.yi@shopee.com>; 'Jaeeun Park' <jaeeun.park@shopee.com>;\r\n'Kayoung Choi' <kayoung.choi@shopee.com>; 'Cuiwei Sun' <\r\ncuiwei.sun@shopee.com>; 'Yu Zhang' <yu.zhang@shopee.com>; 'Toon Wimwipa' <\r\ntoon.bhumsiri@shopee.com>; 'Junho Kim' <junho.kim@shopee.com>; 'Chansong\r\nSon' <chansong.son@shopee.com>\r\n*Subject:* RE: KR/JP Bi-weekly Update_251203\r\n\r\n\r\n\r\n   - KR commission and take rate (items 4 & 5) from 12Dec to 19Dec, because\r\n   KR will need to compare KR's to-be take rate (given the new take-rate\r\n   related programs planned) based on CN and local's '26 planned increase in\r\n   commission and take rate we got on 12 Dec @Yuna Kwon\r\n   <yuna.kwon@shopee.com>\r\n\r\nCan send earlier?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "We probably nee to announce earlier if we want it to\r\nstart in Jan?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "Have we already started preparing seller communications?"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Haenle Suh",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nPlease refer to attached for the TR comparison for KRJP vs. CN/local for\r\nmall/non-mall Beauty category thanks to Faye team.\r\nBased on CN/local benchmark and to improve KRJP negative PC2 in certain\r\nmarkets, in general Faye propose to increase commission for both KRJP in\r\nline with local and also introduce ads compulsory program.\r\nIn conclusion, for JP, same proposal as the version I sent out last week -\r\ncommission increase for all markets 1%(TH 2%, VN TXN, VCN follow local) and\r\nads compulsory program of 2% for all markets(excl TW/BR following local).\r\nAnd for KR, will revert by tmr on the commission and ads compulsory program\r\n% after reflecting changes in '26 topline and if needed will apply from Feb\r\nrather than Jan. Let me know if any questions. Thanks"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nPlease refer to attached for the TR comparison for KRJP vs. CN/local for\r\nmall/non-mall Beauty category thanks to Faye team.\r\nBased on CN/local benchmark and to improve KRJP negative PC2 in certain\r\nmarkets, in general Faye propose to increase commission for both KRJP in\r\nline with local and also introduce ads compulsory program.\r\nIn conclusion, for JP, same proposal as the version I sent out last week -\r\ncommission increase for all markets 1%(TH 2%, VN TXN, VCN follow local) and\r\nads"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nPlease refer to attached for the TR comparison for KRJP vs. CN/local for\r\nmall/non-mall Beauty category thanks to Faye team.\r\nBased on CN/local benchmark and to improve KRJP negative PC2 in certain\r\nmarkets, in general Faye propose to increase commission for both KRJP in\r\nline with local and also introduce ads compulsory program.\r\nIn conclusion, for JP, same proposal as the version I sent out last week -\r\ncommission increase for all markets 1%(TH 2%, VN TXN, VCN follow local) and\r\nads"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nPlease refer to attached for the TR comparison for KRJP vs. CN/local for\r\nmall/non-mall Beauty category thanks to Faye team.\r\nBased on CN/local benchmark and to improve KRJP negative PC2 in certain\r\nmarkets, in general Faye propose to increase commission for both KRJP in\r\nline with local and also introduce ads compulsory program.\r\nIn conclusion, for JP, same proposal as the version I sent out last week -\r\ncommission increase for all markets 1%(TH 2%, VN TXN, VCN follow local) and\r\nads"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "from": "LI Ning",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+Alex Tan <alex.tan@shopee.com> +Opal Wu <opal.wu@shopee.com>\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS"
+        }
+      ]
+    },
+    {
+      "turn": 12,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q37",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   - I do not quite understand the framework in general\r\n   - What exactly are we benchmarking for Mall + Beauty and Non-Mall +\r\n   Beauty that governs our commissions hike recommendation?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "It feels quite\r\n   random right now, and I do not see any pattern\r\n\r\n\r\n\r\nFor eg.\r\n\r\n   - For Mall sellers, if they already spending so much in SG and MY vs\r\n   CNCB + Local, why would we tax them so much more?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "There is a CODB at the\r\n   end of the day\r\n   - For TH and VN, there is still quite a bit of room to grow when\r\n   compared to CNCB and SG/MY, so we should charge them more?"
+        }
+      ]
+    },
+    {
+      "turn": 13,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q40",
+          "question": "*‘26 Dec ADO target 25k('26 full year vs. '25 full year YoY 63% vs."
+        },
+        {
+          "question_id": "Q41",
+          "question": "Both* commission and compulsory ads programs will contribute to"
+        }
+      ]
+    },
+    {
+      "turn": 14,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q37",
+          "answer": "For KR managed malls, benchmark is their peer group, meaning we make\r\n   managed brands to spend at least to their peer group’s medianTR which is\r\n   30%. Then on average these sellers will need to increase TR by <1% overall\r\n   so this seems doable. How we do it : we give sellers this peer group median\r\n   TR target, give them one quarter to achieve this TR, and if they fail to do\r\n   so then the next quarter we’ll deduct the gap TR% from their escrow. We\r\n   already ran this concept with UST brands during T2T meetings for the past\r\n   few weeks and their main questions were “are our peer brands spending this\r\n   much? Can we get this data for internal approval? Can you also take into\r\n   account our offline & offsite spending.” So I think this is a\r\n   difficult-but-feasible and good way to motivate sellers’ spending for SHP\r\n   conversion and guarantee certain TR%"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Why we benchmark peer group is because this is how most KR malls\r\n      actually strategize, as Korean brands have similar branding and are\r\n      competitors to each other"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Why we don’t benchmark CODB of TTS is because out of the 11 UST\r\n      managed brands brands I had T2T meetings with this year-end, all except 1\r\n      brand’s plan next year is to cap or shrink TTS GMV due to its thin margin\r\n      and 2 brand among them even closing TTS shop due to margin, so\r\nit’s not the\r\n      proper benchmark for for KR"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "For KR unmanaged brands/resellers, the benchmark is also their peer\r\n   group. KR reseller average paid ads TR is 2.2% so making these sellers do\r\n   mandatory ads at 2%. Unlike managed mall, cannot apply median because\r\n   median TR is 0% and irrelevant. How we do it : we use the mandatory ads\r\n   program to uplift the topline using it as tool to push for reseller SIP\r\n   adoption as well (TR increasing due to mandatory ads so more pushed to do\r\n   SIP and not pay the non-SIP penalty)\r\n\r\n-> Having said that, with systematic programs in place for ‘26, KR can\r\nachieve “even better” MP PC2 + SLS PnL $ vs. the scenario if we follow the\r\ncommission increase of CNCB, and below is the proposal with its impact for\r\nyour reference. In the very worst case if Legal team says such escrow\r\ndeduct for managed malls’ TR% program and mandatory ads program are not\r\ndoable in Korean regulatory environment, then we’ll re-propose with\r\ncommissions\r\n\r\n[image: image.png]\r\n\r\n-> Summary: KR proposes NOT to increase base commission but run\r\nKR-customized TR improvement and ads program and aim KR ‘26 topline to\r\nreach yearly 82k ADO (+40% YoY vs. 2025,  which is +20% YoY higher than the\r\ncommission increase only scenario). In terms of MP PC2 + SLS PnL, it will\r\nbe increased by $11.8M(vs ‘25) reaching yearly $35.6mil which Program only\r\ncase will generate “more” PnL of $0.9mil(+2.51% increase) vs. commission\r\nonly case. Also overall TR% reaching 18.97% and PC2% 2.59%(overall PnL %\r\n6.17%)\r\n\r\n[image: image.png]\r\n\r\n================================================================================================\r\n\r\n For Non-Mall + Beauty, across most markets, there is probably room to\r\nclose the gap vs CNCB. The question is how to do it.\r\n\r\n I need to understand what the framework governing the thinking works first\r\n\r\n   -\r\n\r\n   Then I need a solution for KR Mall, KR Non-Mall, JP Non-Mall.\r\n\r\nDo you think we can go with +2% in commissions and +2% in compulsory ads\r\ntake rate for JPCB?\r\n\r\n-> For "
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Competitor CODB - for JP sellers in other CB EC PLT is known to be\r\n   roughly 3%p higher vs. SHP"
+        }
+      ]
+    },
+    {
+      "turn": 15,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q42",
+          "question": "For the gap in the table below, are we taking current CNCB TR? Or are"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Let’s say it is projected, then I will need us to close the gap"
+        },
+        {
+          "question_id": "Q44",
+          "question": "For Mall – 9% in TH and -6% in VN"
+        },
+        {
+          "question_id": "Q45",
+          "question": "For MP – Huge gap all across the various markets"
+        },
+        {
+          "question_id": "Q46",
+          "question": "For KR managed malls, benchmark is their peer group, meaning we make"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Why we benchmark peer group is because this is how most KR malls"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Why we don’t benchmark CODB of TTS is because out of the 11 UST"
+        },
+        {
+          "question_id": "Q49",
+          "question": "For KR unmanaged brands/resellers, the benchmark is also their peer"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Competitor CODB - for JP sellers in other CB EC PLT is known to be"
+        },
+        {
+          "question_id": "Q51",
+          "question": "CNCB TR% - refer to below for JP vs. CN TR% comparison for non-mall"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Seller-behaviour shaping, JP overall ads adoption at 18.6%, while CS"
+        },
+        {
+          "question_id": "Q53",
+          "question": "2% is still meaningful for small sellers. Because 2% of CS seller"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Small seller exemptions risk sellers gaming the threshold to avoid"
+        }
+      ]
+    },
+    {
+      "turn": 16,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q42",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "forwarding to help kr. @Yao Jiaqi <jiaqi.yao@shopee.com> ,can help lead\r\nthis when Faye is on leave?"
+        }
+      ]
+    },
+    {
+      "turn": 17,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nGot it, will work with Yuna and Haenle for a version 2 with more straight\r\nforward way. To get back next week!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 18,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q55",
+          "question": "Thanks.\r\n\r\n\r\n\r\nAre we able to have a first draft Monday/Tuesday?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "I like to be able to\r\nannounce this as soon as possible.\r\n\r\n\r\n\r\n@Yuna Kwon <yuna.kwon@shopee.com> what is the lead time that we have to\r\ngive sellers in KR/JP for this to take effect?"
+        }
+      ]
+    },
+    {
+      "turn": 19,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\nPls find the updated version attached with the structure mentioned in the\r\nemail loop\r\n\r\n   - KR: What target should we set? and how to achieve the target? Options\r\n   are given and Discussion Required in deck P5/7/8\r\n   - JP: given size very small and ABS very high vs all other BUs, numbers\r\n   are screwed, to use proposed 2% commission increase + 2% compulsory to\r\n   simulate impact, but added backup of same method as KR\r\n\r\nHaven't got time to sync Yuna/Haenle yet, will sync tmr morning, if any\r\nchanges are required, will refresh the deck earliest *before tmr's meeting*!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\nPls find the updated version attached with the structure mentioned in the\r\nemail loop\r\n\r\n   - KR: What target should we set? and how to achieve the target? Options\r\n   are given and Discussion Required in deck P5/7/8\r\n   - JP: given size very small and ABS very high vs all other BUs, numbers\r\n   are screwed, to use proposed 2% commission increase + 2% compulsory to\r\n   simulate impact, but added backup of same method as KR\r\n\r\nHaven't got time to sync Yuna/Haenle yet, will sync tmr mor"
+        }
+      ]
+    },
+    {
+      "turn": 20,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q57",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Not quite sure why ABS is a factor here\r\n   - We should compare KR Mall with CN mall and KR MP with CN MP\r\n\r\n\r\n\r\nSlide 7\r\n\r\n   - Quite confused here on what we are trying to show\r\n   - If we look at Slide 3, for KR Mall, we should charge Ads Growth Plan\r\n   to catchup. That would make up the difference in TH/VN/PH. And possible to\r\n   charge across all markets, for sellers > the %, they will not be affected\r\n   anyway.\r\n   - For MP, we can probably charge both Ads and Comms to catchup\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - For FBS, what is the breakdown of Mall vs MP ADO right now?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Slide 14\r\n\r\n   - Think this is OK?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "- Why is there no impact in TW?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "*From:* Faye Yan <faye.yan@shopee.com>\r\n*Sent:* Tuesday, 6 January 2026 11:57 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Yuna Kwon <yuna.kwon@shopee.com>; Haenle Suh <haenle.suh@shopee.com>;\r\nXiaolin Huang <xiaolin.huang@shopee.com>; Yao Jiaqi <jiaqi.yao@shopee.com>;\r\nEdric Tan Eng Tong <edric.tanet@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Rachael Leong Fu Rong <rachael.leongfr@shopee.com>\r\n*Subject:* Re: KR/JP Bi-weekly Update_251203\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPls find the updated version attached with the structure mentioned in the\r\nemail loop\r\n\r\n   - KR: What target should we set?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "and how to achieve the target?"
+        }
+      ]
+    },
+    {
+      "turn": 21,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q57",
+          "answer": "KR sellers are used to and ok with 2 weeks notice for fee increase\r\n\r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea\r\n\r\n\r\n\r\n\r\n\r\n2026년 1월 7일 (수) 오전 10:08, Ian Ho <hoi@sea.com>님이 작성:"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "KR sellers are used to and ok with 2 weeks notice for fee increase\r\n\r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea\r\n\r\n\r\n\r\n\r\n\r\n2026년 1월 7일 (수) 오전 10:08, Ian Ho <hoi@sea.com>님이 작성:"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "KR sellers are used to and ok with 2 weeks notice for fee increase\r\n\r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea\r\n\r\n\r\n\r\n\r\n\r\n2026년 1월 7일 (수) 오전 10:08, Ian Ho <hoi@sea.com>님이 작성:"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "KR sellers are used to and ok with 2 weeks notice for fee increase\r\n\r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea\r\n\r\n\r\n\r\n\r\n\r\n2026년 1월 7일 (수) 오전 10:08, Ian Ho <hoi@sea.com>님이 작성:"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "KR sellers are used to and ok with 2 weeks notice for fee increase\r\n\r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea\r\n\r\n\r\n\r\n\r\n\r\n2026년 1월 7일 (수) 오전 10:08, Ian Ho <hoi@sea.com>님이 작성:"
+        }
+      ]
+    },
+    {
+      "turn": 22,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our replies in blue below, attached v3 file to support the\r\nreplied\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Not quite sure why ABS is a factor here >> add thinkings in P15\r\n   -\r\n\r\n   We should compare KR Mall with CN mall and KR MP with CN MP >> yep,\r\n   given beauty accounts for 70%-90% of all categories, we use beauty as the\r\n   benchmark shown in the deck, add in P16 of all categories lum sum takerate\r\n   uplift\r\n\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Quite confused here on what we are trying to show\r\n   -\r\n\r\n   If we look at Slide 3, for KR Mall, we should charge Ads Growth Plan to\r\n   catchup. That would make up the difference in TH/VN/PH. And possible to\r\n   charge across all markets, for sellers > the %, they will not be affected\r\n   anyway.\r\n   -\r\n\r\n   For MP, we can probably charge both Ads and Comms to catchup\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For FBS, what is the breakdown of Mall vs MP ADO right now?\r\n\r\nFBS ~33% coming from Mall\r\n\r\nFBS Topline Breakdown\r\n\r\nSG\r\n\r\nMY\r\n\r\nTH\r\n\r\nTW\r\n\r\nVN\r\n\r\nPH\r\n\r\nTotal\r\n\r\nCNCB\r\n\r\nMall ADO\r\n\r\n5,529\r\n\r\n26,135\r\n\r\n10,726\r\n\r\n0\r\n\r\n92\r\n\r\n34,779\r\n\r\n77,261\r\n\r\nNon-Mall ADO\r\n\r\n7,873\r\n\r\n42,377\r\n\r\n16,362\r\n\r\n15\r\n\r\n312\r\n\r\n91,383\r\n\r\n158,323\r\n\r\nMall ADO (%)\r\n\r\n41%\r\n\r\n38%\r\n\r\n40%\r\n\r\n0%\r\n\r\n23%\r\n\r\n28%\r\n\r\n33%\r\n\r\nNon-Mall ADO (%)\r\n\r\n59%\r\n\r\n62%\r\n\r\n60%\r\n\r\n100%\r\n\r\n77%\r\n\r\n72%\r\n\r\n67%\r\n\r\nKRCB\r\n\r\nMall ADO\r\n\r\n4,353\r\n\r\n3,601\r\n\r\n1,959\r\n\r\n0\r\n\r\n0\r\n\r\n2,457\r\n\r\n12,369\r\n\r\nNon-Mall ADO\r\n\r\n179\r\n\r\n168\r\n\r\n53\r\n\r\n0\r\n\r\n0\r\n\r\n481\r\n\r\n882\r\n\r\nMall ADO (%)\r\n\r\n96%\r\n\r\n96%\r\n\r\n97%\r\n\r\n-\r\n\r\n-\r\n\r\n84%\r\n\r\n93%\r\n\r\nNon-Mall ADO (%)\r\n\r\n4%\r\n\r\n4%\r\n\r\n3%\r\n\r\n-\r\n\r\n-\r\n\r\n16%\r\n\r\n7%\r\n\r\n\r\nSlide 14\r\n\r\n   -\r\n\r\n   Think this is OK?\r\n   -\r\n\r\n   Why is there no impact in TW? Will not roll out compulsory ads for TW\r\n   due to legal concerns (same for CNCB and local)\r\n\r\n\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    }
+  ]
+}

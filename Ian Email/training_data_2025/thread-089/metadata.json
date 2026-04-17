@@ -1,0 +1,568 @@
+{
+  "id": "thread-089",
+  "subject": "[Pre-read] Aug SIP monthly meeting",
+  "date": "2025-08-24",
+  "deck_filename": "SIP Monthly Meeting 20250825 + Chris biz update 20250828.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "category",
+    "pricing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the attached doc for Aug SIP monthly meeting tomorrow.\r\n\r\n   - Page 1-5: Slides prepared for monthly CB meeting with Chris/Terence on\r\n   28 Aug\r\n   - Page 6: SIP monthly meeting content\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - For WH cross selling, does it make sense for other markets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 11\r\n\r\n   - Is there anything that we can do to make the lanes here structurally\r\n   faster?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 16\r\n\r\n   - How do I differentiate the HC between FTEs and BPOs right now?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Am\r\n   assuming all FTEs are frontlines?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 17\r\n\r\n   - Not sure why you want to have a team in MY to remote manage if all the\r\n   FTEs/Agents are in PH\r\n   - How do I reconcile the 11 FTEs here with the HC on Slide 16?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- How is Choice managing this right now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 20\r\n\r\n   - Can we show the Cost per order over time for ID and PH agents?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- Where are Latam agents based now?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Are we sure we an reduce so many HC\r\n   without impacting the quality of work?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 21\r\n\r\n   - Not sure what this means, I thought we were going to be more efficient\r\n   and hence spend less on our CS agents (Slide 20)?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 23\r\n\r\n   - CB SCS average waiting time in queue is 12 mins?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Really so long?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- What is chatbot CSAT for CB SCS?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- Why does it take so long for us to rollout the new chatbot given that\r\n   it has proven to be better?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 24\r\n\r\n   - Is AWT of 5 mins acceptable?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- Agent CR does not seem to be really improving\r\n\r\n\r\n\r\nSlide 25\r\n\r\n   - Agent CR dropped so much from Jun?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 34\r\n\r\n   - ADO seems to be growing much slower than Live SKUs?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 37\r\n\r\n   - Rejection rate still feels high for something that they do not have to\r\n   do/does not affect their P&L\r\n\r\n\r\n\r\nSlide 43\r\n\r\n   - Direct selling ADO seems very small?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Slide 45\r\n\r\n   - What is the target pitching pool contribution to their various country\r\n   ADO?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "In terms of %?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- What does mass pitching mean?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "It should be 100% by now if its mass\r\n   pitching?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 47\r\n\r\n   - Do not quite understand how the org chart and ownership here means\r\n   exactly\r\n\r\n\r\n\r\nSlide 48\r\n\r\n   - Who is Local SIP SMT mean here?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "- Maybe can use SG/MY as examples to show me exactly what we have in\r\n   mind..\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - For existing sellers on direct, what does this mean for them?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "How do\r\n   we tell them about this and get them set up?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- For sellers who are not on direct, what does this mean for them?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "How\r\n   do we tell them about this and get them set up?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Slide 59\r\n\r\n   - Any sense why the price competitiveness is so bad?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Slide 60\r\n\r\n   - Why do we have to mark up so high?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q30",
+          "question": "What is LS and Video contribution to SIP orders right now?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "How are we\r\nthinking about using it to increase conversion?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Sunday, 24 August 2025 10:10 pm\r\n*To:* 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Cc:* 'Jianghong Liu' <jianghong.liu@shopee.com>; 'Shuning Wang' <\r\nshuning.wang@shopee.com>; 'Keljin Chua' <keljin.chua@shopee.com>; 'Jason\r\nYu' <jason.yu@shopee.com>; 'Yu Zhang' <yu.zhang@shopee.com>; 'Ailin Xie' <\r\nailin.xie@shopee.com>; 'Xiao Xuan Soh' <xiaoxuan.soh@shopee.com>; 'Wei\r\nQiang' <wei.qiang@shopee.com>; 'Chiong Zhi Ann' <zhiann.chiong@shopee.com>;\r\n'Huang Wan-Jung' <wanjung.huangwj@shopee.com>; 'Linda Sun' <\r\nlinda.sun@shopee.com>; 'Keith Huang' <keith.huang@shopee.com>; 'Joe Li' <\r\njoe.liyc@shopee.com>; 'Lim Wan Ting' <wanting.lim@shopee.com>; 'Ren Jiahui'\r\n<jiahui.ren@shopee.com>; 'Eveline Seah' <eveline.seahyl@shopee.com>; 'Lee\r\nJia Yi' <jiayi.jylee@shopee.com>; 'Fandi Nie' <fandi.nie@shopee.com>; 'Faye\r\nYan' <faye.yan@shopee.com>; 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Subject:* RE: [Pre-read] Aug SIP monthly meeting\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - For WH cross selling, does it make sense for other markets?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Slide 11\r\n\r\n   - Is there anything that we can do to make the lanes here structurally\r\n   faster?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 16\r\n\r\n   - How do I differentiate the HC between FTEs and BPOs right now?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Am\r\n   assuming all FTEs are frontlines?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "Slide 17\r\n\r\n   - Not sure why you want to have a team in MY to remote manage if all the\r\n   FTEs/Agents are in PH\r\n   - How do I reconcile the 11 FTEs here with the HC on Slide 16?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- How is Choice managing this right now?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Slide 20\r\n\r\n   - Can we show the Cost per order over time for ID and PH agents?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "- Where are Latam agents based now?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Are we sure we an reduce so many HC\r\n   without impacting the quality of work?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Slide 21\r\n\r\n   - Not sure what this means, I thought we were going to be more efficient\r\n   and hence spend less on our CS agents (Slide 20)?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "Slide 23\r\n\r\n   - CB SCS average waiting time in queue is 12 mins?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Really so long?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- What is chatbot CSAT for CB SCS?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "- Why does it take so long for us to rollout the new chatbot given that\r\n   it has proven to be better?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Slide 24\r\n\r\n   - Is AWT of 5 mins acceptable?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "- Agent CR does not seem to be really improving\r\n\r\n\r\n\r\nSlide 25\r\n\r\n   - Agent CR dropped so much from Jun?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Slide 34\r\n\r\n   - ADO seems to be growing much slower than Live SKUs?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "Slide 37\r\n\r\n   - Rejection rate still feels high for something that they do not have to\r\n   do/does not affect their P&L\r\n\r\n\r\n\r\nSlide 43\r\n\r\n   - Direct selling ADO seems very small?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Slide 45\r\n\r\n   - What is the target pitching pool contribution to their various country\r\n   ADO?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "In terms of %?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "- What does mass pitching mean?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "It should be 100% by now if its mass\r\n   pitching?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Slide 47\r\n\r\n   - Do not quite understand how the org chart and ownership here means\r\n   exactly\r\n\r\n\r\n\r\nSlide 48\r\n\r\n   - Who is Local SIP SMT mean here?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "- Maybe can use SG/MY as examples to show me exactly what we have in\r\n   mind..\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - For existing sellers on direct, what does this mean for them?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "How do\r\n   we tell them about this and get them set up?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "- For sellers who are not on direct, what does this mean for them?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "How\r\n   do we tell them about this and get them set up?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Slide 59\r\n\r\n   - Any sense why the price competitiveness is so bad?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Slide 60\r\n\r\n   - Why do we have to mark up so high?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "fyi\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nSlide 9 Huang Wan-Jung <wanjung.huangwj@shopee.com> Cuiwei Sun\r\n<cuiwei.sun@shopee.com>\r\n\r\n   -\r\n\r\n   For WH cross selling, does it make sense for other markets?\r\n\r\n\r\nCategory\r\n\r\nMTD ADO MYSG\r\n\r\nOpportunity beyond MY>SG\r\n\r\nRemarks\r\n\r\nSCS\r\n\r\nCB Choice/ Lovito\r\n\r\n3,322\r\n\r\nLow\r\n\r\n   -\r\n\r\n   CB Choice/Lovito LFF available in other markets\r\n   -\r\n\r\n   MYSG unique as no Choice/LVT LFF in SGWH (MYWH serves as SGWH)\r\n\r\nLocal SCS\r\n\r\n2,472\r\n\r\nLow\r\n\r\n   -\r\n\r\n   ID: Local SCS parked due to PR concerns\r\n   -\r\n\r\n   VN: Local SCS paused since Mar ’25 after low performance (~10 ADO after\r\n   6 months). Key issue: SKU limitations imposed by legal\r\n\r\nFBS\r\n\r\nCB FBS\r\n\r\n2,754\r\n\r\nMedium\r\n\r\n   -\r\n\r\n   CB FBS LFF available in other markets\r\n   -\r\n\r\n   Opportunity: Leverage SIP’s faster lead time vs CNCB SLS in key lanes\r\n   (IDMY, IDSG, MYTH, VNTH)\r\n   -\r\n\r\n   Next step: Assess SKU coverage potential based on 1) availability; 2)\r\n   price competitiveness; 3) BWT; ETA: mid-Sep\r\n\r\nLocal FBS\r\n\r\n61\r\n\r\nHigh\r\n\r\n   -\r\n\r\n   Opportunity: ID/VN local FFF SKUs not supplied via local SIP\r\n   -\r\n\r\n   Scale (TBC): ID local FBS 50-70k ADO; VN local FBS 7-10k ADO\r\n   -\r\n\r\n   Challenge: system not ready due to multiple WHs in ID/VN; can start with\r\n   1 WH\r\n   -\r\n\r\n   Next step: work with ID/VN local FBS team to assess SKU coverage\r\n   potential, ETA: mid-Sep\r\n\r\n\r\n\r\n\r\nSlide 11 Chiong Zhi Ann <zhiann.chiong@shopee.com>\r\n\r\n   -\r\n\r\n   Is there anything that we can do to make the lanes here structurally\r\n   faster?\r\n   -\r\n\r\n      We are assessing/setting up below initiatives to improve LT\r\n      structurally\r\n      -\r\n\r\n         First Mile: ID/MY FM lead time is longer than CNCB for ~1 days\r\n         while LH/CC/LM LT on par. To explore 1) routing optimization\r\n(explore more\r\n         FM hub direct delivery to TWS); 2) express service with local\r\nLogs team.\r\n         -\r\n\r\n         Transit Warehouse: To explore 24hrs operation and extend xray\r\n         operation hrs to support more frequent outbound\r"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Wanlu, Emily,\r\n\r\nMeeting doc and discussion notes for your reference. Thank you."
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find the next steps from today's discussion. Thank you.\r\n\r\n# Topic Action item PIC ETA\r\n1 WH cross-selling Assess opportunity of local FBS cross-selling regional\r\nscale up Jill Huang 18 Sep (SIP monthly meeting)\r\n2 CS Proceed to confirm PH CS management / support team to be based in MY,\r\nwith 11 SIP dedicated HC Qiang Wei / Emily Lin 31 Aug\r\n3 CS Update Chris on the change of reporting line and cost saving Qiang Wei 28\r\nAug (CB mgt meeting)\r\n4 CS Align with reg BI on FTE/BPO cost booking to achieve highest combined\r\nPC2 at Shopee level Chiong Zhi Ann 18 Sep (SIP monthly meeting)\r\n5 CS Align with regional CS on definition of CS ops metrics (e.g.,\r\nabandonment rate, AWT) Qiang Wei 31 Aug\r\n6 Direct selling Propose incentive plan with local RMs to accelerate 1:1\r\npitching of target sellers Jill Huang 18 Sep (SIP monthly meeting)\r\n7 Livestream Explore livestream options for SIP Zhang Yu 18 Sep (SIP\r\nmonthly meeting)"
+        }
+      ]
+    }
+  ]
+}

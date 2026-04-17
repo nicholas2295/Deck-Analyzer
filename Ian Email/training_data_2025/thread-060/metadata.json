@@ -1,0 +1,273 @@
+{
+  "id": "thread-060",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.06.10",
+  "date": "2025-06-09",
+  "deck_filename": "SCS & Lovito business update_2025.06.10.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "marketing",
+    "pricing",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito, and warehouse for\r\nour discussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Can we start showing the view with new SLS discount?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 9\r\n\r\n   - Not quite sure why we are highlighting #1 here\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - What is the brand collaboration design that we are thinking of here?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 13\r\n\r\n   - Is there room to further increase the high ASP collection?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 14\r\n\r\n   - Average waiting time in queue is probably too long?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "This is MY numbers.\r\n   - Not sure where you get your benchmark from but looks odd in general\r\n\r\n\r\n\r\n\r\n\r\nSlide 15\r\n\r\n   - Is this too much to cover in welcome message?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Feels very messy and not\r\n   focused\r\n\r\n\r\n\r\nSlide 16\r\n\r\n   - How does the cost element look?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- I am not sure about this recommendation at all. Never heard of running\r\n   CS out of VN before. I think it is our management problem which is the issue\r\n   - This is a odd recommendation in general..\r\n\r\n\r\n\r\nSlide 17\r\n\r\n   - Given that our SLS discounts are being revised, and NNWH commissions\r\n   are going away, how are we thinking about LFF contribution now?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "I think we\r\n   need to relook the whole picture\r\n\r\n\r\n\r\nSlide 19\r\n\r\n   - How come PC3PO for B2 is so poor?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- For the Not in SPU which has been around >3 months, how does the PC3P0\r\n   compare with those in SPU?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Does it really translate into higher PC3PO?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- What is the ASP difference for those in SPU and Not in SPU?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 33\r\n\r\n   - How is FF ADO so far?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Did this event help to drive more orders?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 38\r\n\r\n   - Can we start showing the view with new SLS discount?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 41\r\n\r\n   - Can we quickly nail down 1 IP in BR and 1 in PH and go from there?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Slide 47\r\n\r\n   - The tables here is not so easy to understand\r\n   - I need to understand how\r\n      - Contribution of these 3 sub-categories to total\r\n      - Contribution of various price bucket to total\r\n   - Then I need to reconcile this to how ABS is gradually increasing\r\n\r\n\r\n\r\nSlide 52\r\n\r\n   - Can remind me what this is about?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- How about JIT?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "How are we using this for top competitor SKUs right now?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Slide 53\r\n\r\n   - What is a healthy % contribution of Refine to overall Lovito?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "And when\r\n   can we get there?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Slide 54\r\n\r\n   - Similarly, average waiting time is too long and that causes\r\n   abandonment issues\r\n   - Our productivity seems poor as well\r\n\r\n\r\n\r\nSlide 71\r\n\r\n   - What kind of sellers is Anbo WH attracting right now?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Why do they want\r\n   the service?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 76\r\n\r\n   - How is the roll out of this coming along?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "What SKUs/ADO coverage are\r\n   we intending to cover and what timeline?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- For both Lovito and SCS?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Slide 79\r\n\r\n   - Should we let CF know about this?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "He requested us to compare and let\r\n   him know?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Expand Item Coverage: 1) Include high ASP items from our existing\r\n      product lines; 2) Develop more new high ASP items."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Enhance Traffic: 1) Utilize content traffic channels, such as\r\n      livestreams and AMS; 2) Leverage Shopchat for increased\r\nengagement; 3) Add\r\n      a collection entry on the PDP - the product feature request has been\r\n      submitted"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Improve Conversion: Focus on increasing conversions alongside a push\r\n      for high MBS vouchers.\r\n      -\r\n\r\n   Note: Definition of high ASP collection: ASP > 4~11 USD (varies by site,\r\n   higher vs. shop average ASP$2.3), which is above shop ABS & local high MBS\r\n   FSV threshold\r\n\r\n\r\n\r\nSlide 14\r\n\r\n   -\r\n\r\n   Average waiting time in queue is probably too long? This is MY numbers.\r\n   -\r\n\r\n   Not sure where you get your benchmark from but looks odd in general\r\n\r\n\r\nOur MY site waiting time in queue comparison with Local SCS/SBS MY is as\r\ntable below:\r\n\r\n   -\r\n\r\n   In May, our waiting time in queue was actually shorter than Local\r\n   SCS/SBS MY\r\n   -\r\n\r\n   However, our waiting time in queue is longer than local SCS/SBS MY,\r\n   mainly because we launched outbound promotion chats in Jun to promote high\r\n   ASP collection, ect, resulting in higher volume of inquiries, stretching\r\n   our service SLA. We will optimize the SOP to increase the productivity,\r\n   meanwhile to hire more agents if really need.\r\n\r\n\r\n\r\n\r\nSlide 15\r\n\r\n   -\r\n\r\n   Is this too much to cover in welcome message? Feels very messy and not\r\n   focused\r\n\r\n\r\n\r\n   -\r\n\r\n   We believe that our current approach aligns with common practices\r\n   adopted by most top sellers on Taobao and JD (can refer to the snapshots\r\n   below). These sellers frequently highlight various shop promotions in their\r\n   welcome messages.\r\n   -\r\n\r\n   However, ours look messy because our chat doesn’t support well designed\r\n   menus/hyperlinks to host the promotion messages, which we have already\r\n   requested BPM to support. Once the function is ready, our message will look\r\n   as clean as others.\r\n\r\n\r\nSnapshots: 1) JD: 京东京造, Thinkpad; 2) Taobao: Olay, P&G\r\n\r\n\r\n\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   How does the cost element look?\r\n   -\r\n\r\n   I am not sure about this recommendation at all. Never heard of running\r\n   CS out of VN before. I think it is our management problem which is the issue\r\n   -\r\n\r\n   This is a odd recommendation in general..\r\n\r"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian，\r\n\r\n\r\nPlease find our response in blue below. We also attached PDF version in the\r\nemail.\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Can we start showing the view with new SLS discount?\r\n\r\nOk, we have started to track the P&L with the new SLS discount in the\r\nweekly P&L reporting, and will also show this view in the bi-weekly\r\nsessions.\r\n\r\nAs shown below, with the new SLS discount, SCS P&L in Jun will be -$ 3.2\r\nmil (after returning the $ 3.6 mil of SLS profit).\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   Not quite sur"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Dear all,\r\n\r\nPlease find the follow ups of today's meeting. Thank you!\r\n\r\n[image: image.png]"
+        }
+      ]
+    }
+  ]
+}

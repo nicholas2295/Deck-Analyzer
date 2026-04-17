@@ -1,0 +1,243 @@
+{
+  "id": "thread-083",
+  "subject": "[For Review] Nanning WH positioning",
+  "date": "2025-08-12",
+  "deck_filename": "NNWH Positioning_vf.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "regional",
+    "shopee",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Anh Tran",
+      "Handhika Jahja",
+      "Jason Yu",
+      "LI Ning"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached our recent review of Nanning WH positioning to both\r\nTHCB and VNCB.\r\n\r\nThe findings have been aligned with VN, TH and CN teams.\r\n\r\nLet me know for any questions.\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "My apologies, please find updated deck to this topic."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\n@Anh Tran <anh.tran@shopee.com> @Handhika Wiguna Jahja <jahjah@sea.com> Fyi.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - CPO of Anbo is so much higher than NNWH?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Are we sure about this?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- For TH, why is Anbo only 0.4 days faster than SLS while for VN, it is\r\n   3.5 days?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- #2 – For TH, all CB orders can be fulfilled locally?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "That is quite\r\n   different from previous understanding?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 9\r\n\r\n   - For both VN and TH\r\n      - What is before/after?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "For commissions and SLS discount?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- How does it compare with SLS?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- How does it compare with Anbo WH?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Others\r\n\r\n   - What is the utilization rate for NNWH and Anbo right now?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "How will the\r\n   changes affect these WH?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- When will we announce the changes?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "And when will it take effect?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- For VN/TH, we should announce it concurrently with 3PF/Local WH\r\n   benefits to soften the blow?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in Nanning is over supplied last year, so the price is good"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "NNWH has a lower salary rate and costs 0.81x of Anbo, but with similar\r\nproductivity"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "NNWH has slightly lower consumable cost: NNWH re-use some consumable\r\nfrom Lang Hua WH, eg: the carton box at 7 RMB each\r\n\r\n\r\n\r\n   -\r\n\r\n   For TH, why is Anbo only 0.4 days faster than SLS while for VN, it is\r\n   3.5 days?\r\n\r\nSorry there was a BI data issue for SLS to VN BWT data. Please find below\r\nthe updated table\r\n\r\nFor VN, SLS BWT is 4.6 days. NNWH is around 1 day faster vs SLS while Anbo\r\nis 0.7 day faster vs SLS, both are quite similar to each other.\r\n\r\n\r\n   -\r\n\r\n   #2 – For TH, all CB orders can be fulfilled locally? That is quite\r\n   different from previous understanding?\r\n\r\nThere will still be CB orders that cannot be fulfilled locally with FBS,\r\ne.g., prohibited/ license categories for WH, Made to order/ customizable\r\nSKUs etc. We will push these SKUs using 3PFs.\r\n\r\nThe update from previous understanding is\r\n\r\n   -\r\n\r\n   Recently there’s spike in GR risk as the minister of industry is\r\n   specifically targeting Chinese owned inventory after the collapse building\r\n   case from May earthquake\r\n   -\r\n\r\n   Given this, TH’s decision based on Legal/ Risk/ Government Relation team\r\n   advice is to adopt stricter requirements for CB FBS vs 3PF since stocks is\r\n   stored in Shopee’s WH\r\n   -\r\n\r\n   In the long run, the plan is to have government API sync with TH Shopee\r\n   and license constraints expected to be at listing level, impacting all\r\n   fulfillment channels. However, the API sync timeline still uncertain and\r\n   pending government confirmation\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   For both VN and TH\r\n   -\r\n\r\n      What is before/after? For commissions and SLS discount?\r\n      -\r\n\r\n      How does it compare with SLS? Sellers?\r\n      -\r\n\r\n      How does it compare with Anbo WH?\r\n\r\nPlease find below table for assumption details, in short,\r\n\r\n   -\r\n\r\n   NNWH Commission: same as Anbo sellers, lower than SLS sellers\r\n   -\r\n\r\n   NN SLS discount: remove existing discount by 24/46% margin for VN/TH\r\n   respectively, post adjustment margin same as normal SLS sellers\r\n\r\nWe also "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply, we re-simulated VN's cost savings based on the\r\nKYC direction. Please see response in blue below:\r\n\r\n\r\nSlide 6\r\n\r\n\r\n\r\n   -\r\n\r\n   CPO of Anbo is so much higher than NNWH? Are we sure about this?\r\n\r\nYes, confirmed this with NN and Anbo PICs. CPO difference between Anbo and\r\nNNWH is mainly due to\r\n\r\n1) NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter\r\nbecause 1) Anbo is closer to big cities and with higher demand; 2)\r\nWarehouse market in "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q15",
+          "question": "NNWH has a cheaper rental and costs 0.4x of Anbo for each square meter"
+        },
+        {
+          "question_id": "Q16",
+          "question": "NNWH has a lower salary rate and costs 0.81x of Anbo, but with similar"
+        },
+        {
+          "question_id": "Q17",
+          "question": "NNWH has slightly lower consumable cost: NNWH re-use some consumable"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Anh Tran",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q15",
+          "answer": "yup ok for me\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Anh Tuan Tran*\r\n\r\nShopee | Vietnam\r\n\r\n*Address:  *22nd Floor, Sonatus Tower, 15 Le Thanh Ton, District 1, HCMC,\r\nVietnam\r\n\r\n                  6th Floor, Capital Place Building, 29 Lieu Giai Street,\r\nBa Dinh District, Hanoi, Vietnam"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "yup ok for me\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Anh Tuan Tran*\r\n\r\nShopee | Vietnam\r\n\r\n*Address:  *22nd Floor, Sonatus Tower, 15 Le Thanh Ton, District 1, HCMC,\r\nVietnam\r\n\r\n                  6th Floor, Capital Place Building, 29 Lieu Giai Street,\r\nBa Dinh District, Hanoi, Vietnam"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "yup ok for me\r\n\r\n\r\n\r\n\r\n\r\n\r\n*Anh Tuan Tran*\r\n\r\nShopee | Vietnam\r\n\r\n*Address:  *22nd Floor, Sonatus Tower, 15 Le Thanh Ton, District 1, HCMC,\r\nVietnam\r\n\r\n                  6th Floor, Capital Place Building, 29 Lieu Giai Street,\r\nBa Dinh District, Hanoi, Vietnam"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "LI Ning",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n@Jianghong Liu <jianghong.liu@shopee.com> @Ning Li <ning.li@shopee.com> when\r\ndoes the lease for NNWH end? I wonder what is the long term view of this WH\r\ngiven\r\n\r\n   - Utilization should go down quite a bit with this change\r\n   - We have space in Anbo WH\r\n   - BWT difference between NN and Anbo is not huge (even though it is\r\n   indeed cheaper)\r\n\r\nNNWH leasing contract will end by 24th Nov, 2027, >2 years from now;\r\nHowever, NNWH cost to terminate the contract earlier isn't very high and\r\nmuch lower than AnboWH:\r\n\r\n   - the penalty cost for NNWH early termination is 3 months of rental\r\n   (~200K USD) vs.\r\n   - that of Anbo WH is to fully pay 3 years' rental (~11mil USD)\r\n\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Handhika Jahja",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Do we need still the 2% discount?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q18",
+          "question": "Can help to calculate whether it make sense to continue it, or whether we\r\nshould just close it, consolidate everything in Anbo and take the loss.\r\n\r\n\r\n\r\n*From:* LI Ning <ning.li@shopee.com>\r\n*Sent:* Monday, 25 August 2025 12:18 pm\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* Jason Yu <jason.yu@shopee.com>; Anh Tran <anh.tran@shopee.com>;\r\nHandhika Wiguna Jahja <jahjah@sea.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Cheng Derek <derek.cheng@shopee.com>; Bufei Liu <\r\nbufei.liu@shopee.com>; Amina Yin <amina.yin@shopee.com>; Keljin Chua <\r\nkeljin.chua@shopee.com>; alfred su <alfred.su@shopee.com>; Jack Cheng <\r\njack.cheng@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>; Faye Yan\r\n<faye.yan@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Chengchen\r\nHuo <chengchen.huo@shopee.com>; Roy Lv <roy.lv@shopee.com>\r\n*Subject:* Re: [For Review] Nanning WH positioning\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\n@Jianghong Liu <jianghong.liu@shopee.com> @Ning Li <ning.li@shopee.com> when\r\ndoes the lease for NNWH end?"
+        }
+      ]
+    }
+  ]
+}

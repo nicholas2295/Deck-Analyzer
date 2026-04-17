@@ -1,0 +1,142 @@
+{
+  "id": "thread-018",
+  "subject": "Feb-26 SIP monthly meeting",
+  "date": "2026-02-25",
+  "deck_filename": "SIP Monthly Meeting 20260226_pre-reads.pdf",
+  "deck_topic_tags": [
+    "product-launch",
+    "growth",
+    "marketing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cheng Derek",
+      "Cuiwei Sun",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "HI Ian, Jianghong, and all,\r\n\r\nPlease find attached pre-reads for the Feb SIP monthly meeting at 11.30am\r\ntomorrow.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - It is not quite clear what #1 is about or why it is really needed. In\r\n   general, seller vouchers are set for all buyers?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 14\r\n\r\n   - Ok\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   - When will we transfer chat directly to seller?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 37\r\n\r\n   - Can we split up TR here further?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Into mandatory comms, optional comms,\r\n   transaction fees and paid ads?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "And compare it with local MP?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- The TR seems low in general, and I do not think it is purely because\r\n   of paid ads\r\n\r\n\r\n\r\nSlide 51\r\n\r\n   - Not quite sure how this will work in general\r\n   - Which markets have compulsory AGP for now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "When do we foresee\r\n   launching AGP for direct sellers?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 52\r\n\r\n   - How does it compare with shops in the local market\r\n   - I remember we wanted to port their seller vouchers in import market\r\n   over to export market?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "How is that fix coming along?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Derek,\r\n\r\nfyi, sip meeting deck.\r\n\r\nCuiwei, pls loop Derek for future deck and meeting"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cheng Derek",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Thank you Shuning and Cui Wei!"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "HI Ian, Jianghong, and all,\r\n\r\nThanks for the discussion. Please find the next steps summarized below.\r\n\r\n# Topic Action item PIC ETA\r\n1 SIP PH growth plan Proceed with proposed co-investment plan with PH\r\nplatform Zhang Yu Implement from 1 Mar\r\n2 Direct selling P&L Break down Direct take-rate components and compare\r\nwith local and CB Zhi Ann 6 Mar (next weekly update)\r\n3 Direct selling paid ads Proceed with proposed Direct ads growth program\r\nalignment with local markets and implement in Mar Ailin 6 Mar\r\n4 Direct selling bots Align Direct selling x Local RM Assitance Bot\r\nintegration plan, starting with MY/ID/VN Jill / Jiahui 6 Mar\r\n5 3PF x SIP Proceed to raise P0/P1 system request and business planning Jiahui\r\n/ Linda 6 Mar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "thread-019",
+  "subject": "PHCB Monthly Update - 26 Feb 2025",
+  "date": "2025-02-25",
+  "deck_filename": "PH CB monthly update - 26 Feb 2025.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "team-performance",
+    "regional",
+    "cross-border",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Ashley Yang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ashley Yang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nAttached kindly find the captioned deck for your reference. Will discuss\r\nmore in detail tomorrow.\r\n\r\nThanks,\r\nAshley"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 22\r\n\r\n   - What is the ABS of Local SCS right now?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "USD 2.64 feels too low. What\r\n   is the item/order ratio?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 24\r\n\r\n   - Probably need to watch out for our P&L here, seems like we overspent\r\n   by quite a bit\r\n   - If I look at TB sellers, their ABS is about USD 11 in PH?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "(Slide 61).\r\n   Our ABS probably need to increase here, it is probably still too low\r\n\r\n\r\n\r\nSlide 28\r\n\r\n   - What is PH exporting out?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "The ABS looks high\r\n\r\n\r\n\r\nSlide 44\r\n\r\n   - How is the blackstock situation right now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Are we being too\r\n   conservative now?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 45\r\n\r\n   - Actual is so much lower than forecast?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Which means we have idle\r\n   resources?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- For PHE, the manual schedule qty % is still so high?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 46\r\n\r\n   - We should be tracking ATP%, need to put some definitions in play, and\r\n   probably measure across all markets too. This should be a KAM KPI at some\r\n   point\r\n\r\n\r\n\r\nSlide 52\r\n\r\n   - Is this via SLS?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- Are these in other markets as well?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "If not, how shall we bring them\r\n   over?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 56\r\n\r\n   - Why so slow?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ashley Yang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "-0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "-0.2mil: from channel mix diff vs target: XDD channel lower than target\r\n   by ~10%, which XDD channel has a higher profit margin than standard channel\r\n   (~0.5usd/pc vs 0.4usd/pc PPO difference)"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "-0.3mil: from SIP SLS ASF rate reduction (email name: [For your info]\r\n   P&L impact in Feb due to SIP SLS ASF adjustment _PH Lane), suggest to SIP\r\n   to obtain approval from CBBI and PHCB beforehand in future on decisions\r\n   impacting local CB P&L\r\n\r\n\r\n\r\nSlide 22\r\n\r\n   - What is the ABS of Local SCS right now? USD 2.64 feels too low. What\r\n   is the item/order ratio?\r\n\r\n\r\n   -\r\n\r\n   Local SCS ABS is $2.72, IPO is 1.64. CN SCS ABS is $2.69, with an IPO of\r\n   1.40. CN SCS focuses on short tail, hot selling items, bringing the ABS\r\n   lower than CB Non-mall at $5.6.\r\n   -\r\n\r\n   The low ABS is primarily determined by the low MBS of Platform FSV,\r\n   which are $0, $0.85, and $1.71 for ~90% of the platform FSVs\r\n   -\r\n\r\n   CN SCS UE is healthy and on track. The overall PC3% is around 10-15% in\r\n   Feb, which is well above our break-even target of 9-10%.\r\n\r\nSlide 24\r\n\r\n   - Probably need to watch out for our P&L here, seems like we overspent\r\n   by quite a bit\r\n   - If I look at TB sellers, their ABS is about USD 11 in PH? (Slide 61).\r\n   Our ABS probably need to increase here, it is probably still too low\r\n\r\nFor Lovito Feb PC3 miss target, mainly due to increasing CPAS Ads KOL\r\ninvestment, to catch up with S&R imp lost (due to guidelines and\r\ninitiatives updates, incl. PID criteria update, cheapest and replacement\r\nexperiment, etc).\r\n\r\nFor ABS\r\n\r\n   -\r\n\r\n      Lovito has been working on the high ABS assortment series Refine (ASP\r\n      $6+) with MTD ADO 3k; Overall ABS has been increasing for the past 3\r\n      months: Feb MTD $6.25 vs Jan $6.24 and Dec $6.19\r\n      -\r\n\r\n      TB WA ABS is $8 ($11 for all categories incl. Lifestyle Shoes top\r\n      brands Anta, XTEP, 361, Lining and Fashion Watches - Daniel Wellington)\r\n\r\n\r\n\r\nSlide 28\r\n\r\n   - What is PH exporting out? The ABS looks high\r\n\r\nPH exporting out mainly in Fashion, Home & Living and Beauty. High ABS due\r\nto pricing markup and driven up by selling higher ABS price range products\r\nsuch as sports & outdoor equip"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nKindly see the response in blue below, will also go through the answers in\r\nmeeting later.\r\n\r\nSlide 5\r\n\r\n   - CB met topline numbers (ADO/ADG) but fell short of SLS P&L?\r\n\r\nSLS profit -1.2mil below target impact, by following factors\r\n\r\n   1.\r\n\r\n   -0.4mil: from Topline missing target: despite overall topline runrate\r\n   okay, MP (3P SLS) runrate at ~93% runrate, this is due to higher runrate\r\n   for Choice and 3PF which has lower/no SLS profit\r\n   2.\r\n\r\n   -0.2mil: from channel mix d"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ashley Yang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nPls find the action items from today's meeting.\r\n\r\nNo.\r\n\r\nTopic\r\n\r\nAction Items / Aligned Direction\r\n\r\nPIC\r\n\r\nETA\r\n\r\n1\r\n\r\nTemu\r\n\r\nCo-work with DC crawler team to increase Temu front-end crawling frequency\r\nand to track Temu PH price competitiveness more frequently\r\n\r\nDerek Cheng\r\n\r\nPending on DC's feedback, trying to push ASAP\r\n\r\n2\r\n\r\nSCS\r\n\r\nFor Local SCS, improve ABS in the long term to 5-6$. Short term, we expect\r\nlower ABS for topline and seller management considerations.\r\n\r\nFor CB SCS, working on ABS improvement plan and will update if ready\r\n\r\nLarry Lin / Sruti Kattoor\r\n\r\nAligned Direction\r\n\r\n3\r\n\r\nLovito\r\n\r\nRevisit refine series assortment and sales channel investment plan and come\r\nup with updated plan\r\n\r\nVega Song\r\n\r\n4 Mar\r\n\r\n4\r\n\r\nLovito\r\n\r\n   -\r\n\r\n   Aligned to switch paid ads to CPAS based on 110% ADG achievement\r\n   -\r\n\r\n   ADG target has to be aligned with PH team and fixed for the whole year,\r\n   will align with FPA\r\n\r\nVega Song\r\n\r\n4 Mar\r\n\r\n5\r\n\r\nSIP\r\n\r\nApproved for PH to participate in regional rollout of Global Seller Center\r\nx Direct Selling\r\n\r\nCuiwei Sun\r\n\r\n7 Mar (to update on rollout timeline)\r\n\r\n6\r\n\r\nSIP\r\n\r\nExplore TW-PH route impact potential and update in next PHCB meeting\r\n\r\nCuiwei Sun / Rey Valero\r\n\r\n21 March\r\n\r\n7\r\n\r\nOOS\r\n\r\nAligned to use ATP instead of OOS across markets\r\n\r\nJason Yu\r\n\r\n7 Mar (to consolidate and align definition)\r\n\r\n8\r\n\r\nCNLS\r\n\r\nAccount transfer\r\n\r\n   1.\r\n\r\n   Share new shoplist for review\r\n   2.\r\n\r\n   For sellers with negative feedback on CN RMs, to investigate and align\r\n   with both sides on next steps\r\n\r\nRay Wang\r\n\r\n   1.\r\n\r\n   Completed\r\n   2.\r\n\r\n   7 March\r\n\r\n\r\nThanks,\r\nAshley"
+        }
+      ]
+    }
+  ]
+}

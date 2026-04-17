@@ -1,0 +1,104 @@
+{
+  "id": "thread-068",
+  "subject": "[For Approval] Request to approve CNLS partial fulfillment as Key Project",
+  "date": "2025-07-02",
+  "deck_filename": "CNLS Partial Fulfillment.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "shopee",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jianghong Liu",
+      "Ren Jiahui",
+      "Willyam Sanusi"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ren Jiahui",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Jianghong and Ian,\r\n\r\nAs discussed with Terence during the CB Monthly Meeting on 25 June and with\r\nBingyu at the CB Workshop on 2 July, we would like to seek your approval to\r\ndesignate the following initiative as a Key Project for the PM/Dev teams to\r\nprioritize.\r\n\r\nInitiative: Enable partial fulfillment for CNLS local shop\r\n\r\n   -\r\n\r\n   Allow partial fulfillment using CNLS sellers’ available inventory in\r\n   China or nearby local markets.\r\n\r\n\r\nRationale:\r\n\r\n   -\r\n\r\n   CNLS is a key growth pillar for the Shopee platform, with June 2025 ADO\r\n   reaching 3.9 million (+19% YTD).\r\n   -\r\n\r\n   Relying on a single source of fulfillment limits potential—when OOS\r\n   (out-of-stock) occurs, CNLS sellers are unable to fulfill orders using\r\n   alternative inventory.\r\n   -\r\n\r\n   Enabling partial fulfillment can help recover an estimated 75K ADO by\r\n   reducing OOS impact.\r\n\r\n\r\nFor details, kindly refer to the attachment below.\r\n\r\n\r\nThank you."
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Would sellers use this to pay less commissions?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Similar to fake 3PF?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ren Jiahui",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nWould sellers use this to pay less commissions? Similar to fake 3PF?\r\n\r\n\r\nFor CNLS using PFF, the same monitoring and penalty measures applied to\r\nfake 3PF cases will be enforced.\r\n\r\n   -\r\n\r\n   Monitor and limit pre-order%\r\n   -\r\n\r\n   Monitor seller own fleet channel delivery lead time\r\n   -\r\n\r\n   Enforce strict penalties including account suspension and permanent\r\n   disqualification of related GPs from opening local shops\r\n\r\n\r\nFor CNLS with PFF, the commission fee charging can be at order level,\r\nfollowing CB FBS PFF\r\n\r\n\r\n   -\r\n\r\n   Locally fulfilled order: follow local commission\r\n   -\r\n\r\n   Overseas fulfilled order: follow cb commission"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nWould sellers use this to pay less commissions? Similar to fake 3PF?\r\n\r\n\r\nFor CNLS using PFF, the same monitoring and penalty measures applied to\r\nfake 3PF cases will be enforced.\r\n\r\n   -\r\n\r\n   Monitor and limit pre-order%\r\n   -\r\n\r\n   Monitor seller own fleet channel delivery lead time\r\n   -\r\n\r\n   Enforce strict penalties including account suspension and permanent\r\n   disqualification of related GPs from opening local shops\r\n\r\n\r\nFor CNLS with PFF, the commission fee charging can be at"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q3",
+          "question": "For CNLS with PFF, the commission fee charging can be at order level,\r\nfollowing CB FBS PFF\r\n\r\n   - Locally fulfilled order: follow local commission\r\n   - Overseas fulfilled order: follow cb commission\r\n\r\n\r\n\r\n\r\n\r\nOk as long as we charge the commissions this way..\r\n\r\n\r\n\r\n*From:* Ren Jiahui <jiahui.ren@shopee.com>\r\n*Sent:* Thursday, 3 July 2025 5:53 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>\r\n*Subject:* Re: [For Approval] Request to approve CNLS partial fulfillment\r\nas Key Project\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nWould sellers use this to pay less commissions?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Similar to fake 3PF?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ren Jiahui",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q3",
+          "answer": "Hi Willyam and Albertus,\r\n\r\nCB side would like to raise a Key Project on CNLS (chinese local sellers),\r\nin particular enabling partial fulfillment for them. Kindly see below\r\napproval from Ian and Jianghong. For this, we would like to raise this KP\r\nunder Biz PIC (Jianghong) and Product PIC (Joey).\r\n\r\nCB side would like to book a session to walk you over the idea and why we\r\nthink a KP is needed. Then, followed by submitting a POP, thanks!\r\n\r\nJiahui"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Willyam and Albertus,\r\n\r\nCB side would like to raise a Key Project on CNLS (chinese local sellers),\r\nin particular enabling partial fulfillment for them. Kindly see below\r\napproval from Ian and Jianghong. For this, we would like to raise this KP\r\nunder Biz PIC (Jianghong) and Product PIC (Joey).\r\n\r\nCB side would like to book a session to walk you over the idea and why we\r\nthink a KP is needed. Then, followed by submitting a POP, thanks!\r\n\r\nJiahui"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Willyam Sanusi",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+Adrian Nathaniel Lautan <adrian.lautan@shopee.com>"
+        }
+      ]
+    }
+  ]
+}

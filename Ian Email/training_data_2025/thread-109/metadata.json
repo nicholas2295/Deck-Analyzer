@@ -1,0 +1,214 @@
+{
+  "id": "thread-109",
+  "subject": "KR/JP Bi-weekly Update_251023",
+  "date": "2025-10-22",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20251023 (1).pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "finance",
+    "growth",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Haenle Suh",
+      "Hyeyun Choi",
+      "Yuna Kwon"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPls find the attachment for 23Oct KR/JP bi-weekly meeting\r\n[image: image.png]\r\n\r\n-- \r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - How can our P&L be off by 35%?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Can breakdown the 35% difference for me?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Can also have a combine ADO and ADGMV view?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "So I can tell where we sit\r\n   on targets?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "But we should not have missed by 35% for topline\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - This is not easy to understand\r\n      - There should be missing in revenue because ADGMV miss\r\n      - There should be missing in SLS revenue because ADO miss\r\n      - Do not understand the PPO explanation very well on why our SLS\r\n      revenue per order fall so much\r\n      - Do not understand the issue around buyer fraud as well\r\n      - Probably need a much better way of explaining the 35% difference..\r\n\r\n\r\n\r\nSlide 7\r\n\r\n   - Is this Oct numbers?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- How are we assuming for CIR right now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- Can show me actual CIR for Sep for these 3 markets?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 15\r\n\r\n   - For Torridien, why is matching ADO still so low?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "And price\r\n   competitiveness is so bad\r\n   - For roundlab, still so bad?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- Same for dralthea, no improvements here?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- Where did we land on whether we will deal with distributors/brands etc?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Others\r\n\r\n   - Where are we on TW?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "I thought we were going to set new targets?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- How is progress of Japan?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "If we have additional HC for the market, do\r\n   we think we can grow more?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- I remember we wanted to grow paid ads for TH and VN and had set\r\n   targets for it, where did we land on this in the end?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q17",
+          "question": "Hi,\r\n\r\n\r\n\r\nWas there an action list sent out post the meeting?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Hyeyun Choi",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Double check if VN KYC fraud products are liquidated in the proper way"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Double-check how revenue from liquidating offsets SLS+ cost.\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n2\r\n\r\nFPNA\r\n\r\n<Take-Rate>"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Cross-check EoM paid ads take-rate RR with Faye’s team."
+        },
+        {
+          "question_id": "Q4",
+          "answer": "To improve accuracy of EoM TR RR projection, double check below items:"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Whether Paid Ads target setting was wrong? The actual was really\r\n   accurate?"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Whether PRM was overspent"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Provide take-rate breakdown by commission and paid ads breakdown in the\r\nnext meeting onwards.\r\n\r\n<CIR>"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Faye’s team to share CIR calculation logic with KRCB."
+        },
+        {
+          "question_id": "Q9",
+          "answer": "KR to sense-check whether take rate MoM target.\r\n\r\nFaye Yan <faye.yan@shopee.com>\r\n\r\nHaenle Suh <haenle.suh@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n3\r\n\r\nNPC - Torriden\r\n\r\nExplain why Torriden has only 1 matching sku on SHP <> TTS?\r\n\r\nNeed to double-check assortment difference between SHP vs TTS(sub category\r\ndifference? product line? price range? And why)\r\n\r\nYebin Ju <yebin.ju@shopee.com>\r\n\r\nChaemin Yoon <chaemin.yoon@shopee.com>\r\n\r\n11/7\r\n\r\nWIP\r\n\r\n4\r\n\r\nDistributor Analysis\r\n\r\nVendor vs Brand analysis from the below perspectives:\r\n\r\n   -\r\n\r\n   Assortment (TTS SKU matching)\r\n   -\r\n\r\n   Pricing\r\n   -\r\n\r\n   LFF\r\n\r\nAfter the analysis, KRCB will check with brands’ top mgmt about our\r\nsuggestion.\r\n\r\nYebin Ju <yebin.ju@shopee.com>\r\n\r\nYuna Kwon <yuna.kwon@shopee.com>\r\n\r\nJason Yu <jason.yu@shopee.com>\r\n\r\n10/31\r\n\r\nWIP\r\n\r\n5\r\n\r\nDistributor Acquisition\r\n\r\nOnce KR makes decisions on which distributors should be acquired, Local SA\r\nteam should lead the acquisition of the distributors.\r\n\r\nJason Yu <jason.yu@shopee.com>\r\n\r\nYuna Kwon <yuna.kwon@shopee.com>\r\n\r\n10/31\r\n\r\nWIP\r\n\r\n6\r\n\r\nJP Head Count\r\n\r\nFollow up in a separate email regarding:\r\n\r\n   -\r\n\r\n   2026 original headcounts for next year\r\n   -\r\n\r\n   How many more headcounts are needed?\r\n   -\r\n\r\n   How will they be allocated?\r\n   -\r\n\r\n   What will be the impact?\r\n\r\nHeeyoung Hwang <heeyoung.hwang@shopee.com> Haenle Suh\r\n<haenle.suh@shopee.com>\r\n\r\n11/7\r\n\r\nWIP\r\n\r\n7\r\n\r\nPaid Ads Take-rate"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Share the rest of the markets’ take-rate RR except for TH and TW."
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Replicate the success case of TH and TW for markets with low RR.\r\n\r\nKayoung Choi <kayoung.choi@shopee.com>\r\n\r\n11/6\r\n\r\nWIP\r\n\r\n8\r\n\r\nTH/VN Seller Visit"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Check the participation rate for the trip in Feb."
+        },
+        {
+          "question_id": "Q13",
+          "answer": "If the participation % is low, propose a new budget to Ian\r\n\r\nYuna Kwon <yuna.kwon@shopee.com>\r\n\r\n10/31\r\n\r\nWIP\r\n\r\nThank you,\r\nHyeyun Choi"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late update. Please find the action items from the previous\r\nmeeting.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\nStatus\r\n\r\n1\r\n\r\nOverall KR growth\r\n\r\n1. Double check if VN KYC fraud products are liquidated in the proper way\r\n\r\n2. Double-check how revenue from liquidating offsets SLS+ cost.\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n2\r\n\r\nFPNA\r\n\r\n<Take-Rate>\r\n\r\n1. Cross-check EoM paid ads take-rate RR with Faye’s team.\r\n\r\n2. To improve accuracy of EoM"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late update. Please find the action items from the previous\r\nmeeting.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\nStatus\r\n\r\n1\r\n\r\nOverall KR growth\r\n\r\n1. Double check if VN KYC fraud products are liquidated in the proper way\r\n\r\n2. Double-check how revenue from liquidating offsets SLS+ cost.\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n2\r\n\r\nFPNA\r\n\r\n<Take-Rate>\r\n\r\n1. Cross-check EoM paid ads take-rate RR with Faye’s team.\r\n\r\n2. To improve accuracy of EoM"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late update. Please find the action items from the previous\r\nmeeting.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\nStatus\r\n\r\n1\r\n\r\nOverall KR growth\r\n\r\n1. Double check if VN KYC fraud products are liquidated in the proper way\r\n\r\n2. Double-check how revenue from liquidating offsets SLS+ cost.\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n2\r\n\r\nFPNA\r\n\r\n<Take-Rate>\r\n\r\n1. Cross-check EoM paid ads take-rate RR with Faye’s team.\r\n\r\n2. To improve accuracy of EoM"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late update. Please find the action items from the previous\r\nmeeting.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\nStatus\r\n\r\n1\r\n\r\nOverall KR growth\r\n\r\n1. Double check if VN KYC fraud products are liquidated in the proper way\r\n\r\n2. Double-check how revenue from liquidating offsets SLS+ cost.\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\n10/30\r\n\r\nWIP\r\n\r\n2\r\n\r\nFPNA\r\n\r\n<Take-Rate>\r\n\r\n1. Cross-check EoM paid ads take-rate RR with Faye’s team.\r\n\r\n2. To improve accuracy of EoM"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Haenle Suh",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nSharing the KRJP PnL shortage breakdown by component(topic #2). Please let\r\nme know if you have any questions. Thanks.\r\n\r\nTo summarize, KRJP Oct(as of 10/29) MP PC2+SLS PnL will miss target by\r\n0.85mil but expect Nov PnL to improve from 1) implementing addt'l cross\r\ncheck process before SLS+ payout and 2) ads spending to increase from 11/11\r\ntargeted spending increase.\r\nFor the breakdown of -0.85mil vs. target\r\n\r\n   -\r\n\r\n   -$0.2mil(~25%) of the gap from SLS PnL\r\n   - VN buyer fraud led cost increase\r\n   -\r\n\r\n   -$0.65mil(~75%) of the gap is from MP PC2\r\n   -\r\n\r\n      MP TR% 0.55mil gap, TR% -1p.p gap vs. target\r\n      -\r\n\r\n         Ads -0.25mil gap and TR% -0.5p.p gap vs.target mainly in KR -TH/VN\r\n         from top sellers investment deferred to 11/11\r\n         -\r\n\r\n         Non ads-0.3mil gap and TR% -0.6p.p gap vs. target from JP-MY, due\r\n         to local yet moved SLS+ charge from MP rev reporting ->\r\nhigher baseline for\r\n         proj, CBBI already requested reclassification from Nov\r\n         -\r\n\r\n      GTF 0.2mil gap, will improve BU level accuracy going forward\r\n      -\r\n\r\n      GMV minimal impact and KR underspent PRM vs. target with CIR% +0.2p.p\r\n      vs target\r\n      - [image: image.png]"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q18",
+          "question": "Thanks.\r\n\r\n\r\n\r\nOn Ads take rate, I remember the team was telling me that we met targets\r\nfor TH (where we were quite behind), but it seems that we missed by quite a\r\nbit in Oct?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "thread-124",
+  "subject": "SIP Weekly Update - Week ending 28 Nov",
+  "date": "2025-12-01",
+  "deck_filename": "SIP weekly update - week ending 28 Nov.pdf",
+  "deck_topic_tags": [
+    "product-launch",
+    "regional",
+    "cross-border",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find SIP weekly update attached for review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 16\r\n\r\n   - What is KH?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "What is LA?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- And for direct will there be a difference for local vs CB direct?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 19\r\n\r\n   - For SG, I think it is Ok if Mall sellers want to sell\r\n   - There is not much direct selling to TW?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 25\r\n\r\n   - Where did we land on the RTS topic in the end?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "I remember we were\r\n   supposed to get back quite a while back ago?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Others\r\n\r\n   - Any updates on Swarm?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "prepare and conduct seller communications\r\n         -\r\n\r\n         Additionally Local Direct requires ~4 weeks effort to configure\r\n         seller center features for AME; this is not a launch blocker\r\nand can run in\r\n         parallel with other activities\r\n         -\r\n\r\n      Comparison summarized in the table below\r\n\r\nLaunch effort\r\n\r\nCB Direct\r\n\r\nLocal Direct\r\n\r\nRemarks\r\n\r\nSeller origins\r\n\r\nCN/KR/JP\r\n\r\nID/MY/VN/TH/PH\r\n\r\n-\r\n\r\nSeller communication\r\n\r\nY\r\n\r\nY\r\n\r\n   -\r\n\r\n   CB direct - CB RM/Sales resource to pitch UST sellers\r\n   -\r\n\r\n   Local direct - local RM pitching/Mass pitching\r\n\r\nLogistics channel\r\n\r\nY (same as CNSIP)\r\n\r\nY\r\n\r\n   -\r\n\r\n   CB direct - same as CNSIP logs set up\r\n   -\r\n\r\n   Local Direct - ops/channel system set up is required for each new channel\r\n\r\nExtra System effort\r\n\r\nN\r\n\r\nY\r\n\r\n   -\r\n\r\n   CB direct - same as CNSIP logs / payment set up\r\n   -\r\n\r\n   Local Direct - system effort on global seller center/listing/logs\r\n   channels/global wallet configuration\r\n\r\n\r\n\r\n\r\nSlide 19\r\n\r\n   -\r\n\r\n   For SG, I think it is Ok if Mall sellers want to sell\r\n   -\r\n\r\n   There is not much direct selling to TW?\r\n   -\r\n\r\n      ID/VN>TW Direct selling potential is 200-500 ADO; we plan to launch\r\n      because 1) ID/VN brand sellers expressed interest in TW market;"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "minimal\r\n      incremental efforts on top of existing ID/VN direct lanes\r\n      -\r\n\r\n      Updates on upcoming lanes\r\n      -\r\n\r\n         PHMY/PHSG delayed to Jan-26, as PH compliance requires a tax\r\n         collection system feature, dev on track\r\n         -\r\n\r\n         TWMY/TWSG delayed to Feb-26, as additional dev effort required for\r\n         FM integration with TW SPX, dev on track\r\n\r\n\r\n\r\nSlide 25\r\n\r\n   -\r\n\r\n   Where did we land on the RTS topic in the end? I remember we were\r\n   supposed to get back quite a while back ago?\r\n\r\n\r\n   -\r\n\r\n   MYSG lane [RTS is in place]\r\n   -\r\n\r\n      RTS shipping cost has been optimized to be avg. US$4 per parcel, it\r\n      is aligned with SGMY forward shipping rate card, and considering average\r\n      MYSG parcel weight of 0.9kg.\r\n      -\r\n\r\n      Next step is to evaluate 3 options for RR threshold 1) status quo\r\n      US$20; 2) $0 threshold to match SG local; 3) at RTS CPO, to include\r\n      platform topline impact based on the markup, and additional PnL\r\nimpact from\r\n      SGWH ops workload increase. ETA 12 Dec\r\n      -\r\n\r\n   Other lanes [RTS not available]\r\n   -\r\n\r\n      We first need to decide if it makes sense to set up the RTS flow for\r\n      other lanes now; reg Direct team is assessing 2 options, proposal ETA 12\r\n      Dec\r\n      -\r\n\r\n         Option 1: No RTS (no reverse logistics flow); mandatory RR\r\n         insurance scheme hidden in commission fee [KR/JPCB model]\r\n         -\r\n\r\n         Option 2: Set up RTS (build reverse logistics flow) [CNCB/MYSG\r\n         model]\r\n         -\r\n\r\n      The assessment will be on below dimensions for each lane\r\n      -\r\n\r\n         Buyer experience: Listing price impact from seller RR cost markup\r\n         -\r\n\r\n         Seller experience: RTS cost, lead time, parcel safety\r\n         -\r\n\r\n         Platform impact: RTS UE, system requirement, WH/SLS/CS/RM ops\r\n         process and capacity requirement for RTS flow\r\n\r\n\r\nOthers\r\n\r\n   -\r\n\r\n   Any updates on Swarm?\r\n\r\n[image: image.png]\r\n\r\n"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 16\r\n\r\n   -\r\n\r\n   What is KH? What is LA?\r\n   -\r\n\r\n      KH = Cambodia\r\n      -\r\n\r\n      LA = Laos\r\n      -\r\n\r\n   I need to understand when Local SIP/CN SIP/Direct will work for each\r\n   market?\r\n   -\r\n\r\n      Brunei - Aligned with MY AME Launch PMO\r\n      -\r\n\r\n         [P0] CNSIP / CN Direct: Jan-26\r\n         -\r\n\r\n         [P1] Local SIP / Local Direct: Feb-26\r\n         -\r\n\r\n         [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n         finalize plan\r\n      "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "thread-123",
+  "subject": "[Pre-read] Nov-25 SIP monthly meeting",
+  "date": "2025-11-19",
+  "deck_filename": "SIP Monthly Meeting 20251120.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "regional",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find attached Nov SIP monthly doc for review and discussion tomorrow.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Standalone PC2 here does not include commissions waiver yet right?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 7\r\n\r\n   - How can I reconcile the PC2 here with Slide 4?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Does this include comms\r\n   waiver yet?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 10\r\n\r\n   - How active are we in re-negotiating SLS rates?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 20\r\n\r\n   - Can help me compare Swarm P&L for Nov vs Dec?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "I like to understand\r\n   better what we are doing exactly for swarm in Dec\r\n\r\n\r\n\r\nSlide 21\r\n\r\n   - Not quite sure what this is about, but we have a budget for next year,\r\n   we should keep to it?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Unless we find there are initiatives that is worth\r\n   pushing?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Defined by increase in Total P&L\r\n\r\n\r\n\r\nSlide 26-34\r\n\r\n   - This is just a one -off clean up but it does not tell me what the\r\n   issues were with these sellers in their export market. And how we will\r\n   relook our listing procedure to even prevent these sellers from joining in\r\n   the first place\r\n   - And with all these changes, what will the seller fault RR be?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- And are we looking at other markets as well?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Or just SG import?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 46\r\n\r\n   - What is the fear of loss that they ae concerned about?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 51\r\n\r\n   - What does this mean in terms of P&L to KRSIP?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "id": "thread-038",
+  "subject": "<Pre-read> Follow-up on Shop CS from Reg CS",
+  "date": "2025-04-03",
+  "deck_filename": "Update to Ian [040405] (1).pdf",
+  "deck_topic_tags": [
+    "finance",
+    "team-performance",
+    "data-analysis",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Shi Cong Steven",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\nRefer to the attached deck for tomorrow's discussion. Thank you!\r\n\r\nBest Regards\r\n*Steven Shi*\r\nShopee | Regional Operations | Customer Service\r\n*Mobile: *+65 9026 9236\r\n\r\n Update to Ian [040405]\r\n<https://drive.google.com/open?id=18wPsuvadEy-JzqFzccQ-onACUf6Rw0cF5IlHio-_mbc>"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nHas this been aligned with @Shuning Wang <shuning.wang@shopee.com> and @Ning\r\nLi <ning.li@shopee.com>?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 2\r\n\r\n   - Not quite sure how to read the tables on this slide in general\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   - SIP I get it but we should have product expertise for SBS/Lovito/SCS?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "There should be no excuse there of not knowing our products?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 5\r\n\r\n   - How do we measure the Shop Conversion rate here?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- What is this latest LLM chatbot that we are referring to?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Is this the\r\n   shop chat bot that certain sellers have started to use?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "What is the roll\r\n   out coverage for this so far?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Which markets?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "What type of sellers has the\r\n   usage been?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 7\r\n\r\n   - So we will have the latest shop chat bot for all business lines by for\r\n   local by Apr and CB by May?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- There are probably steps to enhance the answers of the chatbot as we\r\n   should have a good sense of buyer intent by now?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "What are the steps that we\r\n   can take?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 10\r\n\r\n   - What does CB SID mean here?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 13 – 14\r\n\r\n   - It is not so clear to me\r\n   - For each of these business lines on Slide 13, how do we see the\r\n   reporting structure moving forward?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Who will be in charge of managing the\r\n   performance of the agents (no matter where they may be)\r\n   - Then the next question would be for each of these business lines,\r\n   where would the agents be?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Slide 17\r\n\r\n   - Are we intending to split up pre-sale and post-sale agents?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- Or we intend for all agents to be able to handle pre-sale as well?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 19 – 21\r\n\r\n   - Not quite sure what this means\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*From:* Shi Cong Steven <steven.shi@shopee.com>\r\n*Sent:* Thursday, 3 April 2025 11:59 pm\r\n*To:* hoi@sea.com; Eric Bui <eric.bui@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Ning Li <ning.li@shopee.com>; Vivian Zhai <\r\nvivian.zhai@shopee.com>; Joy Shen Xijiao <joy.shenxj@shopee.com>; Harshit\r\nArora <harshit.arora@shopee.com>; Weifeng Ng <weifeng.ng@shopee.com>; Bobby\r\nMuljono <bobby.muljono@shopee.com>\r\n*Subject:* <Pre-read> Follow-up on Shop CS from Reg CS\r\n\r\n\r\n\r\nHi Ian\r\n\r\n\r\n\r\nRefer to the attached deck for tomorrow's discussion. Thank you!\r\n\r\n\r\n\r\nBest Regards\r\n\r\n*Steven Shi*\r\n\r\nShopee | Regional Operations | Customer Service\r\n\r\n*Mobile: *+65 9026 9236\r\n\r\n\r\n\r\n Update to Ian [040405]\r\n<https://drive.google.com/open?id=18wPsuvadEy-JzqFzccQ-onACUf6Rw0cF5IlHio-_mbc>"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than external sellers, our GMV\r\n   conversion value is much lower. We need to high-value items as well.\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   SIP I get it but we should have product expertise for SBS/Lovito/SCS?\r\n   There should be no excuse there of not knowing our products?\r\n   -\r\n\r\n   Ok. We can do for SBS/SCS/Lovio.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   How do we measure the Shop Conversion rate here?\r\n\r\nConverted order = order placed within 24 hrs after a conversation\r\n\r\nFormula: Shop Conversion rate = Converted order / # Conversation *100%\r\n\r\n   -\r\n\r\n   What is this latest LLM chatbot that we are referring to? Is this the\r\n   shop chat bot  that certain sellers have started to use? What is the roll\r\n   out coverage for this so far? Which markets? What type of sellers has the\r\n   usage been?\r\n   -\r\n\r\n      Yes, the latest LLM chatbot is the one most advanced version which\r\n      the external sellers have started to use\r\n      -\r\n\r\n      [By 22 Mar] Have rolled out to selected sellers in all markets,\r\n      covers both managed and unmanaged, covers all 4 L0 categories (FMCG,\r\n      Fashion, Lifestyle, EL) - no detailed breakdown. Can see the\r\nbelow data of\r\n      seller adoption\r\n      -\r\n\r\n      How to push adoption: (1) understand seller’s motivation and barriers\r\n      better from seller’s feedback; (2) closely communicate the unique\r\n      capabilities of chatbot to attract sellers; (3) continuously improve\r\n      the chatbot functionalities to meet seller’s requirem"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?\r\n\r\n   -\r\n\r\n   They are aligned, this plan has been created in collaboration with their\r\n   teams.\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   Not quite sure how to read the tables on this slide in general\r\n   -\r\n\r\n   In general, there is potential to generate revenue uplift by increasing\r\n   the contact rate to align with top external sellers and boost the absolute\r\n   number of conversions.\r\n   -\r\n\r\n   While our order conversion is higher than "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nHere are the next steps we discussed in today's meeting. Feel free to let\r\nus know if you have anything to add.\r\n\r\nNext Steps for Biz Owner\r\n\r\n   - Business owners (Shunning and Li Ning) are responsible for the\r\n   business and its CS, including agent performance. For local SCS/SBS, the\r\n   responsibility lies with the local SCS/SBS business owner. The business\r\n   owner should take ownership of the metrics and adjust reporting lines as\r\n   soon as possible\r\n   - Business owners to focus on driving business, not just cost. In terms\r\n   of cost, to follow this order of priority:\r\n\r\n\r\n   1.\r\n\r\n      Improve productivity, provide plan in the next update (within 1-2\r\n      weeks)\r\n      2.\r\n\r\n      Reduce contact rate via Chatbot; to work with Reg CS to ensure\r\n      rollout doesn’t impact performance significant; proceed only when ready\r\n      3.\r\n\r\n      Move CB SCS and SIP agents to PH, to update on timeline in next\r\n      update\r\n\r\n\r\nNext Steps for Reg CS\r\n\r\n\r\nReg CS to analyze conversion rate/metrics\r\n\r\n   1.\r\n\r\n      Contact rate differences between us and the benchmark; determine the\r\n      target equilibrium rate\r\n      2.\r\n\r\n      Shopchat bot seller adoption rates by ADO and GMV (in addition to\r\n      shop numbers)\r\n      3.\r\n\r\n      Reg CS to assess GMV uplift from conversations, i.e. by comparing ABS\r\n      values of conversations vs. non-conversations\r\n      4.\r\n\r\n      To provide update by next update in (early May)\r\n\r\n\r\n   -\r\n\r\n   Reg CS to learn from Ian’s team and apply best practices across markets,\r\n   handling cross-cutting topics (e.g., driving conversions, pre-sales split,\r\n   org. model)\r\n   -\r\n\r\n   Reg CS to support business owners with systems, tools, and performance\r\n   tracking\r\n\r\n\r\n\r\nBest Regards\r\nSteven Shi\r\n\r\nOn Fri, Apr 4, 2025 at 1:53 PM Shi Cong Steven <steven.shi@shopee.com>\r\nwrote:"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q19",
+          "question": "Thanks.\r\n\r\n\r\n\r\nCan help align on a standardized metric that all Shop CS (across all\r\nvarious business and countries) should be using?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Maybe can send across\r\nsometime early next week?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "So business will know what to follow and act on.\r\n\r\n\r\n\r\nCan also look at agent KPIs next based on the standardized metrics above?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "We should also be able to standardize this across business and markets.\r\n\r\n\r\n\r\n*From:* Shi Cong Steven <steven.shi@shopee.com>\r\n*Sent:* Friday, 4 April 2025 9:27 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Eric Bui <eric.bui@shopee.com>; Shuning Wang <shuning.wang@shopee.com>;\r\nNing Li <ning.li@shopee.com>; Vivian Zhai <vivian.zhai@shopee.com>; Joy\r\nShen Xijiao <joy.shenxj@shopee.com>; Harshit Arora <harshit.arora@shopee.com>;\r\nWeifeng Ng <weifeng.ng@shopee.com>; Bobby Muljono <bobby.muljono@shopee.com>\r\n*Subject:* Re: <Pre-read> Follow-up on Shop CS from Reg CS\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nHere are the next steps we discussed in today's meeting. Feel free to let\r\nus know if you have anything to add.\r\n\r\n\r\n\r\n*Next Steps for Biz Owner *\r\n\r\n   - Business owners (Shunning and Li Ning) are responsible for the\r\n   business and its CS, including agent performance. For local SCS/SBS, the\r\n   responsibility lies with the local SCS/SBS business owner. The business\r\n   owner should take ownership of the metrics and adjust reporting lines as\r\n   soon as possible\r\n   - Business owners to focus on driving business, not just cost. In terms\r\n   of cost, to follow this order of priority:\r\n\r\na.             Improve productivity, provide plan in the next update\r\n(within 1-2 weeks)\r\n\r\nb.             Reduce contact rate via Chatbot; to work with Reg CS to\r\nensure rollout doesn’t impact performance significant; proceed only when\r\nready\r\n\r\nc.              Move CB SCS and SIP agents to PH, to update on timeline in\r\nnext update\r\n\r\n\r\n\r\n*Next Steps for Reg CS *\r\n\r\n\r\n\r\nReg CS to analyze conversion rate/metrics\r\n\r\na.             Contact rate differences between us and the benchmark;\r\ndetermine the target equilibrium rate\r\n\r\nb.             Shopchat bot seller adoption rates by ADO and GMV (in\r\naddition to shop numbers)\r\n\r\nc.              Reg CS to assess GMV uplift from conversations, i.e. by\r\ncomparing ABS values of conversations vs. non-conversations\r\n\r\nd.             To provide update by next update in (early May)\r\n\r\n   - Reg CS to learn from Ian’s team and apply best practices across\r\n   markets, handling cross-cutting topics (e.g., driving conversions,\r\n   pre-sales split, org. model)\r\n   - Reg CS to support business owners with systems, tools, and performance\r\n   tracking\r\n\r\n\r\n\r\n\r\n\r\nBest Regards\r\n\r\nSteven Shi\r\n\r\n\r\n\r\nOn Fri, Apr 4, 2025 at 1:53 PM Shi Cong Steven <steven.shi@shopee.com>\r\nwrote:\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nHas this been aligned with @Shuning Wang and @Ning Li?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "- They are aligned, this plan has been created in collaboration with\r\n   their teams.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - Not quite sure how to read the tables on this slide in general\r\n   - In general, there is potential to generate revenue uplift by\r\n   increasing the contact rate to align with top external sellers and boost\r\n   the absolute number of conversions.\r\n   - While our order conversion is higher than external sellers, our GMV\r\n   conversion value is much lower. We need to high-value items as well.\r\n\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   - SIP I get it but we should have product expertise for SBS/Lovito/SCS?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "There should be no excuse there of not knowing our products?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- Ok. We can do for SBS/SCS/Lovio.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - How do we measure the Shop Conversion rate here?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Converted order = order placed within 24 hrs after a conversation\r\n\r\nFormula: Shop Conversion rate = Converted order / # Conversation *100%\r\n\r\n   - What is this latest LLM chatbot that we are referring to?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Is this the\r\n   shop chat bot  that certain sellers have started to use?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "What is the roll\r\n   out coverage for this so far?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Which markets?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "What type of sellers has the\r\n   usage been?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- Yes, the latest LLM chatbot is the one most advanced version which the\r\n      external sellers have started to use\r\n      - [By 22 Mar] Have rolled out to selected sellers in all markets,\r\n      covers both managed and unmanaged, covers all 4 L0 categories (FMCG,\r\n      Fashion, Lifestyle, EL) - no detailed breakdown. Can see the\r\nbelow data of\r\n      seller adoption\r\n      - *How to push adoption: (1) *understand seller’s motivation and\r\n      barriers better from seller’s feedback; *(2)* closely communicate the\r\n      unique capabilities of chatbot to attract sellers; *(3) *continuously\r\n      improve the chatbot functionalities to meet seller’s requirements.\r\n      -\r\n\r\n\r\n\r\nSlide 7\r\n\r\nSo we will have the latest shop chat bot for all business lines by for\r\nlocal by Apr and CB by May?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "o   Yes.\r\n\r\n§  The local timeline is more confirmed since they are in the rolled out\r\nstage.\r\n\r\n§  CB is facing uncertainty from current AB testing, but we are targeting\r\nby May and will also try to push it earlier.\r\n\r\n   - There are probably steps to enhance the answers of the chatbot as we\r\n   should have a good sense of buyer intent by now?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "What are the steps that we\r\n   can take?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "- Buyer intent recognition still needs further improvement, so two\r\n      aspects for enhancing chatbot answer:\r\n\r\n\r\n   - *(1) Biz:* optimize chatbot answer for the questions that not covered\r\n         by LLM model yet; enrich seller knowledge base (mainly\r\nproduct info) to\r\n         support model improvement.\r\n         - *(2) Tech*: improve intent recognition model; improve data\r\n         mining capabilities for chatbot answer (e.g. bot to get\r\nanswer from seller\r\n         chat history); rollout more chatbot features for improving pre-sale\r\n         capabilities (e.g., add-to-cart reminder) and post-sales\r\n(leverage MP CS\r\n         bot capability to answer)\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - What does CB SID mean here?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "- SID - ID sellers selling to SG, MY, and TH and agents are sitting in\r\n   ID to manage the chats\r\n\r\n\r\n\r\nSlide 13 – 14\r\n\r\n   - It is not so clear to me\r\n   - For each of these business lines on Slide 13, how do we see the\r\n   reporting structure moving forward?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "Who will be in charge of managing the\r\n   performance of the agents (no matter where they may be)\r\n   - Then the next question would be for each of these business lines,\r\n   where would the agents be?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- Biz line owners should be directly in charge of agents, i.e. Russel\r\n   (CB SCS), Qiang Wei (SIP), and Saru (Local SCS/SBS).\r\n   - For Russel (CB SCS), more straightforward as all agents are located in\r\n   VN.\r\n   - For Qiang Wei (SIP), more complicated as agents are distributed in\r\n   respective buyer markets. Propose to centralise, in PH, if ID is not\r\n   possible by this year.\r\n   - For Saru (Local SCS/SBS), agents can be centralised in ID while the\r\n   reporting line is still pending as Local SCS suppliers and Warehouse are\r\n   all located locally.\r\n\r\n\r\n\r\nSlide 17\r\n\r\n   - Are we intending to split up pre-sale and post-sale agents?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "- Or we intend for all agents to be able to handle pre-sale as well?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nNoted on the request. We'll get back to you on the standardised Shop CS\r\nmetrics by this week.\r\n\r\n\r\nFor Shop CS agent metrics, we'll need more time to extract the data and we\r\nwill provide the following week. Thanks for understanding.\r\n\r\nBest Regards\r\nSteven Shi"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nRefer to the attached deck for key Shopchat metrics. We have selected* 5\r\nkey Reg metrics (outlined on slide 2) *and will collaborate with the\r\nbusiness owners to set targets for them.\r\n\r\n\r\nThese metrics and its definition have been aligned with the CB business\r\nowners. For Local SCS/SBS, alignment has been done with the regional CS\r\nteam within SPX. Moving forward, we will also engage with the relevant\r\nbusiness line owners for local SCS/SBS across markets.\r\n\r\n\r\nBest Regards\r\nSteven Shi"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q39",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - I think we need to split up Agent and Chatbot performance much clearer?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "- For agent side, we should look at\r\n      - CSAT\r\n      - Average waiting time in queue\r\n      - Abandon rate\r\n      - Productivity\r\n      - Conversion rate\r\n      - Cost per chat (probably later date)\r\n   - For chatbot, we should look at\r\n      - Deflection Rate\r\n      - CSAT\r\n\r\n\r\n\r\nOthers\r\n\r\n   - Can see how the above measure against MP CS OKRs?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Can see what is\r\n   missing?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "- Based on the above\r\n      - How do we bucket the individual Agent KPI?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "- How does each business and lane fare?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "Including local SG/MY SBS\r\n      - What are the targets moving forward?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q45",
+          "question": "+ @hoirul.hafiidz@shopee.com <hoirul.hafiidz@shopee.com>\r\n@esten.mok@shopee.com <esten.mok@shopee.com>\r\n\r\n\r\n\r\n*From:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Sent:* Sunday, 13 April 2025 9:15 am\r\n*To:* 'Shi Cong Steven' <steven.shi@shopee.com>\r\n*Cc:* 'Eric Bui' <eric.bui@shopee.com>; 'Shuning Wang' <\r\nshuning.wang@shopee.com>; 'Ning Li' <ning.li@shopee.com>; 'Vivian Zhai' <\r\nvivian.zhai@shopee.com>; 'Joy Shen Xijiao' <joy.shenxj@shopee.com>;\r\n'Harshit Arora' <harshit.arora@shopee.com>; 'Weifeng Ng' <\r\nweifeng.ng@shopee.com>; 'Bobby Muljono' <bobby.muljono@shopee.com>\r\n*Subject:* RE: <Pre-read> Follow-up on Shop CS from Reg CS\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - I think we need to split up Agent and Chatbot performance much clearer?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "- For agent side, we should look at\r\n      - CSAT\r\n      - Average waiting time in queue\r\n      - Abandon rate\r\n      - Productivity\r\n      - Conversion rate\r\n      - Cost per chat (probably later date)\r\n   - For chatbot, we should look at\r\n      - Deflection Rate\r\n      - CSAT\r\n\r\n\r\n\r\nOthers\r\n\r\n   - Can see how the above measure against MP CS OKRs?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Can see what is\r\n   missing?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "- Based on the above\r\n      - How do we bucket the individual Agent KPI?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "- How does each business and lane fare?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Including local SG/MY SBS\r\n      - What are the targets moving forward?"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q39",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\nRefer to our responses to your queries in blue text, and see the attached\r\nPDF for the compiled metrics with associated targets where available.\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   I think we need to split up Agent and Chatbot performance much clearer?\r\n   -\r\n\r\n   For agent side, we should look at\r\n   -\r\n\r\n      CSAT\r\n      -\r\n\r\n      Average waiting time in queue\r\n      -\r\n\r\n      Abandon rate\r\n      -\r\n\r\n      Productivity\r\n      -\r\n\r\n      Conversion rate\r\n      -\r\n\r\n      Cost per chat (probably later date)\r\n      -\r\n\r\n   For chatbot, we should look at\r\n   -\r\n\r\n      Deflection Rate\r\n      -\r\n\r\n      CSAT\r\n\r\nWe've updated the metric tables based on your suggestions, as aligned\r\nduring Tuesday’s SIP catch-up. Please see the attached PDF for details.\r\n\r\n\r\nOthers\r\n\r\n   -\r\n\r\n   Can see how the above measure against MP CS OKRs? Can see what is\r\n   missing?\r\n   -\r\n\r\n   We’ve compared Shop CS metrics against those for MP CS in slide 2,\r\n   generally\r\n   -\r\n\r\n   What’s missing: We're currently unable to measure E2E metrics for Shop\r\n   CS, including related metrics like First Contact Resolution (FCR) and % of\r\n   responses within 24 hours. E2E  measures the time from when a case is\r\n   created to when it is *resolved.*\r\n   -\r\n\r\n   However, in Shop CS - particularly in pre-sales scenarios - the concept\r\n   of a case being \"resolved\" is less applicable, as customers often ask\r\n   multiple questions before making a purchase decision. There isn't a\r\n   specific issue to resolve in the traditional sense.\r\n\r\n\r\n\r\n   -\r\n\r\n   Based on the above\r\n   -\r\n\r\n      How do we bucket the individual Agent KPI?\r\n      -\r\n\r\n      We’ve incorporated this in slides 9-12\r\n      -\r\n\r\n      How does each business and lane fare? Including local SG/MY SBS\r\n      -\r\n\r\n      We can break this down by business line and buyer market, as shown in\r\n      slides 4, 6, and 8. However, we would not go into individual lanes, as\r\n      agents are organized based on the buyer markets they serve,\r\nrather than "
+        }
+      ]
+    },
+    {
+      "turn": 12,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q51",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - How do we measure for #3?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Slide 4\r\n\r\n   - Seems like we really have big issues in PH and BR which are our 2\r\n   biggest markets, when will this be solved?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "Slide 6\r\n\r\n   - SG seems not so good here, not so sure why waiting time is so long\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - MY is quite bad?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Abandon rate is not good, waiting time also not good\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - These agents are expected to perform outbound tasks?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "Others\r\n\r\n   - I wonder if it make sense to reshuffle HC between SG and MY\r\n   businesses. Some teams feels like no need  people, some need more..\r\n\r\n\r\n\r\n*From:* Shi Cong Steven <steven.shi@shopee.com>\r\n*Sent:* Thursday, 17 April 2025 9:26 pm\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* esten.mok@shopee.com; hoirul.hafiidz@shopee.com; Eric Bui <\r\neric.bui@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Ning Li <\r\nning.li@shopee.com>; Joy Shen Xijiao <joy.shenxj@shopee.com>; Harshit Arora\r\n<harshit.arora@shopee.com>; Weifeng Ng <weifeng.ng@shopee.com>; Bobby\r\nMuljono <bobby.muljono@shopee.com>\r\n*Subject:* Re: <Pre-read> Follow-up on Shop CS from Reg CS\r\n\r\n\r\n\r\nHi Ian\r\n\r\n\r\n\r\nRefer to our responses to your queries in blue text, and see the attached\r\nPDF for the compiled metrics with associated targets where available.\r\n\r\n\r\n\r\n*Slide 2*\r\n\r\n   - *I think we need to split up Agent and Chatbot performance much\r\n   clearer?*\r\n   - *For agent side, we should look at*\r\n\r\n\r\n   - *CSAT*\r\n      - *Average waiting time in queue*\r\n      - *Abandon rate*\r\n      - *Productivity*\r\n      - *Conversion rate*\r\n      - *Cost per chat (probably later date)*\r\n\r\n\r\n   - *For chatbot, we should look at*\r\n\r\n\r\n   - *Deflection Rate*\r\n      - *CSAT*\r\n\r\nWe've updated the metric tables based on your suggestions, as aligned\r\nduring Tuesday’s SIP catch-up. Please see the attached PDF for details.\r\n\r\n\r\n\r\n*Others*\r\n\r\n   - *Can see how the above measure against MP CS OKRs?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "Can see what is\r\n   missing?*\r\n   - We’ve compared Shop CS metrics against those for MP CS in slide 2,\r\n   generally\r\n   - *What’s missing:* We're currently unable to measure E2E metrics for\r\n   Shop CS, including related metrics like First Contact Resolution (FCR) and\r\n   % of responses within 24 hours. E2E  measures the time from when a case is\r\n   created to when it is *resolved.*\r\n   - However, in Shop CS - particularly in pre-sales scenarios - the\r\n   concept of a case being \"resolved\" is less applicable, as customers often\r\n   ask multiple questions before making a purchase decision. There isn't a\r\n   specific issue to resolve in the traditional sense.\r\n\r\n\r\n\r\n   - *Based on the above*\r\n\r\n\r\n   - *How do we bucket the individual Agent KPI?*\r\n      - We’ve incorporated this in slides 9-12\r\n      - *How does each business and lane fare?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Including local SG/MY SBS *\r\n      - We can break this down by business line and buyer market, as shown\r\n      in slides 4, 6, and 8. However, we would not go into individual lanes, as\r\n      agents are organized based on the buyer markets they serve,\r\nrather than by\r\n      specific lanes.\r\n      - *What are the targets moving forward?"
+        }
+      ]
+    },
+    {
+      "turn": 13,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q51",
+          "answer": "Capacity planning challenges – The rollout of the new chatbot (expected\r\n   to significantly improve deflection rates) was delayed. This rollout is now\r\n   scheduled for April 21 and is expected to reduce AR and wait time\r\n   significantly."
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Agent concurrency adjustment – In an effort to improve CSAT, maximum\r\n   agent concurrency was reduced from 5 to 3 last week. This has since been\r\n   reverted back to 5, as it impacted capacity."
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Staffing shortages – A recent loss of 6 agents due to resignations\r\n   created a headcount gap, further straining the team. MY will increase HC\r\n   numbers in the upcoming weeks.\r\n\r\nDespite these challenges, performance has improved since last week\r\n\r\n\r\n   -\r\n\r\n   Abandonment rates dropped from 5.2% to 1.5%\r\n\r\n\r\n   -\r\n\r\n   Average wait times improved from 65 minutes 45 minutes, expected to\r\n   reach under 3 minutes by week of 5th May\r\n\r\n\r\n\r\nSlide 9 <Individual Agent KPIs>\r\n\r\n   -\r\n\r\n   These agents are expected to perform outbound tasks?\r\n   -\r\n\r\n   Yes, agents are expected to conduct outbound follow-ups to address cases\r\n   that come in during off-hours. For MP CS, these are typically handled by\r\n   dedicated “email” agents or mitigated through 24/7 chat support. However,\r\n   since Shop CS doesn't have a similar agent type and a large portion of\r\n   cases require outbound handling, it’s important for us to track this metric\r\n   for Shop CS agents.\r\n\r\n\r\n\r\nOthers\r\n\r\n   -\r\n\r\n   I wonder if it make sense to reshuffle HC between SG and MY businesses.\r\n   Some teams feel like no need  people, some need more..\r\n\r\nThere are several key hurdles to overcome before combining operations for\r\nSG and MY (as below). For now, we relook into WFM to cover the immediate\r\ngaps first. Hurdles include:\r\n\r\n\r\n   -\r\n\r\n   ROI: Cross-market agent sharing may not be efficient, as frequent\r\n   switching would likely require substantial retraining, increased costs and\r\n   offsetting gains from improved utilisation.\r\n\r\n   -\r\n\r\n   User Experience: There's a risk of agents applying the wrong market's\r\n   SOPs, which could lead to inconsistent or incorrect customer support.\r\n\r\n   -\r\n\r\n   Ownership/Structural Issues: The team overseeing the shared agents may\r\n   prioritize their own market’s performance, potentially to the detriment of\r\n   the other.\r\n\r\nNevertheless, as we explore the possibility of having a dedicated group of\r\npre-sales agents, we will consider combining operations and optimizing b"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\n\r\nApologies for the delay. Please find our responses to your queries in blue,\r\naligned with the respective teams.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   How do we measure for #3?\r\n   -\r\n\r\n   Shop CSAT is calculated as the weighted average of Chatbot CSAT and\r\n   Agent CSAT, based on the number of handled sessions by chatbot and agent\r\n\r\n\r\nSlide 4 <CB SCS Performance>\r\n\r\n   -\r\n\r\n   Seems like we really have big issues in PH and BR which are our 2\r\n   biggest markets, when will this be solved?\r\n\r"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\n\r\nApologies for the delay. Please find our responses to your queries in blue,\r\naligned with the respective teams.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   How do we measure for #3?\r\n   -\r\n\r\n   Shop CSAT is calculated as the weighted average of Chatbot CSAT and\r\n   Agent CSAT, based on the number of handled sessions by chatbot and agent\r\n\r\n\r\nSlide 4 <CB SCS Performance>\r\n\r\n   -\r\n\r\n   Seems like we really have big issues in PH and BR which are our 2\r\n   biggest markets, when will this be solved?\r\n\r"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\n\r\nApologies for the delay. Please find our responses to your queries in blue,\r\naligned with the respective teams.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   How do we measure for #3?\r\n   -\r\n\r\n   Shop CSAT is calculated as the weighted average of Chatbot CSAT and\r\n   Agent CSAT, based on the number of handled sessions by chatbot and agent\r\n\r\n\r\nSlide 4 <CB SCS Performance>\r\n\r\n   -\r\n\r\n   Seems like we really have big issues in PH and BR which are our 2\r\n   biggest markets, when will this be solved?\r\n\r"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\n\r\nApologies for the delay. Please find our responses to your queries in blue,\r\naligned with the respective teams.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   How do we measure for #3?\r\n   -\r\n\r\n   Shop CSAT is calculated as the weighted average of Chatbot CSAT and\r\n   Agent CSAT, based on the number of handled sessions by chatbot and agent\r\n\r\n\r\nSlide 4 <CB SCS Performance>\r\n\r\n   -\r\n\r\n   Seems like we really have big issues in PH and BR which are our 2\r\n   biggest markets, when will this be solved?\r\n\r"
+        }
+      ]
+    },
+    {
+      "turn": 14,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q58",
+          "question": "Capacity planning challenges – The rollout of the new chatbot"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Agent concurrency adjustment – In an effort to improve CSAT, maximum"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Staffing shortages – A recent loss of 6 agents due to resignations"
+        }
+      ]
+    },
+    {
+      "turn": 15,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q58",
+          "answer": "Case follow-ups\r\n      -\r\n\r\n         An inbound contact is received from the user during the day which\r\n         is responded to by the agent within the same day\r\n         -\r\n\r\n         However, the user issue is still not resolved and he/she follows\r\n         up on the same case a few days later\r\n         -\r\n\r\n         Agent responds to this query with an outbound contact to address\r\n         user’s follow-up concern/clarifications"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "*Enquiry during non-working hours*\r\n      -\r\n\r\n         An inbound contact is received from the user during late-night\r\n         hours when no agents are available/working. The inquiry is\r\nthen followed\r\n         up by an agent the next day as an outbound task.\r\n\r\nDo we have targets set for the respective businesses yet for the upcoming\r\nmonths?\r\n\r\n\r\n\r\nHow are we rolling this out for the other markets?\r\n\r\n   -\r\n\r\n   For Agent metrics, market level targets are not ready yet. We will\r\n   detail out and align on the monthly targets with all markets by next week.\r\n   -\r\n\r\n   For Chatbot metrics, we are awaiting the latest LLM model (expected in\r\n   May) to have a more accurate baseline for target setting before rolling out\r\n   to the markets\r\n\r\nWe’ve already launched a weekly dashboard tracking the performance of these\r\nmetrics. Starting next week, we’ll incorporate monthly targets into the\r\ndashboard to give local teams better visibility into MTD performance versus\r\nmonthly goals, enabling closer monitoring of their progress toward target\r\nachievement.\r\n\r\nNote that for local SCS/SBS, we've prioritized setting/aligning targets for\r\nSG and MY; we'll be able to provide this early next week.\r\n\r\n\r\nBest regards\r\nSteven Shi"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian\r\n\r\n\r\nOur response, highlighted in purple, is as follows\r\n\r\n\r\nSlide 9 <Individual Agent KPIs>\r\n\r\n   -\r\n\r\n   These agents are expected to perform outbound tasks?\r\n   -\r\n\r\n   Yes, agents are expected to conduct outbound follow-ups to address cases\r\n   that come in during off-hours. For MP CS, these are typically handled by\r\n   dedicated “email” agents or mitigated through 24/7 chat support. However,\r\n   since Shop CS doesn't have a similar agent type and a large portion of\r\n   cases require "
+        }
+      ]
+    },
+    {
+      "turn": 16,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q61",
+          "question": "*Case follow-ups*"
+        },
+        {
+          "question_id": "Q62",
+          "question": "*Enquiry during non-working hours*"
+        }
+      ]
+    },
+    {
+      "turn": 17,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q61",
+          "answer": "Metrics and Associated Considerations\r\n\r\nShopchat agents’ metrics are similar to that used for MP agents, with a few\r\nkey differences:\r\n\r\n\r\n   -\r\n\r\n   For MP agents, we measure handled productivity and solved productivity.\r\n   However, for Shopchat agents, there is no \"solved productivity\" concept.\r\n   Since outbound activity is considered part of their BAU (business-as-usual)\r\n   tasks, handled productivity is further split into inbound and outbound\r\n   productivity.\r\n   -\r\n\r\n   MP agents do not track a Pre-sale Conversion Rate, whereas Shopchat\r\n   agents do. The weightage for this metric can be adjusted based on the\r\n   agent’s role."
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Implementation\r\n\r\nApplicable for CB SCS, SIP, Local SCS/SBS:\r\n\r\nMilestone\r\n\r\nPhase 1:  Manual Bucketization and Scoring\r\n\r\nDone via Google Sheets, calculated on monthly basis\r\n\r\nPhase 2: System-Based Bucketization and Scoring\r\n\r\nIn-house system will automate process, allowing agents to view daily\r\nperformance and grading through online dashboard (akin to MP CS)\r\n\r\nCommunication to Local Teams\r\n\r\nIntroduction & briefing on shopchat bucketization on 13 Mar\r\n\r\nFeedback gathering from biz. owners\r\n\r\nShare manual bucketization working file and dashboard to business owners by\r\n30 April\r\n\r\nFinalise Product Requirement Documents (PRD) by 2 May\r\n\r\nTraining for Roll out\r\n\r\nConduct manual bucketization training by 9 May\r\n\r\nTentatively scheduled for Q3, with final timelines to be confirmed by May\r\nafter assessing development efforts.\r\n\r\nTarget setting\r\n\r\nTarget setting by biz owners by 16 May\r\n\r\nIncentive Plan\r\n\r\nPropose incentive plan by mid-May\r\n\r\nBPO Communication\r\n\r\nCommunicate to BPO agents May - Jun 2025\r\n\r\nActual Roll out\r\n\r\nJune/July 2025\r\n\r\n\r\nBest Regards\r\nSteven Shi"
+        }
+      ]
+    },
+    {
+      "turn": 18,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q63",
+          "question": "Thanks, has this been aligned with the business teams?"
+        }
+      ]
+    },
+    {
+      "turn": 19,
+      "from": "Shi Cong Steven",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian,\r\n\r\nYes, we've aligned with biz. teams for CB SBS, SIP, and local SCS/SBS for\r\nSG and MY.\r\n\r\nNote that in Phase 1 (Manual Bucketization and Scoring), MY local SCS/SBS\r\nwill use a simplified manual approach without separating inbound and\r\noutbound productivity, as they are launching ahead of the Reg CS\r\ninitiative on May 1 and have already communicated metrics and associated\r\ntargets to agents. Full alignment with the Reg CS framework is planned for\r\nPhase 2, once systemization is implemented in Q3.\r\n\r\nBest Regards\r\nSteven Shi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "thread-023",
+  "subject": "Mar-26 SIP monthly meeting",
+  "date": "2026-03-20",
+  "deck_filename": "SIP Monthly Meeting 20260323 - Discussion.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "user-growth",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "HI Ian, Jianghong, and all,\r\n\r\nPlease find pre-reads for the SIP monthly meeting on coming Monday.\r\n\r\n[image: image.png]\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "thanks\r\n\r\nslide 5 - 11\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- this is probably similar to SCS LFF model?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "and if we want to run 1 single\r\nshop, we should not have so many \"choice\" shops running in 1 market?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- the upside of 3K ado does not feel very high in the grand scheme of\r\nthings?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "and how are we accounting for the p&l of black stock (given that\r\nonce it leaves export market), we are probably responsible for it\r\n\r\nslide 13\r\n- we are over-achieving on skus and sellers vs targets but behind so much\r\non ADO?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "do we know why?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- is there a reason why ABS jumped by so much?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- on pricing, are we getting listing price (before/after discount from\r\nsellers) right now?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Can show me how we price for incu SKUs right now (the\r\nUE breakdown), i wonder why we need to lose up to 4 usd per order right now\r\njust to sell\r\n\r\nslide 16 - 19\r\n- we are not pushing for furniture?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- i remember we wanted to relook how we select, price, rebate dependent on\r\nwhether the assortment was unique to Shopee, where did we land on that\r\ninitiative?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- in general, i am not sure whether we are doing the right thing other than\r\njust increasing price and making the UE better. On whether we are selecting\r\nthe right assortment to list and push..\r\n\r\nslide 21 -22\r\n- i cannot reconcile the 2 tables here, can give me in monthly and annual\r\nfigures?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "and maybe we look at the next 3 months first. and what oil prices\r\nare we modelling for here?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have so many \"choice\" shops running in 1 market?\r\n\r\n\r\nYes, SIP LFF follows a consignment model similar to SCS.\r\n\r\n\r\nHowever, we propose a separate shop as SIP LFF operates on a different\r\nassortment and sourcing model.\r\n\r\n   -\r\n\r\n   Assortment/commercial strategy\r\n   -\r\n\r\n      Focus on SEA-sourced, unique / higher ABS SKUs\r\n      -\r\n\r\n      Requires different pricing, marketing, and budget allocation approach\r\n      -\r\n\r\n   Sourcing & operating model\r\n   -\r\n\r\n      Direct sourcing from fragmented SIP sellers (no existing\r\n      supply/inventory to leverage)\r\n      -\r\n\r\n      Leads to different supply chain setup, cadence, and SOPs\r\n      -\r\n\r\n   P&L optimization\r\n   -\r\n\r\n      Part of SIP seller P&L\r\n      -\r\n\r\n      Enable more targeted budget allocation and ROI optimization/synergy\r\n      -\r\n\r\n   GR/external considerations\r\n   -\r\n\r\n      Lower GR/PR sensitivity (esp. ID)\r\n      -\r\n\r\n      Higher likelihood of ASEAN government / export funding support\r\n\r\n\r\n- the upside of 3K ado does not feel very high in the grand scheme of\r\nthings? and how are we accounting for the p&l of black stock (given that\r\nonce it leaves export market), we are probably responsible for it\r\n\r\nYes the ~3k ADO upside is relatively small, driven by 1) limited SIP\r\naddressable pool; 2) expected low (~30%) seller onboarding rate due to\r\nfragmented base and consignment model.\r\n\r\nWhy we still propose to proceed\r\n\r\n   -\r\n\r\n   Strategic direction: Local fulfillment is a key platform shift; SIP as a\r\n   seller need"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "over 3 months\r\n   -\r\n\r\n   Acquisition aligned to SKU profile focus: CN MKT team focus acquisition\r\n   on unique and price-competitive SKUs\r\n\r\n\r\nWith this targeted investment approach focusing on quality SKUs, we expect\r\nto have better investment ROI. Next steps to 1) monitor topline and ROI; 2)\r\nautomate SKU profiling + investment process for all Swarm sellers/SKUs by\r\nApr.\r\n\r\n\r\nAppendix: Investment approach and target UE based on SKU profiles for\r\nrole-model building\r\n\r\n[image: image.png]\r\n\r\n\r\n- in general, i am not sure whether we are doing the right thing other than\r\njust increasing price and making the UE better. On whether we are selecting\r\nthe right assortment to list and push..\r\n\r\n\r\nWe are not relying on price alone, we are strengthening fundamentals to\r\nensure scalable, sustainable growth of Swarm business model, including\r\n\r\n   -\r\n\r\n   P&L discipline: Price at right level to restore healthy UE\r\n   -\r\n\r\n   Investment discipline: Focus spend on quality SKUs (unique /\r\n   price-competitive); limit investment/incubation duration to max 3 months\r\n   -\r\n\r\n   Seller quality improvement: reinforce seller co-investment with better\r\n   pricing and better SKUs; remove low-quality sellers with ops /\r\n   fulfillment issues\r\n   -\r\n\r\n   Targeted assortment strategy: Focus on acquiring quality SKUs that are\r\n   unique / price-competitive\r\n\r\n\r\nWith above measures in place, we have much better control on SKU quality,\r\ninvestment ROI, and P&L. We now have the right foundation to scale topline\r\nsustainably while ensuring P&L health.\r\n\r\n\r\n\r\nslide 21 -22 Chiong Zhi Ann <zhiann.chiong@shopee.com>\r\n\r\n- i cannot reconcile the 2 tables here, can give me in monthly and annual\r\nfigures? and maybe we look at the next 3 months first. and what oil prices\r\nare we modelling for here?\r\n\r\n\r\nModeling approach\r\n\r\n   -\r\n\r\n   FSC requested by airlines: $0.12-$0.20/kg, averaging ~$0.16/kg, which\r\n   translates to an $0.08 LH CPO increase\r\n   -\r\n\r\n   Monthly impact modeled based on CPO increase\r\n "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nThanks for your comments. Please find our responses below in *blue*.\r\n\r\nslide 5 - 11 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n- who takes ownership of the products once it leaves the seller and brought\r\nout export market?\r\n\r\n\r\nSeller retains ownership until sale; unsold inventory to be returned to\r\nseller via RTS\r\n\r\nThis is a consignment model, subject to legal/finance/tax clearance.\r\n\r\n\r\n- this is probably similar to SCS LFF model? and if we want to run 1 single\r\nshop, we should not have "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Slide 13: What are the things we did to increase ABS?\r\n\r\nSlide 23: Here all the price related changes are done by system mark up\r\nchange?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Jianghong,\r\n\r\nThanks for your comments. Pls find our responses below in blue.\r\n\r\nSlide 13: What are the things we did to increase ABS?\r\nPrimarily listing price increase across markets to restore OSP and ERP\r\nmature SKUs UE to breakeven.\r\n\r\nSlide 23: Here all the price related changes are done by system mark up\r\nchange?\r\nYes by system mark up change.\r\n\r\nOn Mon, 23 Mar 2026 at 03:18, Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        }
+      ]
+    }
+  ]
+}

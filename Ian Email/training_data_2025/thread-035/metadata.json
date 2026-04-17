@@ -1,0 +1,207 @@
+{
+  "id": "thread-035",
+  "subject": "[Pre-read] KR/JP Bi-weekly Update_250328",
+  "date": "2025-03-27",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20250328.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "supply-chain",
+    "regional",
+    "shopee",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Mayuko Kawata",
+      "Songie Song"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Songie Song",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find the attached deck for the KR/JP bi-weekly meeting tomorrow. Should\r\nyou have any questions, please let me know .Thank you!\r\n\r\n[image: image.png]\r\n\r\nbest,\r\n-- \r\n\r\n*Songie Song, 송송이*\r\n\r\nShopee | KR/JP Business Development (KR/JP SA + ICB)\r\n\r\n*Mobile:* +82 10 9174 0421\r\n\r\n*Address:* Centerfield West 16F, 231 Teheran-ro, Seoul, Korea\r\n\r\n[image: Mailsuite] Sent with Mailsuite  ·  Unsubscribe\r\n<https://mailsuite.com/en/privacy/opt-out/unsubscribe/5b9a24f54a5c2b38a7cb98602fd859e302a0e352/a8ee6e2e1a27d44d7021b74187d9aea35b7bf2efcb08e27a6510093b7903f5b8e17113d4970fc8bcefd6fe137852daa29d45d2b5ebfda5efbc23564d8079bc43>\r\n03/27/25, 11:39:09 PM"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Why does JP continue to drop MOM?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "The fraud issue should only affect\r\n   Feb?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "We should be growing from Feb onwards?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- What are we going to do to grow JP moving forward?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- Why are we missing P&L by so much?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Seems like our KRCB PC2% fell short\r\n   by quite a bit?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 10\r\n\r\n   - Maybe can go through this slide in more detail during the meeting on\r\n   how it will work\r\n   - How about Models with ADIS > 2?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- And what markets do we need to do this for?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "We probably do not need to\r\n   do this for SG/MY/PH markets right?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 12\r\n\r\n   - What is the key concern here?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "That the new vendor is unable to handle\r\n   so much at one go?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- How about transitioning from B to A over time?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Or are we able to get\r\n   the old vendor to give us new vendor rates?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Or get old vendor to reduce\r\n   pickup rates to make up the 700K USD difference?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Think quite significant in\r\n   general?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Slide 19\r\n\r\n   - When can we pitch first market to be VN/TH?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Instead of SG?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Feels very\r\n   odd the first market is Singapore\r\n   - Why do we need the commitment in the first place?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Mayuko Kawata",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Cell in grey - reseller, cell in green - LFF penetration% %> KR ‘25 Dec\r\n   penetration target, cell in red - LFF penetration% % <KR ‘25 Dec\r\n   penetration target\r\n\r\n\r\n\r\nSlide 25 Hyungi Lee <hyungi.lee@shopee.com>\r\n\r\nPlatform Video Supply Number View\r\n\r\nRegarding the march platform video supply 59% of the numbers are coming\r\nfrom KOL UGCs but with markets with low KOL supplies SG TW majority is\r\ncoming from ‘sellers’ or ‘Others(User, Bot, Untracked)’ > Most of ‘others’\r\nare TT sync of KOLs that are posting contents overall\r\n\r\n\r\nmarkets are more to KOLs in terms of video supply\r\n\r\n\r\n*For KR seller origin video supply view, currently we can only extract data\r\nbased on video supply # number with GMV 0< performance for KRCB sellers, so\r\ncannot be aligned with the current regional table above which can deliver\r\nwrong information in terms of video supply for KR view, currently working\r\nwith CNCB on the seller origin tables based on item matching.\r\n\r\n[image: image.png]\r\n[image: image.png]\r\n\r\n\r\nVideo GMV Weightage\r\n\r\nRegional platform numbers 78% of the gmv is coming from KOL videos however\r\nthe weightage of the seller videos is becoming higher in platform, since MY\r\nTH PH VN is aiming for the video pc2% neutral in Q2, which has risks in\r\nterms of KOL video supply #  & efficiency due to limiting shp supported\r\naffiliate commission costs and PRM etc.\r\n\r\nSince KR has its video growth driver for video by KOLs, to risk hedge the\r\nsituation we also need input in terms of seller video supplies also, as\r\nthere are cut offs PRM and SHP supported commissions, that were happening\r\nalready from March.\r\n\r\nAs pdp sync, is a low hanging fruit which is a success for SG &  TW  in\r\nterms of GMV, but this is assuming a low baseline. A low hanging fruit but\r\nnot impactful in terms of end Video GMV, as other markets PDP gmv total is\r\n1~2% of the total video ADG.\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\n[Appendix] KRCB Video GMV source Type\r\n\r\nOn the other hand, KR is skewed to KOL videos at 90% weightage"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\nThank you\r\n\r\n*[Mar 14, 2025]*\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   -\r\n\r\n   For this top 20 LSR sellers, can you provide LFF penetration per seller\r\n   and our action plan to increase LFF penetration and/or manage LSR?\r\n\r\n-> Can, please refer to table below. There will be 2 separate approaches in\r\nreducing LS"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q19",
+          "question": "This is not very good right?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Our TW ADO (after) is similar to Sep’24\r\nnumbers..\r\n\r\n\r\n\r\nI do not really look much at targets right now because I am not sure how it\r\nis set. But it is quite clear to me that at this stage of the business,\r\nbecause it is so small, we should be growing every month.\r\n\r\n\r\n\r\nAs long as we have more sellers, more skus, we will definitely grow. But it\r\ndoes not seem like the case right now and I am not quite sure why\r\n\r\n\r\n\r\n*From:* Mayuko Kawata <mayuko.kawata@shopee.com>\r\n*Sent:* Thursday, 3 April 2025 9:03 pm\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* Songie Song <songie.song@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>;\r\nAshley Liang <ashley.liangsq@shopee.com>; Haenle Suh <haenle.suh@shopee.com>;\r\nHelena Choi <helena.choi@shopee.com>; Hyolim Kang <hyolim.kang@shopee.com>;\r\nXiaolin Huang <xiaolin.huang@shopee.com>; Yebin Ju <yebin.ju@shopee.com>;\r\nYu Cheng <yu.cheng@shopee.com>; Ashley Yang <ashley.yang@shopee.com>;\r\nJaeeun Park <jaeeun.park@shopee.com>; Kaiwen Zhang <kaiwen.zhang@shopee.com>;\r\nShuning Wang <shuning.wang@shopee.com>; Adelline Ta Suet Yee <\r\nadelline.tasy@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>; Chi\r\nTran Linh <chi.tranlinh@shopee.com>; Chowon Yun <chowon.yun@shopee.com>;\r\nEmily Xia Yingying <emily.xiayy@shopee.com>; Faye Yan <faye.yan@shopee.com>;\r\nHongkeun Park <hongkeun.park@shopee.com>; Lisa <hongngoc.bui@shopee.com>;\r\nHyeonju Yi <hyeonju.yi@shopee.com>; Hyungi Lee <hyungi.lee@shopee.com>;\r\nJacqueryn Phang Xin Ying <jacqueryn.phangxy@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Jeha Kim <jeha.kim@shopee.com>; Jenny Law <\r\njenny.law@shopee.com>; Jessica Jacinda <jessica.jacinda@shopee.com>; Hui\r\nJin <jinh@sea.com>; Joanne Lee <joanne.lee@shopee.com>; Jorell Eric Garcia <\r\njorell.garcia@shopee.com>; Jules Zhao <jules.zhao@shopee.com>; Junwan Tak <\r\njunwan.tak@shopee.com>; Kay Yuen Ong <kayyuen.ong@shopee.com>; Keith Huang <\r\nkeith.huang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; kexin hong <\r\nkexin.hong@shopee.com>; Kim John Santos <kim.santos@shopee.com>; Kristina\r\nPaula Pablo <kristina.pablo@shopee.com>; Li Feng <li.feng@shopee.com>; Max\r\nGoh Shi Long <max.gohsl@shopee.com>; Nessa Pang <nessa.pang@shopee.com>;\r\nNuttamon Assawaprapakul <nut.assawapr@shopee.com>; Summer Nguyen <\r\nphuonganh.nguyenxuan@shopee.com>; Jiahui Ren <renjh@sea.com>; Sian Ting Loo\r\n<sianting.loo@shopee.com>; Son Pham <son.pham@shopee.com>; Soohan Park <\r\nsoohan.park@shopee.com>; Tiffany Jin <tiffany.jin@shopee.com>; Tina Lee <\r\ntina.leeyt@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Yuxuan\r\nNg <yuxuan.ng@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>\r\n*Subject:* Re: [Pre-read] KR/JP Bi-weekly Update_250328\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\nPlease find the follow up to the question raised in the March 14th and\r\nMarch 28th meetings, in green text below:\r\n\r\n\r\nThank you\r\n\r\n\r\n\r\n*[Mar 14, 2025]*\r\n\r\nSlide 21 Haenle Suh <haenle.suh@shopee.com>\r\n\r\nFollow up on your question during the meeting\r\n\r\n   - For this top 20 LSR sellers, can you provide LFF penetration per\r\n   seller and our action plan to increase LFF penetration and/or manage LSR?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "thread-027",
+  "subject": "Mar SIP monthly meeting - pre-reads",
+  "date": "2025-03-10",
+  "deck_filename": "SIP Monthly Meeting 20250311_Pre-reads.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "regional",
+    "shopee",
+    "hiring",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang",
+      "Wei Qiang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find attached monthly SIP meeting doc for our discussion at 2.30pm tmr.\r\nThanks a lot!\r\n\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find next-steps from the discussion today\r\n\r\n# Topic Action item PIC ETA\r\n1 SIP CS Revert on SIP CS ST proposal for IDMY, MYSG, and IDPH Qiang Wei /\r\nGreg 19 Mar\r\n2 SIP Video Check cost and ROI of SCS videos by agencies, and conclude if\r\nSIP would like to engage agencies for video production Zhang Yu 14 Mar\r\n(weekly email)\r\n3 TB fashion Revise comparison versus TB fashion, not limit to direct\r\nshipping Nicholas 14 Mar (weekly email)\r\n4 TB fashion Update separately on TW counter TB fashion plan Ashley /\r\nShuning 17 Mar by email\r\n5 TB furniture Add the plan to expand acquisition to CB furniture sellers\r\nwith counter TB SKUs (not only TB sellers) Nicholas 14 Mar (weekly email)\r\n6 SIP P&L Add combined P&L projection in performance dashboard (the last\r\nversion submitted to CB commercial) Steven Immediate"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Wei Qiang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nFollowing up on Action item #1 from the March SIP Monthly meeting, please\r\nfind the SIP CS Plan in the attached PDF.\r\n\r\nThanks"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\n+@Eric Bui <eric.bui@shopee.com>\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - How does the reporting line work right now?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "I think that needs to be\r\n   fixed regardless of what option we choose. The business team managing it\r\n   has to be in charged of the team of agents.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - To handle SIP chats, what language proficiency does 1 require?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- For the long term, I am not sure we considered things like language,\r\n   ability to hire etc?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "I am not convinced with our long term recommendation\r\n   in general\r\n   - For the short- term, what do we need to fix?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Lane by lane?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "And\r\n   timeline?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 5\r\n\r\n   - Not quite sure what we are going to do and when?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Especially for the\r\n   chatbot support for the 5 key lanes..\r\n   - And what is the expectation over time in terms of CSAT, Deflection\r\n   Rate, Conversion improvement?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "FYI\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Wei Qiang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian，\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   How does the reporting line work right now? I think that needs to be\r\n   fixed regardless of what option we choose. The business team managing it\r\n   has to be in charge of the team of agents.\r\n   -\r\n\r\n      As-is reporting situation\r\n      -\r\n\r\n         Currently, agents handling SIP chats report to local operations,\r\n         not SIP. Current reporting structure: Local Market Agent >\r\nLocal Team Leads\r\n         -\r\n\r\n         SIP does not have direct authority over agent management but only\r\n         oversees SIP CS performance\r\n\r\n\r\n   -\r\n\r\n   To be: SIP to consider:\r\n   -\r\n\r\n      Agent location: 1) consolidate into 1 location vs 2-3 locations; 2)\r\n      location choice (e.g., ID/PH/MY, etc.)\r\n      -\r\n\r\n      Agent reporting line: report to SIP OPS team\r\n      -\r\n\r\n   Next Step: work with Reg ops / local ops team on plan with\r\n   considerations: (ETA: mid April to update in sip monthly meeting)\r\n   -\r\n\r\n      Agent availability / challenge to hire / local policy risks\r\n      -\r\n\r\n      Agent quality/language proficiency\r\n      -\r\n\r\n      Cost/efficiency impact\r\n      -\r\n\r\n      Team management considerations\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   To handle SIP chats, what language proficiency does 1 require?\r\n   -\r\n\r\n      Buyer language in each A market\r\n      -\r\n\r\n         SG: 100% English\r\n         -\r\n\r\n         MY:  50% Malay, 50% English\r\n         -\r\n\r\n         Other markets (VN/TH/PH/TW/Latam): local language\r\n         -\r\n\r\n      On top of hiring agents proficient in above languages, we have also\r\n      existing/upcoming translation tool to support\r\n      -\r\n\r\n         Existing tool (for CB SCS): translate between local language and\r\n         English, CB SCS CSAT 70%+, to support agents speaking\r\nEnglish/local language\r\n         -\r\n\r\n         Upcoming tool: translate between local language and\r\n         English/Bahasa, which can enable hiring extension to agents\r\nspeaking Bahasa\r\n         [ETA: Q3]\r\n\r\n\r\n\r\n   -\r\n\r\n   For the long term, I"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q9",
+          "question": "Can come back with a better end to end proposal?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Problems, Short term fix,\r\nlong term fix, how we are tracking it etc.\r\n\r\n\r\n\r\nRight now, I am not convinced that we thought this through properly..\r\n\r\n\r\n\r\nWhen can this be done?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*From:* Wei Qiang <wei.qiang@shopee.com>\r\n*Sent:* Monday, 24 March 2025 8:24 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Eric Bui <eric.bui@shopee.com>; Cuiwei Sun <cuiwei.sun@shopee.com>;\r\nJianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Yu Zhang <\r\nyu.zhang@shopee.com>; Steven Liu <steven.liusk@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Joe\r\nLi <joe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Grzegorz Koblanski <greg.koblanski@shopee.com>;\r\nAshley Liang <ashley.liangsq@shopee.com>\r\n*Subject:* Re: Mar SIP monthly meeting - pre-reads\r\n\r\n\r\n\r\nHi Ian，\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - How does the reporting line work right now?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "I think that needs to be\r\n   fixed regardless of what option we choose. The business team managing it\r\n   has to be in charge of the team of agents.\r\n\r\n\r\n   - *As-is* reporting situation\r\n\r\n\r\n   - Currently, agents handling SIP chats report to local operations, not\r\n         SIP. Current reporting structure: Local Market Agent > Local\r\nTeam Leads >\r\n         Local Market M/SPV > Local Market Ops Head\r\n         - SIP does not have direct authority over agent management but\r\n         only oversees SIP CS performance\r\n\r\n·       *To be*: SIP to consider:\r\n\r\no   *Agent location*: 1) consolidate into 1 location vs 2-3 locations; 2)\r\nlocation choice (e.g., ID/PH/MY, etc.)\r\n\r\no   *Agent reporting* *line*: report to SIP OPS team\r\n\r\n·       *Next Step*: work with Reg ops / local ops team on plan with\r\nconsiderations: (ETA: mid April to update in sip monthly meeting)\r\n\r\no   Agent availability / challenge to hire / local policy risks\r\n\r\no   Agent quality/language proficiency\r\n\r\no   Cost/efficiency impact\r\n\r\no   Team management considerations\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - To handle SIP chats, what language proficiency does 1 require?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- Buyer language in each A market\r\n\r\n\r\n   - SG: 100% English\r\n         - MY:  50% Malay, 50% English\r\n         - Other markets (VN/TH/PH/TW/Latam): local language\r\n\r\n\r\n   - On top of hiring agents proficient in above languages, we have also\r\n      existing/upcoming translation tool to support\r\n\r\n\r\n   - Existing tool (for CB SCS): translate between local language and\r\n         English, CB SCS CSAT 70%+, to support agents speaking\r\nEnglish/local language\r\n         - Upcoming tool: translate between local language and\r\n         English/Bahasa, which can enable hiring extension to agents\r\nspeaking Bahasa\r\n         [ETA: Q3]\r\n\r\n\r\n\r\n   - For the long term, I am not sure we considered things like language,\r\n   ability to hire etc?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "I am not convinced with our long term recommendation\r\n   in general\r\n\r\n\r\n   - Noted. We will come back on long-term plan as mentioned above in the\r\n      1st question\r\n\r\n\r\n   - For the short- term, what do we need to fix?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Lane by lane?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "And the\r\n   timeline?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- In the short term, we will address key issues affecting agent\r\n      performance, including CSAT, productivity, and abandonment rate, by CS\r\n      location markets, covering top 5 lanes\r\n\r\n§  All import lanes to SG + all import lanes to MY (including MYSG, VNMY):\r\nimprove CSAT [ETA 10 Apr]\r\n\r\n§  All import lanes to PH: Enhance productivity [ETA 3 Apr]\r\n\r\n§  All export lanes from ID (including IDSG, IDMY, IDPH): Reduce high\r\nabandonment rate [ETA 11 Apr]\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Not quite sure what we are going to do and when?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Especially for the\r\n   chatbot support for the 5 key lanes..\r\n\r\n\r\n   - We will roll out NLU+LLM model to top 5 lanes and all SIP lanes in 4\r\n      phases\r\n\r\n\r\n   - *Mid April:* conduct A/B testing vs current NLU model for all mkts\r\n         - *End April:* Fix issues during A/B testing, roll out the new\r\n         model to all shops across all SIP lanes\r\n         - *Q2*: upgrade SIP chatbot to include upselling and cross-selling\r\n         functionalities\r\n\r\n\r\n\r\n   - And what is the expectation over time in terms of CSAT, Deflection\r\n   Rate, Conversion improvement?"
+        }
+      ]
+    }
+  ]
+}

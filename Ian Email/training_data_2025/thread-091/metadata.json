@@ -1,0 +1,140 @@
+{
+  "id": "thread-091",
+  "subject": "SIP Weekly Update - Week ending 29 Aug",
+  "date": "2025-08-31",
+  "deck_filename": "SIP CS weekly update -20250829.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "product-launch",
+    "pricing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 27 Aug)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Follow-up from Chris meeting] Clarification of SIP P&L - refer to email\r\n   sent by Faye; email title: “SIP seller P&L and EBITDA explaination_20250828”\r\n   2.\r\n\r\n   Topline: ADO 208k (107% RR, CB%+0.5pp MoM), ADG $2.1M (105% RR, CB%+0.5pp\r\n   MoM).\r\n   1.\r\n\r\n      WH cross-selling ADG 91% RR, ADG CB% 90% RR, due to ABS missing\r\n      target: CB choice ADO outperformed with low ABS ($4), while local FBS\r\n      missed ADO target with high ABS ($10).\r\n      3.\r\n\r\n   Seller/standalone P&L: $275k, +$752k vs target, +$193k MoM.\r\n   1.\r\n\r\n      CNSIP seller P&L -$28,256 vs target, -$17,012 vs Jul, due to\r\n      new-to-market 3-month commission waiver higher than expected due\r\nto topline\r\n      outperformance; commission waiver booked as cost in CNSIP seller P&L\r\n      (instead of foregone revenue in MP PC2) due to ops challenge to\r\nset waiver\r\n      for large amount of CNSIP shops in the system\r\n      2.\r\n\r\n      Revise seller/standalone P&L target to breakeven from Sep-25 onwards\r\n\r\n\r\n\r\nAs-is (till Aug-25)\r\n\r\nTo-be (Sep-25 onwards)\r\n\r\nLocal SIP\r\n\r\nOverall: breakeven except MYSG\r\n\r\nMYSG: -3%\r\n\r\nMYTH/MYPH: breakeven\r\n\r\nOther export market each: breakeven\r\n\r\n(Change: MYSG to breakeven)\r\n\r\nOverall: breakeven\r\n\r\nEach export market: breakeven\r\n\r\nCNSIP\r\n\r\nOverall: breakeven\r\n\r\nSEA+TW overall: breakeven\r\n\r\nBR/CO/CL/MX each: breakeven\r\n\r\n(No change)\r\n\r\nOverall: breakeven\r\n\r\nSEA+TW overall: breakeven\r\n\r\nBR/CO/CL/MX each: breakeven\r\n\r\n\r\n   4.\r\n\r\n   Combined PC2 at Shopee level: $4.81M, +$1.13M vs target, +$0.60M MoM.\r\n   1.\r\n\r\n      Local SIP MP PC2 -$40,943 vs target, due to paid ads underspending\r\n      leading to lower MP ads revenue\r\n\r\n\r\nB/ Regional direct selling (as of 29 Aug)\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   Overall ADO/ADG/seller/SKU 98%/95%/125%/137% RR; next step regional\r\n   priority to 1) complete R1 mass pitching to all target sellers; 2) support\r\n   top 100 local seller acqui"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*Revise seller/standalone P&L target to breakeven from Sep-25 onwards*"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*VNMY* ADO/ADG/seller/SKU 89%/132%/165%/181% RR, next step to push"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*IDMY* ADO/ADG/seller/SKU 102%/148%/257%/261% RR, next step to revise"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[Follow-up from Chris meeting] Clarification of SIP P&L - refer to"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Topline: ADO *208k* (107% RR, CB%+0.5pp MoM), ADG *$2.1M* (105% RR,"
+        },
+        {
+          "question_id": "Q6",
+          "question": "WH cross-selling ADG 91% RR, ADG CB% 90% RR, due to ABS missing"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Seller/standalone P&L: *$275k*, +$752k vs target, +$193k MoM."
+        },
+        {
+          "question_id": "Q8",
+          "question": "CNSIP seller P&L -$28,256 vs target, -$17,012 vs Jul, due to"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*Revise seller/standalone P&L target to breakeven from Sep-25 onwards*"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Combined PC2 at Shopee level: *$4.81M*, +$1.13M vs target,"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*Overall *ADO/ADG/seller/SKU 98%/95%/125%/137% RR; next step regional"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*MYSG* ADO/ADG/seller/SKU 98%/95%/87%/96% RR, mainly due to seller"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*VNMY* ADO/ADG/seller/SKU 89%/132%/165%/181% RR, next step to push"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*IDMY* ADO/ADG/seller/SKU 102%/148%/257%/261% RR, next step to revise"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*Soft-launched*: VNSG/VNPH (27 Aug)"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*Upcoming launches*: IDSG/IDPH/THPH (1 Sep), MYTH/MYPH (20 Sep)"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*[SIP Aug monthly meeting follow up] Align definition of “abandonment"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*SIP CS performance by location:* refer to pdf attachment"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*SIP CS relocation to PH (Aug-Nov)*"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Top 10 lanes hitting target, with VNPH has higher MoM increment due"
+        },
+        {
+          "question_id": "Q21",
+          "question": "#3* Direct selling payment auto payout to local wallet*: Live testing"
+        },
+        {
+          "question_id": "Q22",
+          "question": "#6 *Direct selling sync discounted price to Direct SKUs*: Go-live ETA"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#13 *SIP listing limit enhancement*: Listing validation for SIP shop"
+        },
+        {
+          "question_id": "Q24",
+          "question": "#17 *MYSG SIP bulky channel:* Live testing completed, biz rollout ETA"
+        },
+        {
+          "question_id": "Q25",
+          "question": "#21 *Force update P order to cancelled (closing cancellation fraud"
+        }
+      ]
+    }
+  ]
+}

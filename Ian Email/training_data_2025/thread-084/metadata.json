@@ -1,0 +1,565 @@
+{
+  "id": "thread-084",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.08.13",
+  "date": "2025-08-12",
+  "deck_filename": "SCS & Lovito & warehouse business update_2025.08.13.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "team-performance",
+    "growth",
+    "marketing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du",
+      "Roger Yao"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito, and warehouse for\r\nour discussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Roger Yao",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nKindly find attached material for below additional topics for our\r\ndiscussion tomorrow. Thank you!\r\n\r\n   - CB SCS X MINISO collaboration\r\n   - AI translation refinement\r\n\r\n\r\nBest,\r\nRoger"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   - How did this collaboration come about?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- Is Miniso already selling on Shopee platform?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Why do they want to explore this model vs just self operate on Shopee?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "How are they operating on other platforms right now?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- Can we see how the P&L would look like?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "We need to budget with and\r\n   without the platform discounts\r\n   - Do we see this as a short term collaboration?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Where they learn and\r\n   then do it themselves in future?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Or they will want to use this model for\r\n   long term?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q9",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - For the topline, do we have a view broken down by markets?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "I want to\r\n   see which are affected more/less\r\n   - Seems like our UE got quite a bit worse cause by drop in revenue per\r\n   order?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Any sense why?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- So boosting has been removed 100%?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "We are now treated similarly to\r\n   every seller?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 9\r\n\r\n   - What is the guideline that we are setting for ourselves in PO listing\r\n   %?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- What is #5 about?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "I understand we recently tighten the DTS rules for\r\n   CN CB sellers, how will this affect our JIT operations?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 11\r\n\r\n   - A bit hard for me to understand right now\r\n      - How many models do we have in total?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "- How many will be JIT?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- How many will be PO?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "(Assuming not all JIT will be put in PO)\r\n      - How many will be VMI?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- And how do we see this evolving?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "- Maybe can split by existing and new listings to get a clear view\r\n   - Can remind me on what is the criteria for us to go from JIT >> VMI?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "What is the success rate of that happening right now?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Slide 15\r\n\r\n   - So in general, PO is not good?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- Why is there such a big difference between average listing price and\r\n   ASP?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Slide 16\r\n\r\n   - Not sure what this is trying to say, maybe can go through\r\n\r\n\r\n\r\nSlide 18\r\n\r\n   - For our high price items, are they covered under SPU?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Slide 19\r\n\r\n   - Why do we look at Top 20 Grocery Store CB sellers here as comparison?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Slide 20\r\n\r\n   - For the 2688 not from pool, how will we be selecting these products?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "- I do not understand the % very well in this table, not sure what they\r\n   add up to\r\n\r\n\r\n\r\nSlide 21\r\n\r\n   - Is this cumulative numbers?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Or monthly?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- We listed way more products in July compared to past months?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Because\r\n   of JIT?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Slide 23\r\n\r\n   - If UST sellers ASP is similar to us, why are they able to be more\r\n   profitable than us?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 27\r\n\r\n   - For sellers like that, we will move them back to VMI?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Slide 28\r\n\r\n   - Where would such sellers be selling on normally?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "And what is their\r\n   business model?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "Slide 29\r\n\r\n   - We believe that one source of JIT suppliers are our CB sellers, why do\r\n   we think so?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Slide 35\r\n\r\n   - So what are next steps for #2?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Is it worth doing?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Slide 42\r\n\r\n   - Think we shall find other ways to sell high ASP products. For Miniso,\r\n   what do we expect their ASP to be?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Slide 46\r\n\r\n   - We can set up local WH in VN?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "How will we do that?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Or are we referring\r\n   to NN WH?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- When are we going into 3PF for VN?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "How big do we expect that to be?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Slide 57\r\n\r\n   - Why is the impact to Lovito so big?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Slide 60\r\n\r\n   - How is ROI calculated here?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Slide 61\r\n\r\n   - What is the difference between a and b here?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "Slide 62\r\n\r\n   - How do they use old products and push?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Do they change the label to her\r\n   name?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "But use same product?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Or make tweaks to the product?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "- Did the celebrity had any input to the design?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Or she just land her\r\n   name to the campaign/label?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "Slide 64\r\n\r\n   - Will there be commissions sharing with them?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "Slide 65\r\n\r\n   - I still struggle to understand how this is different from our usual\r\n   KOL collaboration?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Slide 75\r\n\r\n   - Our ABS seem to be dropping even though we want to push higher ASP\r\n   products?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "- What are our growth levers for Lovito moving forward?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Business seem\r\n   very small right now\r\n\r\n\r\n\r\nSlide 89\r\n\r\n   - FBS here still feels very small overall?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "I thought we shortened the\r\n   DTS for CB sellers to 1?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "Did that help in our pitching?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "we switched to automatic price-follow strategy to gain more traffic by\r\n   being the cheapest after PID boosting removal and"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "we increased seller rebate on high ASP assortments to push sales of high\r\n   ASP products.\r\n\r\nWe will closely monitor and balance UE and ADO, in order to maximize seller\r\nprofit\r\n\r\n   -\r\n\r\n   So boosting has been removed 100%? We are now treated similarly to every\r\n   seller?\r\n\r\nYes\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   What is the guideline that we are setting for ourselves in PO listing %?\r\n\r\n\r\nOverall PO listing % cannot exceed 10%, need to balance the pacing between\r\nnew listing and delisting.\r\n\r\n\r\nPO, seen as resource, will be prioritized and allocated more to the\r\ncategories which see higher convert-to-VMI %\r\n\r\n\r\n\r\n   -\r\n\r\n   What is #5 about? I understand we recently tightened the DTS rules for\r\n   CN CB sellers, how will this affect our JIT operations?\r\n\r\n\r\nFrom 8/18, DTS for non PO orders will shorten from 2 days to 1 day, and\r\ndoes not impact PO orders. We evaluate NFR/LSR impact on our business in\r\npage 13 - basically no impact to NFR/LSR\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   -\r\n\r\n   A bit hard for me to understand right now\r\n   -\r\n\r\n      How many models do we have in total?\r\n      -\r\n\r\n      How many will be JIT?\r\n      -\r\n\r\n      How many will be PO? (Assuming not all JIT will be put in PO)\r\n      -\r\n\r\n      How many will be VMI?\r\n      -\r\n\r\n      And how do we see this evolving?\r\n      -\r\n\r\n      Maybe can split by existing and new listings to get a clear view\r\n\r\n\r\n\r\nModel status is summarized as below:\r\n\r\n   -\r\n\r\n   We have 383k models in total\r\n   -\r\n\r\n   14% are JIT and 86% are VMI\r\n   -\r\n\r\n   Model PO% is 15% in total (JIT PO% is 14; besides JIT, we also have PO\r\n   set for OOS models)\r\n   -\r\n\r\n   Listing PO% is 10% in total (JIT PO % is 7% )\r\n\r\n\r\n   -\r\n\r\n   Can remind me on what is the criteria for us to go from JIT >> VMI? 1\r\n   ADO? What is the success rate of that happening right now?\r\n\r\n\r\nCurrent criteria: L7D adi>=0.35 which aligns with the warehouse standard\r\n\r\nFuture criteria: to set up by L2 sales criteria to better balance\r\nshort-tail and long-tail categories\r\n\r"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "spu coverage leadtime as well as"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "our big volume of seller nominations which platform may not have same\r\nproduct\r\n\r\n\r\n\r\nSlide 19\r\n\r\n   -\r\n\r\n   Why do we look at Top 20 Grocery Store CB sellers here as comparison?\r\n\r\nGrocery store here meaning stores selling assortments from all categories,\r\nrather than conventional terms of FMCG.\r\n\r\nThey are like-a-like reference as our SCS shops, which sell assortments\r\nfrom all categories..\r\n\r\n\r\n\r\n\r\nSlide 20\r\n\r\n   -\r\n\r\n   For the 2688 not from pool, how will we be selecting these products?\r\n\r\n\r\nThe assortment planning team has prepared a CB by L2 high GMV efficiency\r\nassortments details for models >=20RMB. Based on these information, buyers\r\nwill provide guidance regarding high-performing high-priced assortment to\r\nsellers in seller nominations guide.\r\n\r\n\r\nFMCG example\r\n\r\n\r\n\r\n\r\n   -\r\n\r\n   I do not understand the % very well in this table, not sure what they\r\n   add up to\r\n\r\n\r\n\r\nThe denominator is the total new models target\r\n\r\n\r\nSlide 21\r\n\r\n   -\r\n\r\n   Is this cumulative numbers? Or monthly?\r\n\r\n\r\nWe have both monthly and cumulative numbers in this chart\r\n\r\n\r\n\r\n   -\r\n\r\n   We listed way more products in July compared to past months? Because of\r\n   JIT?\r\n\r\n\r\n\r\nYes, because we open up seller nominations via JIT\r\n\r\n\r\nSlide 23\r\n\r\n   -\r\n\r\n   If UST sellers ASP is similar to us, why are they able to be more\r\n   profitable than us?"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Not necessary the same product; overall SCS assortment is more\r\n   short-tail and UST is more long-tail with higher markup. Therefore SCS\r\n   assortment has higher price competitiveness"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Shopee operating model (铺货 multiple duplications) spend much less ads\r\n   than us. (<1% vs ~7% revenue in fully loaded view)"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Lower fix costs (manpower, warehouse), specially USTs are selling via\r\n   many other channels, besides Shopee, to dilute their fixed cost.\r\n\r\n\r\n\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   -\r\n\r\n   For sellers like that, we will move them back to VMI?\r\n\r\n\r\nWe will continue to ask them to nominate more skus through JIT (if they do\r\nnot have models in sourcing pool)"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "For skus meet the sales threshold: convert to VMI"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "For skus not performing well: delist"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "In addition, for sellers who are only willing to do VMI, we will offer\r\nthem quick-in quick out model (快进快出VMI)"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "They could also choose to ship directly to SOC once the feature is ready\r\n(expected in Nov)\r\n\r\n\r\n\r\nSlide 28\r\n\r\n   -\r\n\r\n   Where would such sellers be selling normally? And what is their business\r\n   model?\r\n\r\n\r\nThese sellers are usually factories / factory-trader, we usually have\r\nmultiple sourcing method:\r\n\r\n   -\r\n\r\n   竞品供应商挖掘\r\n   -\r\n\r\n   1688供应商挖掘\r\n   -\r\n\r\n   淘天大麦挖掘\r\n   -\r\n\r\n   产业带扫街\r\n\r\n\r\nFor this specific seller, itis an eyelashes factory with an annual value of\r\n50 million RMB. About 80% of the products are exported to US and EU (B2B\r\nmodel), and 20% to mainland China. The majority are OEM.\r\n\r\nStarting from this year, the supplier started to run its own operations\r\n(B2C model), and established a team of 7-8 ppl in Shenzhen. Currently,\r\n\r\n   -\r\n\r\n   self-owned Shopee shop (SEA): > 1000 ado\r\n   -\r\n\r\n   Tiktok SEA shop: 200 orders\r\n   -\r\n\r\n   SCS model: just started one month ago: > 20 orders\r\n\r\n\r\n\r\nSlide 29\r\n\r\n   -\r\n\r\n   We believe that one source of JIT suppliers are our CB sellers, why do\r\n   we think so?\r\n\r\n\r\nSuppliers who are potentially doing good in JIT are those with capabilities:\r\n\r\n   -\r\n\r\n   盘货能力\r\n   -\r\n\r\n   上新能力\r\n   -\r\n\r\n   小单发货能力\r\n\r\nHalf of successful SCS JIT sellers are CB MP sellers.\r\n\r\n\r\n\r\nSlide 35\r\n\r\n   -\r\n\r\n   So what are next steps for #2? Is it worth doing?\r\n\r\n\r\n   -\r\n\r\n   To add these models into buybox, S&R asks CB SCS to provide manpower\r\n   capacity for precision annotation\r\n   -\r\n\r\n   We estimate that 120 mandays will be needed to complete the annotation\r\n   for all 12K models\r\n   -\r\n\r\n   Considering manpower constraints, we will prioritize those models that\r\n   can be buybox cheapest (~1K models)\r\n\r\nSlide 42\r\n\r\n   -\r\n\r\n   Think we shall find other ways to sell high ASP products. For Miniso,\r\n   what do we expect their ASP to be?\r\n   -\r\n\r\n   Current Miniso CB shop’s ASP is ~8-10USD, mainly 潮玩\r\n\r\n\r\n\r\nSlide 46\r\n\r\n   -\r\n\r\n   We can set up local WH in VN? How will we do that? Or are we referring\r\n   to NN WH?\r\n\r\nLocal WH指在VN Shopee官方仓，非NNWH。我们需"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "从大盘中选择市场验证过的老爆品，联名是通过Annita来重新包装这些爆品，以实现销量和品牌宣传的平衡"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "联合设计师按照Anitta的要求定制新品，强调环保概念，面料全部用环保材料，销量一般，以品宣为主\r\n\r\n\r\n\r\nSlide 62\r\n\r\n   -\r\n\r\n   How do they use old products and push? Do they change the label to her\r\n   name? But use same product? Or make tweaks to the product?t?\r\n   -\r\n\r\n   Did the celebrity had any input to the design? Or she just land her name\r\n   to the campaign/label?\r\n\r\nFor a\r\n\r\n   -\r\n\r\n   Anitta will pick the products but will not be involved in the design\r\n   process\r\n   -\r\n\r\n   They just keep the original listing but refresh the titles and images,\r\n   e.g., adding “SheinX x Annita’s edit” on the PDP image.\r\n   -\r\n\r\n   For the product design, no significant change, but some minor upgrades\r\n   on materials for better quality\r\n\r\n\r\nFor b\r\n\r\n   -\r\n\r\n   Anitta will input her ideas and preferred design elements into the\r\n   designs, and based on these, designers will launch new assortments based on\r\n   her input\r\n\r\n\r\n\r\nSlide 64\r\n\r\n   -\r\n\r\n   Will there be commissions sharing with them?\r\n\r\n\r\n   -\r\n\r\n   Still in discussion. Revenue sharing will be an option for the deal\r\n   structure.\r\n\r\n\r\n\r\nSlide 65\r\n\r\n   -\r\n\r\n   I still struggle to understand how this is different from our usual KOL\r\n   collaboration?\r\n\r\nKey differences vs usual KOL collaboration: 1) Higher KOL tier, 2) More KOL\r\nparticipation 3) More Lovito investment (Can refer to the table below)\r\n\r\n\r\n\r\n\r\nSlide 75\r\n\r\n   -\r\n\r\n   Our ABS seem to be dropping even though we want to push higher ASP\r\n   products?\r\n\r\nOverall ABS dropped mainly in BR and MY, the ABS is increasing in all other\r\nmajor markets\r\n\r\n- MY：MY ABS MoM -1.5% due to category mix, that we published more FACC\r\nlistings this month to boost orders and PC3, but the ABS is lower than\r\napparels; if we exclude those new FACC listings, the ABS is increasing;\r\n\r\n- BR：BR ABS MoM -18% due to 3 main reasons\r\n\r\n   -\r\n\r\n   category mix with more FACC listings, same as above;\r\n   -\r\n\r\n   seasonal change from winter to spring/summer;\r\n   -\r\n\r\n   BR local’s PRM overspending to further boost local orders;\r\n\r\n\r\n\r\n"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Smaller addressable product base: that only products with ADI<0.1 and\r\n   seller ADO>5 are prioritized to pitch for FBS conversion, the rest are\r\n   targeted for LFF"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Delayed target setting: Anbo FBS KPI is only managed to add to SMT KPI\r\n   1wks ago due to MT team restructured"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "And DTS to 1 day will take effect only after 18th Aug; it will take some\r\n   time for sellers to feel the pain and to consider FBS services.\r\n\r\nBesides working with CB team, our own FBS adoption initiative is to\r\nconsider launching a free trial program, which probably will launch in Sep\r\nor Oct, after our overall P&L is more stabilized.\r\n\r\n\r\n\r\nNew callout: Paid Ads Bug causing Lovito ads expense loss\r\n\r\n\r\n   -\r\n\r\n   On Aug 7, an ad bid fallback issue led to a sudden surge in ad spending,\r\n   estimated loss of 5.9K according to lovito preliminary estimation\r\n   -\r\n\r\n   Pending CB market feedback confirmed loss expense according to CB loss\r\n   calculation method, but CB market will not cover the Lovito loss as they\r\n   will only cover the MP seller loss for goodwill"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find our reply in blue below:\r\n\r\n\r\n[Miniso deck]\r\n\r\n\r\n\r\n\r\nSlide 3\r\n\r\n   -\r\n\r\n   How did this collaboration come about?\r\n   -\r\n\r\n   Two weeks ago, CB SCS Lifestyle cluster started to actively invite IP\r\n   suppliers for collaboration\r\n   -\r\n\r\n   One of our BDs posted an invitation on her personal Wechat 朋友圈, and soon\r\n   after, the MINISO cross-boarder team expressed interests via Wechat\r\n   -\r\n\r\n   Over the past two weeks, we arranged several rounds of online\r\n   communicatio"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from previous meeting. Let me know if you have any\r\nquestions. Thank you!\r\n\r\n[image: image.png]"
+        }
+      ]
+    }
+  ]
+}

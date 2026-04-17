@@ -1,0 +1,81 @@
+{
+  "id": "thread-007",
+  "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Jan'26",
+  "date": "2026-01-14",
+  "deck_filename": "CB FP&A Meeting_Initiatives and Updates_20260115.pdf",
+  "deck_topic_tags": [
+    "strategy",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan",
+      "Haenle Suh",
+      "Yao Jiaqi"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find attached materials for tmr's FP&A monthly meeting, we focus on two\r\nkey updates\r\n1. 2025 Yearly Review\r\n2. Commission Increase Impact to CB (cut off by 12th number, preliminary)\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Yao Jiaqi",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\n\r\nPlease see the follow-up items from yesterday FP&A meeting below:\r\n\r\n\r\nS/N\r\n\r\nKey Topics\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nTimeline\r\n\r\nStatus\r\n\r\n1\r\n\r\nTH TAX\r\n\r\nAlign with CN SLS team for duty tax mark up approach and timeline\r\n\r\nFaye/Edric\r\n\r\nJan 16th\r\n\r\nWIP\r\n\r\n2\r\n\r\nKRJP Commission Increase\r\n\r\nWork with KR/JP team to finalize the market-level plan and complete seller\r\nannouncements by next Monday\r\n\r\nKR Team/Jiaqi\r\n\r\nJan 19th\r\n\r\nWIP\r\n\r\n3\r\n\r\nCommission Increase Impact to topline and NPC\r\n\r\nTo further monitor the impact of the commission fee increase on topline and\r\nP&L over a longer period, and review NPC by early next month\r\n\r\nJiaqi\r\n\r\nFeb 6th\r\n\r\nWIP\r\n\r\n\r\n\r\nAnd reattach the screenshot for the summary of by BU MP charge rate change\r\n(Page 12)  below, and the conclusion stays:  3P SLS same as 3PF, and higher\r\nthan FBS\r\n\r\n[image: image.png]\r\n\r\nNote: PH 3P SLS/3PF Base Comms gap by ~0.3p.p coming from CAT mix as 3PF\r\nfollowing local shops charged by CAT.\r\n\r\nBest."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "On #2, we are announcing today?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Are all the comms ready?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "I thought we were\r\nstill checking with legal on paid ads program?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Haenle Suh",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\nIn general, no issue in rolling out commission increase from Feb and\r\ncompulsory ads program from Mar for KR/Feb for JP and will send out 1\r\nseller comms tomorrow. Thanks\r\n\r\nFor KR >> announce both commission and ads program together in 1 seller\r\ncomms (ETA tmr)\r\n\r\n   - commission increase: seller comms ready\r\n   - compulsory ads program: *cleared with legal, but postponed to Mar on\r\n   the roll out date due to system configuration needed*\r\n\r\nFor JP >> announce both commission and ads program together in 1 seller\r\ncomms(ETA tmr)\r\n\r\n   - commission increase: seller comms ready\r\n   - compulsory ads program: cleared with legal to start from Feb"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\nIn general, no issue in rolling out commission increase from Feb and\r\ncompulsory ads program from Mar for KR/Feb for JP and will send out 1\r\nseller comms tomorrow. Thanks\r\n\r\nFor KR >> announce both commission and ads program together in 1 seller\r\ncomms (ETA tmr)\r\n\r\n   - commission increase: seller comms ready\r\n   - compulsory ads program: *cleared with legal, but postponed to Mar on\r\n   the roll out date due to system configuration needed*\r\n\r\nFor JP >> announce both commission and ads p"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\nIn general, no issue in rolling out commission increase from Feb and\r\ncompulsory ads program from Mar for KR/Feb for JP and will send out 1\r\nseller comms tomorrow. Thanks\r\n\r\nFor KR >> announce both commission and ads program together in 1 seller\r\ncomms (ETA tmr)\r\n\r\n   - commission increase: seller comms ready\r\n   - compulsory ads program: *cleared with legal, but postponed to Mar on\r\n   the roll out date due to system configuration needed*\r\n\r\nFor JP >> announce both commission and ads p"
+        }
+      ]
+    }
+  ]
+}

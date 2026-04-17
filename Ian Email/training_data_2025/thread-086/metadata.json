@@ -1,0 +1,177 @@
+{
+  "id": "thread-086",
+  "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Aug 2025",
+  "date": "2025-08-18",
+  "deck_filename": "Reg CB LFF_ CNLS_ Projects Monthly Catchup - Aug 2025_vf.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "finance",
+    "pricing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached slides for our discussion tomorrow, let me know for\r\nany questions.\r\n\r\nThank you.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG Cross Border*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, All,\r\n\r\nPlease see follow ups from our discussions yesterday, let me know if\r\nanything.\r\n\r\nNo. Topic Action Items PIC DDL\r\n1 TH TISI Impact Follow up with TH on necessity to impose such strict\r\nrestrictions on FBS WH to avoid potential back-and-forth in the future;\r\nShare VN example Jason 22 August\r\n2 CB FBS Inbound Capacity Benchmark space over ado metric across markets\r\nand work with Reg WH and local WH team to increase capacity as needed;\r\nFollow up with Jiahao on TH capacity increase plan Jason 29 August\r\n3 CB FBS Free Trial Align with Mohit's team on free trial mechanics to\r\nsecure long-term seller commitment to FBS and propose plan for CB across\r\nmarkets Jason 15 Sep\r\n4 CNLS Seller Movement Structurally reassess site expansion opportunities\r\nand prioritizations, and to optimize organization of programs and action\r\nplans Ray 5 September\r\n5 CNLS FBS Improve local fbs onboarding process benchmarking against cb fbs\r\nRay 5 September\r\n6 Counter Taobao Program - Validate accuracy of current price comp data\r\n- Validate assortment match rate data with further sample checks\r\n- Continue to push assortment gap closure and price competitiveness while\r\nexploring more dimensions to close TB gaps Jason 29 August"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 65\r\n\r\n   - Our match rate seem to have increase by quite a bit over time (17%\r\n   from Apr >> July), do we know what caused this?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Were we really able to\r\n   source more SKUs?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Or were we just better over matchin?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 69\r\n\r\n   - In our NPC, do we compare TB vs entire Shopee?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Or against CB?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- Do we have a sense why price competitiveness is so bad for Furniture\r\n   and F&B in particular?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- After we reduce SLS mark up to 5% profits, how would the NPC look?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide 69\r\n\r\nIn our NPC, do we compare TB vs entire Shopee? Or against CB?\r\n\r\nWe are currently comparing TB against all CB sellers, since our push\r\nefforts are targeted at CB RMs/sellers. We are also adding another view to\r\ninclude local sellers to have a complete view of Shopee vs TB NPC.\r\n\r\nDo we have a sense why price competitiveness is so bad for Furniture and\r\nF&B in particular?\r\n\r\nNot quite sure what is causing the NPC issue for F&B, especially in SG and\r\nMY.\r\n\r\nOverall, for Furniture & F&B, our price competitiveness is lower mainly\r\nbecause:\r\n\r\n   -\r\n\r\n   Sellers’ COGS and seller margins on SHP are ~1.2x-1.5x higher compared\r\n   to TB (50% higher than Fashion/Beauty)\r\n   -\r\n\r\n   Logistics fees: SHP’s hidden fees plus BPSF add up to be 17% higher than\r\n   TB. (Bigger impact than Fashion/Beauty)\r\n   -\r\n\r\n   Commission rates: SHP charges a commission rate of 14-20%, while TB’s\r\n   rate is just 2% for F&B and 5% for Furniture\r\n\r\nAfter we reduce SLS mark up to 5% profits, how would the NPC look? (Am\r\nassuming this is the main issue for furniture right now).\r\n\r\nAssuming the SLS markup is reduced to 5% profit margin, NPC is expected to\r\nimprove to 1%. (+8% from existing NPC at -7%)."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs? Or were we just better over matchin?\r\n\r\nThe increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\nSlide "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q8",
+          "question": "Do we have a sense why price competitiveness is so bad for Furniture and\r\nF&B in particular?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Not quite sure what is causing the NPC issue for F&B, especially in SG and\r\nMY.\r\n\r\nOverall, for Furniture & F&B, our price competitiveness is lower mainly\r\nbecause:\r\n\r\n   - Sellers’ COGS and seller margins on SHP are ~1.2x-1.5x higher compared\r\n   to TB (50% higher than Fashion/Beauty)\r\n\r\nIs this a function of commission rate being higher?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Or just sellers want to\r\nearn more?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- Logistics fees: SHP’s hidden fees plus BPSF add up to be 17% higher\r\n   than TB. (Bigger impact than Fashion/Beauty)\r\n   - Commission rates: SHP charges a commission rate of 14-20%, while TB’s\r\n   rate is just 2% for F&B and 5% for Furniture\r\n\r\n\r\n\r\nIs this something we want to relook at?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "To be more competitive?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Esp for\r\nFurniture?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "After we reduce SLS mark up to 5% profits, how would the NPC look?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "(Am\r\nassuming this is the main issue for furniture right now).\r\n\r\nAssuming the SLS markup is reduced to 5% profit margin, NPC is expected to\r\nimprove to 1%. (+8% from existing NPC at -7%).\r\n\r\n\r\n\r\nIs this for furniture or overall NPC?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*From:* Jason Yu <jason.yu@shopee.com>\r\n*Sent:* Friday, 29 August 2025 6:43 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Keljin Chua <\r\nkeljin.chua@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Cheng\r\nDerek <derek.cheng@shopee.com>; Elaine Wang <elaine.wang@shopee.com>; Bufei\r\nLiu <bufei.liu@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>; Songie Song <\r\nsongie.song@shopee.com>; Joanne Lee <joanne.lee@shopee.com>; Ray Wang <\r\nray.wang01@shopee.com>; Lu Lin <lu.lin@shopee.com>; Angela Hsu Yi-Han <\r\nangela.hsu@shopee.com>; Max Goh Shi Long <max.gohsl@shopee.com>; Wong Si\r\nYing <siying.wong@shopee.com>\r\n*Subject:* Re: [Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Aug\r\n2025\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nSlide 65\r\n\r\nOur match rate seem to have increase by quite a bit over time (17% from Apr\r\nSKUs?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Or were we just better over matchin?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "The increase in match rate was driven by improved sourcing efforts. Between\r\nApr and Jul, we sourced approximately 37k SKUs directly through sellers,\r\ncontributing an estimated +9% uplift in match rate. The remaining of the\r\nmatch rate growth was still driven organically by sellers' own listing. The\r\nmatching methodology remains consistent.\r\n\r\n\r\n\r\nSlide 69\r\n\r\nIn our NPC, do we compare TB vs entire Shopee?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Or against CB?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "We are currently comparing TB against all CB sellers, since our push\r\nefforts are targeted at CB RMs/sellers. We are also adding another view to\r\ninclude local sellers to have a complete view of Shopee vs TB NPC.\r\n\r\nDo we have a sense why price competitiveness is so bad for Furniture and\r\nF&B in particular?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Not quite sure what is causing the NPC issue for F&B, especially in SG and\r\nMY.\r\n\r\nOverall, for Furniture & F&B, our price competitiveness is lower mainly\r\nbecause:\r\n\r\n   - Sellers’ COGS and seller margins on SHP are ~1.2x-1.5x higher compared\r\n   to TB (50% higher than Fashion/Beauty)\r\n   - Logistics fees: SHP’s hidden fees plus BPSF add up to be 17% higher\r\n   than TB. (Bigger impact than Fashion/Beauty)\r\n   - Commission rates: SHP charges a commission rate of 14-20%, while TB’s\r\n   rate is just 2% for F&B and 5% for Furniture\r\n\r\nAfter we reduce SLS mark up to 5% profits, how would the NPC look?"
+        }
+      ]
+    }
+  ]
+}

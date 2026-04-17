@@ -1,0 +1,347 @@
+{
+  "id": "thread-075",
+  "subject": "Fwd: Quick recap of KR-TW CB counter Coupang",
+  "date": "2025-07-16",
+  "deck_filename": "CNCB_KRCB Campaign Prep.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "team-performance",
+    "marketing",
+    "user-growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Ashley Liang",
+      "Ian Ho",
+      "Jason Yu",
+      "Keith Huang",
+      "Nicholas Lim",
+      "Shuning Wang",
+      "Songie Song",
+      "Yuna Kwon"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ashley Liang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Best,\r\n\r\nAshley Liang\r\nShopee | Cross Border\r\nMobile: +65 8531 5142\r\nAddress: 5 Science Park Drive, Shopee\r\nBuilding, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+Shuning Wang <shuning.wang@shopee.com>\r\nHi Shuning, since the crawling part could take time, let me ask for your\r\nteam's help on item 3-(2) & (3) for Price Competitiveness below. Basically,\r\nI need CB/CN BI team's help to crawl Coupang TW's KRCB top SKUs for us to\r\ncompare our assortment and price (for 3-(2)). Also we'll get SHP KRTW's top\r\nsku and then need your team's help to see if Coupang has these on them and\r\nat what price and order as well (for 3-(3)).\r\n\r\n   1. CB BI shares Coupang TW KRCB's top SKU list (those that contribute\r\n   80% of Coupang TW KRCB GMV), with selling price and order\r\n   *One ask is if you could check if the sku is Rocket delivery or not\r\n   (circled purple tag)\r\n   [image: image.png]\r\n   2. KR BI matches to see SHP TW KRCB's assortment, price, order gap to\r\n   the above sku list\r\n   3. KR BI shares SHP TW KRCB's top SKU list (those that contribute 80% of\r\n   Coupang TW KRCB GMV), with selling price and order\r\n   4. CB BI matches to see Coupang TW KRCB's assortment, price, order gap\r\n   to the above sku list\r\n\r\n+Taeksoo Shin <taeksoo.shin@shopee.com> +Haenle Suh <haenle.suh@shopee.com> for\r\nKRBI items of 2&4\r\n\r\nMany thanks"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "++ @Keith Huang <keith.huang@shopee.com>\r\n\r\nCan arrange resources to support the data crawling and analysis.\r\nMeanwhile, @Ashley\r\nLiang <ashley.liangsq@shopee.com> , Vincent said TW BI did some local\r\nanalysis already, can bridge team to align .\r\n\r\nThanks"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Keith Huang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "okay sure\r\n\r\nOn Thu, Jul 17, 2025 at 2:26 PM Shuning Wang <shuning.wang@shopee.com>\r\nwrote:"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ashley Liang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+ Tina from TW Local side for visibility.\r\n\r\nTina will lead the Counter Coupang Study for assortment and price\r\ncomparison for both CB and local.  We can sync offline to make sure all the\r\nrequests are captured.\r\n\r\nThanks,\r\nAshley"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Please ensure we are speaking the same language.\r\n\r\n\r\n\r\nI would like to match SKUs after vouchers and buyer paid shipping. And we\r\nneed to compare it vs KR sellers and Local TW sellers so we know how to\r\ntackle the problem.\r\n\r\n\r\n\r\n@Yuna Kwon <yuna.kwon@shopee.com> on KR side, how are we managing sellers\r\nright now in terms of price negotiation and campaign participation?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "@Ian Ho <hoi@sea.com> for price nego with sellers,\r\n\r\n   - For exposure items : Normally local teams give our RMs the list of\r\n   specific SKU x quantity x target price (usually lowest price L90D), and RMs\r\n   check with sellers if sellers can give this price and quantity to feedback\r\n   to local teams Yes or No, and usually no room for counter offer. More rare\r\n   case is that local teams give our RMs only the eligible sellers and RMs\r\n   choose the SKU and price negotiated with the seller to suggest back to\r\n   local teams\r\n\r\n   - For no exposure items (BAU) : No pre-emptive price negotiation,\r\n   meaning RMs notice drop in sales and price increase then negotiates with\r\n   the seller to drop the price. However, this approach doesn't work well\r\n   because sellers increase the price for their pricing policy and P&L reasons\r\n   so won't \"move\" price without exposure slots\r\n\r\n   - For special occasions : When we adjust down the logistics rate table\r\n   or negotiate with local teams to discount or delay commission increase, we\r\n   use this to negotiate with sellers to reflect the cost saved into their\r\n   price. We monitor the price before and after. The controllability is low,\r\n   since the rate or commission adjustment is not offered to sellers with the\r\n   condition of price discount."
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q2",
+          "question": "For exposure items, what is the ADO coverage typically?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "And do we track the\r\nsuccess rate?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Do we have a breakdown by market?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "And we have to do this separately for all markets?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "@Keljin Chua <keljin.chua@shopee.com>, how does this compare with how CN\r\ndoes this?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q2",
+          "answer": "Sharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate? Do we have a breakdown by market?*\r\n\r\n: Typically, local teams track when needed and we don't track the success\r\nrate after the price is submitted. Only for specific programs where price\r\nmatch is done as a top-down initiative, local teams track and share the\r\nsuccess rate, such as TTS vs SHP price match of top brands. For now, let us\r\nshare a quick review based on June-July cycle of the CFS nomination success\r\nrate of KR SMT by each market (TW VN tbc) :\r\n\r\n   -\r\n\r\n   [June_success rate] MY 57%, PH 48%, SG 63%, TH 63%\r\n   -\r\n\r\n   [July_success rate] MY 51%, PH 36%, SG 34%, TH 79%\r\n\r\n(e.g. 6.6, SBD, H2 EOY,etc), the \"baseline\" of the lowest price is anchored\r\nlow and price match rate decreases in next month accordingly. 2) when the\r\ncriterion of the price match is suddenly tightened locally (e.g. SG market:\r\nL30D lowest selling price *+7% additional discount* policy from July), 3)\r\nSpecific skus discontinued issue such as OOS, or GWP in previous month\r\nonly, etc\r\n\r\nexcluded from the exposure, meaning, it seems to depend on the local teams'\r\ndiscretion which we don't have full visibility nor control over. It'd\r\ndepend on the slot availability and relative price competitiveness.\r\n\r\nimprove the KR-internal nomination QC, by monitoring and comparing the\r\nsuccess rate across different RM teams when & if needed for important &\r\nhigh-ROAS exposures slots, as RMs are currently already managed via their\r\ninput + output KPIs, and we need to be selective when we choose which\r\nexposure to monitor and push success rate (as sellers normal"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Sharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate? Do we have a breakdown by market?*\r\n\r\n: Typically"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Sharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate? Do we have a breakdown by market?*\r\n\r\n: Typically"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Sharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate? Do we have a breakdown by market?*\r\n\r\n: Typically"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Sharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate? Do we have a breakdown by market?*\r\n\r\n: Typically"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q7",
+          "question": "*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\nThis tells me that we do not really participate in campaigns in general\r\n\r\n\r\n\r\n@Keljin Chua <keljin.chua@shopee.com> @Jason Yu <jason.yu@shopee.com> when\r\nyou have a CB overall view, can let us know and we can input KRJP data for\r\ncomparison\r\n\r\n\r\n\r\nHow is CN side managing campaign participation right now?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Can we get KR\r\nside to do it the same way?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "How are we measuring price competitiveness for KRCB right now?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "improve the KR-internal nomination QC, by monitoring and comparing the\r\nsuccess rate across different RM teams when & if needed for important &\r\nhigh-ROAS exposures slots, as RMs are currently already managed via their\r\ninput + output KPIs, and we need to be selective when we choose which\r\nexposure to monitor and push success rate (as sellers normally wish to\r\nprioritize certain exposures for price discount and not discount for all\r\nexposures)\r\n\r\nWhat is the input KPI that we are placing on KR RMs right now?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Can remind\r\nme how it compares with CNCB side?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*From:* Yuna Kwon <yuna.kwon@shopee.com>\r\n*Sent:* Tuesday, 22 July 2025 7:30 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Keljin Chua <keljin.chua@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>; Ian Ho <\r\nian.ho@shopee.com>; Taeksoo Shin <taeksoo.shin@shopee.com>; Haenle Suh <\r\nhaenle.suh@shopee.com>; Ashley Liang <ashley.liangsq@shopee.com>; Jenny Law\r\n<jenny.law@shopee.com>; Songie Song <songie.song@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>\r\n*Subject:* Re: Quick recap of KR-TW CB counter Coupang\r\n\r\n\r\n\r\nSharing a quick check on CFS specifically first. Can use this to compare\r\napple to apple with CN when needed.\r\n\r\n*For exposure items, what is the ADO coverage typically?*\r\n\r\nBased on CFS exposure, for instance, KR-UST sellers's CFS ADO coverage vs.\r\ntheir total ADO in '25 H1 is 14% (By market: SG 35%, MY 16%, VN 13%, PH,\r\nTH, TW 4% each) If increasing the seller pool to LT, this might be lowered\r\neven further\r\n\r\n*And do we track the success rate?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Do we have a breakdown by market?*\r\n\r\n: Typically, local teams track when needed and we don't track the success\r\nrate after the price is submitted. Only for specific programs where price\r\nmatch is done as a top-down initiative, local teams track and share the\r\nsuccess rate, such as TTS vs SHP price match of top brands. For now, let us\r\nshare a quick review based on June-July cycle of the CFS nomination success\r\nrate of KR SMT by each market (TW VN tbc) :\r\n\r\n   - [June_success rate] MY 57%, PH 48%, SG 63%, TH 63%\r\n   - [July_success rate] MY 51%, PH 36%, SG 34%, TH 79%\r\n\r\n(e.g. 6.6, SBD, H2 EOY,etc), the \"baseline\" of the lowest price is anchored\r\nlow and price match rate decreases in next month accordingly. 2) when the\r\ncriterion of the price match is suddenly tightened locally (e.g. SG market:\r\nL30D lowest selling price *+7% additional discount* policy from July), 3)\r\nSpecific skus discontinued issue such as OOS, or GWP in previous month\r\nonly, etc\r\n\r\nexcluded from the exposure, meaning, it seems to depend on the local teams'\r\ndiscretion which we don't have full visibility nor control over. It'd\r\ndepend on the slot availability and relative price competitiveness.\r\n\r\nimprove the KR-internal nomination QC, by monitoring and comparing the\r\nsuccess rate across different RM teams when & if needed for important &\r\nhigh-ROAS exposures slots, as RMs are currently already managed via their\r\ninput + output KPIs, and we need to be selective when we choose which\r\nexposure to monitor and push success rate (as sellers normally wish to\r\nprioritize certain exposures for price discount and not discount for all\r\nexposures)\r\n\r\n@Keljin Chua <keljin.chua@shopee.com> @Jason Yu <jason.yu@shopee.com> when\r\nyou have a CB overall view, can let us know and we can input KRJP data for\r\ncomparison"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "from": "Songie Song",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q7",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Sharing KR RM KPI vs. CNCB side which was reported on 28 Feb.\r\nKR input metrics are LFF new SKU#, qty, New SKU, market migration AND, KR\r\ndon't have price bidding & coms metrics vs. CN side: so if/ when needed, we\r\ncan add price related metrics for KR\r\n\r\n[image: image.png]"
+        }
+      ]
+    },
+    {
+      "turn": 12,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q14",
+          "question": "I think we need to look at the problem right\r\n\r\n   - Do we think being in campaigns help?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "And if so should we put it as\r\n   part of KPIs?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "For the brands which are not\r\n   doing well, how are the RMs faring?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "If they are still faring well, it means\r\n   there is an issue with the KPI settings?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- What KPIs do we have to remove for the above 2 to be inserted in?"
+        }
+      ]
+    },
+    {
+      "turn": 13,
+      "from": "Songie Song",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still faring well, it means\r\n   there is an issue with the KPI settings?\r\n\r\n--> It's aligned with RM KPI result, meaning because we have UST sellers'\r\ntake-rate issue, thus SMT1 RMS had the lowest score from the take-rate\r\nmetric. But the target setting logic itself, we may need to revisit as\r\ncurrent logic is a bit conservative. Will work with the MS team to set the\r\nright & bit aggressive target for take-rate. (cc: @Hongkeun Park\r\n<hongkeun.park@shopee.com> )\r\n\r\n   - What KPIs do we have to remove for the above 2 to be inserted in? I\r\n   think we can change things up (add and minus) to ensure our KPIs are\r\n   aligned to business\r\n\r\n--> We were planning to remove two metrics:  New KRJP origin SKU#, and ADO%\r\nto KRJP origin C2C ADO as not having strong lever for resellers group ; And\r\nadditionally can consider removing fulfilment qty which has less\r\ncontrollability by RM side. So they can focus on what they can really push.\r\n\r\nJust to clarify, 'above 2' means by price bidding & price com. which CN RM\r\nhas, but not KR RM? I'd like to check with market teams first on how manyKR\r\nSKUs are/can be in the target list per SMT1/2/3 /PSP, in order to make the\r\nright proposal for RM KPI.  We'd like to assign key items that each team\r\nshould focus on for our business growth because respective team has\r\ndifferent size/ staged sellers (SMT1 >1k ADO, SMT2 >200 ADO, SMT3 >50, PSP\r\n= NSP sellers)"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still fari"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still fari"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still fari"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still fari"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian, please find my answer to your questions below in blue text.\r\n\r\n\r\n   - Do we think being in campaigns help? And if so should we put it as\r\n   part of KPIs?\r\n\r\n--> as aligned at KR/JP bi weekly meeting yesterday, we'll look at campaign\r\nnomination by benchmarking CN practices\r\n\r\n   - It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still fari"
+        }
+      ]
+    },
+    {
+      "turn": 14,
+      "from": "Ian Ho",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "- It seems like we are having issues with ads take rate. We have it as\r\n   part of input KPIs but is it really helping? For the brands which are not\r\n   doing well, how are the RMs faring? If they are still faring well, it means\r\n   there is an issue with the KPI settings?\r\n\r\n--> It's aligned with RM KPI result, meaning because we have UST sellers'\r\ntake-rate issue, thus SMT1 RMS had the lowest score from the take-rate\r\nmetric. But the target setting logic itself, we may need to revisit as\r\ncurrent logic is a bit conservative. Will work with the MS team to set the\r\nright & bit aggressive target for take-rate. (cc: @Hongkeun Park\r\n<hongkeun.park@shopee.com> )\r\n\r\n\r\n\r\nI think it is about how we set our target.\r\n\r\n\r\n\r\nCouple of options\r\n\r\n   - We should look at all UST, ST1, ST2. Maybe take 90% percentile and set\r\n   ads target\r\n   - Compare to similar top beauty sellers in CN/Local markets and see how\r\n   much they pay in ads\r\n\r\n\r\n\r\nCan maybe look at it and come back\r\n\r\n\r\n\r\n   - What KPIs do we have to remove for the above 2 to be inserted in? I\r\n   think we can change things up (add and minus) to ensure our KPIs are\r\n   aligned to business\r\n\r\n--> We were planning to remove two metrics:  New KRJP origin SKU#, and ADO%\r\nto KRJP origin C2C ADO as not having strong lever for resellers group ; And\r\nadditionally can consider removing fulfilment qty which has less\r\ncontrollability by RM side. So they can focus on what they can really push.\r\n\r\n\r\n\r\nJust to clarify, 'above 2' means by price bidding & price com. which CN RM\r\nhas, but not KR RM? I'd like to check with market teams first on how manyKR\r\nSKUs are/can be in the target list per SMT1/2/3 /PSP, in order to make the\r\nright proposal for RM KPI.  We'd like to assign key items that each team\r\nshould focus on for our business growth because respective team has\r\ndifferent size/ staged sellers (SMT1 >1k ADO, SMT2 >200 ADO, SMT3 >50, PSP\r\n= NSP sellers)\r\n\r\n\r\n\r\nI am saying we should relook what KPIs are useful/not useful.\r\n\r\n\r\n\r"
+        }
+      ]
+    },
+    {
+      "turn": 15,
+      "from": "Songie Song",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Ok will do - thanks for the feedback.\r\n\r\n+ adding RM KPI PIC for the visibility.\r\n\r\n*Songie Song, 송송이*\r\n\r\nShopee | KR/JP Business Development (KR/JP SA + ICB)\r\n\r\n*Mobile:* +82 10 9174 0421\r\n\r\n*Address:* Centerfield West 16F, 231 Teheran-ro, Seoul, Korea"
+        }
+      ]
+    },
+    {
+      "turn": 16,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/Yuna/Songie,\r\n\r\nSharing some processes collated from CN practices, and benchmarked vs KR.\r\n\r\nKR RM KPI currently focuses on new seller acquisition/migration, and\r\ntherefore although KR sellers do participate in campaign and price\r\ncomp/bidding activities, there are no robust processes that are built to\r\nmonitor success."
+        }
+      ]
+    },
+    {
+      "turn": 17,
+      "from": "Ian Ho",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "thanks\r\n\r\n\r\n\r\n*From:* Jason Yu <jason.yu@shopee.com>\r\n*Sent:* Thursday, 31 July 2025 10:10 am\r\n*To:* Songie Song <songie.song@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>\r\n*Cc:* Ian Ho <ian.ho@shopee.com>; Ian Ho <hoi@sea.com>; Hongkeun Park <\r\nhongkeun.park@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Shuning\r\nWang <shuning.wang@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>;\r\nTaeksoo Shin <taeksoo.shin@shopee.com>; Haenle Suh <haenle.suh@shopee.com>;\r\nAshley Liang <ashley.liangsq@shopee.com>; Jenny Law <jenny.law@shopee.com>;\r\nYebin Ju <yebin.ju@shopee.com>; Max Goh Shi Long <max.gohsl@shopee.com>\r\n*Subject:* Re: Quick recap of KR-TW CB counter Coupang\r\n\r\n\r\n\r\nHi Ian/Yuna/Songie,\r\n\r\n\r\n\r\nSharing some processes collated from CN practices, and benchmarked vs KR.\r\n\r\n\r\n\r\nKR RM KPI currently focuses on new seller acquisition/migration, and\r\ntherefore although KR sellers do participate in campaign and price\r\ncomp/bidding activities, there are no robust processes that are built to\r\nmonitor success."
+        }
+      ]
+    },
+    {
+      "turn": 18,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Shuning, this is the email between Ian and TWCB team replying him on the\r\nsame question on Counter Coupang.\r\nHe didn't understand the table and had a lot more follow-ups"
+        }
+      ]
+    }
+  ]
+}

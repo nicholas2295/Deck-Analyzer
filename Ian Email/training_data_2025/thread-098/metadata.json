@@ -1,0 +1,76 @@
+{
+  "id": "thread-098",
+  "subject": "[Pre-read] Counter coupang study",
+  "date": "2025-09-19",
+  "deck_filename": "Counter Coupang_update_26Sept.pdf",
+  "deck_topic_tags": [
+    "category",
+    "shopee",
+    "business-review",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Yuna Kwon"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls see the attached for tmr's meeting\r\n\r\nThanks\r\n\r\n-- \r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Ok. With the increased sku targets shared yesterday, will share progress\r\nespecially for beauty and # of brands in the next week's KRJP biweekly"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Can send over this week please?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Ok we will send a version this week."
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nSharing this week's version of counter coupang\r\n\r\n   - p2~7: Current assortment and targets by category and months\r\n   - p7: Brand gap\r\n   - p8 : Sourcing progress\r\n   - p9: How we'll catch up on NPC\r\n\r\nthanks"
+        }
+      ]
+    }
+  ]
+}

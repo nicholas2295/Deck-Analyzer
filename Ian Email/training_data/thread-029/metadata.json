@@ -1,0 +1,73 @@
+{
+  "id": "thread-029",
+  "subject": "[For JH, Ian Approval] [PHCB] Ads Auto Escrow Top Up",
+  "date": "2026-04-03",
+  "deck_filename": "Shopee Mobile Mail - [For Vincent Approval] [CB] Ads Auto Escrow Top Up.pdf",
+  "deck_topic_tags": [
+    "regional",
+    "tech"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Autumn Qiu Tian",
+      "Jianghong Liu",
+      "Kevin Chan"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Kevin Chan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Jianghong, Ian,\r\n\r\nWe would like to seek your approval for PHCB to proceed with ads auto\r\nescrow top up with seller consent prior to opt in.\r\n\r\nBackground: In Feb 2026, the CN government tightened the\r\nimplementation of stricter\r\nonline platform and antitrust rules, creating potential compliance risks.\r\nIn light of this, PH’s plan to auto opt in all sellers into the auto escrow\r\ntop up feature could violate these new regulations which prohibits\r\nauto-enrollment in any program where sellers will incur additional costs.\r\n\r\nProposal: Initially planned for mid-March 2026 roll out, we will delay\r\nPHCB’s implementation to June 2026. This will give us enough time to change\r\nUI design for CNCB where we will explicitly need sellers’ consent prior to\r\nopting them in.\r\n\r\nImpact: Assuming lower adoption due to this change, we expect ads revenue\r\nto be lower than what we currently have budgeted. FY26 PHCB ads rev will be\r\nlower by -$578k (-0.03% of CB GMV, -0.004% of PLT GMV).\r\n\r\nSite\r\n\r\nType\r\n\r\nNet ads daily revenue\r\n\r\nNet ads take rate(%)\r\n\r\n26 FY\r\n\r\nDiff%\r\n\r\n(vs Budget)\r\n\r\nDelta ($)\r\n\r\n(vs Budget)\r\n\r\n26 FY\r\n\r\nDiff%\r\n\r\n(vs Budget)\r\n\r\nDelta (p.p.)\r\n\r\n(vs Budget)\r\n\r\nPH\r\n\r\nAs-is (budgeted)\r\n\r\n325,672\r\n\r\n-\r\n\r\n-\r\n\r\n5.38%\r\n\r\n-\r\n\r\n-\r\n\r\nRemediation Plan: Shift to Opt-in\r\n\r\n324,089\r\n\r\n-0.49%\r\n\r\n-1,583\r\n\r\n5.35%\r\n\r\n-0.49%\r\n\r\n-0.03%\r\n\r\nAttached is Vincent's approval on the proposal. For any questions, please\r\nlet us know.\r\n\r\nThank you,\r\n\r\nKevin\r\n-- \r\n*Bert Kevin Chan*\r\nShopee | Business Development | Cross Border\r\n*Mobile:* +63 925 305 0306\r\n*Address:* 48F The Podium West Tower, 12 ADB Avenue, corner Dona Julia\r\nVargas Avenue, Ortigas Center, Mandaluyong City"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Background: In Feb 2026, the CN government tightened the\r\nimplementation of stricter\r\nonline platform and antitrust rules, creating potential compliance risks.\r\nIn light of this, PH’s plan to auto opt in all sellers into the auto escrow\r\ntop up feature could violate these new regulations which prohibits\r\nauto-enrollment in any program where sellers will incur additional costs.\r\n\r\nOn this, are we referring to charging?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "or utilizing of the ads on their\r\nbehalf?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Opt in option won't help with take rate. If PH really wants to help with\r\ntake rate, why cannot we just do the fee structure like other markets?"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Opt in option won't help with take rate. If PH really wants to help with\r\ntake rate, why cannot we just do the fee structure like other markets?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Autumn Qiu Tian",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Jianghong and Ian,\r\n\r\nApologies for the late reply. *We are revisiting our plan with advice from\r\nthe CN MKT, CN Legal and Ads product teams. *\r\n\r\n   - *PH already started the \"auto-escrow\" approach since February* of this\r\n   year. Most CB sellers have already been on auto-escrow. (We did it batch by\r\n   batch, so the remaining coverage and TR impact are small).\r\n   - To switch to another mechanism adopted by other markets, *we likely\r\n   need to first roll back the auto-escrow, and wait for a grace period*.\r\n\r\nWe are in close discussion with the teams mentioned above and will provide\r\na further update when we can confirm the steps and timeline.\r\n\r\nOn Wed, Apr 8, 2026 at 11:59 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        }
+      ]
+    }
+  ]
+}

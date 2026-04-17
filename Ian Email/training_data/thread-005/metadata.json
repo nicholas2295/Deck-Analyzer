@@ -1,0 +1,103 @@
+{
+  "id": "thread-005",
+  "subject": "[For Approval] TWCB 3PL 7-11 Seaway New Contract and OKMart Contract Addendum",
+  "date": "2026-01-13",
+  "deck_filename": "[For Phyllis Approval] [SLS CNTW] [Seaway LM] 7-11 Seaway LM Quotation Update starting from Jan. 2026.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Kai Shen Yu",
+      "Robert Liu",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Kai Shen Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nI am writing on behalf of the SLS team to seek your approval for the *following\r\nTW last-mile 3PL arrangements*, effective from 1 January 2026:\r\n*1) 7-11 Seaway – New contract*, with a proposed fee of *NTD 38 per parcel\r\n(previously NTD 28)*, citing channel volume decline and internal cost\r\nincreases.\r\n*2) OK Mart – Contract addendum*, with a proposed fee increase from *NTD 15\r\nto NTD 20 per parcel*, citing rising internal operating costs. For context,\r\nOK Mart has not implemented any fee increases over the past three years.\r\n\r\nTW Legal has requested that the *final approval will need to be given by\r\nChris,* since the contract values exceed $100k USD.\r\n\r\nFor your reference, we have included the following additional information:\r\n*1) Rate comparison with other LM vendors*\r\n[image: image.png]\r\n\r\n*2) P&L impact to SLS*\r\nTheir combined channel mix is 16.7%, with CNTW overall PPO projected to\r\ndecrease* 0.017 USD (2.6%)*\r\nDetailed cost impact and rate summary by channel:\r\n[image: image.png]\r\n\r\nI have also attached the prior approvals from Shuning and Phyllis for your\r\nreference.\r\n\r\nPlease let us know if you require any further information. Otherwise, we\r\nkindly seek your approval to proceed with the contract execution. Thank you.\r\n\r\nBest regards,\r\n-- \r\n*Yu Kai Shen, 余凱勝*\r\nShopee | Cross Border | Taiwan CB\r\nMobile: +65 9622 4333\r\nAddress: 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "+ @Robert Liu <robert.liu@shopee.com>\r\n\r\n\r\n\r\nHave we checked with our TW team to see if the rates that we have gotten is\r\nfair?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Kai Shen Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nWe have aligned with both the CNCB SLS and TW teams and believe the\r\nproposed rates are reasonable for the following reasons：\r\n*1) OK Mart*\r\n- They have* not implemented any fee increases over the past three years*\r\nand continues to *offer the lowest per-parcel rate* among all LM vendors\r\n\r\n*2) 7-Eleven Seaway*\r\n- 7-Eleven Seaway previously provided significant discounts driven by\r\nhigher volumes. However, due to volume decline, they are no longer able to\r\nsustain these discounted rates.\r\n-  Despite the increase to NTD 38 per parcel, the rate remains *lower\r\nthan 7-Eleven Airway and Local shipping*, both priced at NTD 42.5 per parcel\r\n\r\nTo mitigate the impact of these fee increases, we have implemented the\r\n*following\r\n3 initiatives to shift more volume to the SPX sea-shipping channel:*\r\n1) Starting from 1 Jan 2026, 7-Eleven sea shipping is updated to 299 ntd\r\nmin spend free shipping (previously no min spend), with plans to remove\r\nfree shipping from March\r\n2) SLS has proactively enabled the SPX sea-shipping channel for all items\r\nthat meet channel eligibility requirements\r\n3) The display priority of shipping channels has been adjusted on both the\r\nbuyer-side filter and checkout page to increase the likelihood of SPX\r\nsea-shipping being selected\r\n\r\nThank you, please let us know if you have any further questions.\r\n\r\nRegards,\r\nKai Shen"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q2",
+          "question": "Starting from 1 Jan 2026, 7-Eleven sea shipping is updated to 299 ntd"
+        },
+        {
+          "question_id": "Q3",
+          "question": "SLS has proactively enabled the SPX sea-shipping channel for all items"
+        },
+        {
+          "question_id": "Q4",
+          "question": "The display priority of shipping channels has been adjusted on both the"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Robert Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q2",
+          "answer": "For your reference, 7-11 also increased the shipping fee for TW local\r\norders using the same reasons - 7-11's order volume dropped in 2025.\r\n\r\nWe are pushing more orders from 7-11 to SPX this year by offering unlimited\r\nSPX free shipping for all sellers, and cutting the FSV for 7-11.\r\nAlso, SPX will expand more locker stores this year (from ~2900 last Dec to\r\n4100 in Dec'26) to grow our capactiy for both local and CB orders.\r\n\r\n\r\n*Best Regards,*\r\n\r\n*Robert Liu 劉俊麟*\r\n\r\n\r\n\r\nBD, Ops, SPX, BI, B2C/SCS\r\n\r\n\r\nMobile：+886 918 167 797\r\n\r\nAddress：台北市信義區忠孝東路四段555號16樓\r\n\r\n\r\n\r\nSoo Siang, Ian Ho <hoi@sea.com> 於 2026年1月15日週四 上午10:04寫道："
+        },
+        {
+          "question_id": "Q3",
+          "answer": "For your reference, 7-11 also increased the shipping fee for TW local\r\norders using the same reasons - 7-11's order volume dropped in 2025.\r\n\r\nWe are pushing more orders from 7-11 to SPX this year by offering unlimited\r\nSPX free shipping for all sellers, and cutting the FSV for 7-11.\r\nAlso, SPX will expand more locker stores this year (from ~2900 last Dec to\r\n4100 in Dec'26) to grow our capactiy for both local and CB orders.\r\n\r\n\r\n*Best Regards,*\r\n\r\n*Robert Liu 劉俊麟*\r\n\r\n\r\n\r\nBD, Ops, SPX, BI, B2C/S"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "For your reference, 7-11 also increased the shipping fee for TW local\r\norders using the same reasons - 7-11's order volume dropped in 2025.\r\n\r\nWe are pushing more orders from 7-11 to SPX this year by offering unlimited\r\nSPX free shipping for all sellers, and cutting the FSV for 7-11.\r\nAlso, SPX will expand more locker stores this year (from ~2900 last Dec to\r\n4100 in Dec'26) to grow our capactiy for both local and CB orders.\r\n\r\n\r\n*Best Regards,*\r\n\r\n*Robert Liu 劉俊麟*\r\n\r\n\r\n\r\nBD, Ops, SPX, BI, B2C/S"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "HI Ian\r\n\r\nAligned,\r\nAs Robert updated, 7-11 increased both local and CB due to our volume drop,\r\nverified with local team, it is a 'fair' increase though.\r\nFor okmart, they didn't increase rate for 3 years, after increasing, they\r\nare still the cheapest among channels\r\n\r\nShuning"
+        }
+      ]
+    }
+  ]
+}

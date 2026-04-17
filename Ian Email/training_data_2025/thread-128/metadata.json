@@ -1,0 +1,60 @@
+{
+  "id": "thread-128",
+  "subject": "[For Ian Approval] [PHCB] Base commission adjustments for 1 Jan 2026",
+  "date": "2025-12-16",
+  "deck_filename": "Shopee Mobile Mail - [For JH Approval] [PHCB] Base commission adjustments for 1 Jan 2026.pdf",
+  "deck_topic_tags": [
+    "tech",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Kevin Chan"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Kevin Chan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nIn line with PH platform direction to further increase our take rate, PHCB\r\nwould like to recommend an increase in base commission rates *effective 1\r\nJan 2026* (same time as other CB markets). Changes are as follows:\r\n\r\n[image: image.png]\r\n\r\nThe changes above are projected to yield a *+0.17% increase in platform\r\ntake rate* (+0.88% to CB take rate), translating to about *$1.8m per month*.\r\nChanges will be applied across the board, regardless of seller origin and\r\ntype.\r\n\r\nAttached below are Autumn, Vincent, and Jianghong's approvals. Seeking your\r\napproval for the proposed changes. And for any questions or clarifications,\r\nplease let us know.\r\n\r\nThank you,\r\nKevin\r\n\r\n-- \r\n*Bert Kevin Chan*\r\nShopee | Business Development | Cross Border\r\n*Mobile:* +63 925 305 0306\r\n*Address:* 48F The Podium West Tower, 12 ADB Avenue, corner Dona Julia\r\nVargas Avenue, Ortigas Center, Mandaluyong City"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "thanks, this is only for CNCB?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "or for KRJP as well?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Kevin Chan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nProposal is to increase for all PHCB sellers, including KRJP. This is\r\nfollowing previous seller fee adjustments where we adjusted rates for all\r\nsellers as well.\r\n\r\nThank you,\r\nKevin"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nProposal is to increase for all PHCB sellers, including KRJP. This is\r\nfollowing previous seller fee adjustments where we adjusted rates for all\r\nsellers as well.\r\n\r\nThank you,\r\nKevin"
+        }
+      ]
+    }
+  ]
+}

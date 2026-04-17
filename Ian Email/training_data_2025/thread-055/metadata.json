@@ -1,0 +1,1047 @@
+{
+  "id": "thread-055",
+  "subject": "SIP Weekly Update - Week ending 16 May",
+  "date": "2025-05-19",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 16 May.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "product-launch",
+    "growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Jason Yu",
+      "Nicholas Lim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 14 May)\r\n\r\nA/ Topline/P&L\r\n\r\n* Local SIP May MTD P&L’s BPSF component is estimated, pending new data\r\ntable for actual new BPSF data (ETA 23 May)\r\n\r\n** Combined PC2 excludes log P&L\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] May proj ADO 210k, 108% RR, %CB +0.8 pp MoM; ADG $2.4M,\r\n   111%RR, %CB +0.9pp MoM\r\n   1.\r\n\r\n      Local SIP ADO 101% RR, %CB +0.4pp MoM; RR on track driven by 1) COD\r\n      reopening of “safe” sellers with 95% COD ADO coverage 2) 75k new SKUs set\r\n      up for ads incubation with export market budget passback via\r\nBPSF reduction\r\n      initiative\r\n      2.\r\n\r\n      CNSIP ADO 97% RR, %CB maintain MoM; RR underperforming due to SKUs\r\n      being frozen on 5/11 caused by shop payment binding issue with 2% overall\r\n      ADO impact; SIP ops in progress of discussing with platform ops to exempt\r\n      SIP shops from freezing shops/SKUs [ETA 23 May]\r\n      2.\r\n\r\n   [P&L] May proj combined PC2 $1.9M, $144k over-performance mainly driven\r\n   by faster-than-expected local SIP seller fraud case resolution\r\n   3.\r\n\r\n   [Follow up question on CNSIP] Why need to wait so long to repitch (with\r\n   management fee removal) by 19 Jun?\r\n   1.\r\n\r\n      Mainly from legal review time needed; JH has helped us to remind CN\r\n      legal team to expedite, we will have the review session with\r\nthem on 19 May\r\n      4.\r\n\r\n   [Follow up question on CNSIP] how the markup before and after\r\n   optimization? I want to understand what others do we have to further reduce\r\n   markup\r\n   1.\r\n\r\n      WIP, will update in the next weekly update\r\n\r\n\r\nB/ SIP fraud management update\r\n\r\n   1.\r\n\r\n   Fraud detection: daily scanning by fraud detection model + manual check\r\n   in place\r\n   1.\r\n\r\n      IDSIP: no new fraud sellers confirmed this week. Total 301 fraud\r\n      sellers, 68k fraud order, $2.1M total loss, 28% recovered from wallet\r\n      clawback\r\n      2.\r\n\r\n      VNSIP: No new fraud sellers confirmed this week. Total 26 fraud\r\n      sellers, 46"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] May proj ADO 210k, 108% RR, %CB +0.8 pp MoM; ADG $2.4M,"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP ADO 101% RR, %CB +0.4pp MoM*; RR on track driven by 1) COD"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP ADO 97% RR, %CB maintain MoM;* RR underperforming due to SKUs"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L] May proj combined PC2 $1.9M, $144k over-performance mainly"
+        },
+        {
+          "question_id": "Q5",
+          "question": "[Follow up question on CNSIP] Why need to wait so long to repitch"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Mainly from legal review time needed; JH has helped us to remind CN"
+        },
+        {
+          "question_id": "Q7",
+          "question": "[Follow up question on CNSIP] how the markup before and after"
+        },
+        {
+          "question_id": "Q8",
+          "question": "WIP, will update in the next weekly update"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Fraud detection: daily scanning by fraud detection model + manual"
+        },
+        {
+          "question_id": "Q10",
+          "question": "IDSIP: no new fraud sellers confirmed this week. Total 301 fraud"
+        },
+        {
+          "question_id": "Q11",
+          "question": "VNSIP: No new fraud sellers confirmed this week. Total 26 fraud"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Other SIPs: only 1 TH  fraud case identified by anti-fraud model and"
+        },
+        {
+          "question_id": "Q13",
+          "question": "IDSIP COD reopening: 95% COD ADO coverage reopened"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Offline investigation on ID fraud sellers to potentially recover"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Long-term product solution: PRD review completed, TD in progress ETA"
+        },
+        {
+          "question_id": "Q16",
+          "question": "[Follow up question] Who is approving all these COD reopening of"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Currently we are using the COD reopening list from the Biz security"
+        },
+        {
+          "question_id": "Q18",
+          "question": "VNSIP missing target due to VN custom clearance office closure for"
+        },
+        {
+          "question_id": "Q19",
+          "question": "MYWH>SG 97% RR: mainly due to 1) low same-day handover% (actual 68%,"
+        },
+        {
+          "question_id": "Q20",
+          "question": "[Follow up question] The BWT for some of these lanes are just too"
+        },
+        {
+          "question_id": "Q21",
+          "question": "VNMY/SG/PH and MYTH BWT >1day longer vs CNCB"
+        },
+        {
+          "question_id": "Q22",
+          "question": "[Follow up question] For LFF cross selling, are we doing it"
+        },
+        {
+          "question_id": "Q23",
+          "question": "*Chatbot deflection*: overall 79% RR, mainly due to LLM chatbot AB"
+        },
+        {
+          "question_id": "Q24",
+          "question": "*Agent CSAT:* overall 105% RR. SG CSAT was below target due to high"
+        },
+        {
+          "question_id": "Q25",
+          "question": "*Abandonment rate: *overall 117% RR. ID higher abandonment rate vs"
+        },
+        {
+          "question_id": "Q26",
+          "question": "*Avg waiting time: *overall 16% RR, mainly due to disruption from"
+        },
+        {
+          "question_id": "Q27",
+          "question": "*ID CS reporting line change: *SIP worked with HRBP to propose the CS"
+        },
+        {
+          "question_id": "Q28",
+          "question": "*SIP CS relocation to PH: *pending CB SCS pilot results (PH and BR"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#1 Roll-out to ID on 6/May, pending BR local clearance for roll-out."
+        },
+        {
+          "question_id": "Q30",
+          "question": "#3 Additional feature requirement UAT timeline 19/May - 23/May, Live"
+        },
+        {
+          "question_id": "Q31",
+          "question": "#4 Local FBS x SIP enhancement overall timeline ETA Jul"
+        },
+        {
+          "question_id": "Q32",
+          "question": "#10 FRF submitted. Tentative ETA: Jun 16th"
+        },
+        {
+          "question_id": "Q33",
+          "question": "#13 RSX approved, pending FRF review with PM ETA 19/May"
+        },
+        {
+          "question_id": "Q34",
+          "question": "#14 FRF review with PM done on 15/May, pending timeline ETA by 23/May"
+        },
+        {
+          "question_id": "Q35",
+          "question": "#16 RBX approved as P1. Pending FRF sign-off by SIP ETA 21/May"
+        },
+        {
+          "question_id": "Q36",
+          "question": "#17 PRD review with PM done on 13/May, pending launch timeline after"
+        },
+        {
+          "question_id": "Q37",
+          "question": "#18 FRF received 14/May, pending mgmt approval for P1 and raise POP"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Cross share our cross border linehaul and cc rates & solutions to MY"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Performance: MTD ADO 7.4k (106% RR), #SKUs and # sellers behind"
+        },
+        {
+          "question_id": "Q40",
+          "question": "New seller acquisition: MTD 341 sellers accepted, higher than May"
+        },
+        {
+          "question_id": "Q41",
+          "question": "[Follow up question] For the existing sellers, what is the upside of"
+        },
+        {
+          "question_id": "Q42",
+          "question": "[Follow up question] What does it mean by SG shop platform support to"
+        },
+        {
+          "question_id": "Q43",
+          "question": "[Follow up question] For these sellers, do they port all SKUs and all"
+        },
+        {
+          "question_id": "Q44",
+          "question": "[Follow up question] Why are there so many rejects?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q45",
+          "question": "[Follow up question on CNSIP] Why need to wait so long to repitch"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Mainly from legal review time needed; JH has helped us to remind CN"
+        },
+        {
+          "question_id": "Q47",
+          "question": "*[Topline] May proj ADO 210k, 108% RR, %CB +0.8 pp MoM; ADG $2.4M,"
+        },
+        {
+          "question_id": "Q48",
+          "question": "*Local SIP ADO 101% RR, %CB +0.4pp MoM*; RR on track driven by 1) COD"
+        },
+        {
+          "question_id": "Q49",
+          "question": "*CNSIP ADO 97% RR, %CB maintain MoM;* RR underperforming due to SKUs"
+        },
+        {
+          "question_id": "Q50",
+          "question": "*[P&L] May proj combined PC2 $1.9M, $144k over-performance mainly"
+        },
+        {
+          "question_id": "Q51",
+          "question": "[Follow up question on CNSIP] Why need to wait so long to repitch"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Mainly from legal review time needed; JH has helped us to remind CN"
+        },
+        {
+          "question_id": "Q53",
+          "question": "[Follow up question on CNSIP] how the markup before and after"
+        },
+        {
+          "question_id": "Q54",
+          "question": "WIP, will update in the next weekly update"
+        },
+        {
+          "question_id": "Q55",
+          "question": "Fraud detection: daily scanning by fraud detection model + manual"
+        },
+        {
+          "question_id": "Q56",
+          "question": "IDSIP: no new fraud sellers confirmed this week. Total 301 fraud"
+        },
+        {
+          "question_id": "Q57",
+          "question": "VNSIP: No new fraud sellers confirmed this week. Total 26 fraud"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Other SIPs: only 1 TH  fraud case identified by anti-fraud model and"
+        },
+        {
+          "question_id": "Q59",
+          "question": "IDSIP COD reopening: 95% COD ADO coverage reopened"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Offline investigation on ID fraud sellers to potentially recover"
+        },
+        {
+          "question_id": "Q61",
+          "question": "Long-term product solution: PRD review completed, TD in progress ETA"
+        },
+        {
+          "question_id": "Q62",
+          "question": "[Follow up question] Who is approving all these COD reopening of"
+        },
+        {
+          "question_id": "Q63",
+          "question": "Currently we are using the COD reopening list from the Biz security"
+        },
+        {
+          "question_id": "Q64",
+          "question": "VNSIP missing target due to VN custom clearance office closure for"
+        },
+        {
+          "question_id": "Q65",
+          "question": "MYWH>SG 97% RR: mainly due to 1) low same-day handover% (actual 68%,"
+        },
+        {
+          "question_id": "Q66",
+          "question": "[Follow up question] The BWT for some of these lanes are just too"
+        },
+        {
+          "question_id": "Q67",
+          "question": "VNMY/SG/PH and MYTH BWT >1day longer vs CNCB"
+        },
+        {
+          "question_id": "Q68",
+          "question": "[Follow up question] For LFF cross selling, are we doing it"
+        },
+        {
+          "question_id": "Q69",
+          "question": "*Chatbot deflection*: overall 79% RR, mainly due to LLM chatbot AB"
+        },
+        {
+          "question_id": "Q70",
+          "question": "*Agent CSAT:* overall 105% RR. SG CSAT was below target due to high"
+        },
+        {
+          "question_id": "Q71",
+          "question": "*Abandonment rate: *overall 117% RR. ID higher abandonment rate vs"
+        },
+        {
+          "question_id": "Q72",
+          "question": "*Avg waiting time: *overall 16% RR, mainly due to disruption from"
+        },
+        {
+          "question_id": "Q73",
+          "question": "*ID CS reporting line change: *SIP worked with HRBP to propose the CS"
+        },
+        {
+          "question_id": "Q74",
+          "question": "*SIP CS relocation to PH: *pending CB SCS pilot results (PH and BR"
+        },
+        {
+          "question_id": "Q75",
+          "question": "#1 Roll-out to ID on 6/May, pending BR local clearance for roll-out."
+        },
+        {
+          "question_id": "Q76",
+          "question": "#3 Additional feature requirement UAT timeline 19/May - 23/May, Live"
+        },
+        {
+          "question_id": "Q77",
+          "question": "#4 Local FBS x SIP enhancement overall timeline ETA Jul"
+        },
+        {
+          "question_id": "Q78",
+          "question": "#10 FRF submitted. Tentative ETA: Jun 16th"
+        },
+        {
+          "question_id": "Q79",
+          "question": "#13 RSX approved, pending FRF review with PM ETA 19/May"
+        },
+        {
+          "question_id": "Q80",
+          "question": "#14 FRF review with PM done on 15/May, pending timeline ETA by 23/May"
+        },
+        {
+          "question_id": "Q81",
+          "question": "#16 RBX approved as P1. Pending FRF sign-off by SIP ETA 21/May"
+        },
+        {
+          "question_id": "Q82",
+          "question": "#17 PRD review with PM done on 13/May, pending launch timeline after"
+        },
+        {
+          "question_id": "Q83",
+          "question": "#18 FRF received 14/May, pending mgmt approval for P1 and raise POP"
+        },
+        {
+          "question_id": "Q84",
+          "question": "Cross share our cross border linehaul and cc rates & solutions to MY"
+        },
+        {
+          "question_id": "Q85",
+          "question": "Performance: MTD ADO 7.4k (106% RR), #SKUs and # sellers behind"
+        },
+        {
+          "question_id": "Q86",
+          "question": "New seller acquisition: MTD 341 sellers accepted, higher than May"
+        },
+        {
+          "question_id": "Q87",
+          "question": "[Follow up question] For the existing sellers, what is the upside of"
+        },
+        {
+          "question_id": "Q88",
+          "question": "[Follow up question] What does it mean by SG shop platform support to"
+        },
+        {
+          "question_id": "Q89",
+          "question": "[Follow up question] For these sellers, do they port all SKUs and all"
+        },
+        {
+          "question_id": "Q90",
+          "question": "[Follow up question] Why are there so many rejects?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on the ERP project which is the key driver for\r\n      #sku growth\r\n      -\r\n\r\n      Continue to grow the pool via acquisition and sourcing in the\r\n      upcoming months\r\n      -\r\n\r\n   Expect to double current supply vs now by Dec’25 (+307% Dec-25 vs Dec-24)\r\n\r\n\r\n\r\n   -\r\n\r\n   Do we know why some markets have much more SKUs than others? For eg. PH\r\n   has ~169K SKUs while other markets have way less?\r\n   -\r\n\r\n      For PH, which is not lack of assortments, at the beginning, they\r\n      decided to NOT design packages for counter TB, instead, we\r\nagreed to track\r\n      all TB skus in our program view\r\n      -\r\n\r\n      For other markets, we only track the TB skus which are put in TB\r\n      program packages in program view\r\n      -\r\n\r\n      Note: we have migrated all the TB skus cross market, and had a\r\n      process to migrate new skus every month\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   For these newly acquired sellers, how are we doing? We probably need to\r\n   create more success cases to gather more interest?\r\n   -\r\n\r\n      Currently, they’re contributing around 1% of the total ADO (~360) and\r\n      the key issue they’re facing is lack of traffic (~½ the current\r\ntraffic of\r\n      existing sellers, with higher CPO / lower ROAS). To address this, we will\r\n      push them to invest more on ads, and align with markets to provide more\r\n      traffic exposure to these new SKUs\r\n      -\r\n\r\n      We’re currently working with markets to build success cases out of\r\n      iFashion sellers (existing selle"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q69",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q70",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q71",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q72",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q73",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q74",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q75",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q76",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q77",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q78",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q79",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q80",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q81",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q82",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q83",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q84",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q85",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q86",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q87",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q88",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q89",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        },
+        {
+          "question_id": "Q90",
+          "answer": "Hi Ian,\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   The growth in # of SKUs is just too slow\r\n   -\r\n\r\n      +341k SKUs added across market since start of program (+112% SKU\r\n      count May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\n   -\r\n\r\n   The slow  part is seller pitching and sku sourcing. Next steps are\r\n   -\r\n\r\n      Coordinate with BPM on t"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q91",
+          "question": "We need to ensure that acquired TB sellers are doing well?"
+        },
+        {
+          "question_id": "Q92",
+          "question": "If not it will\r\nget harder and harder to acquire them?"
+        },
+        {
+          "question_id": "Q93",
+          "question": "Have we finalized the packages for F&B yet?"
+        },
+        {
+          "question_id": "Q94",
+          "question": "Why is it taking so long?"
+        },
+        {
+          "question_id": "Q95",
+          "question": "Are\r\nwe creating new packages or just leveraging existing packages?"
+        },
+        {
+          "question_id": "Q96",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Thursday, 22 May 2025 2:19 pm\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 16 May\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPlease find our responses below. For CNSIP topic, will provide an update in\r\na separate email by EOD today.\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - The growth in # of SKUs is just too slow\r\n\r\n\r\n   - +341k SKUs added across market since start of program (+112% SKU count\r\n      May-25 vs Dec-24) mainly from cross-migration and new SKU upload\r\n\r\n** Sourcing targets to be aligned\r\n\r\no   The slow  part is seller pitching and sku sourcing. Next steps are\r\n\r\n§  Coordinate with BPM on the ERP project which is the key driver for #sku\r\ngrowth\r\n\r\n§  Continue to grow the pool via acquisition and sourcing in the upcoming\r\nmonths\r\n\r\no   Expect to double current supply vs now by Dec’25 (+307% Dec-25 vs\r\nDec-24)\r\n\r\n\r\n\r\n   - Do we know why some markets have much more SKUs than others?"
+        },
+        {
+          "question_id": "Q97",
+          "question": "For eg.\r\n   PH has ~169K SKUs while other markets have way less?"
+        },
+        {
+          "question_id": "Q98",
+          "question": "- For PH, which is not lack of assortments, at the beginning, they\r\n      decided to NOT design packages for counter TB, instead, we\r\nagreed to track\r\n      all TB skus in our program view\r\n      - For other markets, we only track the TB skus which are put in TB\r\n      program packages in program view\r\n      - Note: we have migrated all the TB skus cross market, and had a\r\n      process to migrate new skus every month\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - For these newly acquired sellers, how are we doing?"
+        },
+        {
+          "question_id": "Q99",
+          "question": "We probably need\r\n   to create more success cases to gather more interest?"
+        },
+        {
+          "question_id": "Q100",
+          "question": "- Currently, they’re contributing around 1% of the total ADO (~360) and\r\n      the key issue they’re facing is lack of traffic (~½ the current\r\ntraffic of\r\n      existing sellers, with higher CPO / lower ROAS). To address this, we will\r\n      push them to invest more on ads, and align with markets to provide more\r\n      traffic exposure to these new SKUs\r\n      - We’re currently working with markets to build success cases out of\r\n      iFashion sellers (existing sellers that are on Taobao’s fashion microsite\r\n      for trendy SKUs) - CN and us are aligned to use these success cases to\r\n      pitch for acquisition instead\r\n\r\n\r\n\r\nSlide 14\r\n\r\n   - Performance is quite bad?"
+        },
+        {
+          "question_id": "Q101",
+          "question": "Growth is quite minimal\r\n\r\n\r\n   - SKU effi is lower than expected, because\r\n\r\n\r\n   - For both SG/MY, top GGPs are investing less in May vs Apr, and we’re\r\n         working with CN team to ramp up investment for both markets\r\n\r\n\r\n   - MY/SG’s decline due to 3PF rate increases and sellers shifting more of\r\n            their resources from 3PF to CNLS (key reason), coupled\r\nwith other ops\r\n            reasons such as infringement/penalty points that prevented\r\nsellers from\r\n            investing more\r\n\r\n\r\n   - Platform’s PC2 reduction (to reinvest) is smaller than expected,\r\n         because 1) (MY specific) the PC2 reinvestment is conditional on seller\r\n         investment; 2) 3PF/SLS commission increased that offset the\r\nPC2 reduction\r\n\r\n\r\n   - SG’s plan is to ramp up on voucher rebates (ongoing)\r\n\r\n\r\n   - MY’s plan is to do co-sponsor SSV to ramp down PC2 (start date 5.25)\r\n\r\n\r\n   - How is it that # of SKUs can go down MOM?"
+        },
+        {
+          "question_id": "Q102",
+          "question": "- MY: Ops de-listed ~10k SKUs due to PO, that caused MY’s SKU# to fall\r\n      significantly (-14% MoM) - and this caused overall SKU supply to fall.\r\n      We’re working with sellers to re-list the SKUs by this week, and\r\nin process\r\n      to align with ops team not delist skus as the skus are approved to PO\r\n      policy already.\r\n      - VN: 2 top sellers move to CNLS\r\n\r\n Slide 15\r\n\r\n   - #2 – How are the 8 sellers doing?"
+        },
+        {
+          "question_id": "Q103",
+          "question": "- The 8 sellers currently generate ~0.2% (~2 ADO) of the overall\r\n      program’s ADO. The performance is due to poor conversion (0.1% CR vs\r\n      existing sellers’ CR of 0.4%), likely due to the fact that none of their\r\n      SKUs and shops have any ratings or credibility yet\r\n      - We’ll work with SG/MY CB on what additional pushes can be given\r\n      from platform to increase the credibility of these SKUs\r\n\r\n\r\n   - #6 – What is happening here?"
+        },
+        {
+          "question_id": "Q104",
+          "question": "- This is to set-up installation for SG buyers (only for CB), and we’ll\r\n      trial on a small scale with our TB furniture sellers with SLS enabled\r\n      - We have also worked with SG cluster PICs to build a marketing plan\r\n      around this, essentially waiving installation fees for buyers at launch\r\n      - If UAT issues are fixed without a hitch, we target to be able to\r\n      roll out by early next week\r\n\r\n\r\n   - #8 – PH does not want to have bulky shipping channel?"
+        },
+        {
+          "question_id": "Q105",
+          "question": "- We have aligned with head of PHCB to de-prioritise this request due to\r\n      the 2 following key reasons:\r\n\r\n\r\n   - (1) Taobao PH will shut down their sea shipping channel effective 15\r\n         May 2025, leaving only their air channel with a weight limit of 30kg\r\n         - (2) Our current sea shipping channel already has a weight limit\r\n         of 144kg\r\n\r\n\r\n   - Hence, given that our shipping limits will be better than theirs, and\r\n      no strong push from PH for bulky, we will not push this as priority\r\n\r\n\r\n\r\nSlide 17\r\n\r\n   - How about other markets?"
+        },
+        {
+          "question_id": "Q106",
+          "question": "- We’ll only push F&B for SG/MY/TH. For VN/TW, aligned with Reg PMO that\r\n      we’ll not push this due to logistics restrictions. For PH, even\r\nthough they\r\n      have not designed a specific incentive program for F&B, we’ll still look\r\n      into other ways on how we can work with them in future\r\n\r\n\r\n\r\nOthers\r\n\r\n   - What is the latest on ERP providers?"
+        },
+        {
+          "question_id": "Q107",
+          "question": "We are almost at the end of May\r\n\r\n\r\n   - We’re preparing to start on the integration with both ERPs following\r\n      the timeline below:\r\n\r\n\r\n   - 聚水潭：Integration will start on 24 May (ETA completion early June)\r\n         - 旺店通: Integration will start end-May (ETA completion mid June)\r\n\r\n\r\n   - After integration is complete, TB/PDD SKUs can be synced to SHP and\r\n      we’ll be start to ramp up by end-June\r\n\r\n\r\n   - Have we started optimizing CN SIP yet?"
+        },
+        {
+          "question_id": "Q108",
+          "question": "I remember asking why the\r\n   removal of management fee would take so long and only happen in June\r\n\r\n\r\n   - Will share plan in a separate email\r\n\r\n\r\n   - Do we have a mapping of GGP sellers that are not in all markets?"
+        },
+        {
+          "question_id": "Q109",
+          "question": "Shall\r\n   we onboard them on all marketing using CN SIP?"
+        },
+        {
+          "question_id": "Q110",
+          "question": "- Yes, we do. And for all sellers that are not chosen by markets to join\r\n      the TB self-run program, we have already used (and will continue to use)\r\n      CNSIP to pitch these sellers\r\n\r\n\r\n   - What exactly is happening on F&B?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q91",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n   cases for acquisition team (ETA start of push early June)\r\n\r\n\r\n\r\nHave we finalized the packages for F&B yet? Why is it taking so long? Are\r\nwe creating new packages or just leveraging existing packages?\r\n\r\n   -\r\n\r\n   We’re leveraging existing packages (referencing fashion), however we\r\n   were waiting on local team for the past couple weeks to confirm the budget\r\n   for F&B incentives (now already in last stages of approval to be finalised\r\n   this week), and will start F&B fully next week\r\n   -\r\n\r\n   In the meantime this week, we’ve also aligned with CN to start on\r\n   acquisition/sourcing first without waiting for the incentives\r\n\r\n\r\nThank you."
+        },
+        {
+          "question_id": "Q92",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q93",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q94",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q95",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q96",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q97",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q98",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q99",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q100",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q101",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q102",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q103",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q104",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q105",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q106",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q107",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q108",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q109",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        },
+        {
+          "question_id": "Q110",
+          "answer": "Hi Ian,\r\n\r\nWe need to ensure that acquired TB sellers are doing well? If not it will\r\nget harder and harder to acquire them?\r\n\r\n   -\r\n\r\n   Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   -\r\n\r\n   Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n "
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q111",
+          "question": "Have we finalized the packages for F&B yet?"
+        },
+        {
+          "question_id": "Q112",
+          "question": "Why is it taking so long?"
+        },
+        {
+          "question_id": "Q113",
+          "question": "Are\r\nwe creating new packages or just leveraging existing packages?"
+        },
+        {
+          "question_id": "Q114",
+          "question": "- We’re leveraging existing packages (referencing fashion), however we\r\n   were waiting on local team for the past couple weeks to confirm the budget\r\n   for F&B incentives (now already in last stages of approval to be finalised\r\n   this week), and will start F&B fully next week\r\n   - In the meantime this week, we’ve also aligned with CN to start on\r\n   acquisition/sourcing first without waiting for the incentives\r\n\r\n\r\n\r\n\r\n\r\n@Keljin Chua <keljin.chua@shopee.com> @Saovanee Somchit\r\n<saovanee.somchit@shopee.com>  still not confirm?"
+        },
+        {
+          "question_id": "Q115",
+          "question": "*From:* Nicholas Lim <nicholas.lim@shopee.com>\r\n*Sent:* Friday, 23 May 2025 11:29 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Cuiwei Sun <cuiwei.sun@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Yu Zhang <\r\nyu.zhang@shopee.com>; Ailin Xie <ailin.xie@shopee.com>; Wei Qiang <\r\nwei.qiang@shopee.com>; Momo Chen <momo.chen@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>;\r\nSteven Liu <steven.liusk@shopee.com>; Wei Loong Yong <\r\nweiloong.yong@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 16 May\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nWe need to ensure that acquired TB sellers are doing well?"
+        },
+        {
+          "question_id": "Q116",
+          "question": "If not it will\r\nget harder and harder to acquire them?"
+        },
+        {
+          "question_id": "Q117",
+          "question": "- Yes, however in fact, we’re ensuring that both key existing sellers\r\n   (selected by CN team) that have influence over / being watched by unboarded\r\n   sellers, as well as acquired sellers perform well\r\n   - Hence, we’re selecting sellers for both fashion and furniture, and\r\n   working with markets to start push for such sellers to be used as success\r\n   cases for acquisition team (ETA start of push early June)\r\n\r\n\r\n\r\nHave we finalized the packages for F&B yet?"
+        },
+        {
+          "question_id": "Q118",
+          "question": "Why is it taking so long?"
+        },
+        {
+          "question_id": "Q119",
+          "question": "Are\r\nwe creating new packages or just leveraging existing packages?"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q111",
+          "answer": "Commit 50% of Voucher Budget Target\r\n\r\nResource Approved on 30 May\r\n\r\nSeller Pitch In Progress By CN SMT (DDL: 9 Jun)\r\n\r\nMigrating Sellers\r\n\r\nY\r\n\r\n(First 3 Month 0% Commission)\r\n\r\nY\r\n\r\n(Paid Ads + Item Rebate)\r\n\r\nY\r\n\r\n(CFS)\r\n\r\nY\r\n\r\n(CFS, SSV, Microsite Exposure)\r\n\r\nNew Sellers\r\n\r\nSKU Growth\r\n\r\nAll Sellers\r\n\r\n(Prioritized TB SKU)\r\n\r\nN\r\n\r\nY\r\n\r\n (Item Rebate)\r\n\r\nY\r\n\r\n(CFS, LTD)\r\n\r\nY\r\n\r\n(CFS, LTD, Microsite Exposure)\r\n\r\n1.Meet Price Criteria (CFS,LTD)"
+        },
+        {
+          "question_id": "Q112",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q113",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q114",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q115",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q116",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q117",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q118",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        },
+        {
+          "question_id": "Q119",
+          "answer": "Hi Ian,\r\n\r\nSorry for the late reply, giving an update on this. All TB incentive\r\nprograms have been finalized and approved by local BI and SMT teams as of\r\n30th May. Pitching for SKU acquisition/sourcing began before the program\r\napproval so things can move faster.\r\n\r\nProgram mechanics are standardized across clusters, we will offer incentive\r\nfor 1) new top TB seller acquisition, 2) Existing trader sellers to source\r\nand 3) Existing top TB seller whom we want to groom.\r\n\r\nWe target to receive t"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q120",
+          "question": "Thanks.\r\n\r\n\r\n\r\nOn seller commitment, is it too much to ask for at the start?"
+        }
+      ]
+    }
+  ]
+}

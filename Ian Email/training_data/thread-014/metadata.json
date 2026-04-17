@@ -1,0 +1,146 @@
+{
+  "id": "thread-014",
+  "subject": "SIP weekly update - week ending 6 Feb",
+  "date": "2026-02-09",
+  "deck_filename": "SIP weekly update_week ending 6 Feb.pdf",
+  "deck_topic_tags": [
+    "user-growth",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find attached for review - 1) SIP weekly update; 2) Swarm weekly\r\nupdate.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\n*SIP*\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - For ID/VN export, not much increase in seller MOM?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Drop in SKUs MOM?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 21\r\n\r\n   - Local SG sellers have high ABS but are PC2 positive?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Not sure the\r\n   reason make sense?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- In fact the higher the ABS, the higher chance PC2 should be positive?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Others\r\n\r\n   - I am not sure direct is growing fast enough\r\n\r\n\r\n\r\n*Swarm*\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - Why drop so much MOM?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 3\r\n\r\n   - The table is hard to understand in general. What is target for Feb,\r\n   and what is actual for each channel?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- For 炒手, how many sellers do we expect from them in Feb?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "How about JST?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Other\r\n\r\n   - When will we get the breakdown of UE for incubation/mature SKUs?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n         of higher-quality Mall/managed sellers, which reduces volume\r\nbut improves\r\n         seller quality.\r\n         -\r\n\r\n      *Temporary capacity factors also impacted active sellers coun*t, but\r\n      they are seasonal and won’t change FY26 growth trajectory\r\n      -\r\n\r\n         The ID team prioritized Raya push and paused mass pitching.\r\n         -\r\n\r\n         Some VN sellers went on Tet holiday and shifted shops to HM.\r\n         -\r\n\r\n      SKU count drop in ID and VN is not expected and mainly driven by 2\r\n      reasons\r\n      -\r\n\r\n         VN sellers shifted shops to HM (~100k SKU drop)\r\n         -\r\n\r\n         VN/ID SKU cleanup by import markets based on import market listing\r\n         limit policy (~400k SKU drop) - this is a known BAU regional\r\nops cleanup;\r\n         didn’t surface earlier as the fast growth of SKUs in the\r\nprevious months\r\n         shielded this impact. We will talk to regional ops post CNY\r\nto explore a\r\n         longer grace period (currently 2 months) before cleanup.\r\n\r\n\r\n\r\nSlide 21 Brenda Lim Ler Shyuan <brenda.limls@shopee.com>\r\n\r\n   -\r\n\r\n   Local SG sellers have high ABS but are PC2 positive? Not sure the reason\r\n   make sense?\r\n   -\r\n\r\n   In fact the higher the ABS, the higher chance PC2 should be positive?\r\n\r\n\r\nTable: MY import: MP PC2 UE comparison across BUs\r\n\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   You are right, the key issue is revenue generated lower than PRM cost,\r\n   despite high ABS.\r\n   -\r\n\r\n   From the benchmark table above for MY import"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian，\r\n\r\nPlease find our responses *in blue* below, also included the follow-up\r\nquestion from last weekly on ID/VN direct target *in red*.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For ID/VN export, not much increase in seller MOM? Drop in SKUs MOM? How\r\n   Sai Kit <saikit.how@shopee.com> Emily Pang Jee Suan\r\n   <emily.pangjs@shopee.com>\r\n   -\r\n\r\n      Seller MoM growth slowdown is expected and reflected in FY26 plan.\r\n      -\r\n\r\n         We completed R1 mass pitching and have shifted to 1:1 repitching\r\n     "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+ @Ivy Chen <ivy.chen01@shopee.com> @Leo Chen <leo.chenyh@shopee.com> for\r\nSwarm acquisition.\r\n\r\nHi Ian,\r\n\r\nPlease see our *responses below in green* (questions in red).\r\n\r\nSlide 21 Brenda Lim Ler Shyuan <brenda.limls@shopee.com>\r\n\r\n   -\r\n\r\n   Local SG sellers have high ABS but are PC2 positive? Not sure the reason\r\n   make sense?\r\n   -\r\n\r\n   In fact the higher the ABS, the higher chance PC2 should be positive?\r\n\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   You are right, the key issue is revenue generated lower than PRM cost,\r\n   despite high ABS.\r\n   -\r\n\r\n   From the benchmark table above for MY import, Direct revenue is 22% ABS\r\n   while PRM is 23% ABS; as a benchmark, MY local orders revenue is 21% of\r\n   ABS while PRM is 20%.\r\n   -\r\n\r\n   The gap on revenue is due lower paid ads revenue: this is a known issue\r\n   as ads adoption/spending is still low due to 1) top-up challenge without\r\n   global wallet; 2) ads ROI worse than their local shops.\r\n   -\r\n\r\n   By Apr-26, revenue will improve with global wallet launch + incentive\r\n   packages to fix paid ads gap.\r\n\r\n\r\nHow about SLS revenues, where do they sit? Chiong Zhi Ann\r\n<zhiann.chiong@shopee.com>\r\n\r\n\r\nTable: MY import program UE (MP + SLS)\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   Added SLS P&L and total program P&L view (MP + SLS) for MY market. SLS\r\n   P&L is booked in the import market.\r\n   -\r\n\r\n   Direct SLS profit per order is $0.5, on par with CNCB. Margin is\r\n   achieved with higher average parcel weight (0.6kg Direct vs 0.26kg CNCB).\r\n   -\r\n\r\n   Including SLS, total program P&L for mature Direct sellers at +$0.1 per\r\n   order.\r\n\r\n\r\nWe do charge ads growth program for CN CB sellers, do we see ourselves\r\ncharging it for direct sellers? How Sai Kit <saikit.how@shopee.com> Yisi\r\nChen <yisi.chen@shopee.com>\r\n\r\n\r\nTable: summary ads growth program plan in local markets and CB BUs\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   Current\r\n   -\r\n\r\n      All Direct sellers will be enrolled in the optional ads growth\r\n      program f"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q11",
+          "question": "what do we need to push ID direct to grow faster?"
+        }
+      ]
+    }
+  ]
+}

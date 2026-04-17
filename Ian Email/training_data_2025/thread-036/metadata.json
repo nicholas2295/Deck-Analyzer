@@ -1,0 +1,1105 @@
+{
+  "id": "thread-036",
+  "subject": "SIP Weekly Update - Week ending 28 Mar",
+  "date": "2025-03-29",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 28 Mar.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "strategy"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find SIP weekly update for your review. Counter Taobao (including\r\nERP initiative) update in attachment. Thank you.\r\n\r\nPerformance Dashboard (as of 26 Mar 2025)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Mar proj ADO 214k, 112% RR; ADO as %CB +0.7pp MoM; proj ADG\r\n   $2.5M, 115%RR; ADG as %CB +0.7pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 117% RR, %CB +0.5pp MoM; overachievement driven by\r\n      1) Raya push in MY+SG; 2) new SKU ads optimization; 3) top shop push in\r\n      TH+PH\r\n      2.\r\n\r\n      CNSIP proj ADO 94% RR, % CB -0.1pp MoM; missing target mainly due to\r\n      underperformance in VN driven by 1) VN VAT tax impact; 2) VNCB\r\n      underperformance (CB RR 80%, likely due to PRM shift from FSV0\r\nto discount\r\n      of high-ASP SKUs)\r\n      2.\r\n\r\n   [P&L] Overall proj combined PC2 healthy at Shopee level at $2.7M, $391k\r\n   higher than target driven by topline outperformance\r\n   1.\r\n\r\n      Local SIP proj P+SA PC2 $12k, slightly positive driven by 1) GMV\r\n      out-performance leading to budget surplus; 2) FX and shipping P&L\r\n      improvement\r\n      2.\r\n\r\n      CNSIP proj SA PC2 $3k\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   All top 5 SIP lanes and WH cross-selling lanes (except local SCS)\r\n   outperform CB and platform\r\n   2.\r\n\r\n   IDMY proj 114% RR; driven by successful Raya push, a detrend in related\r\n   categories was observed from 21 Mar with -46% WoW ADO as BWT surpassed Hari\r\n   Raya and sellers holiday mode, in line with projection\r\n   3.\r\n\r\n   IDPH proj 125% RR; driven by additional new SKUs set up on ads\r\n   automation contributing to 1k ADO\r\n   4.\r\n\r\n   VNMY proj 132% RR; ADO %CB +0.5pp MoM despite Raya month, growth due to\r\n   increased SKUs through Ops revival, newly migrated SKUs ads ramp up and\r\n   non-performing SKUs mass price reduction\r\n   5.\r\n\r\n   IDSG proj 130%RR; ADO %CB +0.8pp driven by Raya push with related\r\n   categories +40% MoM\r\n\r\n\r\nC/ BWT\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Mar proj ADO 214k, 112% RR; ADO as %CB +0.7pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 117% RR, %CB +0.5pp MoM*; overachievement driven"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP proj ADO 94% RR, % CB -0.1pp MoM;* missing target mainly due"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L]* *Overall proj combined PC2 healthy at Shopee level at $2.7M,"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Local SIP proj P+SA PC2 $12k*, slightly positive driven by 1) GMV"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*CNSIP proj SA PC2 $3k*"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*All top 5 SIP lanes and WH cross-selling lanes (except local SCS)"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*IDMY proj 114% RR*; driven by successful Raya push, a detrend in"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*IDPH proj 125% RR*; driven by additional new SKUs set up on ads"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*VNMY* *proj 132% RR*; ADO %CB +0.5pp MoM despite Raya month, growth"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*IDSG proj 130%RR*; ADO %CB +0.8pp driven by Raya push with related"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*ID-export, MY-export, MY-import* lanes all see extended BWT due to"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*FM lead time in ID and MY extended* due to low productivity (workers"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*Higher passenger travel/ capacity load* leading to frequent offload"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*Non ID/MY lanes *(VNPH, VNSG, VNTH) are all outperforming with >100%"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Low CSAT RR in SG/MY: mainly due to lack of revised SOP/monitoring"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*MY improved L7D CSAT to* *83%* by 1) improve SOP; 2) enhance"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*SG improve L7D CSAT to 70%* by same initiatives; next step is to"
+        },
+        {
+          "question_id": "Q19",
+          "question": "CSAT RR 96% in ID: primarily due to a high volume of chats and a"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*In progress of preparing SIP CS end-to-end proposal for Ian review"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Subsequently SIP to standardize performance metrics, target, ops SOP"
+        },
+        {
+          "question_id": "Q22",
+          "question": "#1 pending biz rollout timeline to release feature to each P market"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#3 live testing, target to rollout in early-Apr"
+        },
+        {
+          "question_id": "Q24",
+          "question": "#4 discussing with the ID local team about payment related requests."
+        },
+        {
+          "question_id": "Q25",
+          "question": "#5 UAT timeline ETA 15/Apr, Live release timeline by 28/Apr"
+        },
+        {
+          "question_id": "Q26",
+          "question": "#7 UAT partial sign-off, CB FBS x SIP live testing starting 2/Apr"
+        },
+        {
+          "question_id": "Q27",
+          "question": "#8 UAT partial sign-off, live testing starting 2/Apr"
+        },
+        {
+          "question_id": "Q28",
+          "question": "#9 Live testing still ongoing"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#10 Live release on 2/Apr, data fix for all existing SIP A shops ETA"
+        },
+        {
+          "question_id": "Q30",
+          "question": "*BN user survey scheduled for PN on 2 Apr*, key focus to understand"
+        },
+        {
+          "question_id": "Q31",
+          "question": "whether direct shipping is highly desired; 2) avg runner cost paid by"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q32",
+          "question": "*[Topline] Mar proj ADO 214k, 112% RR; ADO as %CB +0.7pp MoM; proj"
+        },
+        {
+          "question_id": "Q33",
+          "question": "*[P&L]* *Overall proj combined PC2 healthy at Shopee level at $2.7M,"
+        },
+        {
+          "question_id": "Q34",
+          "question": "*All top 5 SIP lanes and WH cross-selling lanes (except local SCS)"
+        },
+        {
+          "question_id": "Q35",
+          "question": "*IDMY proj 114% RR*; driven by successful Raya push, a detrend in"
+        },
+        {
+          "question_id": "Q36",
+          "question": "*IDPH proj 125% RR*; driven by additional new SKUs set up on ads"
+        },
+        {
+          "question_id": "Q37",
+          "question": "*VNMY* *proj 132% RR*; ADO %CB +0.5pp MoM despite Raya month, growth"
+        },
+        {
+          "question_id": "Q38",
+          "question": "*IDSG proj 130%RR*; ADO %CB +0.8pp driven by Raya push with related"
+        },
+        {
+          "question_id": "Q39",
+          "question": "*ID-export, MY-export, MY-import* lanes all see extended BWT due to"
+        },
+        {
+          "question_id": "Q40",
+          "question": "*Non ID/MY lanes *(VNPH, VNSG, VNTH) are all outperforming with >100%"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Low CSAT RR in SG/MY: mainly due to lack of revised SOP/monitoring"
+        },
+        {
+          "question_id": "Q42",
+          "question": "CSAT RR 96% in ID: primarily due to a high volume of chats and a"
+        },
+        {
+          "question_id": "Q43",
+          "question": "*In progress of preparing SIP CS end-to-end proposal for Ian review"
+        },
+        {
+          "question_id": "Q44",
+          "question": "Subsequently SIP to standardize performance metrics, target, ops SOP"
+        },
+        {
+          "question_id": "Q45",
+          "question": "#1 pending biz rollout timeline to release feature to each P market"
+        },
+        {
+          "question_id": "Q46",
+          "question": "#3 live testing, target to rollout in early-Apr"
+        },
+        {
+          "question_id": "Q47",
+          "question": "#4 discussing with the ID local team about payment related requests."
+        },
+        {
+          "question_id": "Q48",
+          "question": "#5 UAT timeline ETA 15/Apr, Live release timeline by 28/Apr"
+        },
+        {
+          "question_id": "Q49",
+          "question": "#7 UAT partial sign-off, CB FBS x SIP live testing starting 2/Apr"
+        },
+        {
+          "question_id": "Q50",
+          "question": "#8 UAT partial sign-off, live testing starting 2/Apr"
+        },
+        {
+          "question_id": "Q51",
+          "question": "#9 Live testing still ongoing"
+        },
+        {
+          "question_id": "Q52",
+          "question": "#10 Live release on 2/Apr, data fix for all existing SIP A shops ETA"
+        },
+        {
+          "question_id": "Q53",
+          "question": "*BN user survey scheduled for PN on 2 Apr*, key focus to understand"
+        },
+        {
+          "question_id": "Q54",
+          "question": "whether direct shipping is highly desired; 2) avg runner cost paid by"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n         -\r\n\r\n         TH: Platform willing to invest for “unique” and “price\r\n         competitive” SKUs. Next step to work out with THCB on unique/price\r\n         competitive SKU list from Taobao pool and investment plan [ETA 11 Apr]\r\n         -\r\n\r\n   For SG/MY, are we seeing a reversal in the # of SKUs yet? There are just\r\n   too few SKUs overall\r\n   -\r\n\r\n      Yes, referencing the WTD SKU # in Slide 8, we see an increase of 7%\r\n      and 10% WoW for SG/MY\r\n      -\r\n\r\n      Since the program started, we have brought ~20k/30k new SKUs for SG/MY\r\n      -\r\n\r\n      For now, we have concluded SKU migration from existing 164 program\r\n      sellers. Next step to grow SKU is to acquire new non-SHP sellers/SKUs\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n   -\r\n\r\n      From past CN SMT acquisition experiences, acceptance rate is ~3-5%,\r\n      low as most sellers on Taobao are not contactable\r\n      -\r\n\r\n      Hence we expect ~100+ sellers to be acquired from this pool\r\n      -\r\n\r\n      We are now pending SG/MY’s package to be finalised (comms waiver\r\n      approval - SG approved, MY pending)\r\n\r\n\r\n\r\nSlide 14\r\n\r\n   -\r\n\r\n   Are we able to split ADO from SLS and LFF? And can give an update on sea\r\n   shipping + bulky situations in each market? SLS will not work without this\r\n   solution right?\r\n   -\r\n\r\n      LFF (3PF) is ~87-89% for SG/MY, due to the top sellers for both\r\n      markets doing a 3PF model\r\n\r\n\r\n   -\r\n\r\n   Sea shipping + bulky situation\r\n   -\r\n\r\n  "
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\nTaobao\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   PC2 for a few markets are probably too healthy? Like TW/TH/VN?\r\n   -\r\n\r\n      Yes, we have brought this up for their attention. Current\r\n      plan/progress as below\r\n      -\r\n\r\n         VN: set up additional PRM vouchers to decrease PC2; implemented in\r\n         end-Mar; we will monitor the PC2 trend in Apr\r\n         -\r\n\r\n         TW: designed a new incentive package to pitch to all sellers with\r\n         higher voucher PRM [ETA start: 7-14 Apr]\r\n     "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Attaching PDF as some snapshots could not be displayed."
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q55",
+          "question": "Slide 10\r\n\r\n   - How does this compare with our expectation?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "- From past CN SMT acquisition experiences, acceptance rate is ~3-5%,\r\n      low as most sellers on Taobao are not contactable\r\n      - Hence we expect ~100+ sellers to be acquired from this pool\r\n      - We are now pending SG/MY’s package to be finalised (comms waiver\r\n      approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle right?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Slide 14\r\n\r\n   - Are we able to split ADO from SLS and LFF?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "And can give an update on\r\n   sea shipping + bulky situations in each market?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "SLS will not work without\r\n   this solution right?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "- LFF (3PF) is ~87-89% for SG/MY, due to the top sellers for both\r\n      markets doing a 3PF model\r\n\r\n\r\n\r\nSo where do we see the growth coming from?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "SLS or LFF?"
+        },
+        {
+          "question_id": "Q62",
+          "question": "o   Sea shipping + bulky situation\r\n\r\n§  SG/MY: current sea shipping weight and dimension limits are\r\ncomparable/better than TB’s direct shipping, no plan to further improve for\r\nnow\r\n\r\n§  TH/PH/TW: current seashipping limit is small. SLS is in progress of\r\nassessing bulky solution for each market\r\n\r\n§  VN: current seashipping limit is small. However, aligned with local and\r\nSLS not to proceed to explore bulky solution, as VN customs has a limit of\r\n32kg and 35% import tax to be added for bulky items, which will make bulky\r\nproducts price uncompetitive in VN\r\n\r\nWhen will we know for TH/PH/TW?"
+        },
+        {
+          "question_id": "Q63",
+          "question": "- For markets without SLS + Bulky, do we really think they can grow much?"
+        },
+        {
+          "question_id": "Q64",
+          "question": "- >70% of Taobao program SKUs are under 15kg, still significant enough\r\n      to run the program first while we explore a bulky solution\r\n\r\n\r\n\r\nIt is not about Taobao program SKUs right, but what is Taobao selling into\r\nthese markets?"
+        },
+        {
+          "question_id": "Q65",
+          "question": "- PC2 is probably too high as well for most markets if we want to grow\r\n   this?"
+        },
+        {
+          "question_id": "Q66",
+          "question": "- Yes, after we start running the program in VN/TH (ETA in 1 weeks’\r\n      time), we’ll ask markets if they’re willing to drive down PC2 for these 2\r\n      markets\r\n\r\n\r\n\r\nSlide 15\r\n\r\n   - For #2 – Do we have a breakdown of the funnel?"
+        },
+        {
+          "question_id": "Q67",
+          "question": "Which markets can they\r\n   start in first?"
+        },
+        {
+          "question_id": "Q68",
+          "question": "- So far, we’re only pitching for SG/MY since these are the only 2 mkts\r\n      that we have started in (VN/TH to start in 1 weeks’ time)\r\n      - The following is the breakdown of SG/MY (the # of acquired sellers\r\n      are the same, hence we didn’t split by mkt)\r\n\r\n\r\n   - What is the issue for #5?"
+        },
+        {
+          "question_id": "Q69",
+          "question": "- There are certain furniture products that require to be shipped in\r\n      multiple packages, such as furniture that needs to be assembled e.g.\r\n      outdoor tables, or furniture that is fragile and hence needs to be split\r\n      e.g. wardrobes\r\n      - However, our system currently doesn’t allow sellers to ship one SKU\r\n      via multiple parcels, and hence we found a system workaround for\r\nsellers to\r\n      be able to sell these items\r\n\r\n\r\n\r\nSlide 17\r\n\r\n   - Why such low targets for MY when compared to SG?"
+        },
+        {
+          "question_id": "Q70",
+          "question": "- Sourcing wishlist and targets were set by SG/MY Local curated from top\r\n      TB furniture sellers’ top SKUs. MY set their SKU# target and sourcing\r\n      wishlist based on this logic:\r\n\r\n\r\n   - whether SHP MY has the assortment - if not on SHP MY, to be sourced;\r\n         - whether SHP MY price point is cheaper vs TB - if SHP MY more\r\n         expensive, to be sourced\r\n\r\n\r\n   - Hence, both local mkts reached a different target # of SKUs after\r\n      going through the above criteria\r\n      - We are working with MYBD to do an interim review on the sourcing\r\n      list and criteria, to open up to more SKUs [ETA 7 Apr]\r\n\r\n\r\n\r\nDoes not feel like a very sound logic…we should just go for as many SKUs as\r\nwe can?"
+        },
+        {
+          "question_id": "Q71",
+          "question": "You are telling me Local curated every single top SKU for TB\r\nfurtniure seller and found a cheaper alternative locally?"
+        },
+        {
+          "question_id": "Q72",
+          "question": "Others\r\n\r\n   - How are we intending to approach F&B sellers?"
+        },
+        {
+          "question_id": "Q73",
+          "question": "- We have already mapped out the universe, and start with SKU migration\r\n      (quick win), while preparing for top seller acquisition and sourcing to\r\n      close the gaps between TB and us - gaps are still being identified\r\n      - F&B: crawled and matched 10 TB GGPs with 250 unique SKUs, with\r\n      opportunity to add 802 SKUs across 6 markets\r\n      - Beauty: crawled and matched 73 TB GGPs with 8321 unique SKUs, with\r\n      opportunity to add 34k SKUs across 6 markets\r\n\r\nF&B so little?"
+        },
+        {
+          "question_id": "Q74",
+          "question": "Why did we look at Beuaty?"
+        },
+        {
+          "question_id": "Q75",
+          "question": "*SIP*\r\n\r\n\r\n\r\nWhen are we looking to optimize CN SIP?"
+        },
+        {
+          "question_id": "Q76",
+          "question": "Similar to how we optimize Local\r\nSIP?"
+        },
+        {
+          "question_id": "Q77",
+          "question": "What are the steps/deadline on that?"
+        },
+        {
+          "question_id": "Q78",
+          "question": "- We are revamping CNSIP in 3 steps\r\n\r\n\r\n\r\nStep\r\n\r\nInitiative\r\n\r\nProgress\r\n\r\nNext-step and ETA\r\n\r\n1\r\n\r\nImprove existing CNSIP performance by replicating local SIP initiatives\r\n\r\n   - Reduced price mark-up of marketing budget from 17% to 12% to remove\r\n   low ROI marketing spend [ETA completion: EOW]\r\n\r\n\r\n   - Planned SKU revival of top 5 CNSIP lanes after price reduction\r\n   (BR/VN/SG/PH/TH) [ETA: mid-Apr (SG); end-Apr (others)\r\n   - Optimize new/revived SKU ads investment [ETA: end-Apr]\r\n\r\n2\r\n\r\nSimplify CNSIP biz model to make it a more effective SKU migration tool for\r\nexisting SHP sellers\r\n\r\n   - Conducted 2 CN seller interviews to understand the rejection reasons\r\n   to CNSIP\r\n   - Key takeaway: 1) pricing formula complicated and not communicated\r\n   clearly; 2) seller education on the program can be better\r\n\r\n\r\n   - Proposal on a simpler migration tool (easy-to-understand pricing\r\n   formula, comms) [ETA; 15 Apr]\r\n\r\n3\r\n\r\nExplore ERP collaborations to migrate new SKUs to SHP\r\n\r\n   - In progress of exploring commercial arrangement with potential\r\n   partner, business/ops flow and product requirement\r\n\r\n\r\n   - 1st discussion with potential partner on 2 Apr\r\n   - Product + business plan proposal ETA 15 Apr\r\n\r\n\r\n\r\nDo we have a new projection and P&L?"
+        },
+        {
+          "question_id": "Q79",
+          "question": "(CRR/CSAT) We do not have past data?"
+        },
+        {
+          "question_id": "Q80",
+          "question": "We should be looking at more than just\r\nCSAT?"
+        },
+        {
+          "question_id": "Q81",
+          "question": "How about productivity/abandon rate etc?"
+        },
+        {
+          "question_id": "Q82",
+          "question": "I remember that was quite\r\nbad?"
+        },
+        {
+          "question_id": "Q83",
+          "question": "- Data is available after CS migration to IHCS from early Mar; we will\r\n   have MoM data from Apr\r\n   - Additional metrics we plan to add from 5 Apr\r\n\r\n\r\n   - Agent: productivity, abandon rate, conversion rate, average response\r\n      time\r\n      - Chatbot:  CSAT, conversion rate, deflection rate\r\n\r\n\r\n\r\nCan look at what Shuning/Esten side are looking at?"
+        },
+        {
+          "question_id": "Q84",
+          "question": "Maybe we should\r\nstandardize amongst the 3 teams..\r\n\r\n\r\n\r\nHow about the performance of our Chatbot?"
+        },
+        {
+          "question_id": "Q85",
+          "question": "Will we be tracking it?"
+        },
+        {
+          "question_id": "Q86",
+          "question": "- Yes as above plan\r\n\r\n\r\n\r\nOthers\r\n\r\n   - Can we relook TH as an export market?"
+        },
+        {
+          "question_id": "Q87",
+          "question": "I think there is more potential\r\n   there than we think (Fashion, Snacks etc)\r\n\r\n\r\n   - Yes we are on it, assessment outcome and growth proposal will be ready\r\n      for your review in the upcoming Apr SIP monthly meeting on 15 Apr\r\n      - We are assessing the unique/price competitive SKUs from THSIP pool,\r\n      and then replicate optimization initiatives to drive topline uplift\r\n      - Initiatives we plan to replicate/consider to THSIP\r\n\r\n\r\n   - (more SKUs) SKU migration improvement/revival [ETA mid-Apr]\r\n         - (cheaper price) BPSF reduction: alignment [ETA end-Apr]\r\n         - (cheaper price) SLS ASF reduction via vendor renegotiation [ETA\r\n         end-Apr]\r\n         - (better marketing) New/revived/trendy push\r\n\r\n\r\n   - When are we going to look at KR and JP SIP?"
+        },
+        {
+          "question_id": "Q88",
+          "question": "Targeting resellers\r\n\r\n\r\n   - KR managed seller: Aligned with KR to use mass migration tool. ETA\r\n      April\r\n      - KR unmanage seller/reseller: Projected ADO impact for SIP model is\r\n      ~644 ADO in total in 8 markets. Requires 6-8 weeks development\r\nefforts and\r\n      3 additional HC for seller management, shop management and\r\nlisting control.\r\n      Raised P2 ticket due to limited business impact. Similar dev efforts for\r\n      JPSIP with a smaller business impact.\r\n\r\nWe need dev efforts for this?"
+        },
+        {
+          "question_id": "Q89",
+          "question": "Not just something we can turn on?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q55",
+          "answer": "seller education on the program can be better\r\n\r\nProposal on a simpler migration tool (easy-to-understand pricing formula,\r\ncomms) [ETA; 15 Apr]\r\n\r\n3\r\n\r\nExplore ERP collaborations to migrate new SKUs to SHP\r\n\r\nIn progress of exploring commercial arrangement with potential partner,\r\nbusiness/ops flow and product requirement\r\n\r\n1st discussion with potential partner on 2 Apr\r\n\r\nProduct + business plan proposal ETA 15 Apr\r\n\r\n\r\n\r\nDo we have a new projection and P&L?\r\n\r\nFor step 1, we will track the impact from the 3 initiatives and update by\r\nend-Apr. Our estimation is ~5-10% (+1K to 2K) ADO uplift.\r\n\r\nFor step 2 and 3, the impact will depend on the use case (whether we want\r\nto focus on certain counter taobao categories and markets, or we want to\r\nexpand aggressively across CB categories in general). We will bring\r\npreliminary thinking around both scenarios and projections to 15 Apr SIP\r\nmonthly meeting.\r\n\r\n\r\n\r\n(CRR/CSAT) We do not have past data? We should be looking at more than just\r\nCSAT? How about productivity/abandon rate etc? I remember that was quite\r\nbad?\r\n\r\n   -\r\n\r\n   Data is available after CS migration to IHCS from early Mar; we will\r\n   have MoM data from Apr\r\n   -\r\n\r\n   Additional metrics we plan to add from 5 Apr\r\n\r\n\r\n   -\r\n\r\n   Agent: productivity, abandon rate, conversion rate, average response time\r\n   -\r\n\r\n   Chatbot:  CSAT, conversion rate, deflection rate\r\n\r\n\r\n\r\nCan look at what Shuning/Esten side are looking at? Maybe we should\r\nstandardize amongst the 3 teams..\r\n\r\nOk will do. We will compare with SCS/SBS metrics. On a high level, we can\r\nuse the same set of metrics, but each team has different weightage / target\r\nto tailor to biz needs.\r\n\r\n\r\n\r\n   -\r\n\r\n   When are we going to look at KR and JP SIP? Targeting resellers\r\n\r\n\r\n   -\r\n\r\n   KR managed seller: Aligned with KR to use mass migration tool. ETA April\r\n   -\r\n\r\n   KR unmanage seller/reseller: Projected ADO impact for SIP model is ~644\r\n   ADO in total in 8 markets. Requires 6-8 weeks development"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q69",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q70",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q71",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q72",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q73",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q74",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q75",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q76",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q77",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q78",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q79",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q80",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q81",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q82",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q83",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q84",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q85",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q86",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q87",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q88",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        },
+        {
+          "question_id": "Q89",
+          "answer": "Hi Ian, pls see our responses in green.\r\n\r\nTaobao\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does this compare with our expectation?\r\n\r\n\r\n   -\r\n\r\n   From past CN SMT acquisition experiences, acceptance rate is ~3-5%, low\r\n   as most sellers on Taobao are not contactable\r\n   -\r\n\r\n   Hence we expect ~100+ sellers to be acquired from this pool\r\n   -\r\n\r\n   We are now pending SG/MY’s package to be finalised (comms waiver\r\n   approval - SG approved, MY pending)\r\n\r\nThis is probably too low to really move a needle r"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q90",
+          "question": "Slide 14\r\n\r\n·  Are we able to split ADO from SLS and LFF?"
+        },
+        {
+          "question_id": "Q91",
+          "question": "And can give an update on sea\r\nshipping + bulky situations in each market?"
+        },
+        {
+          "question_id": "Q92",
+          "question": "SLS will not work without this\r\nsolution right?"
+        },
+        {
+          "question_id": "Q93",
+          "question": "o   LFF (3PF) is ~87-89% for SG/MY, due to the top sellers for both markets\r\ndoing a 3PF model\r\n\r\nSo where do we see the growth coming from?"
+        },
+        {
+          "question_id": "Q94",
+          "question": "SLS or LFF?"
+        },
+        {
+          "question_id": "Q95",
+          "question": "The growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nFor markets without SLS + Bulky, do we really think they can grow much?"
+        },
+        {
+          "question_id": "Q96",
+          "question": "o   >70% of Taobao program SKUs are under 15kg, still significant enough to\r\nrun the program first while we explore a bulky solution\r\n\r\n\r\n\r\nIt is not about Taobao program SKUs right, but what is Taobao selling into\r\nthese markets?"
+        },
+        {
+          "question_id": "Q97",
+          "question": "Yes agree. We believe SLS+bulky channel is important to have, because 1)\r\nTaobao has a meaningful segment of bulky products (pending BI/MI support to\r\nverify %, current estimation is bulky contributes to ~20% ADG market share\r\nby CN furniture team); 2) our markets need bulky SKUs - so we are pushing\r\nthe bulky solution together with CN SLS commercial team as the plan above.\r\n\r\n\r\n\r\nMeanwhile while waiting for a bulky solution in place, we think it is also\r\nimportant to push the non-bulky ones as no-regrets to close assortment gap\r\nwith Taobao.\r\n\r\n\r\n\r\nWe need bulky, we need to push SLS..i am concerned we are focusing on wrong\r\nthings\r\n\r\n\r\n\r\n\r\n\r\nSlide 17\r\n\r\n·  Why such low targets for MY when compared to SG?"
+        },
+        {
+          "question_id": "Q98",
+          "question": "o   Sourcing wishlist and targets were set by SG/MY Local curated from top\r\nTB furniture sellers’ top SKUs. MY set their SKU# target and sourcing\r\nwishlist based on this logic:\r\n\r\n§  whether SHP MY has the assortment - if not on SHP MY, to be sourced;\r\n\r\n§  whether SHP MY price point is cheaper vs TB - if SHP MY more expensive,\r\nto be sourced\r\n\r\no   Hence, both local mkts reached a different target # of SKUs after going\r\nthrough the above criteria\r\n\r\no   We are working with MYBD to do an interim review on the sourcing list\r\nand criteria, to open up to more SKUs [ETA 7 Apr]\r\n\r\nDoes not feel like a very sound logic…we should just go for as many SKUs as\r\nwe can?"
+        },
+        {
+          "question_id": "Q99",
+          "question": "You are telling me Local curated every single top SKU for TB\r\nfurtniure seller and found a cheaper alternative locally?"
+        },
+        {
+          "question_id": "Q100",
+          "question": "Understood. MY set initial target based on a much smaller target pool of\r\ntop TB SKUs. Aligned with MYBD to expand the target SKU pool and the\r\nsourcing wishlist / target by next week, will update again.\r\n\r\nOn the program level, the current approach (ask top sellers to source) will\r\nhave a SKU # limit. This is because the local market needs to provide\r\nincentives to these sellers to do the sourcing for us, so the budget\r\navailability will limit how many SKUs we can support. It makes sense for\r\nthe local market to focus budget on the most-wanted SKUs.\r\n\r\nOnce we have the additional approach with ERP 聚水潭, then SIP team is able to\r\nmigrate SKUs without local market support - then we can go for as many SKUs\r\nas possible.\r\n\r\nAgain I am concerned we are focusing on wrong things..i do not quite\r\nunderstand how we can allow such a small SKU target\r\n\r\n\r\n\r\n\r\n\r\nOthers\r\n\r\n·  How are we intending to approach F&B sellers?"
+        },
+        {
+          "question_id": "Q101",
+          "question": "o   We have already mapped out the universe, and start with SKU migration\r\n(quick win), while preparing for top seller acquisition and sourcing to\r\nclose the gaps between TB and us - gaps are still being identified\r\n\r\no   F&B: crawled and matched 10 TB GGPs with 250 unique SKUs, with\r\nopportunity to add 802 SKUs across 6 markets\r\n\r\no   Beauty: crawled and matched 73 TB GGPs with 8321 unique SKUs, with\r\nopportunity to add 34k SKUs across 6 markets\r\n\r\nF&B so little?"
+        },
+        {
+          "question_id": "Q102",
+          "question": "These are sellers identified by CN F&B team that are true TB sellers. We\r\nhave a limited CNCB seller pool on F&B to start with, due to our CB\r\nlogistics policy limits on F&B (officially no F&B products are allowed; in\r\npractice some can pass the customs as the vol is not high). Taobao global\r\nis able to support more F&B sellers because it uses 3P vendors that\r\nleverage grey channel (Taobao official shipping service also does not allow\r\nF&B products)\r\n\r\nConcurrently, we’re finding alternative sources to get more TB\r\nsellers/SKUs: 1) acquire top sellers that are not on SHP; 2) crawl 60k top\r\nTB SKUs, and check how many can be matched to SHP; 3) source SKUs not on\r\nShopee.\r\n\r\nWhy are we not allowed to sell F&B via CB logistics?"
+        },
+        {
+          "question_id": "Q103",
+          "question": "Why did we look at Beauty?"
+        },
+        {
+          "question_id": "Q104",
+          "question": "Beauty was sizable on TB Global, e.g., in MY, SHP’s multiple is 0.7x of TB;\r\nthus we wanted to do a sanity check after F&B to check if we did miss\r\nanything.\r\n\r\nSo what did we realise here?"
+        },
+        {
+          "question_id": "Q105",
+          "question": "*SIP*\r\n\r\n\r\n\r\nWhen are we looking to optimize CN SIP?"
+        },
+        {
+          "question_id": "Q106",
+          "question": "Similar to how we optimize Local\r\nSIP?"
+        },
+        {
+          "question_id": "Q107",
+          "question": "What are the steps/deadline on that?"
+        },
+        {
+          "question_id": "Q108",
+          "question": "·  We are revamping CNSIP in 3 steps\r\n\r\n\r\n\r\nStep\r\n\r\nInitiative\r\n\r\nProgress\r\n\r\nNext-step and ETA\r\n\r\n1\r\n\r\nImprove existing CNSIP performance by replicating local SIP initiatives\r\n\r\nReduced price mark-up of marketing budget from 17% to 12% to remove low ROI\r\nmarketing spend [ETA completion: EOW]\r\n\r\nPlanned SKU revival of top 5 CNSIP lanes after price reduction\r\n(BR/VN/SG/PH/TH) [ETA: mid-Apr (SG); end-Apr (others)\r\n\r\nOptimize new/revived SKU ads investment [ETA: end-Apr]\r\n\r\n2\r\n\r\nSimplify CNSIP biz model to make it a more effective SKU migration tool for\r\nexisting SHP sellers\r\n\r\nConducted 2 CN seller interviews to understand the rejection reasons to\r\nCNSIP\r\n\r\nKey takeaway: 1) pricing formula complicated and not communicated clearly;\r\n2) seller education on the program can be better\r\n\r\nProposal on a simpler migration tool (easy-to-understand pricing formula,\r\ncomms) [ETA; 15 Apr]\r\n\r\n3\r\n\r\nExplore ERP collaborations to migrate new SKUs to SHP\r\n\r\nIn progress of exploring commercial arrangement with potential partner,\r\nbusiness/ops flow and product requirement\r\n\r\n1st discussion with potential partner on 2 Apr\r\n\r\nProduct + business plan proposal ETA 15 Apr\r\n\r\n\r\n\r\nDo we have a new projection and P&L?"
+        },
+        {
+          "question_id": "Q109",
+          "question": "For step 1, we will track the impact from the 3 initiatives and update by\r\nend-Apr. Our estimation is ~5-10% (+1K to 2K) ADO uplift.\r\n\r\nFor step 2 and 3, the impact will depend on the use case (whether we want\r\nto focus on certain counter taobao categories and markets, or we want to\r\nexpand aggressively across CB categories in general). We will bring\r\npreliminary thinking around both scenarios and projections to 15 Apr SIP\r\nmonthly meeting.\r\n\r\n\r\n\r\n(CRR/CSAT) We do not have past data?"
+        },
+        {
+          "question_id": "Q110",
+          "question": "We should be looking at more than just\r\nCSAT?"
+        },
+        {
+          "question_id": "Q111",
+          "question": "How about productivity/abandon rate etc?"
+        },
+        {
+          "question_id": "Q112",
+          "question": "I remember that was quite\r\nbad?"
+        },
+        {
+          "question_id": "Q113",
+          "question": "·  Data is available after CS migration to IHCS from early Mar; we will\r\nhave MoM data from Apr\r\n\r\n·  Additional metrics we plan to add from 5 Apr\r\n\r\no   Agent: productivity, abandon rate, conversion rate, average response\r\ntime\r\n\r\no   Chatbot:  CSAT, conversion rate, deflection rate\r\n\r\n\r\n\r\nCan look at what Shuning/Esten side are looking at?"
+        },
+        {
+          "question_id": "Q114",
+          "question": "Maybe we should\r\nstandardize amongst the 3 teams..\r\n\r\nOk will do. We will compare with SCS/SBS metrics. On a high level, we can\r\nuse the same set of metrics, but each team has different weightage / target\r\nto tailor to biz needs.\r\n\r\n\r\n\r\n·  When are we going to look at KR and JP SIP?"
+        },
+        {
+          "question_id": "Q115",
+          "question": "Targeting resellers\r\n\r\no   KR managed seller: Aligned with KR to use mass migration tool. ETA April\r\n\r\no   KR unmanage seller/reseller: Projected ADO impact for SIP model is ~644\r\nADO in total in 8 markets. Requires 6-8 weeks development efforts and 3\r\nadditional HC for seller management, shop management and listing control.\r\nRaised P2 ticket due to limited business impact. Similar dev efforts for\r\nJPSIP with a smaller business impact.\r\n\r\nWe need dev efforts for this?"
+        },
+        {
+          "question_id": "Q116",
+          "question": "Not just something we can turn on?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q90",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up TH setup in ~1 month, followed\r\nby PH and TW in May to June. cc Jianghong Liu <jianghong.liu@shopee.com>\r\n\r\nTo clarify for Cuiwei/Nicholas: what updated about focus on LFF is bcz we\r\nhaven’t got the sls setup yet, the growth mainly comes from LFF now. We\r\nactually push sls as direction.\r\n\r\n\r\nIt is not about Taobao program SKUs right, but what is Taobao selling into\r\nthese markets?\r\n\r\n\r\n\r\nYes agree. We believe SLS+bulky channel is important to have, because 1)\r\nTaobao has a meaningful segment of bulky products (pending BI/MI support to\r\nverify %, current estimation is bulky contributes to ~20% ADG market share\r\nby CN furniture team); 2) our markets need bulky SKUs - so we are pushing\r\nthe bulky solution together with CN SLS commercial team as the plan above.\r\n\r\n\r\n\r\nMeanwhile while waiting for a bulky solution in place, we think it is also\r\nimportant to push the non-bulky ones as no-regrets to close assortment gap\r\nwith Taobao.\r\n\r\n\r\n\r\nWe need bulky, we need to push SLS..i am concerned we are focusing on wrong\r\nthings\r\n\r\nSN: Yep, noted. SLS is the key, working with James Li [SZ]\r\n<james.li@shopee.com> on ops setup, Hongjun Li <hongjun.li@shopee.com> for\r\nsystem setup.\r\n\r\nDoes not feel like a very sound logic…we should just go for as many SKUs as\r\nwe can? You are telling me Local curated every single top SKU for TB\r\nfurtniure seller and found a cheaper alternative locally? Really?\r\n\r\nUnderstood. MY set initial target based on a much smaller target pool of\r\ntop TB SKUs. Aligned w"
+        },
+        {
+          "question_id": "Q91",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q92",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q93",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q94",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q95",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q96",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q97",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q98",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q99",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q100",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q101",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q102",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q103",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q104",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q105",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q106",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q107",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q108",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q109",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q110",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q111",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q112",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q113",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q114",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q115",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        },
+        {
+          "question_id": "Q116",
+          "answer": "Hi Ian\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from? SLS or LFF?\r\n\r\nThe growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q117",
+          "question": "Why are we not allowed to sell F&B via CB logistics?"
+        },
+        {
+          "question_id": "Q118",
+          "question": "CN logistics vendor set skus such as meat, floss, egg yolk, and dairy\r\nproducts prohibited. Other F&B skus are in sensitive category, which needs\r\nto control the order volume, as such to control the quantity of items per\r\nlinehual shipment to avoid inspection.\r\n\r\nDeeper looking at the sub categories under f&b, snack and gift & hampers\r\nare safe to scale up, fresh & frozen, beverages, cooking essentials and\r\ndairy & eggs are under tight control\r\n\r\nWe need to work with SLS ops team to explore better logistics\r\nvendors/services to open more skus/categories, will update back again next\r\nweek.\r\n\r\nFor the 0.2 multiple vs TB, can we look at what sub-cats are missing?"
+        },
+        {
+          "question_id": "Q119",
+          "question": "I\r\nfind it hard to believe that it is meat, floss, egg yolk type?"
+        },
+        {
+          "question_id": "Q120",
+          "question": "It should\r\nfall under mostly snacks type?"
+        },
+        {
+          "question_id": "Q121",
+          "question": "Which should be able to be shipped?"
+        },
+        {
+          "question_id": "Q122",
+          "question": "So do\r\nnot quite understand why you say we cannot ship this. Or that our sellers\r\ndo not carry it currently?"
+        },
+        {
+          "question_id": "Q123",
+          "question": "Why did we look at Beauty?"
+        },
+        {
+          "question_id": "Q124",
+          "question": "Beauty was sizable on TB Global, e.g., in MY, SHP’s multiple is 0.7x of TB;\r\nthus we wanted to do a sanity check after F&B to check if we did miss\r\nanything.\r\n\r\nSo what did we realise here?"
+        },
+        {
+          "question_id": "Q125",
+          "question": "SN: We have some initial understanding.\r\n\r\na ) there are 73 confirmed TB sellers on SHP, with ~8.3k unique SKUs giving\r\nus a migration opportunity of ~33.6 K.\r\n\r\nSo what are we doing here?"
+        },
+        {
+          "question_id": "Q126",
+          "question": "Will they be part of TB program or?"
+        },
+        {
+          "question_id": "Q127",
+          "question": "*From:* Shuning Wang <shuning.wang@shopee.com>\r\n*Sent:* Friday, 4 April 2025 12:59 pm\r\n*To:* Ian Ho <hoi@sea.com>; James Li [SZ] <james.li@shopee.com>; Saovanee\r\nSomchit <saovanee.somchit@shopee.com>\r\n*Cc:* Cuiwei Sun <cuiwei.sun@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>; Carol Yan <carol.yan@shopee.com>; Hongjun Li <\r\nhongjun.li@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 28 Mar\r\n\r\n\r\n\r\nHi Ian\r\n\r\n\r\n\r\nLet me address the questions here\r\n\r\nSo where do we see the growth coming from?"
+        },
+        {
+          "question_id": "Q128",
+          "question": "SLS or LFF?"
+        },
+        {
+          "question_id": "Q129",
+          "question": "The growth is coming from LFF as our top sellers are driving the growth and\r\ntheir shops are 3PF model\r\n\r\nIf our growth is determined by LFF, the potential will be very small so I\r\nam not sure what we really mean here..\r\n\r\nI am concerned we are focused on wrong things\r\n\r\nSN: To push SLS as P0 instead of LFF is aligned. Talked with SLS ops lead James\r\nLi [SZ] <james.li@shopee.com>, we speed up TH setup in ~1 month, followed\r\nby PH and TW in May to June. cc Jianghong Liu <jianghong.liu@shopee.com>\r\n\r\nTo clarify for Cuiwei/Nicholas: what updated about focus on LFF is bcz we\r\nhaven’t got the sls setup yet, the growth mainly comes from LFF now. We\r\nactually push sls as direction.\r\n\r\n\r\n\r\nIt is not about Taobao program SKUs right, but what is Taobao selling into\r\nthese markets?"
+        },
+        {
+          "question_id": "Q130",
+          "question": "Yes agree. We believe SLS+bulky channel is important to have, because 1)\r\nTaobao has a meaningful segment of bulky products (pending BI/MI support to\r\nverify %, current estimation is bulky contributes to ~20% ADG market share\r\nby CN furniture team); 2) our markets need bulky SKUs - so we are pushing\r\nthe bulky solution together with CN SLS commercial team as the plan above.\r\n\r\n\r\n\r\nMeanwhile while waiting for a bulky solution in place, we think it is also\r\nimportant to push the non-bulky ones as no-regrets to close assortment gap\r\nwith Taobao.\r\n\r\n\r\n\r\nWe need bulky, we need to push SLS..i am concerned we are focusing on wrong\r\nthings\r\n\r\nSN: Yep, noted. SLS is the key, working with James Li [SZ]\r\n<james.li@shopee.com> on ops setup, Hongjun Li <hongjun.li@shopee.com> for\r\nsystem setup.\r\n\r\n\r\n\r\nDoes not feel like a very sound logic…we should just go for as many SKUs as\r\nwe can?"
+        },
+        {
+          "question_id": "Q131",
+          "question": "You are telling me Local curated every single top SKU for TB\r\nfurtniure seller and found a cheaper alternative locally?"
+        },
+        {
+          "question_id": "Q132",
+          "question": "Understood. MY set initial target based on a much smaller target pool of\r\ntop TB SKUs. Aligned with MYBD to expand the target SKU pool and the\r\nsourcing wishlist / target by next week, will update again.\r\n\r\nOn the program level, the current approach (ask top sellers to source) will\r\nhave a SKU # limit. This is because the local market needs to provide\r\nincentives to these sellers to do the sourcing for us, so the budget\r\navailability will limit how many SKUs we can support. It makes sense for\r\nthe local market to focus budget on the most-wanted SKUs.\r\n\r\nOnce we have the additional approach with ERP 聚水潭, then SIP team is able to\r\nmigrate SKUs without local market support - then we can go for as many SKUs\r\nas possible.\r\n\r\nAgain I am concerned we are focusing on wrong things..i do not quite\r\nunderstand how we can allow such a small SKU target\r\n\r\nSN: Add Saovanee Somchit <saovanee.somchit@shopee.com> for alignments\r\n\r\n   - We push the sku # to an equivalent level as SG which target at the\r\n   entire sku pool we have. For the marketing packages, it is step 2, we fit\r\n   the assortment gap first. Can update the new plan in coming weekly update.\r\n   - We have migrated 55K skus to MY in March, we work on the sku\r\n   efficiency on them with MY teams.\r\n\r\nF&B so little?"
+        },
+        {
+          "question_id": "Q133",
+          "question": "These are sellers identified by CN F&B team that are true TB sellers. We\r\nhave a limited CNCB seller pool on F&B to start with, due to our CB\r\nlogistics policy limits on F&B (officially no F&B products are allowed; in\r\npractice some can pass the customs as the vol is not high). Taobao global\r\nis able to support more F&B sellers because it uses 3P vendors that\r\nleverage grey channel (Taobao official shipping service also does not allow\r\nF&B products)\r\n\r\nConcurrently, we’re finding alternative sources to get more TB\r\nsellers/SKUs: 1) acquire top sellers that are not on SHP; 2) crawl 60k top\r\nTB SKUs, and check how many can be matched to SHP; 3) source SKUs not on\r\nShopee.\r\n\r\nWhy are we not allowed to sell F&B via CB logistics?"
+        },
+        {
+          "question_id": "Q134",
+          "question": "CN logistics vendor set skus such as meat, floss, egg yolk, and dairy\r\nproducts prohibited. Other F&B skus are in sensitive category, which needs\r\nto control the order volume, as such to control the quantity of items per\r\nlinehual shipment to avoid inspection.\r\n\r\nDeeper looking at the sub categories under f&b, snack and gift & hampers\r\nare safe to scale up, fresh & frozen, beverages, cooking essentials and\r\ndairy & eggs are under tight control\r\n\r\nWe need to work with SLS ops team to explore better logistics\r\nvendors/services to open more skus/categories, will update back again next\r\nweek.\r\n\r\nWhy did we look at Beauty?"
+        },
+        {
+          "question_id": "Q135",
+          "question": "Beauty was sizable on TB Global, e.g., in MY, SHP’s multiple is 0.7x of TB;\r\nthus we wanted to do a sanity check after F&B to check if we did miss\r\nanything.\r\n\r\nSo what did we realise here?"
+        }
+      ]
+    }
+  ]
+}

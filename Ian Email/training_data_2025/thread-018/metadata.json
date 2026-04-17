@@ -1,0 +1,282 @@
+{
+  "id": "thread-018",
+  "subject": "SIP Weekly Update - Week ending 21 Feb",
+  "date": "2025-02-22",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 21 Feb.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "product-launch",
+    "marketing",
+    "pricing",
+    "supply-chain"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Nicholas Lim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nSIP weekly update for your review please. Thank you.\r\n\r\nPerformance Dashboard (as of 19 Feb)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Feb proj ADO 177k, 100% RR; ADO as %CB +0.23pp MoM; proj ADG\r\n   $2.0M, 108%RR; ADG as %CB +0.34pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 99% RR, ADO as % CB +0.03pp MoM; slight gap in\r\n      target due to 1) IDMY slow recovery in 2H with low platform RR; 2) VNSIP\r\n      prolonged Tet holiday impact\r\n      2.\r\n\r\n      CNSIP proj ADO 112% RR, ADO as % CB +0.10pp MoM; above target driven\r\n      by 1) price reduction initiative in PH and VN; 2) LPP push in SG\r\n      2.\r\n\r\n   [P&L]\r\n   1.\r\n\r\n      Both Local SIP P+SA and CN SIP SA MTD daily PC2 breakeven; rest of\r\n      Feb focus to ramp up marketing spending to maximise topline growth\r\n      2.\r\n\r\n      Overall combined PC2 healthy at Shopee level at $115.5k daily, +29%\r\n      MoM. PC2 MoM growth much higher than ADG growth due to 1) ADG has\r\n      higher base; 2) PC2 expected to be lower towards end of month to release\r\n      more budget to marketing\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   IDMY proj 95% RR; Due to 1) 1H budget cut from profit passback VAT\r\n   removal and OPEX issues; slower recovery in 2H with low platform RR. 2)\r\n   Lower than projected Raya uplift with platform raya categories\r\n   underachieving vs last year. Ramp up plan kicked in with 1) new SKUs ads\r\n   push 2) high traffic SKUs product promo set up; observed improvement in ADO\r\n   platform % by 0.16pp on D-1 vs last week\r\n   2.\r\n\r\n   MYSG proj 106% RR; high RR driven by successful 2.2 push, overachieving\r\n   target with 128% R we R while ADO CB% grew 1.31pp vs 1.1 spike; expect to\r\n   maintain with Raya assortment push\r\n   3.\r\n\r\n   VNMY proj 81% RR; low RR due to 1) slower Tet recovery 2) limited SLS\r\n   rate reduction impact 3) Plt WC/MC ADO decline; GMV RR higher at 96% with\r\n   less rebate discount vs M-1. Ramp up initiatives observed good uplift wit"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Feb proj ADO 177k, 100% RR; ADO as %CB +0.23pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 99% RR, ADO as % CB +0.03pp MoM*; slight gap in"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP proj ADO 112% RR, ADO as % CB +0.10pp MoM;* above target"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*Both Local SIP P+SA and CN SIP SA MTD daily PC2 breakeven*; rest of"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Overall combined PC2 healthy at Shopee level at $115.5k daily, +29%"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*IDMY **proj 95% RR*; Due to 1) 1H budget cut from profit passback"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*MYSG proj 106% RR*; high RR driven by successful 2.2 push,"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*VNMY* *proj 81% RR*; low RR due to 1) slower Tet recovery 2) limited"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*VN Export lanes with RR <100%*: mainly driven by the Tet holiday"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*MY Import lanes with MoM +0.5 days (IDMY), +2.6 days (VNMY)*: mainly"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*MYPH 119% RR, -1.8 days MoM: *outperformance mainly driven by"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*CRR:* In progress of improving CRR data accuracy as it is not"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*#1 (Regional Discount Tool):* UAT ongoing, to be completed ETA"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*#5 (Local SIP Settlement Price): *Live release postponed by 1 week"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*#6* *(FBS x SIP): *Phase 1 CB FBS x SIP scope go-live ETA end-Mar"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*#8 (BRSIP):* UAT ongoing, to be completed ETA 4/Mar"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Marketing solution update"
+        },
+        {
+          "question_id": "Q18",
+          "question": "SEM text ads launched to Brunei from 8 Feb, performing well with a"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*SEO*: plan to raise a request to add hreflang settings for Brunei on"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Lynn and Sarah,\r\n\r\nIan has some questions about Taobao this week that require your input:\r\n\r\nSlides: Attached in email\r\nQuestions:\r\nhttps://docs.google.com/document/d/1wnEbIbeDCc2z-fN5ZhL6k7cEDxgCWmsT_8kHVtHI1K0/edit?tab=t.0\r\n(access given)\r\n\r\nCould you please help us check on:\r\n1. Slide 5 (#3 and #4): I have answered already but please review it to see\r\nif we are aligned\r\n2. Slide 6: Kindly seeking your input\r\n\r\nThank you!"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n\r\n\r\n   -\r\n\r\n   Not sure we can blame CNY? Given that there are markets who grew? Like\r\n   SG and PH?\r\n   -\r\n\r\n      As discussed in the MY/SG monthly meeting, the drop in MY was led by\r\n      top 10 MY GGPs\r\n      -\r\n\r\n         They contributed to 70% ADO drop in MY\r\n         -\r\n\r\n         Their presence is smaller in SG and thus the drop in SG was less\r\n         impactful\r\n         -\r\n\r\n         They are still ramping up in PH\r\n         -\r\n\r\n      Additionally in PH, growth was mainly driven by key sellers and JBP\r\n      brands, which benefited from 2.2 and 2.14 payday sale and\r\nrunning trend in\r\n      PH in Feb\r\n      -\r\n\r\n   On PC2, can probably benchmark it to other CB Fashion sellers, to get an\r\n   indication on what a healthy PC2 should be?\r\n   -\r\n\r\n      For MY/SG, Taobao PC2 (7.4% and 6.0%) is higher than CNCB fashion PC2\r\n      (~5%). As a next step, we will explore more investment from platform\r\n      together with MY/SG CB team.\r\n      -\r\n\r\n      For other markets, we will get these figures and update on room to\r\n      optimize in the weekly update this week\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   #1- Why is MY so much lower than SG? How about other markets?\r\n   -\r\n\r\n      Migration opportunity pool smaller in MY vs SG, as more SKUs had been\r\n      in MY before the program kick-off. Please see the summary of\r\nother markets\r\n      below for Feb'25. [image: image.png]\r\n\r\n\r\n   -\r\n\r\n   #3 – Seems very slow?\r\n   -\r\n\r\n      We have called out the issue for Derek's attention, and there has\r\n      been improvements in SG/MY since.\r\n      -\r\n\r\n      [Free ads fully expense] Target by end of month:\r\n      -\r\n\r\n         SG: 46/69 shops (currently 46 shops complete, vs 12 in email\r\n         update)\r\n         -\r\n\r\n         MY: 63/86 shops (currently 54 shops complete, vs 30 in email\r\n         update)\r\n         -\r\n\r\n      As discussed in the MY/SG CB monthly management meeting, we will\r\n      focus on pushing 1) SKU migration; 2) seller hitting seller-level "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q20",
+          "question": "·  PC2 is probably too high?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "How does it benchmark to SLS furniture sellers?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "- For SG, Taobao furniture PC2 is 5.9% which is lower than CNCB\r\n      furniture PC2 (7.1%).\r\n      - For the other markets, we will update it and update in this\r\n      Friday’s weekly\r\n\r\n\r\n\r\nIf we wish to grow this category, maybe our margins are probably too high,\r\nboth on CNCB and Taobao front..maybe we should see how we can reinvest into\r\nthe ecosystem (maybe via rate table especially on heavier items)\r\n\r\n\r\n\r\n*From:* Nicholas Lim <nicholas.lim@shopee.com>\r\n*Sent:* Tuesday, 25 February 2025 6:34 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Cuiwei Sun <cuiwei.sun@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Adeline Phoon <adeline.phoon@shopee.com>; Wei Qiang <\r\nwei.qiang@shopee.com>; Momo Chen <momo.chen@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>;\r\nSteven Liu <steven.liusk@shopee.com>; Wei Loong Yong <\r\nweiloong.yong@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Johan Liew <johan.liew@shopee.com>; Ren Jiahui <\r\njiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>; Jules\r\nZhao <jules.zhao@shopee.com>; Tina Tai <tina.tai@shopee.com>; Tzong Meng\r\nOng <tzongmeng.ong@shopee.com>; Mingkit Tan <mingkit.tan@shopee.com>; Lim\r\nWei <wei.lim@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 21 Feb\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nSlide 4\r\n\r\n\r\n\r\n·  Not sure we can blame CNY?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Given that there are markets who grew?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Like\r\nSG and PH?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- As discussed in the MY/SG monthly meeting, the drop in MY was led by\r\n      top 10 MY GGPs\r\n\r\n\r\n   - They contributed to 70% ADO drop in MY\r\n         - Their presence is smaller in SG and thus the drop in SG was less\r\n         impactful\r\n         - They are still ramping up in PH\r\n\r\n\r\n   - Additionally in PH, growth was mainly driven by key sellers and JBP\r\n      brands, which benefited from 2.2 and 2.14 payday sale and\r\nrunning trend in\r\n      PH in Feb\r\n\r\n·  On PC2, can probably benchmark it to other CB Fashion sellers, to get an\r\nindication on what a healthy PC2 should be?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- For MY/SG, Taobao PC2 (7.4% and 6.0%) is higher than CNCB fashion PC2\r\n      (~5%). As a next step, we will explore more investment from platform\r\n      together with MY/SG CB team.\r\n      - For other markets, we will get these figures and update on room to\r\n      optimize in the weekly update this week\r\n\r\n\r\n\r\nSlide 5\r\n\r\n·  #1- Why is MY so much lower than SG?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "How about other markets?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "- Migration opportunity pool smaller in MY vs SG, as more SKUs had been\r\n      in MY before the program kick-off. Please see the summary of\r\nother markets\r\n      below for Feb'25.\r\n\r\n·  #3 – Seems very slow?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "- We have called out the issue for Derek's attention, and there has been\r\n      improvements in SG/MY since.\r\n      - [Free ads fully expense] Target by end of month:\r\n\r\n\r\n   - SG: 46/69 shops (currently 46 shops complete, vs 12 in email update)\r\n         - MY: 63/86 shops (currently 54 shops complete, vs 30 in email\r\n         update)\r\n\r\n\r\n   - As discussed in the MY/SG CB monthly management meeting, we will focus\r\n      on pushing 1) SKU migration; 2) seller hitting seller-level ADO targets,\r\n      and push for co-investment if ADO targets not hit\r\n\r\n\r\n\r\n·  #4 – Similar?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Seems very slow?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- Yes, we have called out this issue for Derek’s attention and we’re\r\n      behind target\r\n      - [Fully compliant] Target by end of the month:\r\n\r\n\r\n   - SG: 14/69 shops (currently 6 shops complete, vs 2 in email update)\r\n         - MY: 29/86 shops (currently 15 shops complete, vs 0 in email\r\n         update)\r\n\r\n\r\n   - As discussed in the MY/SG CB monthly management meeting, we will focus\r\n      on pushing 1) SKU migration; 2) seller hitting seller-level ADO targets,\r\n      and push for co-investment if ADO targets not hit\r\n\r\n\r\n\r\n\r\n\r\nSlide 6\r\n\r\n·  Only 20-35% by end Feb?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Should it not be 100%?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "- 57%: supply chain fully recovered, half of them promise to complete 4\r\n      requirements, and the other half can only complete 2 to 3 due to high\r\n      requirements of LTD/DD/DDV nomination, expect to achieve higher compliant\r\n      rate if MY/SG change to monthly reverse nomination from 3.15\r\n(now 3-4 times\r\n      per month)\r\n      - 29%: supply chain not fully recovered or high PP, which is not\r\n      eligible for campaign exposures\r\n      - 14%: supply chain fully recovered but not cooperative, ok to opt\r\n      out from the program in Mar\r\n\r\n\r\n\r\nSlide 11\r\n\r\n·  Not much growth/movement in general?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "- Due to CNY break, many sellers reduced commitment in terms of 1) ads\r\n      investment 2) uploading new SKUs and 3) stock replenishment\r\n      - W-1 ads investment has recovered to ~70% of pre-CNY level\r\n      - We expect to recover and catch up in Mar, for 1) SG: top sellers to\r\n      upload 6k wishlist SKUs and ramp up push 2) MY: to migrate\r\n40-50k SKUs from\r\n      SG top sellers\r\n\r\n\r\n\r\n·  PC2 is probably too high?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "How does it benchmark to SLS furniture sellers?"
+        }
+      ]
+    }
+  ]
+}

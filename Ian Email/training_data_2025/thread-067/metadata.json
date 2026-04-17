@@ -1,0 +1,481 @@
+{
+  "id": "thread-067",
+  "subject": "SIP Weekly Update - Week ending 27 Jun",
+  "date": "2025-06-30",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 27 Jun.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "seller-acquisition",
+    "finance",
+    "strategy",
+    "team-performance"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Nicholas Lim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find SIP weekly update below for your review, including follow-up\r\nquestions from last weekly on 1) CS; 2) Taobao (in pdf).\r\n\r\nPerformance Dashboard (as of 25 Jun)\r\n\r\nA/ Topline/P&L\r\n\r\n* Taobao program Jul target to be aligned\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Jun proj ADO 230k, 104% RR, %CB +0.3pp MoM; ADG $2.4M, 104%RR,\r\n   %CB +0.2pp MoM\r\n   1.\r\n\r\n      Local SIP ADO 105% RR, %CB +0.3pp MoM; higher RR driven by higher new\r\n      ads ramp up with BPSF budget support and IDSIP fraud clawback.\r\nADG and ADG%\r\n      slightly missed targets due to ABS lower than expected driven by 1)\r\n      platform MP PRM increases significantly. 2) Platform provides SIP\r\n      additional item rebates in SG/MY to drive ADO\r\n      2.\r\n\r\n      CNSIP ADO 103% RR, %CB stable MoM; RR on target driven by ongoing\r\n      optimization initiatives (e.g., ads markup removal for\r\nnon-performing SKUs)\r\n      2.\r\n\r\n   [P&L] Jun proj combined PC2 $3.3M, $69k under-performance\r\n   1.\r\n\r\n      Local SIP $159k out-performance, mainly due to higher SLS profit as\r\n      vol increase led to lower cost\r\n      2.\r\n\r\n      CN SIP $228k under-performance, mainly due to reinvesting 5% GMV to\r\n      counter revenue loss from mgt fee removal, to protect topline; will\r\n      maintain reinvestment in Jun-Aug\r\n\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n   2.\r\n\r\n   Top rejection reasons are: 1) worry about potential loss-making (40% sku\r\n   coverage); 2) want to focus on direct shop (30% sku coverage); 3) not\r\n   familiar with SIP model (11% sku coverage)\r\n   3.\r\n\r\n   Next steps to improve pitching success\r\n   1.\r\n\r\n      Before next repitch, add a CNSC banner + improve mass pitching comms\r\n      to educate seller further on how settlement price"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "New seller pitching/rejected seller repitching post management fee"
+        },
+        {
+          "question_id": "Q2",
+          "question": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count"
+        },
+        {
+          "question_id": "Q3",
+          "question": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24"
+        },
+        {
+          "question_id": "Q4",
+          "question": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun;"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q5",
+          "question": "*[Topline] Jun proj ADO 230k, 104% RR, %CB +0.3pp MoM; ADG $2.4M,"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*Local SIP ADO 105% RR, %CB +0.3pp MoM;* higher RR driven by higher"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*CNSIP ADO 103% RR, %CB stable MoM;* RR on target driven by ongoing"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*[P&L] Jun proj combined PC2 $3.3M, $69k under-performance*"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*Local SIP $159k out-performance*, mainly due to higher SLS profit as"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*CN SIP $228k under-performance*, mainly due to reinvesting 5% GMV to"
+        },
+        {
+          "question_id": "Q11",
+          "question": "New seller pitching/rejected seller repitching post management fee"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Top rejection reasons are: 1) worry about potential"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Next steps to improve pitching success"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Other revamp initiatives (migration efficiency improvement,"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*MYSG +0.1 days MoM, 99% RR* due to FM LT fluctuation from MY SPX"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*IDPH: 98% RR, +0.4 days MoM*, another wave of offload affected MNL"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*VNPH 98% RR, -0.2 days MoM*, mainly driven by re-construction of PH"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*Agent performance*"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*Agent working hours arrangement improvement: *"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*ID CS reporting line change: *SIP aligned the headcount transferred"
+        },
+        {
+          "question_id": "Q21",
+          "question": "*SIP CS relocation to PH:* SIP plans to conduct pilot testing for"
+        },
+        {
+          "question_id": "Q22",
+          "question": "#2 Due to OMS enhancement release on 27/Jun, live testing rescheduled"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#6 Approved by RSX as P1. PRDing, tentative Live ETA: early/mid Aug"
+        },
+        {
+          "question_id": "Q24",
+          "question": "#7 SIP biz team updated request to include showing Affi listing"
+        },
+        {
+          "question_id": "Q25",
+          "question": "#8 FRF drafted for SIP team to provide more biz impact"
+        },
+        {
+          "question_id": "Q26",
+          "question": "#9 FRF reviewed with FPM. PRD target to be ready by June 30th"
+        },
+        {
+          "question_id": "Q27",
+          "question": "#11 Reviewed 19/Jun result file output optimisation impact with PM &"
+        },
+        {
+          "question_id": "Q28",
+          "question": "#12 UAT sign-off by 30/Jun"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#16 Live testing sign-off by 27/Jun, Live rollout confirmed 1/Jul for"
+        },
+        {
+          "question_id": "Q30",
+          "question": "#17 PRD review with Order team on 26/Jun. Overall timeline to"
+        },
+        {
+          "question_id": "Q31",
+          "question": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count"
+        },
+        {
+          "question_id": "Q32",
+          "question": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24"
+        },
+        {
+          "question_id": "Q33",
+          "question": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun;"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Provided 15% discount voucher to boost CR"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from the new shop\r\n   commission waiver to invest on new SKU traffic boosting\r\n\r\n\r\n\r\nD/ CS (as of 22 Jun 2025)\r\n\r\n\r\n\r\n\r\n\r\nWaiting time in queue still feels long in general for ID lanes? And MYSG?\r\n\r\n\r\n   - ID lanes: because ID experienced a spike in chat volume last Monday,\r\n   they are still waiting for manager approval to increase HC. The request is\r\n   expected to be approved within this week. L7D average waiting time has\r\n   improved to 6.1 minutes.\r\n   - MYSG: because SG lanes faced a manpower shortage due to the\r\n   resignation of agents. New agents have been hired and will be ready to\r\n   handle live chats from 30th June after one week of training. Improvement in\r\n   waiting time should be seen from this week onwards.\r\n\r\n\r\n\r\nPerformance (IDMY, VNMY) - As of 28 June\r\n\r\n\r\n\r\nHighlights"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count 493k,\r\n   109% RR; # sellers behind target mainly due to slow onboarding process\r\n   of newly acquired sellers, May-MTD 917 new sellers acquired, 492 (54%)\r\n   in onboarding process; 151 (16%) shop opened but in HM to finalize pricing;\r\n   274 (30%) active selling. Product solution to support fast onboarding\r\n   expected in early/mid-Aug"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24 Jun; 6\r\n   starts to sell"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun; 105\r\n   start to sell, MTD ADO 2\r\n\r\n\r\n\r\nFor 2, seems very few sellers?\r\n\r\n   -\r\n\r\n   Pitching pool batch 1 of 1.3K target managed sellers kicked off pitching\r\n   from 28 May; out of which, 103 accepted, 209 rejected, and 1K pending\r\n   responses\r\n   -\r\n\r\n   Pitching progress is slower than expected because 1) IDSIP/Direct SMT\r\n   team is focusing on GR event preparation and acquired seller onboarding; 2)\r\n   local RM takes longer time to revert seller feedback than expected\r\n   -\r\n\r\n   Next steps: 1) RMs will drive for definite answers by 4 July; 2) have\r\n   expanded pitching pool to additional 1.4K managed sellers as of 30 June,\r\n   target to conclude this pool by 11 July\r\n\r\n\r\n\r\nFor 2 and 3, how are we ensuring that they succeed? Do they partake in\r\nlocal programs right now?\r\n\r\n   -\r\n\r\n   Growth package designed to support direct seller in the first 3 months\r\n   with 1) commission fee waivers up to 500 orders per month 2) free ads\r\n   credit with 200RM per shop 3) ads voucher with 50% off, cap at $200 RM /\r\n   month 4) 5 CFS slots per seller per month\r\n   -\r\n\r\n   Checking with product team on what marketing tools sellers can use and\r\n   participation process, to prioritise MY spike day LTD and voucher enrollment"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal (May+Jun batch): total 27k GPs pitched; overall 65% pitching\r\n   success rate on GP level and 39% pitching success rate on SKU level (lower\r\n   than 70% target)\r\n\r\n\r\n\r\nFor the 17k GPs who have accepted, what are the next steps?\r\n\r\n\r\n   - We will complete their shop opening and SKU listing by 2 Jul, and\r\n   start to sell on 3 Jul. SIP will invest budgets from th"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q35",
+          "question": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count"
+        },
+        {
+          "question_id": "Q36",
+          "question": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24"
+        },
+        {
+          "question_id": "Q37",
+          "question": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun;"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q35",
+          "answer": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count\r\n493k, 109% RR; # sellers behind target mainly due to slow onboarding\r\nprocess of newly acquired sellers, May-MTD 917 new sellers acquired, 492\r\n(54%) in onboarding process; 151 (16%) shop opened but in HM to finalize\r\npricing; 274 (30%) active selling. Product solution to support fast\r\nonboarding expected in early/mid-Aug"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24\r\nJun; 6 starts to sell"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun;\r\n105 start to sell, MTD ADO 2\r\n\r\n\r\n\r\nFor 2, seems very few sellers?\r\n\r\n   -\r\n\r\n   Pitching pool batch 1 of 1.3K target managed sellers kicked off pitching\r\n   from 28 May; out of which, 103 accepted, 209 rejected, and 1K pending\r\n   responses\r\n\r\n\r\n\r\nAny reason why so many reject?\r\n\r\n\r\n\r\n\r\n   -\r\n\r\n   83% rejected sellers “want to focus on local businesses” or have\r\n   “manpower limitations”. We suggest to park them for now and repitch next\r\n   year when they are more ready to expand oversea business\r\n   -\r\n\r\n   2% “already has MY store” - not to repitch as the SKU supply is already\r\n   available to MY\r\n   -\r\n\r\n   14% has concerns on Direct selling ops such as “high admin fee (i.e.\r\n   platform fee)”, “export limitations”, “worried about export success” - RMs\r\n   will repitch this group in Jul after validating limitations, to educate\r\n   them how to hide admin fee in listing price, etc.\r\n\r\n\r\n\r\nFor 2 and 3, how are we ensuring that they succeed? Do they partake in\r\nlocal programs right now?\r\n\r\n   -\r\n\r\n   Growth package designed to support direct seller in the first 3 months\r\n   with 1) commission fee waivers up to 500 orders per month 2) free ads\r\n   credit with 200RM per shop 3) ads voucher with 50% off, cap at $200 RM /\r\n   month 4) 5 CFS slots per seller per month\r\n   -\r\n\r\n   Checking with product team on what marketing tools sellers can use and\r\n   participation process, to prioritise MY spike day LTD and voucher enrolment\r\n\r\n\r\n\r\nAre we making it easy enough for sellers now? For eg. we should just give\r\nmore at the start to grow them. As compared to asking for co-fund etc. and\r\nhard to move forward\r\n\r\n\r\n\r\nProbably easier to ask at later stage when proven orders\r\n\r\n   -\r\n\r\n   Yes, the current growth package does not ask any seller co-investment\r\n   commitment in the first 3 months; it serves to encourage sellers to test\r\n   out various marketing tools in each import market (e.g., ads, CFS)"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q38",
+          "question": "MYSG: topline on track: MTD ADO 7.8k, 110% RR, +7% MoM; SKU count"
+        },
+        {
+          "question_id": "Q39",
+          "question": "IDMY: MTD 103 sellers acquired, 97 in onboarding process since 24"
+        },
+        {
+          "question_id": "Q40",
+          "question": "VNMY: MTD 3.5k sellers acquired, onboarding by batches since 24 Jun;"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nPlease see our responses in blue.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   For new to Shopee direct sellers, seems like impact to SKUs and ADO is\r\n   very low? Refering to pure incremental numbers\r\n   -\r\n\r\n      By Dec '25, we target to have 3.8k incremental ADO from newly\r\n      acquired sellers in Fashion, ~19% of Fashion total incremental ADO;\r\n      and 0.3k incremental ADO from new sellers in Furniture, ~24% of\r\n      Furniture total incremental ADO.\r\n      -\r\n\r\n      In Jun '25, the contribution is still low as it is early in the ramp\r\n      up phase. ADO will gradually increase as SKU efficiency increases,\r\n      supported by new seller program incentives on traffic investments &\r\n      commission waiver as sellers meet commitment on SKU upload.\r\n      -\r\n\r\n         To illustrate the growth, a new Fashion seller onboarded in Apr is\r\n         projected to grow from Jun (M3) 23, to 72 ADO (3.2x in Dec),\r\nsimilar for\r\n         Furniture: Jun (M3) 2 to 18 ADO (9x in Dec), high ASP\r\nproducts usually need\r\n         longer ramp-up period\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n   -\r\n\r\n      Yes, their full SKU list is in, with a total of 26k SKUs. However,\r\n      their price competitiveness isn’t good, with SHP prices being on average\r\n      ~50% higher than TB. We’ll plan to fix this by (1) Short-term:\r\nTo work with\r\n      sellers to lower price for top SKUs (ETA; to: start next week) (2)\r\n      Mid-term: ERPs to build a mass discount function, and work with\r\nsellers to\r\n      lower their price ETA end-Jul\r\n      -\r\n\r\n      Concurrently, we’re working with BI to set up daily tracking\r\n      monitoring topline and ops metrics i.e. ship out time, NFRs, etc\r\n\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   How many sellers from JST and W"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nPlease see our responses in blue.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   For new to Shopee direct sellers, seems like impact to SKUs and ADO is\r\n   very low? Refering to pure incremental numbers\r\n   -\r\n\r\n      By Dec '25, we target to have 3.8k incremental ADO from newly\r\n      acquired sellers in Fashion, ~19% of Fashion total incremental ADO;\r\n      and 0.3k incremental ADO from new sellers in Furniture, ~24% of\r\n      Furniture total incremental ADO.\r\n      -\r\n\r\n      In Jun '25, the contributio"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nPlease see our responses in blue.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   For new to Shopee direct sellers, seems like impact to SKUs and ADO is\r\n   very low? Refering to pure incremental numbers\r\n   -\r\n\r\n      By Dec '25, we target to have 3.8k incremental ADO from newly\r\n      acquired sellers in Fashion, ~19% of Fashion total incremental ADO;\r\n      and 0.3k incremental ADO from new sellers in Furniture, ~24% of\r\n      Furniture total incremental ADO.\r\n      -\r\n\r\n      In Jun '25, the contributio"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q41",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in blue.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For new to Shopee direct sellers, seems like impact to SKUs and ADO is\r\n   very low?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "Refering to pure incremental numbers\r\n\r\n\r\n   - By Dec '25, we target to have 3.8k incremental ADO from newly acquired\r\n      sellers in Fashion, *~19%* of Fashion total incremental ADO; and 0.3k\r\n      incremental ADO from new sellers in Furniture, *~24%* of Furniture\r\n      total incremental ADO.\r\n      - In Jun '25, the contribution is still low as it is early in the\r\n      ramp up phase. ADO will gradually increase as SKU efficiency increases,\r\n      supported by new seller program incentives on traffic investments &\r\n      commission waiver as sellers meet commitment on SKU upload.\r\n\r\n\r\n   - To illustrate the growth, a new Fashion seller onboarded in Apr is\r\n         projected to grow from Jun (M3) 23, to 72 ADO (3.2x in Dec),\r\nsimilar for\r\n         Furniture: Jun (M3) 2 to 18 ADO (9x in Dec), high ASP\r\nproducts usually need\r\n         longer ramp-up period\r\n\r\n\r\n\r\nThis is still low in general from an impact point of view\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - For the 5 sellers who have opened shop, is their full SKU list in?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "And\r\n   is pricing ok?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   - We need to probably check SLA as well whether these sellers ship out\r\n   as we go along\r\n\r\n\r\n   - Yes, their full SKU list is in, with a total of 26k SKUs. However,\r\n      their price competitiveness isn’t good, with SHP prices being on average\r\n      ~50% higher than TB. We’ll plan to fix this by (1) Short-term:\r\nTo work with\r\n      sellers to lower price for top SKUs (ETA; to: start next week) (2)\r\n      Mid-term: ERPs to build a mass discount function, and work with\r\nsellers to\r\n      lower their price ETA end-Jul\r\n      - Concurrently, we’re working with BI to set up daily tracking\r\n      monitoring topline and ops metrics i.e. ship out time, NFRs, etc\r\n\r\n\r\n\r\nWhy is the pricing so bad to begin with?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "Slide 8\r\n\r\n   - WDT still feels slower in overall progression?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Anything we need to do\r\n   there?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "- Integration with WDT started 3 weeks later than JST, hence progress\r\n      lags JST\r\n      - However, they’re similarly supportive to fix the issues, and we’ll\r\n      have another discussion with them tomorrow to confirm if they can fix all\r\n      issues by end-Jul\r\n\r\nWhat is the outcome here?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Slide 18  and 22\r\n\r\n   - In general just not very good, any sense why?"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being on average ~50%\r\n   higher than TB. We’ll plan to fix this by (1) Short-term: To work with\r\n   sellers to lower price for top SKUs (ETA; to: start next week) (2)\r\n   Mid-term: ERPs to build a mass discount function, and work with sellers to\r\n   lower their price ETA end-Jul\r\n   -\r\n\r\n   Concurrently, we’re working with BI to set up daily tracking monitoring\r\n   topline and ops metrics i.e. ship out time, NFRs, etcv\r\n\r\nWhy is the pricing so bad to begin with?\r\n\r\n\r\n\r\n   -\r\n\r\n   The price that JST/WDT stores is the 一口价 which is not the discounted\r\n   price that is offered on TB platforms. Hence, there’s a price discrepancy\r\n   between TB and SHP.\r\n   -\r\n\r\n   The way for us to fix this is to work with ERPs for a mass discount\r\n   feature that sellers can set discounts for SHP at scale on their ERP, ETA\r\n   for feature TBC.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   WDT still feels slower in overall progression? Anything we need to do\r\n   there?\r\n\r\n\r\n   -\r\n\r\n   Integration with WDT started 3 weeks later than JST, hence progress lags\r\n   JST\r\n   -\r\n\r\n   However, they’re similarly supportive to fix the issues, and we’ll have\r\n   another discussion with them tomorrow to confirm if they can fix all issues\r\n   by end-Jul\r\n\r\nWhat is the outcome here?\r\n\r\n   -\r\n\r\n   The outcome is to optimise P0 seller UX issues so that we’ll be ready to\r\n   onboard even more sellers starting next month\r\n   -\r\n\r\n   This is the full list of P0 issues inflicting sellers currently,\r\n   surrounding onboarding and li"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPlease see our responses in purple.\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the 5 sellers who have opened shop, is their full SKU list in? And\r\n   is pricing ok? I think we need to handhold the initial batch to be\r\n   resounding successes..\r\n   -\r\n\r\n   We need to probably check SLA as well whether these sellers ship out as\r\n   we go along\r\n\r\n\r\n   -\r\n\r\n   Yes, their full SKU list is in, with a total of 26k SKUs. However, their\r\n   price competitiveness isn’t good, with SHP prices being "
+        }
+      ]
+    }
+  ]
+}

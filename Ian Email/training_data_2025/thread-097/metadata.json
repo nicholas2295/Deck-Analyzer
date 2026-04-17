@@ -1,0 +1,258 @@
+{
+  "id": "thread-097",
+  "subject": "[Pre-read] Sep SIP monthly meeting",
+  "date": "2025-09-17",
+  "deck_filename": "SIP Monthly Meeting 20250918_vDiscuss.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "finance",
+    "strategy",
+    "pricing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached Sep SIP monthly doc for your review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 7\r\n\r\n   - Where do I find the standalone P&L?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- Why is staff cost 0 for all previous months?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- What is the total standalone P&L and how does it compare with targets?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 10\r\n\r\n   - Do not understand what we are proposing here, we already submitted\r\n   option 2 on Slide 9 to regional right?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- And I cannot reconcile any of these options with Slide 9\r\n\r\n\r\n\r\nSlide 16\r\n\r\n   - What is the ADO% that has accepted?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "And what is the % that has\r\n   started?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 18\r\n\r\n   - What programs are there right now for Direct Sellers?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Can they be part\r\n   of an existing CB program instead of creating another?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 19\r\n\r\n   - For direct sellers who perform well, who manages them?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Export or\r\n   import market?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "How do we see this working?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 20\r\n\r\n   - So sellers can start to invest in paid ads already?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- How about AMS?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- How does LS and Video work for direct sellers?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 21\r\n\r\n   - I remember there was some issues around what pricing the seller centre\r\n   will recommend, has that been fixed yet?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "For old as well as new sellers?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 23\r\n\r\n   - For the other lanes, would there be extra development effort required?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "- Will there be direct model for these 4 markets if sellers choose to?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- Where did we land on getting USTs to be part of CNSIP as well for\r\n   these new markets?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Slide 24\r\n\r\n   - When will these features be ready?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Slide 44\r\n\r\n   - When will SIP allow chat to flow to sellers?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "How are we thinking of\r\n   seller chats when that happens?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 49\r\n\r\n   - When are we migrating for MY?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Waiting time still looks quite bad\r\n\r\n\r\n\r\nOthers\r\n\r\n   - How is CN SIP doing?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Adoption, scaling up etc?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "streamline touchpoints (1 RM for multiple markets);"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "better seller understanding and relationship in the same market;"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "easier to coordinate and prioritize platform initiatives from multiple\r\nimport markets for seller\r\n\r\n\r\n\r\n   -\r\n\r\n    How do we see this working?\r\n   -\r\n\r\n      Seller’s local RM  doubles up with seller’s direct RM, same as Taobao\r\n      domestic + Taobao international RM support model\r\n      -\r\n\r\n      While we do see the management and acquisition is slow due to\r\n      resource constraints during peak season,  we are proposing to a) add RM\r\n      export KPI; b) simplify RM acquisition process with automation tool etc.\r\n\r\n\r\n\r\nSlide 20\r\n\r\n   -\r\n\r\n   So sellers can start to invest in paid ads already?\r\n   -\r\n\r\n      Yes, sellers can purchase ads; meanwhile to better improve purchase\r\n      UX, we are in progress of developing global wallet in their\r\ndirect shops to\r\n      purchase directly; target ETA end Nov.\r\n\r\n\r\n\r\n   -\r\n\r\n   How about AMS?\r\n   -\r\n\r\n      System request to be raised in September cycle, pending revised\r\n      business impact for priority review. Live ETA target end Q4.\r\n\r\n\r\n\r\n   -\r\n\r\n   How does LS and Video work for direct sellers?\r\n   -\r\n\r\n      Video\r\n      -\r\n\r\n         PDP video: already synced to direct shops\r\n         -\r\n\r\n         Seller video: 1) mass migration tool in place for IDMY; 2) sellers\r\n         can also manually upload for direct shop\r\n         -\r\n\r\n      Livestream: sellers can set up livestream on web SC for direct shop\r\n      already\r\n\r\n\r\n\r\nSlide 21\r\n\r\n   -\r\n\r\n   I remember there was some issues around what pricing the seller centre\r\n   will recommend, has that been fixed yet? For old as well as new sellers?\r\n   -\r\n\r\n      The system issue is fixed on 5 Sep; new sellers joined after 5 Sep\r\n      will have the correct prices; historical sellers joined before 5 Sep have\r\n      been notified to toggle on promotion resync from 16 Sep. To\r\nmonitor seller\r\n      adoption % and to start weekly mass resync for sellers in Oct.\r\n\r\n\r\n\r\nSlide 23\r\n\r\n   -\r\n\r\n   For the other lanes, would there be extra development effort required?\r\n   -\r\n\r\n "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nPlease find updated doc attached for the meeting later, and responses to\r\nyour comments below.\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   Where do I find the standalone P&L?\r\n   -\r\n\r\n      Highlighted in slide 7 which is our PC3 row\r\n      -\r\n\r\n   Why is staff cost 0 for all previous months?\r\n   -\r\n\r\n      Legacy issue whereby staff cost is not booked under SIP Seller\r\n      Standalone P&L\r\n      -\r\n\r\n      Booking logic and timeline aligned with Reagan team, staff cost will\r\n      be separated into tw"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease kindly find below the summary of next steps. for #4 Direct top\r\nseller push, will work with @Jason Yu <jason.yu@shopee.com> . Thanks a lot!\r\n\r\n[image: image.png]"
+        }
+      ]
+    }
+  ]
+}

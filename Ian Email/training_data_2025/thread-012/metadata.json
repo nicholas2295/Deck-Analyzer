@@ -1,0 +1,636 @@
+{
+  "id": "thread-012",
+  "subject": "SIP Weekly Update - Week of 20 Jan",
+  "date": "2025-01-27",
+  "deck_filename": "Counter Taobao Weekly Update - Week of 20 Jan.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "finance",
+    "strategy",
+    "product-launch",
+    "growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the weekly SIP update for your review (TB updates in\r\nattachment). Key highlights for this week are\r\n\r\n\r\n   -\r\n\r\n   Performance\r\n   -\r\n\r\n      Jan proj ADO 152,248, 99% RR; ADO as %CB +0.51pp MoM; proj ADG $1.6M,\r\n      101%RR; ADG as %CB +0.80pp MoM; slightly missing target still as MY\r\n      platform traffic is lower than expected. IDMY proj 90% RR, +7% from\r\n      last week, after the catch-up plan implemented (budget ramp up in ads\r\n      and rebates) since last week\r\n      -\r\n\r\n      P&L P+SA breakeven; combined P&L at Shopee level healthy at $91k\r\n      daily, +23% MoM\r\n      -\r\n\r\n      Logistics/ops/product performance on track. MYSG seller center target\r\n      go-live 30 Mar. BPM team completed IDMY seller center proposal for ID\r\n      BPM/Biz review by EOW; target go-live 30-Apr\r\n      -\r\n\r\n   Key projects\r\n   -\r\n\r\n      Taobao fashion: SG+MY MTD ADO 3.5k (+15% MoM); next step to start\r\n      tracking topline and PC2 component for SG/MY/TH/VN/TW from 1 Feb\r\n      -\r\n\r\n      Taobao furniture: completed 1st round pitching for listing migration\r\n      with 48 GGPs; 3/48 accepted for SG, and 8/48 accepted for MY.\r\n      However, most sellers (23/48 for SG and 15/48) have no feedback yet. Next\r\n      step to follow-up/repitch post CNY\r\n      -\r\n\r\n      Direct selling: In progress of preparing for IDMY pilot to be\r\n      launched by 24-Feb. ID acquisition team to finalize pilot list of ~30\r\n      sellers by EOW. Other prep items on track. Next step to align with\r\n      Putri/Christin to go ahead with the pilot\r\n      -\r\n\r\n      BN: successfully launched on 17 Jan. MTD ADO 3.9k. Reactive PR plan\r\n      in place. MY marketing team proposes potential initiatives (Topic #F2)\r\n\r\n\r\n\r\nPerformance Dashboard (as of 22 Jan)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Jan proj ADO 152,248, 99% RR; ADO as %CB +0.51pp MoM; proj ADG\r\n   $1.6M, 101%RR; ADG as %CB +0.80pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 99% RR, ADO as % CB +0.51pp MoM"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Jan proj ADO 152,248, 99% RR; ADO as %CB +0.51pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 99% RR, ADO as % CB +0.51pp MoM*; slightly"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP proj ADO 103% RR, ADO as % CB stable MoM;* outperforming"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*WH cross-selling proj 71% RR*, mainly due to CB Choice LFF (MYSG)"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Local SIP P+SA MTD daily PC2 breakeven*; rest of Jan focus to ramp"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*CNSIP SA MTD daily PC2 breakeven*, expect to land at breakeven for"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*Overall combined PC2 healthy at Shopee level at $91k daily, +23% MoM*"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*MYSG **proj 117% RR, +5% MoM*, in line with platform MoM growth"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*IDMY proj 90% RR,  +7% from last week*, after the catch-up plan"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*VNMY* proj 85% RR, -11% MoM due to Tet holiday impact is higher than"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*CB MP LFF (MYSG) proj 123%, -3% MoM*; driven by SKU efficiency"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*Local SCS cross-selling (MYSG) proj 88%, -3% MoM*; mainly due to"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*IDPH: 109% RR, -1.0 days MoM;* mainly driven by changing from D2A to"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*IDSG: 105% RR, -0.7 days MoM;* mainly driven by further tightening"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*MYPH: 93% RR, -0.9 days MoM; *mainly driving by FM LT increase due"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*MYTH: 95% RR, +0.4 days MoM; *mainly driving by FM LT increase and"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*VNSG: 99% RR, +0.5 days MoM; *mainly driven by the transition of"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*#2 (MYSG seller center): *PRDing; target to be signed off on 7 Feb"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*#3 (IDMY seller center): *reviewed proposal with ID product and"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*#6* *(FBS x SIP): *PRD review with supply chain done on 23 Jan;"
+        },
+        {
+          "question_id": "Q21",
+          "question": "*#8 (BRSIP):* BRD reviewed with LATAM product team on 14 Jan, PRD"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Reactive PR: Reactive message drafting done and sent for approval by"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Plans to seed the idea of BN users can download from BN app stores"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Spoken with MY team (Ming Kit and Lim Wei copied in this email), SEM"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Appendix: possible levers and impact/risk assessment by MY marketing"
+        },
+        {
+          "question_id": "Q26",
+          "question": "*IDMY: target pilot launch 24-Feb*"
+        },
+        {
+          "question_id": "Q27",
+          "question": "In progress of seller pitching by ID RM team; *target to confirm ~30"
+        },
+        {
+          "question_id": "Q28",
+          "question": "MY seller incentive package (TB fashion package) and marketing"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Shop setup and biz ops support resources confirmed with MYSG team"
+        },
+        {
+          "question_id": "Q30",
+          "question": "In progress of setting up logistics channel and finalizing shipping"
+        },
+        {
+          "question_id": "Q31",
+          "question": "*Next step to align pilot plan with Putri, and update Christin to get"
+        },
+        {
+          "question_id": "Q32",
+          "question": "*Overall pilot and scale-up plan*"
+        },
+        {
+          "question_id": "Q33",
+          "question": "*SGSIP MTD performance* (SGMY+SGTH)*:* ADO 73 (RR 119%, MoM +8%), ADG"
+        },
+        {
+          "question_id": "Q34",
+          "question": "*SIP x ESG launch event confirmed for 7 Feb 10am at 5SPD*"
+        },
+        {
+          "question_id": "Q35",
+          "question": "SIP/PR team to revise Kel Jin’s presentation slides to media by 24"
+        },
+        {
+          "question_id": "Q36",
+          "question": "PR team to revise press release and briefing book with SIP inputs, to"
+        },
+        {
+          "question_id": "Q37",
+          "question": "*PR team to share all finalised versions with Ian for visibility by"
+        },
+        {
+          "question_id": "Q38",
+          "question": "*ESG x SHP partnership expansion*"
+        },
+        {
+          "question_id": "Q39",
+          "question": "*ESG open to co-invest into either/both 1) more SGSIP lanes; 2)"
+        },
+        {
+          "question_id": "Q40",
+          "question": "SIP to provide cost breakdown for grant application and operating"
+        },
+        {
+          "question_id": "Q41",
+          "question": "*BR-LATAM: target launch 24-Feb*"
+        },
+        {
+          "question_id": "Q42",
+          "question": "Seller comms: First round to be sent out to managed sellers by 27"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Ongoing workstream ownership alignment between Annie and Shuning"
+        },
+        {
+          "question_id": "Q44",
+          "question": "Scheduled in-person meet-up on 10 Feb during BR team’s visit to CN,"
+        },
+        {
+          "question_id": "Q45",
+          "question": "*MY FP&A finalized the new P BPSF for MYSIP. Next step for SIP team"
+        },
+        {
+          "question_id": "Q46",
+          "question": "MY local Logistics Ops will configure the new P BPSF rate card in"
+        },
+        {
+          "question_id": "Q47",
+          "question": "*IDSIP*: kick started discussion with ID FP&A. ID expressed concerns"
+        },
+        {
+          "question_id": "Q48",
+          "question": "*VNSIP*: No actions required, as already charged fair P BPSF"
+        },
+        {
+          "question_id": "Q49",
+          "question": "*Other P-sites*: to kick-start discussion from Feb after settling top"
+        },
+        {
+          "question_id": "Q50",
+          "question": "MYSG RM team began pitching to 848 sellers via mass email and 252"
+        },
+        {
+          "question_id": "Q51",
+          "question": "*7 top sellers have agreed to conduct 10-20% price reduction as of 24"
+        },
+        {
+          "question_id": "Q52",
+          "question": "*Assessment done*: From BI data, VNSIP can potentially reduce price"
+        },
+        {
+          "question_id": "Q53",
+          "question": "*VNSIP*: on-going discussion with VNSIP SMT to validate price"
+        },
+        {
+          "question_id": "Q54",
+          "question": "*IDSIP*: kick-start discussion with IDSIP SMT next week; target kick"
+        },
+        {
+          "question_id": "Q55",
+          "question": "*Regional discount tool* for mass price reduction"
+        },
+        {
+          "question_id": "Q56",
+          "question": "HQ Legal reviewing ToS and seller comms messages for MYSIP. VN team"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Raised BPM ticket to improve the tool design to fit for purpose: 1)"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Pilot started on 23 Dec with 300 new SKUs and 300 top old SKUs on 2"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Status: stage 2 x 10 days completed (1 more stage to go)"
+        },
+        {
+          "question_id": "Q60",
+          "question": "*Interim performance: compared with pre-trial period, ADO +9%, Ads"
+        },
+        {
+          "question_id": "Q61",
+          "question": "Next steps: 1) conclude pilot by 4 Feb; 2) raise product request for"
+        },
+        {
+          "question_id": "Q62",
+          "question": "Progress: 3 stages completed (15 days in total)"
+        },
+        {
+          "question_id": "Q63",
+          "question": "*Performance: ADO 59, ads ROI 4.5 (on par with lane average), 25%"
+        },
+        {
+          "question_id": "Q64",
+          "question": "SKU profiling: Unique SKUs have highest survival rate at 29% compared"
+        },
+        {
+          "question_id": "Q65",
+          "question": "Next steps: *1) prepare new SKUs pool (Raya thematic SKUs, unique"
+        },
+        {
+          "question_id": "Q66",
+          "question": "*All P markets have been aligned on the background of initiative and"
+        },
+        {
+          "question_id": "Q67",
+          "question": "Next steps: 1) send out formal comms to all Local BI (ETA 28 Jan);"
+        },
+        {
+          "question_id": "Q68",
+          "question": "work with Reg BD to update / incorporate new booking logic into central"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok; we already have the 1st draft of PC2 and its components across\r\n      markets. In progress of aligning the data with local markets. Will start\r\n      reporting from 1 Feb\r\n\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   When do we expect them to start selling?\r\n   -\r\n\r\n      We will start to push for SKU migration/cross-listing in mid-Feb\r\n      after sellers are back from CNY break\r\n\r\n\r\nThank you.\r\nCuiwei"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Hi Ian,\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Is the PC2 for SG too healthy? Shall we put back to drive for growth?\r\n   -\r\n\r\n      TB fashion PC2 at 8.4% is higher than SG platform (6.9% proj), but on\r\n      par with SGCB PC2 (8.5% proj)\r\n      -\r\n\r\n      PC2 MoM growth is driven by paid ads - mainly contributed by SIP + a\r\n      few key sellers\r\n      -\r\n\r\n      We will align with Kel Jin on potential reinvestment [ETA: 3 Feb]\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Can start tracking PC2 here please\r\n   -\r\n\r\n      Ok"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q69",
+          "question": "probably more important we grow TB sellers during the starting period?"
+        },
+        {
+          "question_id": "Q70",
+          "question": "and to let buyers know that we have more fashionable sellers on the\r\nplatform too?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q69",
+          "answer": "Hi Ian, happy new year!\r\n\r\n\r\nprobably more important we grow TB sellers during the starting period?\r\n\r\nand to let buyers know that we have more fashionable sellers on the\r\nplatform too?\r\n\r\n\r\n\r\n   -\r\n\r\n   Marketing front, SG team plans to\r\n   -\r\n\r\n      Affiliate: Push more TB assortment to our fashion affiliates (incl\r\n      XHS Affiliates)\r\n      -\r\n\r\n      Livestream: Daily 8pm live fashion try-on, providing top KOL match to\r\n      sellers in exchange for upsized AMS and exclusive LS deals [ETA 2.15 to\r\n      start daily fashion stream]\r\n      -\r\n\r\n      Shopee fashion microsite: feature these assortments more prominently\r\n      -\r\n\r\n   From BD side, SG team will supplement support with PRM, paid ads credit\r\n   and seller management\r\n\r\n\r\nThank you.\r\ncuiwei"
+        },
+        {
+          "question_id": "Q70",
+          "answer": "Hi Ian, happy new year!\r\n\r\n\r\nprobably more important we grow TB sellers during the starting period?\r\n\r\nand to let buyers know that we have more fashionable sellers on the\r\nplatform too?\r\n\r\n\r\n\r\n   -\r\n\r\n   Marketing front, SG team plans to\r\n   -\r\n\r\n      Affiliate: Push more TB assortment to our fashion affiliates (incl\r\n      XHS Affiliates)\r\n      -\r\n\r\n      Livestream: Daily 8pm live fashion try-on, providing top KOL match to\r\n      sellers in exchange for upsized AMS and exclusive LS deals [ET"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q71",
+          "question": "thanks\r\n\r\n\r\n\r\n*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Friday, 31 January 2025 9:00 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Yu Zhang <\r\nyu.zhang@shopee.com>; Ailin Xie <ailin.xie@shopee.com>; Adeline Phoon <\r\nadeline.phoon@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Jayne Teo Wilin <jayne.teowl@shopee.com>;\r\nSteven Liu <steven.liusk@shopee.com>; Wei Loong Yong <\r\nweiloong.yong@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>; Keith\r\nHuang <keith.huang@shopee.com>; Joe Li <joe.liyc@shopee.com>; Ren Jiahui <\r\njiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>; Jules\r\nZhao <jules.zhao@shopee.com>; Tina Tai <tina.tai@shopee.com>; Tzong Meng\r\nOng <tzongmeng.ong@shopee.com>; Mingkit Tan <mingkit.tan@shopee.com>; Lim\r\nWei <wei.lim@shopee.com>; Alice Yuan Xiaoqiong <alice.yuanxq@shopee.com>;\r\nHo Shu Xia Geraldine <geraldine.hosx@shopee.com>; Jemie Then <\r\njemie.then@shopee.com>; Lynn Lin <lynn.lin@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week of 20 Jan\r\n\r\n\r\n\r\nHi Ian, happy new year!\r\n\r\n\r\n\r\nprobably more important we grow TB sellers during the starting period?"
+        },
+        {
+          "question_id": "Q72",
+          "question": "and to let buyers know that we have more fashionable sellers on the\r\nplatform too?"
+        }
+      ]
+    }
+  ]
+}

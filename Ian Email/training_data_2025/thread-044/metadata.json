@@ -1,0 +1,230 @@
+{
+  "id": "thread-044",
+  "subject": "SIP Weekly Update - Week ending 18 Apr",
+  "date": "2025-04-20",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 18 Apr.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "finance",
+    "data-analysis",
+    "shopee",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 15 Apr 2025)\r\n\r\nA/ Topline/P&L\r\n\r\nNote: CNSIP MTD P&L is preliminary due to ongoing BI data fix\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Apr proj ADO 187k, 104% RR; ADO as %CB -0.5pp MoM; proj ADG\r\n   $2.1M, 110%RR; ADG as %CB -0.5pp MoM\r\n   -\r\n\r\n      Local SIP proj ADO 102% RR, %CB -0.6pp MoM; %CB MoM decline expected\r\n      due to 1) Raya holiday impact, 2) Songkran holiday 3) Raya assortment\r\n      detrend, ADO performance on track\r\n      -\r\n\r\n      CNSIP proj ADO 104% RR, %CB +0.1ppp MoM; MoM increase from (1) Price\r\n      reduction (2) Increased Ads investment\r\n      2.\r\n\r\n   [P&L] Apr proj combined PC2 at Shopee level at $1.4M, $709k\r\n   under-performance due to local SIP fraud case leading to historical high\r\n   level of COD fail costs (update in separate email)\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   All top 5 SIP lanes and WH cross-selling lanes on par with projection\r\n   (except for IDMY)\r\n   2.\r\n\r\n   IDMY proj 94% RR; Low RR driven by ADO loss from frozen high COD failure\r\n   shops; ID seller Raya holiday recovery on track, in process of ramping up\r\n   new trendy assortment to support growth\r\n   3.\r\n\r\n   MYSG proj 106% RR; with SG PRM support on BAU product promo with 10% off\r\n   for unique SKUs push\r\n   4.\r\n\r\n   IDSG proj 111% RR; driven by strong top ID sellers recovery from holiday\r\n   mode and growth in S&O\r\n\r\n\r\n\r\nD/ CS\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   Low CSAT RR in SG: SG improves L7D CSAT to 82%; MTD performance will\r\n   meet target by end Apr.\r\n   2.\r\n\r\n   MY productivity low at 5.1: primarily due to underutilization, in\r\n   progress of reviewing HC planning. [ETA: next week]\r\n   3.\r\n\r\n   SIP low Chatbot CSAT is due to non-LLM chatbot; Next step is to pending\r\n   detailed analysis results for further tuning the NLU+LLM model to achieve\r\n   targeted DR and CSAT\r\n\r\n\r\nE/ System/product\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   #1 Rolled out to TH on 17/Apr. Pending roll-out to TW ETA 23/Apr\r\n   2"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Apr proj ADO 187k, 104% RR; ADO as %CB -0.5pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*[P&L] Apr proj combined PC2 at Shopee level at $1.4M, $709k"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*All top 5 SIP lanes and WH cross-selling lanes on par with"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*IDMY proj 94% RR*; Low RR driven by ADO loss from frozen high COD"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*MYSG proj 106% RR*; with SG PRM support on BAU product promo with"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*IDSG* *proj 111% RR*; driven by strong top ID sellers recovery from"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Low CSAT RR in SG: *SG improves L7D CSAT to 82%*; MTD performance"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*MY productivity low at 5.1*: primarily due to underutilization, in"
+        },
+        {
+          "question_id": "Q9",
+          "question": "SIP low Chatbot CSAT is due to non-LLM chatbot; Next step is to"
+        },
+        {
+          "question_id": "Q10",
+          "question": "#1 Rolled out to TH on 17/Apr. Pending roll-out to TW ETA 23/Apr"
+        },
+        {
+          "question_id": "Q11",
+          "question": "#6 UAT ongoing, to be completed ETA 24/Apr, Live test timeline 28/Apr"
+        },
+        {
+          "question_id": "Q12",
+          "question": "#7 CB FBS x SIP biz rollout as of 14/Apr. Local FBS x SIP enhancement"
+        },
+        {
+          "question_id": "Q13",
+          "question": "#8 CB SIP live test signed off as of 11/Apr, pending biz alignment"
+        },
+        {
+          "question_id": "Q14",
+          "question": "#9 Datafix using new email format completed as of ETA 13/Apr"
+        },
+        {
+          "question_id": "Q15",
+          "question": "#10 Short-term solution to automate resync for ‘ItemSyncFail’ and"
+        },
+        {
+          "question_id": "Q16",
+          "question": "#12 FRF drafting in progress, to obtain HOD approval to raise POP P1"
+        },
+        {
+          "question_id": "Q17",
+          "question": "#14 Biz request received 16/Apr, to proceed with FRF drafting and"
+        },
+        {
+          "question_id": "Q18",
+          "question": "work out logistics solution to accommodate FM 3PLs to avoid antitrust"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which sellers, when, what needs to\r\n      be in place to safeguard\r\n\r\n\r\n\r\nDo we need to close for other export markets as well?\r\n\r\n   -\r\n\r\n   Based on RTS/RR data check, no obvious fraud behavior, but will further\r\n   check at order  level data to make sure\r\n   -\r\n\r\n   Reg SIP is monitoring ops/p&L metrics daily, and reg biz security team\r\n   is running fraud scans daily for all SIP lanes too\r\n   -\r\n\r\n   Next-step to review SIP business model with regional ops team and\r\n   business security team, deep dive potential fraud risks [PIC: Reg SIP; ETA\r\n   25 Apr]\r\n\r\n\r\n\r\nWe have CS agents located in SG? What does that mean?\r\n\r\n   -\r\n\r\n   This is a typo - CS agents located in MY serving SG buyers. Will correct\r\n   from next report\r\n   -\r\n\r\n   They are separated from MY CS agents as currently managed by different\r\n   teams\r\n\r\n\r\n\r\nAverage response time for all markets seem to have gotten worse MOM?\r\n\r\n   -\r\n\r\n   Low ART because there was a misalignment on what the target was\r\n   previously. We have now aligned the target of 40 sec with all CS teams\r\n   -\r\n\r\n   To support local CS teams to meet this target, we work with them to\r\n   improve the pre-set message template and introduce the new SOP requiring\r\n   agents to send an official reply as soon as they receive a buyer message\r\n   -\r\n\r\n   The SOP is expected to launch on by end-Apr, expect to meet target from\r\n   early May\r\n\r\n\r\nFor Brunei, do we know if they are PC2 positive?\r\n\r\n   -\r\n\r\n   Yes they are positive, and higher than MY platform, like"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nCOD is still closed for ID export shops right?\r\n\r\n   -\r\n\r\n   Yes since Sat.\r\n   -\r\n\r\n   Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n   -\r\n\r\n      Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      -\r\n\r\n      Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      -\r\n\r\n      Assessing when/how to resume COD - which seller"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q19",
+          "question": "- To support local CS teams to meet this target, we work with them to\r\n   improve the pre-set message template and introduce the new SOP requiring\r\n   agents to send an official reply as soon as they receive a buyer message\r\n\r\n\r\n\r\n\r\n\r\nHow are we counting ART right now?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "We should count when an actual agent\r\ngets back to the buyer right?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "You cannot tell me that pre-set message template counts…\r\n\r\n\r\n\r\n*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Tuesday, 22 April 2025 6:59 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 18 Apr\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nCOD is still closed for ID export shops right?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "- Yes since Sat.\r\n   - Meanwhile we are taking 3 actions as below target EOW, then we will\r\n   propose when/how we would like to resume COD\r\n\r\n\r\n   - Continue to identify fraud sellers, fraud orders, recognize loss, and\r\n      conduct recovery (freeze wallet and claw back)\r\n      - Build end-to-end SOP in fraud detection, escrow, seller comms\r\n      - Assessing when/how to resume COD - which sellers, when, what needs\r\n      to be in place to safeguard\r\n\r\n\r\n\r\nDo we need to close for other export markets as well?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "- Based on RTS/RR data check, no obvious fraud behavior, but will\r\n   further check at order  level data to make sure\r\n   - Reg SIP is monitoring ops/p&L metrics daily, and reg biz security team\r\n   is running fraud scans daily for all SIP lanes too\r\n   - Next-step to review SIP business model with regional ops team and\r\n   business security team, deep dive potential fraud risks [PIC: Reg SIP; ETA\r\n   25 Apr]\r\n\r\n\r\n\r\nWe have CS agents located in SG?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "What does that mean?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- This is a typo - CS agents located in MY serving SG buyers. Will\r\n   correct from next report\r\n   - They are separated from MY CS agents as currently managed by different\r\n   teams\r\n\r\n\r\n\r\nAverage response time for all markets seem to have gotten worse MOM?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- Low ART because there was a misalignment on what the target was\r\n   previously. We have now aligned the target of 40 sec with all CS teams\r\n   - To support local CS teams to meet this target, we work with them to\r\n   improve the pre-set message template and introduce the new SOP requiring\r\n   agents to send an official reply as soon as they receive a buyer message\r\n   - The SOP is expected to launch on by end-Apr, expect to meet target\r\n   from early May\r\n\r\n\r\n\r\nFor Brunei, do we know if they are PC2 positive?"
+        }
+      ]
+    }
+  ]
+}

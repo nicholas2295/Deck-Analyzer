@@ -1,0 +1,80 @@
+{
+  "id": "thread-031",
+  "subject": "VNCB SOB Analysis",
+  "date": "2026-04-06",
+  "deck_filename": "VNCB SOB Analysis_v1.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "data-analysis",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease see findings for VNCB SOB drop.\r\n\r\nFor budget alignment to grow SOB, VNCB is pending VN FPnA alignment, ETA\r\n7th April. We will work with VNCB team on this.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Thanks!\r\n\r\nSlide 6: Can we do SOB of SLS and LFF for this part?\r\n\r\nSlide 7: How this \"Only on Shopee/TTS Only\" analysis done? Is this table\r\nMECE or just based on sampled data?\r\n\r\nActually for this part, we are better than TTS for the \"Only\" part?\r\n\r\nSlide 14: Should we aim at Oct 25 SOB as the baseline? 0.77?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Jianghong,\r\n\r\nSlide 6: Can we do SOB of SLS and LFF for this part?\r\n\r\n\r\nHave included the SOB breakdown here. LFF is improving in SOB.\r\n\r\n[image: image.png]\r\n\r\n\r\nSlide 7: How this \"Only on Shopee/TTS Only\" analysis done? Is this table\r\nMECE or just based on sampled data?\r\n\r\nActually for this part, we are better than TTS for the \"Only\" part?\r\n\r\n\r\nYes this is MECE and TTS data is based on the TTS crawling tool VN local\r\nteam uses. We are ahead for sellers exclusive to Shopee vs TTS but for\r\nsellers that are on both platforms, we are behind especially for LFF\r\nsellers.\r\n\r\n\r\nSlide 14: Should we aim at Oct 25 SOB as the baseline? 0.77?\r\n\r\nYes, we aligned with VN to a more aggressive target at 0.77x SOB, based on\r\nupdated assumptions for TTS CB% (~7.40%), while keeping CPIGMV unchanged\r\n(50%). Recovery (i.e. incremental ADG at ~480K) will come from growing VNCB\r\nstrength categories (ELHA, bulky Lifestyle), while managing prudent-defense\r\nclusters (Fashion, FMCG) with disciplined SSC and value-led assortment to\r\ncapture demand from price-sensitive users.\r\n\r\nAlso, we are currently still pending budget approval from VN FP&A by 8th\r\nApril, the estimated budget needed is at $7.18M.\r\n\r\n\r\nOn Tue, Apr 7, 2026 at 10:23 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "As we discussed yesterday, please do the following:\r\n\r\n1) For SLS, can we adopt the same approach in TH to reinvest using SLS\r\nprofit.\r\n\r\n2) For overall SOB target, let's aim at 0.77 and get approved by local as\r\nsoon as possible.\r\n\r\nBTW, there are quite some outstanding issues need to get VN local support\r\nfor CNLS/CNCB. I'll ask Jina to set up a meeting with Anh and Saray early\r\nnext week."
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "For SLS, can we adopt the same approach in TH to reinvest using SLS"
+        },
+        {
+          "question_id": "Q2",
+          "question": "For overall SOB target, let's aim at 0.77 and get approved by local as"
+        }
+      ]
+    }
+  ]
+}

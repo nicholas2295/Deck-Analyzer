@@ -1,0 +1,231 @@
+{
+  "id": "thread-129",
+  "subject": "[Email update] Dec-25 SIP monthly meeting",
+  "date": "2025-12-19",
+  "deck_filename": "[Email update] SIP Monthly Meeting 20251218.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "finance",
+    "product-launch",
+    "marketing",
+    "user-growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Huang Wan-Jung",
+      "Yu Zhang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find attached Dec SIP monthly doc for review.\r\n\r\nFor visibility we are working on 2 additional topics to be shared\r\nseparately by EOW next week for review:\r\n1. Ensure local FBS SKUs can be exported via SIP (follow up topic from TP\r\nmonthly CB meeting): in progress of 1) refreshing impact potential with\r\nregional WH team and local WH teams; 2) summarizing launch plan (system,\r\nlogistics, seller comms, local WH prep) and timeline\r\n2. Direct selling: assess if it makes sense to build RTS channels\r\nespecially for large Direct lanes: in progress of finalizing RTS cost and\r\nvol estimation\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Ensure local FBS SKUs can be exported via SIP (follow up topic from TP"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Direct selling: assess if it makes sense to build RTS channels"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 20\r\n\r\n   -\r\n\r\n   What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n   -\r\n\r\n   How do we intend to do grow NSS of CB sellers? Are we referring to CN\r\n   export or Local market export? Chiong Zhi Ann <zhiann.chiong@shopee.com> Wei\r\n   Qiang <wei.qiang@shopee.com>\r\n\r\n\r\nWe are referring to local market export (not CN export). This builds on our\r\nstructural cost advantage from SLS+SPX network scale; allowing us to offer\r\nlower B2B and B2C rates than market alternatives.\r\n\r\nWe will start with ID/MY local SPX NSS customer base (~1.2k / 1.3k),\r\nworking with NSS team to identify their CB logistics needs and co-build\r\nend-to-end solutions. Both ID/MY SPX teams are onboarded.\r\n\r\nAdditionally Zalora expressed interest in exploring NSS across its\r\noperating lanes, particularly MY-PH; this is incremental to our core plan.\r\nWe are working with RBP team to identify more potential strategic customers\r\nlike Zalora.\r\n\r\n[image: image.png]\r\n\r\nSlide 36 Huang Wan-Jung <wanjung.huangwj@shopee.com>\r\n\r\n   -\r\n\r\n   TH seems very small. Should be much bigger especially on Fashion/Beauty\r\n   front? In general think we have too little TH sellers on direct right now?\r\n\r\n\r\nAgree. TH is currently under-scaled on Direct, especially in Fashion/Beauty.\r\n\r\nThis was due to seller acquisition capacity constraints, which previously\r\nlimited pitching to ~100 sellers before mid-Dec. The constraint is now\r\nremoved with mass pitching and upcoming RM pitching from Jan\r\n\r\n   -\r\n\r\n   Mass pitching: started in mid-Dec to ~260k eligible sellers. MTD 1,033\r\n   sellers opened direct shops, 947 active selling (vs 69 active sellers in\r\n   Nov). Next to continue the weekly pitching cadence.\r\n   -\r\n\r\n   1:1 pitching: planned in Jan-"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 20\r\n\r\n   -\r\n\r\n   What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n   -\r\n\r\n   How do we intend to do grow NSS of CB sellers? Are we referring to CN\r\n   export or Local market export? Chiong Zhi Ann <zhiann."
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Huang Wan-Jung",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached slides on the proposed launch plan for local FBS\r\nexport via SIP for your review.\r\nAfter your approval, we will 1) include the proposal in the Jan CB monthly\r\nupdate to Terence, 2) kick off launch preparations.\r\n\r\nIn summary:\r\nLocal FBS export potential estimated to be ~844k FBS SKUs, 89K ADO by\r\nDec’26, based on local FBS business growth projections in each market\r\nWe will start to launch MY/VN/PH as P1 from Mar-Jun;  to enable 18 FBS\r\nexport lanes by Dec’26\r\nKey dependencies are 1) system readiness (upgrade SIP system and local WH\r\nsystem); 2) legal/tax/finance clearance; we will focus on clearing these\r\ntwo alongside other launch needs in Q1’26.\r\n\r\nThe data insights and launch plan have been synced with 1) regional WH\r\ncommercial/ops team; 2) export market local FBS business PICs.\r\n\r\nThank you. Best regards,\r\n\r\n*Jill Huang Wan-Jung*\r\n\r\nShopee | Cross-Border | SLS\r\n\r\nMobile: +65 9813 3840\r\n\r\nAddress: 1 Fusionopolis Place #09-10, Galaxis, Singapore, 138522"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q3",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on this\r\n\r\n\r\n\r\nDo not wish for a situation where we build a solution where the adoption is\r\nlow\r\n\r\n\r\n\r\n   - How do we intend to do grow NSS of CB sellers?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Are we referring to CN\r\n   export or Local market export?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Chiong Zhi Ann <zhiann.chiong@shopee.com> Wei\r\n   Qiang <wei.qiang@shopee.com>\r\n\r\n\r\n\r\nWe are referring to local market export (not CN export). This builds on our\r\nstructural cost advantage from SLS+SPX network scale; allowing us to offer\r\nlower B2B and B2C rates than market alternatives.\r\n\r\n\r\n\r\nWe will start with ID/MY local SPX NSS customer base (~1.2k / 1.3k),\r\nworking with NSS team to identify their CB logistics needs and co-build\r\nend-to-end solutions. Both ID/MY SPX teams are onboarded.\r\n\r\n\r\n\r\nAdditionally Zalora expressed interest in exploring NSS across its\r\noperating lanes, particularly MY-PH; this is incremental to our core plan.\r\nWe are working with RBP team to identify more potential strategic customers\r\nlike Zalora.\r\n\r\n\r\n\r\n\r\n\r\nSlide 36 Huang Wan-Jung <wanjung.huangwj@shopee.com>\r\n\r\n   - TH seems very small. Should be much bigger especially on\r\n   Fashion/Beauty front?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "In general think we have too little TH sellers on\r\n   direct right now?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Agree. TH is currently under-scaled on Direct, especially in Fashion/Beauty.\r\n\r\n\r\n\r\nThis was due to seller acquisition capacity constraints, which previously\r\nlimited pitching to ~100 sellers before mid-Dec. The constraint is now\r\nremoved with mass pitching and upcoming RM pitching from Jan\r\n\r\no   Mass pitching: started in mid-Dec to ~260k eligible sellers. MTD 1,033\r\nsellers opened direct shops, 947 active selling (vs 69 active sellers in\r\nNov). Next to continue the weekly pitching cadence.\r\n\r\no   1:1 pitching: planned in Jan-Mar, targeting ~800 priority sellers\r\nchosen by import markets (Mall/brands across SG/MY/PH top 5 categories\r\nincluding Fashion and Beauty). Target ~60% success rate owned by local RM\r\n(part of local RM KPI).\r\n\r\n\r\n\r\nWith both mass and RM pitching active, we expect TH seller growth to\r\nimprove meaningfully over next 4-8 weeks, and catch up to peer export\r\nmarkets by end Q1’26.\r\n\r\nSlide 38 Huang Wan-Jung <wanjung.huangwj@shopee.com> Cuiwei Sun\r\n<cuiwei.sun@shopee.com>\r\n\r\n   - How can we grow seller acquisition even faster?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "What are the blockers\r\n   right now?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Current status: all eligible sellers have been pitched at least once via\r\nmass or RM pitching. At this stage, the only way to materially accelerate\r\nacquisition is to increase re-pitching success rate (currently ~5%; target\r\n10-15%).\r\n\r\n\r\n\r\nBlockers\r\n\r\no   Primary blocker: local RM incentive/capacity. Direct acquisition is not\r\npart of local RM KPI (other than TH), successful pitching is not rewarded;\r\n\r\no   Secondary blockers: Seller incentives (e.g., low ads/rebate ROI vs\r\nlocal shop), RM/CS capacity to support onboarding/operations; seller\r\neducation capacity - these limit scale-up but not on the critical path to\r\nthe faster acquisition.\r\n\r\n\r\n\r\nSolutions\r\n\r\no   Short-term unblocks (Jan-Feb):\r\n\r\n§  Reduce RM capacity constraint with 1) focus on Mall and brand sellers;\r\n2) automate RM pitching workflow\r\n\r\n§  Revamp seller incentives for Mall/managed sellers to close Direct ROI\r\ngaps with local shops\r\n\r\no   Longer-term unblocks (By Q2-26): strengthen RM incentives 1) formalize\r\nRM KPIs/incentives for Direct with support from export market country\r\nmanagers and BD HODs; 2) work with HQ finance to enable export market to\r\nearn a Direct service fee to expand RM and export team capacity.\r\n\r\n\r\n\r\nTarget to double Mall/managed seller pitching success rate across markets\r\nby end-Mar, and reach ~200k active sellers before 9.9. (2x current, 10% of\r\nlocal SIP sellers), 4 months ahead of original Dec’26 timeline target.\r\n\r\n\r\n\r\nSlide 39 Ailin Xie <ailin.xie@shopee.com> Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com>\r\n\r\n   - How about seller vouchers?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Seller vouchers are currently under-utilized on Direct. Voucher ADO\r\ncontribution is significantly lower than import market CNCB average. MYSG\r\nis the only exception (summary table below).\r\n\r\n\r\n\r\n*Metric*\r\n\r\n*Lane*\r\n\r\n*Direct Performance*\r\n\r\n*Import Market CNCB*\r\n\r\n*VS Direct*\r\n\r\n*Voucher ADO*\r\n\r\n* Contri%*\r\n\r\nMYSG\r\n\r\n40%\r\n\r\n34%\r\n\r\n▲6%\r\n\r\nMYPH\r\n\r\n13%\r\n\r\n31%\r\n\r\n▼18%\r\n\r\nMYTH\r\n\r\n25%\r\n\r\n41%\r\n\r\n▼15%\r\n\r\nIDMY\r\n\r\n5%\r\n\r\n41%\r\n\r\n▼36%\r\n\r\nIDSG\r\n\r\n6%\r\n\r\n34%\r\n\r\n▼28%\r\n\r\nIDPH\r\n\r\n5%\r\n\r\n31%\r\n\r\n▼26%\r\n\r\nVNMY\r\n\r\n7%\r\n\r\n41%\r\n\r\n▼34%\r\n\r\nVNSG\r\n\r\n9%\r\n\r\n34%\r\n\r\n▼25%\r\n\r\nVNPH\r\n\r\n24%\r\n\r\n31%\r\n\r\n▼7%\r\n\r\n\r\n\r\nThis is primarily a seller adoption and incentive design issue, not a\r\nsystem blocker. MYSG high voucher adoption due to upsized co-share 50-50\r\nvoucher incentive scheme covering both BAU and spike days\r\n\r\no   BAU Co-share: a) 18% off, MS $10, Cap $20 b) New Sellers: 12%, MS $5,\r\nCap $5\r\n\r\no   Spike day Co-share a) 20% Discount Min Spend up to $50 Capped at $50 b)\r\n50% Discount Min Spend $1 Capped at $3\r\n\r\n\r\n\r\nNext steps: 1) work with local CB teams to replicate MYSG best practice to\r\nother top lanes; 2) develop system solutions to default replication of\r\nseller vouchers from local shop to Direct shop on an opt-out basis.\r\n\r\n\r\n\r\nRight now we allow them to port over SKUs from local shop to export shop?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Should we also get them to port over their seller voucher?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Yu Zhang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on this\r\n\r\n\r\n\r\nDo not wish for a situation where we build a solution where the adoption is\r\nlow\r\n\r\n\r\n+Yuna Kwon <yuna.kwon@shopee.com> @Junho Kim <junho.kim@shopee.com> @Changsong\r\nYou <changsong.you@shopee.com>\r\n\r\n\r\nKRCB has surveyed 55 managed/brand sellers, 53% sellers show interest in\r\nSIP.\r\n\r\nFor non-managed sellers, KRCB plans to replicate the opt-out model as CNSIP\r\nand expect a higher adoption rate than managed sellers. (CNSIP adoption\r\nrate >70%)\r\n\r\n\r\nRegional SIP will work with KRCB for a pitching plan in Jan, and start\r\nseller communication from mid-Feb to catch the system launch in Mar.\r\n\r\n\r\n\r\n[Backup] Band seller survey results\r\n\r\nSeller with no interests to SIP prefers a brand-owned operating model, with\r\nSIP providing selective operational support only\r\n\r\n   - Price setting controlled by brand HQ\r\n   -\r\n\r\n   Paid Ads requiring direct ROAS control and budget ownership\r\n   -\r\n\r\n   Shop listings managed centrally with identical listings across all\r\n   markets (including designs)\r\n\r\nFor these sellers, SIP proposes to use the SIP system as a tool to migrate\r\nshops for them at start, and return shops to sellers for self run if\r\nsellers agree on this proposal.\r\n\r\nSlide 39 Ailin Xie Huang Wan-Jung\r\n\r\n   -\r\n\r\n   How about seller vouchers?\r\n\r\nSeller vouchers are currently under-utilized on Direct. Voucher ADO\r\ncontribution is significantly lower than import market CNCB average. MYSG\r\nis the only exception (summary table below).\r\n\r\n\r\n\r\nMetric\r\n\r\nLane\r\n\r\nDirect Performance\r\n\r"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian:\r\n\r\nPlease see the reply in green below.\r\n\r\nSlide 20\r\n\r\n   - What is the latest on KR SIP? Yu Zhang <yu.zhang@shopee.com> Ren Jiahui\r\n   <jiahui.ren@shopee.com>\r\n\r\n\r\n\r\nKRSIP is on track. System requirements have been signed off by KRCB/Reg SIP\r\nteam and reviewed with PM.\r\n\r\n\r\n\r\nSystem readiness target Mar; business prep starts mid-Feb. No major\r\nblocker/risk identified at this stage.\r\n\r\n\r\n\r\n\r\n\r\nI was referring to pitching status or at least getting a sense check of\r\nseller willingness on "
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q13",
+          "question": "KRCB has surveyed 55 managed/brand sellers, 53% sellers show interest in\r\nSIP.\r\n\r\nFor non-managed sellers, KRCB plans to replicate the opt-out model as CNSIP\r\nand expect a higher adoption rate than managed sellers. (CNSIP adoption\r\nrate >70%)\r\n\r\n\r\n\r\nRegional SIP will work with KRCB for a pitching plan in Jan, and start\r\nseller communication from mid-Feb to catch the system launch in Mar.\r\n\r\n\r\n\r\n\r\n\r\n[Backup] Band seller survey results\r\n\r\nSeller with no interests to SIP prefers a brand-owned operating model, with\r\nSIP providing selective operational support only\r\n\r\n   - Price setting controlled by brand HQ\r\n   - Paid Ads requiring direct ROAS control and budget ownership\r\n   - Shop listings managed centrally with identical listings across all\r\n   markets (including designs)\r\n\r\nFor these sellers, SIP proposes to use the SIP system as a tool to migrate\r\nshops for them at start, and return shops to sellers for self run if\r\nsellers agree on this proposal.\r\n\r\n\r\n\r\nThis is hard to understand. How many SMT 1-3 sellers have we pitched to?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "What is the contribution to platform, what is the success rate?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Agree to enhance system features to enable Direct sellers to replicate\r\nlocal shop vouchers to Direct shops. We are working with CB BPM to finalize\r\na P1 product feature request by mid Jan.\r\n\r\nWe will also track the seller voucher adoption rate and work on a seller\r\ncommunication/incentive plan with each market. We will prioritize the mall\r\nand managed seller group who have a voucher gap between local market and\r\nexport market first.\r\n\r\n\r\n\r\nWhen will have updates regarding this?"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nThis is hard to understand. How many SMT 1-3 sellers have we pitched to?\r\nWhat is the contribution to platform, what is the success rate?\r\n\r\nWe have not kicked off the seller pitching yet. Above mentioned is a seller\r\nsentiment survey to collect interests/concerns about the SIP model. The 55\r\nsellers are all SMT2 and SMT3 brand sellers (18% KRCB ADO coverage,\r\nexcluding SMT2/3 resellers). Their opinions are representative of managed\r\nsellers overall. We will bake their feedback into seller\r\npitching/acquisition materials to address their concerns early.\r\n\r\nKRCB and SIP team are jointly working on a pitching plan based on the\r\nseller segments, will be ready for review by 23 Jan (SIP Jan monthly\r\nmeeting). Actual pitching will start from mid-Feb to catch the system\r\nlaunch in Mar.\r\n\r\nAgree to enhance system features to enable Direct sellers to replicate\r\nlocal shop vouchers to Direct shops. We are working with CB BPM to finalize\r\na P1 product feature request by mid Jan.\r\n\r\nWe will also track the seller voucher adoption rate and work on a seller\r\ncommunication/incentive plan with each market. We will prioritize the mall\r\nand managed seller group who have a voucher gap between local market and\r\nexport market first.\r\n\r\n\r\n\r\nWhen will have updates regarding this?\r\n\r\n\r\nWe are finalizing feature design and impact estimation. CB BPM will email a\r\nP0 request for your approval by this Friday (16 Jan), and proceed to RBX\r\napproval in jan cycle. Target to launch the feature by Q1 with top\r\npriority. Estimated dev effort is 1.5-2 months. CB BPM will closely monitor\r\nthe progress to mitigate any timeline risks."
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nThis is hard to understand. How many SMT 1-3 sellers have we pitched to?\r\nWhat is the contribution to platform, what is the success rate?\r\n\r\nWe have not kicked off the seller pitching yet. Above mentioned is a seller\r\nsentiment survey to collect interests/concerns about the SIP model. The 55\r\nsellers are all SMT2 and SMT3 brand sellers (18% KRCB ADO coverage,\r\nexcluding SMT2/3 resellers). Their opinions are representative of managed\r\nsellers overall. We will bake their feedback into s"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nThis is hard to understand. How many SMT 1-3 sellers have we pitched to?\r\nWhat is the contribution to platform, what is the success rate?\r\n\r\nWe have not kicked off the seller pitching yet. Above mentioned is a seller\r\nsentiment survey to collect interests/concerns about the SIP model. The 55\r\nsellers are all SMT2 and SMT3 brand sellers (18% KRCB ADO coverage,\r\nexcluding SMT2/3 resellers). Their opinions are representative of managed\r\nsellers overall. We will bake their feedback into s"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q16",
+          "question": "So for KRSIP, what is the acceptance rate?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Thursday, 15 January 2026 10:56 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Yu Zhang <yu.zhang@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Xiao Xuan Soh <xiaoxuan.soh@shopee.com>; Wei Qiang <\r\nwei.qiang@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>; Huang\r\nWan-Jung <wanjung.huangwj@shopee.com>; Linda Sun <linda.sun@shopee.com>;\r\nJoe Li <joe.liyc@shopee.com>; Lim Wan Ting <wanting.lim@shopee.com>; Ren\r\nJiahui <jiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>;\r\nLee Jia Yi <jiayi.jylee@shopee.com>; Fandi Nie <fandi.nie@shopee.com>; Faye\r\nYan <faye.yan@shopee.com>; Junho Kim <junho.kim@shopee.com>; Changsong You <\r\nchangsong.you@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>; Hyunji Seo <\r\nhyunji.seo@shopee.com>\r\n*Subject:* Re: [Email update] Dec-25 SIP monthly meeting\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\n*This is hard to understand. How many SMT 1-3 sellers have we pitched to?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "What is the contribution to platform, what is the success rate?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*\r\n\r\nWe have not kicked off the seller pitching yet. Above mentioned is a seller\r\nsentiment survey to collect interests/concerns about the SIP model. The 55\r\nsellers are all SMT2 and SMT3 brand sellers (18% KRCB ADO coverage,\r\nexcluding SMT2/3 resellers). Their opinions are representative of managed\r\nsellers overall. We will bake their feedback into seller\r\npitching/acquisition materials to address their concerns early.\r\n\r\nKRCB and SIP team are jointly working on a pitching plan based on the\r\nseller segments, will be ready for review by 23 Jan (SIP Jan monthly\r\nmeeting). Actual pitching will start from mid-Feb to catch the system\r\nlaunch in Mar.\r\n\r\n\r\n\r\nAgree to enhance system features to enable Direct sellers to replicate\r\nlocal shop vouchers to Direct shops. We are working with CB BPM to finalize\r\na P1 product feature request by mid Jan.\r\n\r\nWe will also track the seller voucher adoption rate and work on a seller\r\ncommunication/incentive plan with each market. We will prioritize the mall\r\nand managed seller group who have a voucher gap between local market and\r\nexport market first.\r\n\r\n\r\n\r\n*When will have updates regarding this?"
+        }
+      ]
+    }
+  ]
+}

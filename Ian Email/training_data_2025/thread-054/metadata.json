@@ -1,0 +1,164 @@
+{
+  "id": "thread-054",
+  "subject": "[For Review] Anbo Warehouse Commission and Choice SLS discount Proposal",
+  "date": "2025-05-16",
+  "deck_filename": "Anbo Commission Charge and Impact to Choice Seller P&L_20250516 .pdf",
+  "deck_topic_tags": [
+    "finance",
+    "pricing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls kindly receive the updated documents for Chris/Terence meeting, and the\r\ncontent has been reviewed and aligned with Jianghong and Ning respectively~\r\n\r\nKey changes vs Tuesday version:\r\n\r\n   - Choice true cost savings to SLS has been adjusted to* rate reduction\r\n   impact to overall CB with Choice volume*\r\n   - Other adjustments: listed in deck using blue box\r\n\r\nConfirmations on presenting pace: to align on if following is okay\r\n\r\n   - Next Tuesday: we walk through with Terence first before goes to Chris\r\n   ( in CB monthly management meeting)\r\n   - Next Wednesday: we walkthrough with Chris (in Choice Updates to Chris\r\n   meeting)\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 8 – 9\r\n\r\n   - So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- Even for BR with 30% of volume?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "I find it quite hard to believe\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - Do not quite understand this view.\r\n   - I need a view that shows seller P&L and then another line item that\r\n   says seller P&L without SLS discount\r\n   - And I thought we already broke even at seller P&L level in Apr/May?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 11\r\n\r\n   - I thought we should still get NN WH SLS discounts?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Especially if we\r\n   offer the same to other sellers?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   -\r\n\r\n   So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?\r\n   -\r\n\r\n   Even for BR with 30% of volume? I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   -\r\n\r\n   *SEA mkt  key reason ( @James Li [SZ] <james.li@shopee.com> **pls add\r\n   on) : SLS volume is the cornerstone for the 3PL’s charters, so we have a\r\n   strong control power during the negotiation to not increase too much\r\n   without Choice volume *\r\n   -\r\n\r\n   *BR key reason ( @Ruofei Wang <phyllis.wang@shopee.com>  pls add on) :\r\n   BRCB linehaul is resource constraint routes, adding some statics points\r\n   from SLS side about the supply shortage facts*\r\n   -\r\n\r\n      *Shopee’s Volume 20% in VCP airport, 80% in GIG airport due to\r\n      Customs Clearance warehouse location*\r\n      -\r\n\r\n      *However, VCP and GIG can only handle 9k Tons and 5k Tons, compared\r\n      with GRU airport handles 24.6k Tons (Apr’25). This indicates a supply\r\n      disparity*\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Do not quite understand this view.\r\n   -\r\n\r\n   I need a view that shows seller P&L and then another line item that says\r\n   seller P&L without SLS discount\r\n   -\r\n\r\n   And I thought we already broke even at seller P&L level in Apr/May?\r\n\r\n*>> For the seller P&L explanation: pls find details key assumptions*\r\n\r\n   -\r\n\r\n   *For version #1 , it reflects the MP Anbo commission rate reduction but\r\n   not reflect the SLS new “true cost saving” discount, this is to avoid\r\n   Seagroup reported PnL too volatile *\r\n   -\r\n\r\n   *For version #2, reflect both MP anbo commission rate reduction and SLS\r\n   3% \"true cost savings“ discount rate*\r\n   -\r\n\r\n   *Added version 3, if you are referring to seller P&L without any SLS\r\n   discount , that will bring seller PnL to be -33mil*\r\n\r\n*May I kindly check, seller PnL with and without SLS discount, you are\r\nreferring to is a combination of version 1 and 2, or version 2 and 3"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   -\r\n\r\n   So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?\r\n   -\r\n\r\n   Even for BR with 30% of volume? I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   -\r\n\r\n   *SEA mkt  key reason ( @James Li [SZ] <james.li@shopee.com> **pls add\r\n   on) : SLS volume is the cornerstone for the 3PL’s charters, so we have a\r\n   strong control power during the negotiation to not in"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   -\r\n\r\n   So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?\r\n   -\r\n\r\n   Even for BR with 30% of volume? I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   -\r\n\r\n   *SEA mkt  key reason ( @James Li [SZ] <james.li@shopee.com> **pls add\r\n   on) : SLS volume is the cornerstone for the 3PL’s charters, so we have a\r\n   strong control power during the negotiation to not in"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   -\r\n\r\n   So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?\r\n   -\r\n\r\n   Even for BR with 30% of volume? I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   -\r\n\r\n   *SEA mkt  key reason ( @James Li [SZ] <james.li@shopee.com> **pls add\r\n   on) : SLS volume is the cornerstone for the 3PL’s charters, so we have a\r\n   strong control power during the negotiation to not in"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   -\r\n\r\n   So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?\r\n   -\r\n\r\n   Even for BR with 30% of volume? I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   -\r\n\r\n   *SEA mkt  key reason ( @James Li [SZ] <james.li@shopee.com> **pls add\r\n   on) : SLS volume is the cornerstone for the 3PL’s charters, so we have a\r\n   strong control power during the negotiation to not in"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q6",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\nPls find answers to your questions.\r\n\r\nSlide 8 – 9\r\n\r\n   - So there is no volume discount that SLS benefits from because of\r\n   SCS/Lovito?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- Even for BR with 30% of volume?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "I find it quite hard to believe\r\n\r\n*>> SEA and BR markets reasons are different*\r\n\r\n   - *SEA mkt  key reason (  @James Li [SZ] <james.li@shopee.com> pls add\r\n   on) **: SLS volume is the cornerstone for the 3PL’s charters, so we have\r\n   a strong control power during the negotiation to not increase too much\r\n   without Choice volume *\r\n   - *BR key reason ( @Ruofei Wang <phyllis.wang@shopee.com>  pls add on) **:\r\n   BRCB linehaul is resource constraint routes, adding some statics points\r\n   from SLS side about the supply shortage facts*\r\n\r\n\r\n   - *Shopee’s Volume 20% in VCP airport, 80% in GIG airport due to Customs\r\n      Clearance warehouse location*\r\n      - *However, VCP and GIG can only handle 9k Tons and 5k Tons, compared\r\n      with GRU airport handles 24.6k Tons (Apr’25). This indicates a supply\r\n      disparity*\r\n\r\n\r\n\r\n\r\n\r\nDo not quite understand. @Jianghong Liu <jianghong.liu@shopee.com> maybe\r\ncan look to see what is fair here?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "10% of SEA markets and 30% of BR volume\r\nbut no advantages in pricing really does not seem right.\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - Do not quite understand this view.\r\n   - I need a view that shows seller P&L and then another line item that\r\n   says seller P&L without SLS discount\r\n   - And I thought we already broke even at seller P&L level in Apr/May?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*>> For the seller P&L explanation: pls find details key assumptions*\r\n\r\n   - *For version #1 , it reflects the MP Anbo commission rate reduction\r\n   but **not reflect **the SLS new “true cost saving” discount, this is to\r\n   avoid Seagroup reported PnL too volatile *\r\n   - *For version #2, reflect both MP anbo commission rate reduction and\r\n   SLS **3% **\"true cost savings“ discount rate*\r\n   - *Added version 3, if you are referring to seller P&L without** any **SLS\r\n   discount , that will bring seller PnL to be -33mil*\r\n\r\n*May I kindly check, seller PnL with and without SLS discount, you are\r\nreferring to is a combination of version 1 and 2, or version 2 and 3?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Deck\r\nis showing version 1 and 2*\r\n\r\n\r\n\r\nI need 2 versions\r\n\r\n   - Version 1 >> Seller P&L based on previous comms structure\r\n   - Version 2 >> Seller P&L based on Anbo comms structure. And we will add\r\n   another line item that shows SLS rates that we have to now pay (including\r\n   fair discounts that should be given)\r\n\r\n\r\n\r\n*For seller P&L breakeven, **Chengchen Huo <chengchen.huo@shopee.com> feel\r\nfree to add on*\r\n\r\n   - *For Apr Seller P&L**, latest Choice projected actuals is negative,\r\n   Choice team is under closing Apr actuals by next Monday, we will refresh\r\n   then, actually all versions I received from choice team in Apr for seller\r\n   P&L EOM projection are negative (volatile from -0.1mil to -0.7mil),\r\n   Chengchen Huo <chengchen.huo@shopee.com> can help share if Ian received any\r\n   positive PnL reporting from your end*\r\n\r\n\r\n\r\n\r\n\r\nThis was not what was told to me?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- *For May Seller P&L**, latest Choice EOM projection is 23k\r\n   (breakeven), however, this is too close and we choose to not update but use\r\n   budget number*\r\n\r\n\r\n\r\n\r\n\r\nWe will use the optimistic version that we gave to CF before\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I thought we should still get NN WH SLS discounts?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Especially if we\r\n   offer the same to other sellers?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease in CB MP\r\nrevenue to ensure\r\n      no impact to local platform P&L\r\n   - *SLS Discount rate:*\r\n      - Will *NOT *adjust in system, this is to 1) ensure SeaGroup level\r\n      Choice seller P&L remain consistent, and 2) consult SeaFin on this, any\r\n      changes to system setting of ASF adjustment will need to go through Group\r\n      Tax as more profit flow in SG SLS entity may impact group tax planning\r\n      - For CB internal tracking, Choice side to track seller P&L both\r\n      current discount and with new SLS discount; CB FP&A will also\r\ntrack seller\r\n      P&L and SLS P&L both current and new SLS discount for reference\r\n\r\nPls kindly see if this is aligned across, thanks!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPost Today's Chris/Terence meeting, to confirm the next step for Anbo and\r\nChoice SLS discount. Pls kindly see if this is aligned across, thanks!\r\n\r\n   - *Base Commission adjustment*:\r\n      - Agree to 2% discount vs CNCB 3P SLS sellers for all orders ship\r\n      from Anbo warehouse, and will set in system as no transferring\r\npricing risk\r\n      - *Specially highlight to Choice team,* for seller PnL, *1.8mil* FY25\r\n      shall be reserved in seller P&L for the decrease i"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "thread-003",
+  "subject": "Jan SIP monthly meeting - pre-reads",
+  "date": "2025-01-05",
+  "deck_filename": "TB update (Dec'24)_vF (1).pdf",
+  "deck_topic_tags": [
+    "finance",
+    "pricing",
+    "regional",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find SIP monthly meeting docs attached for your review.\r\n1. SIP monthly meeting pre-reads (including responses to your questions on\r\nmerging P MP + SIP standalone P&L on page 10)\r\n2. Responses to your questions on TB updates (Dec'24)\r\n3. TB updates (Dec'24) doc resent for reference\r\n\r\nThank you very much.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "SIP monthly meeting pre-reads (including responses to your questions on"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Responses to your questions on TB updates (Dec'24)"
+        },
+        {
+          "question_id": "Q3",
+          "question": "TB updates (Dec'24) doc resent for reference"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nplease find responses to SIP portion attached. we will go through the TB\r\ndoc and your quesitons in the discussion.\r\n\r\nThank you.\r\nCuiwei"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nplease find responses to SIP portion attached. we will go through the TB\r\ndoc and your quesitons in the discussion.\r\n\r\nThank you.\r\nCuiwei"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nplease find responses to SIP portion attached. we will go through the TB\r\ndoc and your quesitons in the discussion.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nThanks for the discussion yesterday. Please find the next-steps summarized\r\nbelow.\r\n\r\n[image: image.png]\r\n\r\nThank you very much.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n   - P-market selling price reduction\r\n      - MY: kicked-off, to complete pitching of top 300 sellers (~25% ado\r\n      coverage) by end Jan\r\n      - ID/VN: to kick-off by early Feb\r\n   - P-market BPSF price reduction\r\n      - MY/ID/VN: kicked-off discussion, target to implement revised rate\r\n      card for top 5 lanes by end Jan\r\n      - Other P-markets: target to complete by end Mar\r\n\r\nPls see detailed project plans for both attached.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    }
+  ]
+}

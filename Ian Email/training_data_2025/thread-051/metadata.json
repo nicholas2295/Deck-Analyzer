@@ -1,0 +1,81 @@
+{
+  "id": "thread-051",
+  "subject": "Materials for Reg CB Tech BI Discussion - 15 May 2025",
+  "date": "2025-05-14",
+  "deck_filename": "Reg CB Tech BI Discussion - 15 May 2025.pdf",
+  "deck_topic_tags": [
+    "tech",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Emily Lin"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Emily Lin",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find attached deck for Reg CB Tech BI Discussion tomorrow:\r\n\r\n*Meeting Agenda *\r\n\r\n   - Tech BI - Team Structure Planning\r\n   - Tech BI - Current Challenges and Proposed Options\r\n   - Reg CB - SG future hiring alignment\r\n\r\nlet me know if you have any queries, thank you.\r\n\r\n*Emily Lin, 林佑容*\r\nShopee | People Team"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - So the entire Reg CB BI team is ~26 people?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Which business teams do\r\n   they really support right now?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Do they support Keljin side as well?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- We need tech BI to support BPM and Tech Solution?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "What does that mean?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- So 7 pax supports Cuiwei?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "And 4 pax supports Faye?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Others\r\n\r\n   - How is the Commercial BI being set up right now?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Who does it sit under?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- How is the work being split between Tech BI and Commercial BI right\r\n   now?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Why are there so many more Tech BI?"
+        }
+      ]
+    }
+  ]
+}

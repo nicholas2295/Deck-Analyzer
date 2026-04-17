@@ -1,0 +1,184 @@
+{
+  "id": "thread-064",
+  "subject": "SIP Weekly Update - Week ending 20 Jun",
+  "date": "2025-06-24",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 20 Jun.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "seller-acquisition",
+    "finance",
+    "team-performance",
+    "marketing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 18 Jun)\r\n\r\nA/ Topline/P&L\r\n\r\n* Taobao program target ongoing adjustments\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Jun proj ADO 228k, 109% RR, %CB +0.3pp MoM; ADG $2.6M, 113%RR,\r\n   %CB +0.9pp MoM\r\n   1.\r\n\r\n      Local SIP ADO 104% RR, %CB +0.2pp MoM; increase in %CB driven by 1)\r\n      higher ads coverage with BPSF budget and ID fraud clawback amount, 2)\r\n      upsized rebates for trendy assortment push\r\n      2.\r\n\r\n      CNSIP ADO 103% RR, %CB stable MoM; RR on target driven by ongoing\r\n      optimization initiatives (e.g., ads markup removal for\r\nnon-performing SKUs)\r\n      2.\r\n\r\n   [P&L] Jun proj combined PC2 $3.55M, $0.16M over-performance\r\n   1.\r\n\r\n      Local SIP 0.35M out-performance, mainly due to higher ads take-rate\r\n      earned by MP as SIP increases ads spending with BPSF budget\r\n      2.\r\n\r\n      CN SIP 0.2M under-performance, mainly due to reinvesting 5% GMV to\r\n      counter revenue loss from mgt fee removal, to protect topline; will\r\n      maintain reinvestment in Jun-Aug\r\n\r\n\r\nB/ CNSIP revamp progress update\r\n\r\n   1.\r\n\r\n   New seller pitching/rejected seller repitching post management fee\r\n   removal\r\n   1.\r\n\r\n      May pitching on 28 May: 45M SKUs pitched together with seller center\r\n      announcement on management fee removal, 6M SKUs accepted (35%\r\nsuccess rate,\r\n      lower than 60% target); to repitch rejected sellers 2 more times\r\n(Jun, Jul)\r\n      2.\r\n\r\n      Jun pitching on 19 Jun\r\n      1.\r\n\r\n         Pitching content, SEH article, seller comms revamped\r\n         2.\r\n\r\n         Multiple pitching channels used: Shopee微信公众号, CNSC banner, 企业微信,\r\n         卖家社群,etc\r\n         3.\r\n\r\n         35M SKUs from 18k GPs pitched; pitching result to be ready on 26\r\n         Jun\r\n         2.\r\n\r\n   SKU migration efficiency improvement: WIP deep-dive SKU migration gap\r\n   reason codes and improvement levers ETA 26 Jun\r\n\r\n\r\nC/ BWT\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   MYSG, MYPH +0.2-0.4 days MoM due to FM delay from MY SPX sinc"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Jun proj ADO 228k, 109% RR, %CB +0.3pp MoM; ADG $2.6M,"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP ADO 104% RR, %CB +0.2pp MoM;* increase in %CB driven by 1)"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP ADO 103% RR, %CB stable MoM;* RR on target driven by ongoing"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L] Jun proj combined PC2 $3.55M, $0.16M over-performance*"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Local SIP 0.35M out-performance*, mainly due to higher ads take-rate"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*CN SIP 0.2M under-performance*, mainly due to reinvesting 5% GMV to"
+        },
+        {
+          "question_id": "Q7",
+          "question": "New seller pitching/rejected seller repitching post management fee"
+        },
+        {
+          "question_id": "Q8",
+          "question": "May pitching on 28 May: 45M SKUs pitched together with seller center"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Jun pitching on 19 Jun"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Pitching content, SEH article, seller comms revamped"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Multiple pitching channels used: Shopee微信公众号, CNSC banner, 企业微信, 卖家社群"
+        },
+        {
+          "question_id": "Q12",
+          "question": "35M SKUs from 18k GPs pitched; pitching result to be ready on 26 Jun"
+        },
+        {
+          "question_id": "Q13",
+          "question": "SKU migration efficiency improvement: WIP deep-dive SKU migration gap"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*MYSG, MYPH +0.2-0.4 days MoM* due to FM delay from MY SPX since the"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*IDPH: 98% RR, +0.5 days MoM*, mainly driven by serious LH offload by"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*VNMY: 100% RR, +0.3 days MoM*, mainly driven by route change after"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*VNPH 94% RR, +0.1 days MoM*, mainly driven by re-construction of PH"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*VNTH 104% RR, +0.5 days MoM*, mainly driven by FM LT increase for"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*Agent CSAT: *Overall MTD 106% RR. SG missed target due to manpower"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*Agent Abandonment rate: *Overall MTD 112% RR. ID missed target due"
+        },
+        {
+          "question_id": "Q21",
+          "question": "*Agent Avg response time:* Overall MTD 57% RR. ID and PH experienced"
+        },
+        {
+          "question_id": "Q22",
+          "question": "*Avg waiting time in Queue: *Overall MTD 19% RR. SG missed target due"
+        },
+        {
+          "question_id": "Q23",
+          "question": "*Agent working hours arrangement improvement: *"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Campaign*:* Allocate additional coverage and align agent working"
+        },
+        {
+          "question_id": "Q25",
+          "question": "BAU: To standardize the agent working hours across markets. ETA Jul"
+        },
+        {
+          "question_id": "Q26",
+          "question": "*ID CS reporting line change: *SIP aligned the headcount transferred"
+        },
+        {
+          "question_id": "Q27",
+          "question": "*SIP CS relocation to PH:* SIP plans to conduct pilot testing for"
+        },
+        {
+          "question_id": "Q28",
+          "question": "#4 Local FBS x SIP enhancement UAT supply chain to be signed off ETA"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#7 Tentative Live ETA is 19th Aug"
+        },
+        {
+          "question_id": "Q30",
+          "question": "#10 POP ticket submitted. Pending RSX review"
+        },
+        {
+          "question_id": "Q31",
+          "question": "#15 Phase 1 of system improvement ETA 19/Jun"
+        },
+        {
+          "question_id": "Q32",
+          "question": "#17 Updated UAT timeline 25/Jun-30/Jun, Live testing 4/Jul-11/Jul"
+        },
+        {
+          "question_id": "Q33",
+          "question": "#21 UAT sign-off on 12/Jun, Live testing timeline 17/Jun-20/Jun, Live"
+        },
+        {
+          "question_id": "Q34",
+          "question": "#22 RBX approved as P1, to set-up FRF review with PM by ETA 20/Jun"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Direct overall topline on track: MTD ADO 7.6k, 107% RR, +4% MoM; SKU"
+        },
+        {
+          "question_id": "Q36",
+          "question": "# sellers behind target mainly due to slow onboarding process of"
+        }
+      ]
+    }
+  ]
+}

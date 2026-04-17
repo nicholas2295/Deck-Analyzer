@@ -1,0 +1,323 @@
+{
+  "id": "thread-058",
+  "subject": "SIP Weekly Update - Week ending 30 May",
+  "date": "2025-06-02",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 30 May.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "growth",
+    "user-growth",
+    "pricing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Peiya Xia"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 28 May)\r\n\r\nA/ Topline/P&L\r\n\r\n* Local SIP May MTD seller PC2 unavailable due to BI data logic update; May\r\nproj is best effort basis while ongoing validation of P&L data after BPSF\r\nraw data update\r\n\r\n** Combined PC2 excludes SLS P&L\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] May proj ADO 214k, 127% RR, %CB +0.9pp MoM; ADG $2.4M, 121%RR,\r\n   %CB +1.0pp MoM\r\n   1.\r\n\r\n      Local SIP ADO 131% RR, %CB +0.7pp MoM; high RR driven by 1) new SKU\r\n      ads incubation utilising BPSF budget 2) upsized item rebates\r\ncontributed to\r\n      both traffic and CR improvement\r\n      2.\r\n\r\n      CNSIP ADO 97% RR, %CB maintained MoM; underperformance due to SKUs\r\n      frozen by CB ops on 5/11 due to payment binding issue; next step to deep\r\n      dive binding failure reasons and improve overall binding rate\r\n      2.\r\n\r\n   [P&L] May proj combined PC2 $3.4M, $1.7M over-performance\r\n   1.\r\n\r\n      Local SIP 1.8M out-performance, mainly driven by 1)\r\n      faster-than-expected local SIP seller fraud case resolution 2) topline\r\n      out-performance leading to budget surplus 3) BPSF budget uplift\r\n      2.\r\n\r\n      CN SIP hitting target; MoM decline expected driven by 1) SIP ads\r\n      investment -2.8pp MoM with SIP reducing CNSIP mark-up 2) import market\r\n      platform PRM +1.2 p.p MoM\r\n\r\n\r\n B/ SIP fraud management update\r\n\r\n   1.\r\n\r\n   Fraud detection: 1 new fraud seller confirmed this week on IDSIP; across\r\n   all lanes MTD total 331 fraud sellers, 83.1k fraud orders, $2.2M total\r\n   loss, 28% recovered from clawback\r\n   2.\r\n\r\n   IDSIP COD re-opening: 95% COD ADO coverage reopened; BAU weekly process\r\n   to identify new batch of “safe” sellers to reopen\r\n   3.\r\n\r\n   COD rate and cod fail rate are analyzed in separate email: IDSIP fraud\r\n   update - 27 May\r\n   4.\r\n\r\n   Long-term product solution to a) settle sellers when destination order\r\n   arrive at end status (complete, cancel, rts etc) b) fraud checker for ops\r\n   daily handling: go-live ETA 10 "
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] May proj ADO 214k, 127% RR, %CB +0.9pp MoM; ADG $2.4M,"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP ADO 131% RR, %CB +0.7pp MoM;* high RR driven by 1) new SKU"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP ADO 97% RR, %CB maintained MoM;* underperformance due to SKUs"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L] May proj combined PC2 $3.4M, $1.7M over-performance*"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Local SIP 1.8M out-performance*, mainly driven by 1)"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*CN SIP hitting target; *MoM decline expected driven by 1) SIP ads"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Fraud detection: 1 new fraud seller confirmed this week on IDSIP;"
+        },
+        {
+          "question_id": "Q8",
+          "question": "IDSIP COD re-opening: 95% COD ADO coverage reopened; BAU weekly"
+        },
+        {
+          "question_id": "Q9",
+          "question": "COD rate and cod fail rate are analyzed in separate email: IDSIP"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Long-term product solution to a) settle sellers when destination"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*Abandonment rate: *Overall 115% RR; ID 80% RR due to high chats"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*Avg Response time: *Overall 103% RR; ID 94% RR due to a high volume"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*Avg Waiting time: *Overall missing target with 23% RR"
+        },
+        {
+          "question_id": "Q14",
+          "question": "ID 13% RR, due to a large volume of incoming chats diverted from"
+        },
+        {
+          "question_id": "Q15",
+          "question": "SG 58% RR; avg waiting time increased WoW mainly due to the"
+        },
+        {
+          "question_id": "Q16",
+          "question": "MY 45% RR; due to spike in chats diverted from chatbot A/B testing"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*SIP CS relocation to PH: *pending CB SCS pilot results (PH and BR"
+        },
+        {
+          "question_id": "Q18",
+          "question": "#2 Added to RBX P0 feature list. Pending Price PM availability to"
+        },
+        {
+          "question_id": "Q19",
+          "question": "#3 Live test sign-off by 30/May"
+        },
+        {
+          "question_id": "Q20",
+          "question": "#4 Local FBS x SIP enhancement UAT (Order) ongoing, UAT (supply"
+        },
+        {
+          "question_id": "Q21",
+          "question": "#16 RBX approved, to involve RSX evaluation due to effort estimation"
+        },
+        {
+          "question_id": "Q22",
+          "question": "#17 UAT timeline 2/Jun-4/Jun, Live testing timeline 10/Jun-12/Jun,"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#18 HOD approval for P1 received. Raised to May roadmap for RBX"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Direct Performance: MTD ADO 7.4k (107% RR); SKU count 104% RR; SKU"
+        },
+        {
+          "question_id": "Q25",
+          "question": "# sellers behind target mainly due to slow seller action after"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Short-term: policy tightening + RM/SCA reminder + Biz ops to offer"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Long-term: product solution to bypass seller steps in onboarding;"
+        },
+        {
+          "question_id": "Q28",
+          "question": "weekly acquisition tracking 3) internal system/process training to RM"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Peiya Xia",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they rejecting? I thought they agreed to onboard to begin with?\r\n\r\nFor acquired sellers that accept to join Shopee, we will not reject onboard\r\nthese sellers. Sellers can open their shops without incentives. However,\r\nsince resources are offered to the sellers, market prefer to focus\r\nresources on sellers that matches market demand, hence we allow for market\r\nlevel selection to join program\r\n\r\nMain rejection reasons are (1) sellers not having sufficient manpower (2)\r\ntheir focus is in selective/other markets. We will re-pitch these sellers\r\nusing ERP solution again\r\n\r\n*Slide 14*\r\n\r\n   -\r\n\r\n   So bad for SG/MY? We should not be too affected by actions of 3PF if the\r\n   growth lever should be via sellers on SLS? Feels very odd that both markets\r\n   are just not growing at all\r\n\r\nTo clarify on how 3PF fee impacts SLS sellers\r\n\r\n   -\r\n\r\n   Current MY ADO contribution: 57% from 3PF, 38% from CNLS, 4% from SLS\r\n   -\r\n\r\n   Most 3PF sellers use SLS channel, either as backup fulfillment or they\r\n   are “fake 3PF” - this group is impacted by 3PF fee increase despite\r\n   fulfilling via SLS\r\n\r\nWe deep-dived to SG/MY ADO drop\r\n\r\n   -\r\n\r\n   [-77 ADO] 3PF fee increase leading to seller lower ads / higher pricing;\r\n   Jun focus on pushing seller to recover investment, and work with SG/MY to\r\n   reinvest PC2; ETA 13 Jun\r\n   -\r\n\r\n   [-60 ADO] Top sellers incur penalty points blocking them from campaign\r\n   participation; in progress of identifying reasons for penalty\r\n   (system/program/seller issu"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\n\r\n*Slide 3*\r\n\r\n   -\r\n\r\n   Do we have a week by week target at least for the next couple of months\r\n   for both ERPs? # of sellers, SKUs, ADO etc?\r\n\r\nWe’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n   -\r\n\r\n   Are we at a stage right now that we should be rejecting sellers? We\r\n   should just take all sellers?\r\n   -\r\n\r\n   What is the reason that sellers will reject us right now? And what\r\n   exactly are they "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q29",
+          "question": "We probably need to start seeing some ADO impact from these initiatives..\r\n\r\n\r\n\r\n*From:* Peiya Xia <peiya.xia@shopee.com>\r\n*Sent:* Saturday, 7 June 2025 11:47 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Cuiwei Sun <cuiwei.sun@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Yu Zhang <\r\nyu.zhang@shopee.com>; Ailin Xie <ailin.xie@shopee.com>; Wei Qiang <\r\nwei.qiang@shopee.com>; Momo Chen <momo.chen@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>;\r\nSteven Liu <steven.liusk@shopee.com>; Wei Loong Yong <\r\nweiloong.yong@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>; Keith\r\nHuang <keith.huang@shopee.com>; Joe Li <joe.liyc@shopee.com>; Ren Jiahui <\r\njiahui.ren@shopee.com>; Lee Jia Yi <jiayi.jylee@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 30 May\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\n*Slide 3*\r\n\r\n· Do we have a week by week target at least for the next couple of months\r\nfor both ERPs?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "# of sellers, SKUs, ADO etc?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "We’re aligning ERP target with Jason team and CN team,  target to share\r\nmonthly target in next monthly slide\r\n\r\n*Slide 10*\r\n\r\n· Are we at a stage right now that we should be rejecting sellers?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "We\r\nshould just take all sellers?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "· What is the reason that sellers will reject us right now?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "And what\r\nexactly are they rejecting?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "I thought they agreed to onboard to begin with?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "For acquired sellers that accept to join Shopee, we will not reject onboard\r\nthese sellers. Sellers can open their shops without incentives. However,\r\nsince resources are offered to the sellers, market prefer to focus\r\nresources on sellers that matches market demand, hence we allow for market\r\nlevel selection to join program\r\n\r\nMain rejection reasons are (1) sellers not having sufficient manpower (2)\r\ntheir focus is in selective/other markets. We will re-pitch these sellers\r\nusing ERP solution again\r\n\r\n*Slide 14*\r\n\r\n· So bad for SG/MY?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "We should not be too affected by actions of 3PF if the\r\ngrowth lever should be via sellers on SLS?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Feels very odd that both markets\r\nare just not growing at all\r\n\r\nTo clarify on how 3PF fee impacts SLS sellers\r\n\r\n· Current MY ADO contribution: 57% from 3PF, 38% from CNLS, 4% from SLS\r\n\r\n· Most 3PF sellers use SLS channel, either as backup fulfillment or they\r\nare “fake 3PF” - this group is impacted by 3PF fee increase despite\r\nfulfilling via SLS\r\n\r\nWe deep-dived to SG/MY ADO drop\r\n\r\n· [-77 ADO] 3PF fee increase leading to seller lower ads / higher pricing;\r\nJun focus on pushing seller to recover investment, and work with SG/MY to\r\nreinvest PC2; ETA 13 Jun\r\n\r\n· [-60 ADO] Top sellers incur penalty points blocking them from campaign\r\nparticipation; in progress of identifying reasons for penalty\r\n(system/program/seller issue); then act accordingly\r\n\r\n· [-57 ADO] Top sellers moving to CNLS; next step to include CNLS ADO into\r\ntracking; ETA 13 Jun\r\n\r\n\r\n\r\n*Slide 15*\r\n\r\n· For #2, have they started selling in markets?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "· For #4, is this sourcing translating to orders?"
+        }
+      ]
+    }
+  ]
+}

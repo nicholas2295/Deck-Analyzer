@@ -1,0 +1,309 @@
+{
+  "id": "thread-030",
+  "subject": "SIP weekly update - week ending 3 Apr",
+  "date": "2026-04-05",
+  "deck_filename": "SIP weekly update - week ending 3 Apr.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "ops-review",
+    "marketing",
+    "user-growth",
+    "pricing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPls find attached: 1) SIP weekly update; 2) Swarm weekly update.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "thanks\r\n\r\nSIP\r\n\r\nSlide 3\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- on ADO front, should we be overchieving if PH is spending more?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "slide 9\r\n- not much movement for #2 and #3?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "slide 11\r\n- for the lanes that have gone live, what is the ADO % of SKUs that have\r\ngone live?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Are we leaving anything on the table?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "slide 13\r\n- has this been resolved?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "slide 14\r\n- success rate seems low?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "slide 19\r\n- for each market, what is direct % of total export ADO?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\nothers\r\n- for overall SIP, how can we structurally go to sellers to get them to\r\nreduce price or give us more revenue so we can reduce price for them?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "i am\r\nnot sure we are going about this enough to make our overall skus the most\r\ncompetitive, especially if we are doing the heavy lifting on behalf on the\r\nsellers\r\n\r\nswarm\r\n\r\nslide 2 -3\r\n- do we have apr targets?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "slide 4\r\n- what does leads mean?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "it is more important to understand how many sellers\r\nwe are onboarding?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "And how it compares vs March?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "others\r\n- i remember we were going to optimize our spend on unique assortment vs\r\nassortment in general. How is that coming along?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- for overall CN SIP in general, how is our ability to negotiate with\r\nsellers and reduce selling cost overall?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest budget submission.\r\n\r\n\r\nTable 1: SIP standalone P&L - PH import view (lower in Mar-Jun trial period)\r\n\r\n[image: image.png]\r\n\r\n\r\n- on ADO front, should we be overchieving if PH is spending more? Ailin Xie\r\n<ailin.xie@shopee.com>\r\n\r\n\r\nPH topline hit 100% RR in Mar, despite ~$70k additional spend.\r\n\r\n\r\nThe expected ADO uplift from this spend has not materialized yet, for 2\r\nreasons:"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Spend only started in the 2nd half of Mar to incubate new SKUs; new SKUs\r\n   typically take 1-2 months to ramp up."
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Ads CPO higher than BAU months as more spending shifted to non-ID lanes\r\n   during Raya holiday, which have higher ads CPO vs ID lanes.\r\n\r\n\r\nIn Apr, as seasonal effects normalize and new SKUs mature, we expect +1.3k\r\nADO from $120k incremental spend (incremental CPO = $3). Overall topline\r\nCB% +0.3pp vs Jan.\r\n\r\n\r\nslide 9\r\n\r\n- not much movement for #2 and #3? Ren Jiahui <jiahui.ren@shopee.com>\r\n\r\n\r\nBoth were slow moving due to Voucher PM team was focusing on higher impact\r\nP0 Key Projects till end April while both of our requests are P1 Key\r\nProjects based on RX team assessment.\r\n\r\n\r\nOn #2 Direct seller voucher sync, PM team has not enough resources to\r\nreview BRD, delayed to mid April, we are pushing PM to start PRD right\r\nafter BRD confirmation. On #3 Local SIP seller voucher sync, we are asking\r\nif PM can start PRD in early May after #2 PRD is done. Will follow up with\r\nPM again by early next week.\r\n\r\n\r\nslide 11\r\n\r\n- for the lanes that have gone live, what is the ADO % of SKUs that have\r\ngone live? Are we leaving anything on the table? Wei Qiang\r\n<wei.qiang@shopee.com>\r\n\r\n\r\nFor BN lanes: 100% of SIP-MY SKU and ADO covered - All SIP-MY shops and\r\nSKUs have been whitelisted to be available to BN buyers.\r\n\r\n\r\nFor VNKH/THLA lanes: ADO% of live SKUs is 67% for VNKH and 52% for THLA.\r\nThis is driven by 1) an “express opt-in” approach similar to MYBN, and 2)\r\nfewer prohibited categories set by local PMO. Remaining gaps in VNKH/THLA\r\nare largely structural (e.g., category limits, sellers submitted opt-out\r\nform), with limited incremental onboarding upside.\r\n\r\n\r\nslide 13\r\n\r\n- has this been resolved? Linda Sun <linda.sun@shopee.com>\r\n\r\n\r\nIn progress. Legal is drafting updated TOS to obtain seller consent for\r\ndata transfer, ETA 9 Apr. Launch (start selling) on 22 Apr remains on track.\r\n\r\n\r\nslide 14\r\n\r\n- success rate seems low? Wei Qiang <wei.qiang@shopee.com>\r\n\r\n\r\nTHVN’s acceptance rate of 38% is above expectation. Local SIP typically\r\nsees only 20-30% acceptance, due to it"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSIP\r\n\r\n\r\nSlide 3\r\n\r\n- for standalone p&l, we would need to adjust if it is indeed to PH\r\nspending more? Wei Loong Yong <weiloong.yong@shopee.com>\r\n\r\n\r\nPer management guidance, SIP will spend more in PH for Mar-Jun as a\r\nco-investment trial.\r\n\r\n   -\r\n\r\n   Mar target was set before the decision was finalized, resulting in a one-off\r\n   mismatch and higher-than-expected Mar’26 target.\r\n   -\r\n\r\n   Apr-Jun targets have been updated to reflect the increased PH investment\r\n   in the latest b"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q16",
+          "question": "slide 19\r\n\r\n- for each market, what is direct % of total export ADO?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "In general, our\r\ndirect does not feel like it is growing much right now Joanne Lim Xinyi\r\n<joanne.limxy@shopee.com> How Sai Kit <saikit.how@shopee.com>\r\n\r\n\r\n\r\nMTD regionally Direct is* 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%)*, and *28% total export ADG (vs Jan export%\r\n+10pp, CB penetration +1.5pp to 2.8%)*. Growth in ADO share in all export\r\nmarkets vs Jan; led by MY, ID, and TH.\r\n\r\n   - MY Direct: 44% (+12pp vs Jan, +6.6k ADO)\r\n   - ID Direct: 13% (+5pp, +3.7k)\r\n   - TH Direct: 11% (+8pp, +1.3k)\r\n   - VN Direct: 16% (+2pp, +0.4k)\r\n   - PH Direct: 2% (+2pp, +80)\r\n   - SG Direct: 46% (+19pp, +60)\r\n\r\n\r\n\r\nI think we can do better for ID?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Probably need to be at VN scale?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Overall on track against the *Dec’26 targets of 23% export ADO and 33%\r\nexport ADG (65k ADO and $1M ADG)*.\r\n\r\n\r\n\r\nTable 2: Direct selling share of export ADO/ADG by export market\r\n\r\n\r\n\r\n\r\n\r\nothers\r\n\r\n- for overall SIP, how can we structurally go to sellers to get them to\r\nreduce price or give us more revenue so we can reduce price for them?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "i am\r\nnot sure we are going about this enough to make our overall skus the most\r\ncompetitive, especially if we are doing the heavy lifting on behalf on the\r\nsellers Ailin Xie <ailin.xie@shopee.com>\r\n\r\n\r\n\r\nStructurally there are 3 levers to obtain seller investment\r\n\r\n   - *Lever 1 - system features to replicate local shop investment (impact\r\n   potential high, scalability high);* including,\r\n\r\n\r\n   - *Seller discounted price*: 1) BAU discount - already live; 2) spike\r\n      day discount (ETA Q3)\r\n      - *Seller voucher*: highlighted above (ETA end Jun)\r\n      - *Seller paid ads*: for sellers enrolled in local mandatory ads\r\n      program, charge the same % escrow for their SIP orders (ETA end Jun)\r\n\r\n\r\n   - *Lever 2 -  system features to co-share SIP operational cost with\r\n   seller (impact potential high, scalability to be assessed)*\r\n\r\n\r\n   - Return chats to seller (ETA Q3), planned pilot in AME lanes\r\n      - Return RR cost to seller (ETA Q3), planned pilot in AME lanes\r\n\r\n\r\n   - *Lever 3 - manual seller negotiation (impact potential low,\r\n   scalability low)*\r\n\r\n\r\n   - Trialled with ~5.7k top export sellers (50% of SIP ADO) - only 6%\r\n      agreed to a 5–20% price reduction, yielding +826 normalised ADO.\r\n      - Impact was limited by export team capacity constraints and low\r\n      seller ownership of overseas growth.\r\n\r\n\r\n\r\nFor SIP sellers, what fees do they pay now?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Do they pay import or export\r\ncountry fees?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Should we charge them?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "And use it to reduce item price/vouchers etc?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Operationally they are not doing anything and still getting orders right\r\nnow.\r\n\r\n\r\n\r\nAs of now, we are *doubling down on Lever 1* for scalable impact, with\r\nplans to *monitor the Lever 2 pilot* in AME markets.\r\n\r\n\r\n\r\nSwarm\r\n\r\n\r\n\r\nslide 2 -3\r\n\r\n- do we have apr targets?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Jialin Tan <jialin.tan@shopee.com>\r\n\r\n\r\n\r\nFor Apr, we are on track to 1.8k ADO (+33% MoM), $24k ADG (+24% MoM);\r\nseller count +93% MoM, SKU count +76% MoM.\r\n\r\n\r\n\r\nUE targets -$1.03, lower than Mar as we have more new SKUs to incubate in\r\nApr.\r\n\r\n\r\n\r\n\r\n\r\nslide 4\r\n\r\n- what does leads mean?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "it is more important to understand how many sellers\r\nwe are onboarding?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "And how it compares vs March?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Jialin Tan\r\n<jialin.tan@shopee.com>\r\n\r\n\r\n\r\n*“Leads”* refers to sellers who expressed interest by submitting the Swarm\r\nOnboarding Survey. There are 3 steps in Swarm seller funnel: Leads\r\n(indicated interest) >> Onboarded sellers (opened shop) >> Active sellers\r\n(selling with active listings). We are optimizing each step to improve\r\nconversion to *active sellers*, which is the core acquisition KPI.\r\n\r\n\r\n\r\nActive sellers increased from 372 (Mar) to 462 (Apr MTD),* +90 MoM*; *on\r\ntrack to hit +265 new active sellers Apr target.* Growth is mainly driven\r\nby more ERP partners and mass pitching.\r\n\r\n\r\n\r\nTable 4: Swarm ERP seller acquisition performance Apr MTD across channels\r\n\r\n\r\n\r\n*Active seller #*\r\n\r\nMar Actual\r\n\r\nApr MTD\r\n\r\nApr Target\r\n\r\nMoM (Target)\r\n\r\nMoM (MTD)\r\n\r\nTotal\r\n\r\n372\r\n\r\n462\r\n\r\n637\r\n\r\n+265\r\n\r\n+90\r\n\r\n... ERP Extensions\r\n\r\n72\r\n\r\n115\r\n\r\n228\r\n\r\n+156\r\n\r\n+43\r\n\r\n... Mass Pitching\r\n\r\n132\r\n\r\n173\r\n\r\n238\r\n\r\n+106\r\n\r\n+41\r\n\r\n... Marketing Pitching\r\n\r\n157\r\n\r\n161\r\n\r\n157\r\n\r\n-\r\n\r\n+4\r\n\r\n... SAI Pitching\r\n\r\n11\r\n\r\n13\r\n\r\n14\r\n\r\n+3\r\n\r\n+2\r\n\r\n\r\n\r\nothers\r\n\r\n- I remember we were going to optimize our spend on unique assortment vs\r\nassortment in general. How is that coming along?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Yuanfeng Wu\r\n<yuanfeng.wu@shopee.com>\r\n\r\n\r\n\r\nYes we have *shifted marketing spend and acquisition focus *to unique and\r\nprice competitive SKUs *since mid-Mar*.\r\n\r\n\r\n\r\nActualized P&L data for orders generated from mid-Mar started to come in\r\nthis week (~3 weeks lag time). We are in progress of analyzing data, to be\r\nshared via email by EOW.\r\n\r\n\r\n\r\n- for overall CN SIP in general, how is our ability to negotiate with\r\nsellers and reduce selling cost overall?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Linda Sun <linda.sun@shopee.com>\r\n\r\n\r\n\r\nOverall, *CNSIP’s ability to negotiate and reduce selling cost is weak*,\r\nwith a low pitching success rate of ~1.3% even during campaign periods.\r\n\r\n\r\n\r\nThis is mainly driven by structural constraints:\r\n\r\n   - *Fragmented long-tail supply* - most sellers and SKUs are long-tail\r\n   with low topline, limits collective bargaining power\r\n   - *Derived settlement pricing* - settlement prices are estimated based\r\n   on sellers’ other markets and may not align with seller expectations,\r\n   creating understanding gap before negotiation can even begin\r\n   - *Limited pitching resources* - heavy reliance on mass pitching, with\r\n   minimal 1:1 engagement\r\n\r\n\r\n\r\nAs a result, *seller-level negotiation is not scalable*. Cost reduction is\r\nbetter achieved through a *program-level pricing design (e.g., admin fees*).\r\nHowever we believe the current priority is still on maximizing seller/SKU\r\nsupply, over revenue from sellers.\r\n\r\n\r\n\r\nDoes it make sense for SIP sellers who has been onboard for a while?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "I\r\nthink we should start charging for our services especially for sellers who\r\nhave used it for a while. And use it to increase conversion/earn more P&L\r\n\r\n\r\n\r\nIn contrast,* Swarm achieves higher negotiation success due to its flexible\r\npricing logic*:\r\n\r\n   - *Settlement price control *- Sellers can see and adjust settlement\r\n   prices directly, allowing for easier price concessions.\r\n\r\n\r\n\r\nHow come this cannot be done for CB non-swarm sellers?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6.6k ADO)\r\n   -\r\n\r\n   ID Direct: 13% (+5pp, +3.7k)\r\n   -\r\n\r\n   TH Direct: 11% (+8pp, +1.3k)\r\n   -\r\n\r\n   VN Direct: 16% (+2pp, +0.4k)\r\n   -\r\n\r\n   PH Direct: 2% (+2pp, +80)\r\n   -\r\n\r\n   SG Direct: 46% (+19pp, +60)\r\n\r\n\r\n\r\nI think we can do better for ID? Probably need to be at VN scale?\r\n\r\n\r\nYes, ID is under-penetrated, driven by Raya seasonality. In Feb-Mar, we\r\nintentionally slowed down seller acquisition and investment push, given\r\nseller and RM capacity constraints during the Raya period (local raya push\r\nfocus + holiday absence).\r\n\r\nFrom Apr, we are re-accelerating mass seller acquisition, RM pitching, and\r\nDirect ads growth program (5% escrow in exchange of 5% PRM). Target to\r\nbring ID direct share to ~16% by May.\r\n\r\n\r\nothers\r\n\r\n- for overall SIP, how can we structurally go to sellers to get them to\r\nreduce price or give us more revenue so we can reduce price for them? i am\r\nnot sure we are going about this enough to make our overall skus the most\r\ncompetitive, especially if we are doing the heavy lifting on behalf on the\r\nsellers\r\n\r\n\r\n\r\nStructurally there are 3 levers to obtain seller investment\r\n\r\n   -\r\n\r\n   Lever 1 - system features to replicate local shop investment (impact\r\n   potential high, scalability high); including,\r\n\r\n\r\n   -\r\n\r\n   Seller discounted price: 1) BAU discount - already live; 2) spike day\r\n   discount (ETA Q3)\r\n   -\r\n\r\n   Seller voucher: highlighted above (ETA end Jun)\r\n   -\r\n\r\n   Seller paid ads: for sellers enrolled in local mandatory ads program,\r\n  "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\nPlease find our responses in green.\r\n\r\nslide 19\r\n\r\n- for each market, what is direct % of total export ADO? In general, our\r\ndirect does not feel like it is growing much right now\r\n\r\n\r\n\r\nMTD regionally Direct is 20% of total export ADO (vs Jan export% +7pp, CB\r\npenetration +1pp to 1.7%), and 28% total export ADG (vs Jan export% +10pp,\r\nCB penetration +1.5pp to 2.8%). Growth in ADO share in all export markets\r\nvs Jan; led by MY, ID, and TH.\r\n\r\n   -\r\n\r\n   MY Direct: 44% (+12pp vs Jan, +6."
+        }
+      ]
+    }
+  ]
+}

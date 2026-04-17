@@ -1,0 +1,42 @@
+{
+  "id": "thread-032",
+  "subject": "FW: Monthly Regional Marketplace Ops - 19 Mar 2025",
+  "date": "2025-03-18",
+  "deck_filename": "20250319 Regional Marketplace Ops.pdf",
+  "deck_topic_tags": [
+    "marketplace",
+    "quarterly-review",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ian Ho",
+      "type": "initial_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Hi,\r\n\r\n\r\n\r\nSlide 50 – 71, can have a look and share if is this aligned with your\r\nbusiness requirements?"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian\r\n\r\nFor SIP:\r\n*1. page 53, *\r\nI think better push translation tool improvement. Without the tool, we need\r\nto hire EN speaking agents which is expensive and slow (Q4/next Q1, which\r\ndon't want to wait so long.)\r\n\r\n   - We should have most translation models on hand, SCS is using it,\r\n   quality is 'ok' , can further push to improve the quality.\r\n   - Even worthy to explore the cost of integrating with google translation\r\n   vs hiring EN speaking agent before models are fully ready.\r\n\r\n*2. Page 56*\r\nFor lat cs agent management, we should also put in single location, we can\r\ndo some study of ID vs BR (cost vs buyer experience),\r\n\r\n*3. Page 73*\r\nFor biz, propose to track cost per session or cost per ado as key okr, then\r\nI can tell if the agent cost ok for our biz.\r\n\r\nShuning"
+        }
+      ]
+    }
+  ]
+}

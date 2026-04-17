@@ -1,0 +1,53 @@
+{
+  "id": "thread-090",
+  "subject": "",
+  "date": "2025-08-25",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 22 Aug.pdf",
+  "deck_topic_tags": [
+    "pricing",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong,\r\n\r\nPlease find the weekly Counter Taobao project update as of 22 August below.\r\n\r\nKey Highlights\r\n\r\n\r\n   -\r\n\r\n   Overall:\r\n   -\r\n\r\n      Topline: ADO 87.6K (92% RR), MoM +32%, ADG $943K (93% RR), MoM +17%,\r\n      behind target due to Lever 3 pause in mass pitching to onboard\r\nsellers via\r\n      ERP system.\r\n      -\r\n\r\n      SKU#: SKU# at 1.2M (19% RR) due to Lever 3.\r\n\r\n\r\n   -\r\n\r\n   Fashion:\r\n   -\r\n\r\n      Topline: ADO 47K (87% RR), ADG $461K (83% RR), ADO% to CB (excl CNLS)\r\n      5.7% (MoM +0.6pp) mainly due to Lever 3 underperformance (RR 28%), we aim\r\n      to catch up via 1-1 seller pitching, remaining levers are on track driven\r\n      by MY/TH overperformance.\r\n      -\r\n\r\n      SKU#: SKU# at 858k (28% RR) due to Lever 3 challenges similar to\r\n      topline underperformance.\r\n      -\r\n\r\n      Program PC2: 0.1%\r\n\r\n\r\n   -\r\n\r\n   Furniture:\r\n   -\r\n\r\n      Topline: ADO 7.5K (106% RR), ADG $273K (122% RR), ADO% (excl CNLS) to\r\n      CB 1.3% (MoM +0.0pp) driven by program extension to CNLS particularly for\r\n      MY given seller’s shift in focus from CB to CNLS following 3PF comms fee\r\n      hike. MY top CNLS seller 中南 contribute 4.6K ADO (88% of CNLS Furniture\r\n      Program sellers).\r\n      -\r\n\r\n      SKU#: SKU# at 279k (RR at 86%) due to Lever 3 underperformance,\r\n      expected to catch up via 1-1 seller pitching.\r\n      -\r\n\r\n      Program PC2: 8.1%\r\n\r\n\r\n   -\r\n\r\n   F&B\r\n   -\r\n\r\n      Topline: ADO 1.7K (57% RR), ADG $12K (44% RR), ADO% to CB 2.5% (MoM\r\n      +1pp). Low RR due to Lever 3 underperformance (RR at 4%) due to\r\nslower than\r\n      expected onboarding where only 3 of 14 onboarded sellers have completed\r\n      listings, of which publish rate was at 36%. We have started a\r\ntrial test to\r\n      unblock 3 subcategories in SG, successfully listing 6 SKUs on 15 Aug.\r\n      -\r\n\r\n         Next Step:To continue to monitor post-launch compliance risk\r\n         before expanding to more SKUs.\r\n         -\r\n\r\n      SKU#: SKU#at 49K (2% RR), mainly due"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*Lever Performance Update: *"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Taobao Assortment Matching Progress: *"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*Counter TB Incentive Program Update: *"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*Counter TB Price Comp Update: *"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "thread-027",
+  "subject": "[Pre-read] MY & SG CB Monthly Update - Mar 2026",
+  "date": "2026-03-29",
+  "deck_filename": "[For Update] MYSG CB Monthly Meeting_Mar 26_vf.pdf",
+  "deck_topic_tags": [
+    "growth",
+    "data-analysis",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu",
+      "Kaiwen Zhang",
+      "Keljin Chua"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong, all,\r\n\r\nPlease find attached MY & SG CB monthly slides for our discussion tomorrow.\r\n\r\nLet me know for any questions.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Keljin Chua",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "thanks\r\n\r\nin general we need to track cb+cnls tts sob mom evolution, yoy growth\r\ntightly\r\n\r\nslide 10 - cb adg% negative mom despite cny in feb ? and yet rr 101%? and\r\nls adg negative mom and rr 111%? target setting is weird..\r\nslide 11 - what happened to ams sku ado coverage? mom -9.4%? even when feb\r\nis cny month?\r\nslide 16 - this is quite clear- seller ads coverage/overall ads\r\ninvestment/take rate increased, but do we have a sense of why % of skus on\r\nads remain low post cny\r\nslide 25 - for sg theres 106 sellers that we need against tts and only 2\r\nacquired so far? by when do we plan to close this gap? does the cn side\r\nhave the local aggressive package that we offer to local to close these\r\ngaps? what is the sob of the 2 so far? once we have these sellers we should\r\nalso track and grow the sob, instead of stopping at the acquisition?\r\nhow does the 281 here tally with the 38 in slide 65 and the 48 in slide 66?\r\nslide 27 - what happened to mar sku count mom? especially those from MY WH?\r\nare the numbers correct?\r\nslide 34 - how can the ado difference be 160x? (247k vs 1.5k)\r\nslide 38-45 - what buyer promise do we show buyer? are we moving away from\r\n5dd to dynamic edt? whats the before/after ux that we are proposing here?\r\nslide 48 - sg mtd acquired 8 and projected 16 sellers acquired with so few\r\ndays left? sg blckstock whats the target and timeline to get to 20%? is it\r\nstill selling but just overinbounded and just need time or is it not moving\r\nand requries drastic actions to intervene before it becomes worse?\r\nslide 63 - what are the reasons seller reject\r\n\r\n\r\n--\r\n\r\n*Chua Kel Jin*\r\n\r\nMobile: +65 8511 5071\r\n\r\nAddress: 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Keljin Chua",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "overall still quite cluttered, on top of improving fundamentals, lets make\r\nsure we are focused on the key priorities which are\r\n- cb+cnls take rate increase with manageable impact on YoY topline growth\r\n- cb+cnls sob against tts and counter tts on the supply side (missing\r\nsellers and ls supply and 3pf sellers)\r\n- cb+cnls fbs%/lff% growth by seller education about fbs uplift coupled\r\nwith acquisition incentives and efforts to improve seller experience\r\n- mysg sku and sku efficiency growth (direct, bwt, ux) and infrastructure\r\nbuild (jh wh)\r\n\r\n\r\n--\r\n\r\n*Chua Kel Jin*\r\n\r\nMobile: +65 8511 5071\r\n\r\nAddress: 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 13 -16\r\n\r\n   - What was the expected TR for SG and MY for compulsory ads program\r\n   - What is the TR that we are seeing?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- How does the utilization rate look like right now?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Do we break down vs\r\n   different type of sellers to better understand who is spending/not spending?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- For those who are not spending, what are our plans to get them\r\n   spending?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 25\r\n\r\n   - For #1 and #2, do we have monthly targets?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Who will own these 2?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- For MY, LFF penetration is now below TT, do we know why?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 27\r\n\r\n   - Contribution here has been quite stagnant for awhile?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 47\r\n\r\n   - Do these targets make sense if we are behind TT in terms of LFF\r\n   penetration?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 65\r\n\r\n   - Still not started yet?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Slide 13 and 15: Data seems quite off. Please verify with @May Cai\r\n<may.cai@shopee.com> and @Leo Chen <leo.chenyh@shopee.com>"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong, Keljin,\r\n\r\nPlease find attached reply doc for our catchup later.\r\n\r\nOn Mon, Mar 30, 2026 at 1:59 PM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Kaiwen Zhang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nPlease find follow up actions from our discussion yesterday, let me know if\r\nany questions.\r\n\r\n# Topic Action Items PIC ETA\r\n1 CN ads take rate drop Deep dive root cause on ads take rate drop MoM for\r\nSGCB, include CN ads team in analysis and discussion. Junnie 7 Apr\r\n2 Ads increase potential segments Sync with CN Ads team on segment to focus\r\nfor ads take rate improvement and actions to take. Include KR view and sync\r\nwith KR Ads team on actions needed. Junnie 7 Apr\r\n3 Ads SKU% dive Get back on root causes for SKU ads coverage% falling MoM\r\nJunnie 8 Apr\r\n4 MYSG delivery milestones Work with SG Product to get wireframe of the\r\nbefore and after of UX buyer views of MYSG delivery milestone updates Yiji 10\r\nApr\r\n5 TTS seller info Run test buy in parallel to help CN identify seller\r\ncontacts of our key TTS hitlist Junnie 17 Apr\r\n6 Fengshui seller fan base Test mechanics to capture fan base of fengshui\r\nseller from TTS to SHP, discuss with CN on potential channels to outreach\r\nseller fanbase via fan communities Chloe 10 Apr\r\n7 Dynamic EDT rollout Sycn with CN SLS on timeline and actions needed for\r\nmoving to dynamic EDT Sian Ting 3 Apr\r\n\r\nBest regards,\r\n*Kaiwen Zhang*\r\nCross Border | Singapore, Malaysia\r\n*Mobile* +65 9118 3449"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "thread-024",
+  "subject": "KR/JP Bi-weekly Update_260320",
+  "date": "2026-03-21",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20260320_vSend.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "strategy",
+    "user-growth",
+    "supply-chain"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Ray Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ray Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\n\r\n\r\nPlease find the attachment for Mar 20th KR/JP bi-weekly update vie email,\r\nwith agenda below for your reference. Feel free to let me know if you have\r\nany questions, thank you.\r\n\r\n\r\n\r\n   1.\r\n\r\n   Overall Performance\r\n\r\n\r\n   -\r\n\r\n   P&L performance\r\n   -\r\n\r\n   KRJP LFF ADO and LFF% Monthly Actuals\r\n   -\r\n\r\n   Campaign participation\r\n   -\r\n\r\n   New seller acquisition progress\r\n\r\n\r\n\r\n   2.\r\n\r\n   For Discussion\r\n\r\n\r\n   -\r\n\r\n   KR RM KPI discussion\r\n\r\n\r\n\r\n   3.\r\n\r\n   For Updates\r\n\r\n\r\n   -\r\n\r\n   JP CC delay update\r\n   -\r\n\r\n   Counter Coupang update\r\n\r\n\r\nBest,\r\n\r\nRay"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "thanks\r\n\r\nslide 11\r\n- how is our ado in BR so far?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "have we considered FBS for BR yet?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "slide 12\r\n- for VN, we are still unable to use local FBS?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "still have to utilize LFF?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "slide 16\r\n- for #2 >> what is the issue around API integration right now?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- for #9 >> how are they doing right now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "slide 19\r\n- how does the situation in JP look like?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- given that we will have alot of new hires, should we relook our\r\nonboarding process as well?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "slide 21 - 22\r\n- what is the vendor working on from now till mid Apr to be able to improve\r\nBWT?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Do we know what the key issue is right now, and what exactly is the\r\nvendor trying to fix?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "and do we know why it will take another month to fix\r\nit?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- i remember we were looking at getting another CC vendor, where did we\r\nland on that?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- did we proactively increase the EDT so that we do not disappoint on buyer\r\nexperience?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "slide 31\r\n- have we paid out the SLS + compensation yet?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- where did we land on getting compensation from vendor?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "slide 36\r\n- i thought we started to onboard F&B SKUs, how is the performance so far?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "I remember we wanted to push F&B harder, but does not seem like much impact?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ray Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax, license registration fee) from 1) not being able to\r\n   under-value 2) license requirement\r\n\r\n[image: image.png]\r\n\r\n\r\nslide 12\r\n\r\n- for VN, we are still unable to use local FBS? still have to utilize LFF?\r\n\r\n-> yes, currently system dev KRSC <> VN local FBS is in progress(ETA ‘26\r\nQ2-Q3), thus will push for FBS conversion right after. Conversion to FBS\r\nexpected to go smoothly as;\r\n\r\n   -\r\n\r\n   Better cost economics for seller: seller E2E cost lower, especially from\r\n   16% lower WH cost vs. 3PF\r\n   -\r\n\r\n   Higher order conversion from more exposure and FBS tag\r\n\r\n\r\nslide 16\r\n\r\n- for #2 >> what is the issue around API integration right now?\r\n\r\n   -\r\n\r\n   For KR platform to onboard, API integration is essential for efficient\r\n   OMS/WMS. Musinsa wants to check the complexity of API integration with SHP\r\n   and currently waiting to receive their system requirements/specs to review\r\n   with SHP BPM\r\n\r\n- for #9 >> how are they doing right now?\r\n\r\n   -\r\n\r\n   Confirmed 2 brand (out of 100+) onboarding and in the process of\r\n   onboarding more brands\r\n   -\r\n\r\n   Shop operation-wise, listing done but they have not started marketing\r\n   yet as they plan to open offline store simultaneously. Will start\r\n   promotions from Apirl with NSP participation\r\n\r\n\r\nslide 19\r\n\r\n- how does the situation in JP look like?\r\n\r\n- given that we will have alot of new hires, should we relook our\r\nonboarding process as well?\r\n\r\n   -\r\n\r\n   We prioritized KR test and will roll-out JP quiz after tailoring\r\n"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Starting from Mar 15, shortening lead time from parcel scan in to export\r\n   cc start to BAU level (2~3 days vs. currently 3~4 days) via new SOPs with\r\n   3rd party vendors"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Starting from Apr 1, negotiate with the export customs clearance agents\r\n   for less frequent manifest inspection and more daily export clearance quota"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "We can only assess the impact of both (1) and (2) starting after Mar 24\r\n   and mid-Apr if we consider that it is taking 12+ days from order placed to\r\n   buyer delivery and because system tracking is limited from no line haul\r\n   integration with Sagawa, we only know when parcel is scanned in the\r\n   last-mile sorting center\r\n\r\n- i remember we were looking at getting another CC vendor, where did we\r\nland on that?\r\n\r\n   -\r\n\r\n   We invited 12 vendors  to submit their line haul/cc quotations on 3/20,\r\n   aiming to decide on the final vendor by Apr 24, and go live with the new\r\n   vendors Jul 1.\r\n   -\r\n\r\n   [RFQ & Go-live Timeline]\r\n\r\n[image: image.png]\r\n\r\n- did we proactively increase the EDT so that we do not disappoint on buyer\r\nexperience?\r\n\r\n   -\r\n\r\n   Yes, we are continuously increasing EDD/EDT by 10days(from Feb 11th for\r\n   EDD) and will addt’l adjust EDD/EDT after monitoring the BWT this week as\r\n   well\r\n\r\nslide 31\r\n\r\n- have we paid out the SLS + compensation yet?\r\n\r\n   -\r\n\r\n   The first round of the seller compensation is expected to be paid out to\r\n   the sellers Apr W1(which is what we announced to sellers)\r\n   -\r\n\r\n   We expect that the compensation will be made on a rolling basis for\r\n   orders placed late Jan~late Feb/early Mar, and subsequent compensations\r\n   will be made weekly\r\n\r\n- where did we land on getting compensation from vendor?\r\n\r\n   -\r\n\r\n   We are currently working with the legal team to define the scope of\r\n   potential claims. The areas under review include:\r\n   -\r\n\r\n      Seller compensation payouts\r\n      -\r\n\r\n      SHP costs incurred, including operational expenses\r\n      -\r\n\r\n      Storage fees resulting from delays\r\n      -\r\n\r\n      Reputational damage (if applicable)\r\n      -\r\n\r\n   Additionally, we have aligned to submit the compensation claim later in\r\n   Q2 to maintain an amicable relationship with Sagawa. This is particularly\r\n   important as (1) we have not yet secured a new line haul vendor, and (2) we\r\n   intend to continue us"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "[short term] Accelerating sku onboard of the top reseller varient.kr\r\n   (capable of sourcing ~25% unmatched F&B SPUs) with ops support"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "[short term] Start manage CS F&B resellers (~400 GPs identified) with\r\n   high potential"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "[mid term] Swarm project for mass SKU upload by end of May"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "[mid-long term] F&B brand/reseller acquisition, expecting 1 new F&B\r\n   brand to onboard by H1\r\n\r\n\r\nAppendix 1.\r\n\r\nMetric\r\n\r\nJan\r\n\r\nMar\r\n\r\nADO\r\n\r\n2.3\r\n\r\n17.0\r\n\r\nADG\r\n\r\n$93.8\r\n\r\n$509.2\r\n\r\nWL Shops\r\n\r\n280\r\n\r\n343\r\n\r\nManaged shops\r\n\r\n3\r\n\r\n11\r\n\r\nLive SKUs\r\n\r\n3,540\r\n\r\n3,771\r\n\r\nADO Efficiency\r\n\r\n0.0006\r\n\r\n0.0045\r\n\r\nADG Efficiency\r\n\r\n$0.03\r\n\r\n$0.14"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease see our reponses below, feel free to let me know if you have any\r\nquestions.\r\n\r\n slide 11\r\n\r\n- how is our ado in BR so far? have we considered FBS for BR yet?\r\n\r\n   -\r\n\r\n   BR Mar MTD ADO is 4,966(P6M CMGR 7%, 7% contri% to KR) and we explored\r\n   BR 3PF option in ‘25 Jul but de-prioritized; 1) have less E2E cost\r\n   competitiveness vs. SLS to sellers(5%p higher E2E cost) and 2) only white\r\n   channel is available which also contributes to higher seller cost(e.g\r\n   customs tax"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q18",
+          "question": "Starting from Mar 15, shortening lead time from parcel scan in to"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Starting from Apr 1, negotiate with the export customs clearance"
+        },
+        {
+          "question_id": "Q20",
+          "question": "We can only assess the impact of both (1) and (2) starting after Mar"
+        },
+        {
+          "question_id": "Q21",
+          "question": "[short term] Accelerating sku onboard of the top reseller varient.kr"
+        },
+        {
+          "question_id": "Q22",
+          "question": "[short term] Start manage CS F&B resellers (~400 GPs identified) with"
+        },
+        {
+          "question_id": "Q23",
+          "question": "[mid term] Swarm project for mass SKU upload by end of May"
+        },
+        {
+          "question_id": "Q24",
+          "question": "[mid-long term] F&B brand/reseller acquisition, expecting 1 new F&B"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ray Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q18",
+          "answer": "Starting from Mar 15, shortening lead time from parcel scan in to export\r\n   cc start to BAU level (2~3 days vs. currently 3~4 days) via new SOPs with\r\n   3rd party vendors"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Starting from Apr 1, negotiate with the export customs clearance agents\r\n   for less frequent manifest inspection and more daily export clearance quota"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "We can only assess the impact of both (1) and (2) starting after Mar 24\r\n   and mid-Apr if we consider that it is taking 12+ days from order placed to\r\n   buyer delivery and because system tracking is limited from no line haul\r\n   integration with Sagawa, we only know when parcel is scanned in the\r\n   last-mile sorting center\r\n\r\n\r\nslide 21 - 22\r\n\r\nThere is a big gap between contract signing and go live?\r\n\r\nDoes this mean that we will drop Sagawa?\r\n\r\n   -\r\n\r\n   We plan to phase out Sagawa starting in July, while potentially\r\n   retaining them for smaller markets (e.g., BR) to benefit from zero-rated\r\n   tax treatment on transit warehouse services. From Apr 24 to July, we will\r\n   use this period to test whether new vendors can meet our service\r\n   requirements.\r\n\r\n\r\nPrevious Q&A\r\n\r\n- i remember we were looking at getting another CC vendor, where did we\r\nland on that?\r\n\r\n   -\r\n\r\n   We invited 12 vendors  to submit their line haul/cc quotations on 3/20,\r\n   aiming to decide on the final vendor by Apr 24, and go live with the new\r\n   vendors Jul 1.\r\n   -\r\n\r\n   [RFQ & Go-live Timeline]\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\nslide 36\r\n\r\n- Think we need faster acquisition of dedicated F&B seller/brands if we\r\nwant to do this properly.\r\n\r\n1 by H1 feels very slow\r\n\r\n   -\r\n\r\n   Noted. In summary, a) 1 is secured but 5 additional brands in active\r\n   discussion with high chance to convert; b) we will continue push hard for\r\n   F&B seller acquisition but given structural difficulties, short-term\r\n   progress will mainly come from existing reseller SKU sourcing; c) we will\r\n   also source candidates with Coupang experience or F&B specialties to\r\n   strengthen talent pipeline\r\n   -\r\n\r\n   Detailed next steps:"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Continue push for brand acquisition:\r\n\r\n\r\n   -\r\n\r\n   Via SA:\r\n   -\r\n\r\n      Current list (86 brands, ~25% ttl CP brands): 1 confirmed, 5 in\r\n      active talks, 41 pending, but initial 40 rejected given:"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "24 unreachable (60%)"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "14 diff biz strategy / no capacity (35%)"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "2 local distributor (5%)\r\n\r\n\r\n   -\r\n\r\n   Share brands’ CP performance to re-engage top-size rejected brands (ETA\r\n   Apr W2), especially for reason 2)\r\n   -\r\n\r\n   Monthly refresh brand target list, working with TWBI to cover 100% F&B\r\n   brands on CP by mid-year\r\n\r\n\r\n   -\r\n\r\n   Via SWARM (ERP): 1 confirmed, 2 in active talks, actively sourcing more"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q25",
+          "question": "Starting from Mar 15, shortening lead time from parcel scan in to"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Starting from Apr 1, negotiate with the export customs clearance"
+        },
+        {
+          "question_id": "Q27",
+          "question": "We can only assess the impact of both (1) and (2) starting after Mar"
+        },
+        {
+          "question_id": "Q28",
+          "question": "14 diff biz strategy / no capacity (35%)"
+        },
+        {
+          "question_id": "Q29",
+          "question": "2 local distributor (5%)"
+        },
+        {
+          "question_id": "Q30",
+          "question": "[short term] Accelerating sku onboard of the top reseller varient.kr"
+        },
+        {
+          "question_id": "Q31",
+          "question": "[short term] Start manage CS F&B resellers (~400 GPs identified) with"
+        },
+        {
+          "question_id": "Q32",
+          "question": "[mid term] Swarm project for mass SKU upload by end of May"
+        },
+        {
+          "question_id": "Q33",
+          "question": "[mid-long term] F&B brand/reseller acquisition, expecting 1 new F&B"
+        }
+      ]
+    }
+  ]
+}

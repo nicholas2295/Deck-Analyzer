@@ -1,0 +1,233 @@
+{
+  "id": "thread-099",
+  "subject": "[For Review] Sep CB Monthly Management Meeting",
+  "date": "2025-09-22",
+  "deck_filename": "[Sep'25] CB Monthly Management Meeting_v0.3.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "growth",
+    "pricing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/Jianghong,\r\n\r\nPlease find attached deck for the upcoming Monthly CB Management Meeting on\r\n24th Sep, Wednesday, for your review.\r\n\r\nAll sections are ready except for SCS and CNLS, which will be updated by\r\nEOD today. @Ray Wang <ray.wang01@shopee.com> @Ning Li <ning.li@shopee.com>\r\n\r\nLet me know for any questions.\r\n\r\nPreparation timeline to meeting as below\r\n\r\nTimeline\r\n\r\n   -\r\n\r\n   Deck Draft 1: 22 Sep (Mon)\r\n   -\r\n\r\n   Deck Draft 2: 22 Sep (Mon)\r\n   -\r\n\r\n   Deck Draft 3: 23 Sep (Tues)\r\n   -\r\n\r\n   Meeting: 24th Sep (Wed)\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/Jianghong,\r\n\r\nPlease find attached V2 of the deck for your review.\r\n\r\nAll sections are updated, except for FP&A Slide 4 and 5, which will be\r\nadded tomorrow."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "I shared my feedback with SMT and SLS team offline already."
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - Formatting issues?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- For FBS, why are we missing targets across the board?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 16\r\n\r\n   - Why SG so bad here?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 73\r\n\r\n   - How many have we gotten for H2 so far?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 88\r\n\r\n   - Missing targets across the board other than TH?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 100\r\n\r\n   - Can see absolute numbers of previous month?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Hard to compare right now\r\n   otherwise\r\n\r\n\r\n\r\nSlide 106\r\n\r\n   - How come CN SIP so bad?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Prioritization: new sellers with limited manpower to prepare stocks and\r\n   shipping for different sites, tend to prioritize bigger sites, such as PH\r\n   and MY."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Bad experience: Due to bad experiences in PH, such as PN pause and\r\n   limited inbound quota since Aug., sellers who have not started doing SG\r\n   tend to further postpone investing in SG.\r\n\r\nCurrently, SG has proposed a new service to do a one-time stock transfer\r\nfrom 3PF to FBS, to drive up the progress. SG will also ensure of MY free\r\ntrial sellers who did not join SG free trial to join at least MY->SG Direct\r\nor MYSG SIP\r\n\r\nSlide 73 (now Slide 81)\r\n\r\nHow many have we gotten for H2 so far?\r\n\r\nWe have moved 51 sellers for 2025H2 so far.\r\n\r\nFor 2025H2 we aim to move 305 sellers in total, target still pending\r\nfeasibility check with CN and Local CNLS team:\r\n\r\n   -\r\n\r\n   CNLS mode: aim to onboard additional ~90 sellers, we will increase pitch\r\n   success rate by facilitating vendor handshaking, FBS attack and ensuring\r\n   regional role coverage\r\n   -\r\n\r\n   Direct model: we will kick off PH pitching in Oct, assume 30% success\r\n   rate - same as other non-CNLS seller direct pitching\r\n   -\r\n\r\n   CB model: will kick off PH pitching in Oct, target pending CN side final\r\n   confirmation\r\n\r\n\r\nSlide 88 (now Slide 93)\r\n\r\nMissing targets across the board other than TH?\r\n\r\nFor TH, the FBS MoM growth is actually lower than other markets at 13% (vs\r\nPH MoM 23%, SG 17%). TH RR is high mainly due to revised down targets given\r\ninsufficient WH capacity and need to limit the new SKU coming in\r\n\r\nFor PH, missed targets mainly due to previous WH capacity issues (pausing\r\nPN to stop new SKU and insufficient IB quota). While there’d be new WHs\r\nopening in Sep and Oct, the space estimated to be still insufficient and\r\nwill need to limit new SKU coming in and revise down targets accordingly\r\n\r\nFor SG/ MY, it’s mainly due to low new seller/sku acquisition rate.\r\nCatch-up plan: 1) to push for higher agree rate and push agreed sellers to\r\nraise PN/IR; 2) to review top seller rejection reason 1 by 1, identify\r\ntailored levers required for the conversion of these specific sellers, 3)\r\nto pitch"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease see responses in blue below, and updated deck. Will send to TP\r\nshortly.\r\n\r\n\r\nSlide 5\r\n\r\nFormatting issues? Fixed\r\n\r\nFor FBS, why are we missing targets across the board?\r\n\r\nFor ADO: driven by TH underperformance due to low New SKU quantity inbound\r\nfrom WH restrictions\r\n\r\nFor Standalone P&L: due to PH high BPO and G&A cost of transfer stocks to\r\nthe overflow WH which was not budgeted in\r\n\r\nSlide 16 (now Slide 18)\r\n\r\nWhy SG so bad here?\r\n\r\nSG and MY launched in Aug, ~1.5 mont"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease see responses in blue below, and updated deck. Will send to TP\r\nshortly.\r\n\r\n\r\nSlide 5\r\n\r\nFormatting issues? Fixed\r\n\r\nFor FBS, why are we missing targets across the board?\r\n\r\nFor ADO: driven by TH underperformance due to low New SKU quantity inbound\r\nfrom WH restrictions\r\n\r\nFor Standalone P&L: due to PH high BPO and G&A cost of transfer stocks to\r\nthe overflow WH which was not budgeted in\r\n\r\nSlide 16 (now Slide 18)\r\n\r\nWhy SG so bad here?\r\n\r\nSG and MY launched in Aug, ~1.5 mont"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease see responses in blue below, and updated deck. Will send to TP\r\nshortly.\r\n\r\n\r\nSlide 5\r\n\r\nFormatting issues? Fixed\r\n\r\nFor FBS, why are we missing targets across the board?\r\n\r\nFor ADO: driven by TH underperformance due to low New SKU quantity inbound\r\nfrom WH restrictions\r\n\r\nFor Standalone P&L: due to PH high BPO and G&A cost of transfer stocks to\r\nthe overflow WH which was not budgeted in\r\n\r\nSlide 16 (now Slide 18)\r\n\r\nWhy SG so bad here?\r\n\r\nSG and MY launched in Aug, ~1.5 mont"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease see responses in blue below, and updated deck. Will send to TP\r\nshortly.\r\n\r\n\r\nSlide 5\r\n\r\nFormatting issues? Fixed\r\n\r\nFor FBS, why are we missing targets across the board?\r\n\r\nFor ADO: driven by TH underperformance due to low New SKU quantity inbound\r\nfrom WH restrictions\r\n\r\nFor Standalone P&L: due to PH high BPO and G&A cost of transfer stocks to\r\nthe overflow WH which was not budgeted in\r\n\r\nSlide 16 (now Slide 18)\r\n\r\nWhy SG so bad here?\r\n\r\nSG and MY launched in Aug, ~1.5 mont"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease see responses in blue below, and updated deck. Will send to TP\r\nshortly.\r\n\r\n\r\nSlide 5\r\n\r\nFormatting issues? Fixed\r\n\r\nFor FBS, why are we missing targets across the board?\r\n\r\nFor ADO: driven by TH underperformance due to low New SKU quantity inbound\r\nfrom WH restrictions\r\n\r\nFor Standalone P&L: due to PH high BPO and G&A cost of transfer stocks to\r\nthe overflow WH which was not budgeted in\r\n\r\nSlide 16 (now Slide 18)\r\n\r\nWhy SG so bad here?\r\n\r\nSG and MY launched in Aug, ~1.5 mont"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q8",
+          "question": "Prioritization: new sellers with limited manpower to prepare stocks"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Bad experience: Due to bad experiences in PH, such as PN pause and"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q8",
+          "answer": "Prioritization: new sellers with limited manpower to prepare stocks and\r\n   shipping for different sites, tend to prioritize bigger sites, such as PH\r\n   and MY."
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Bad experience: Due to bad experiences in PH, such as PN pause and\r\n   limited inbound quota since Aug., sellers who have not started doing SG\r\n   tend to further postpone investing in SG.\r\n\r\nCurrently, SG has proposed a new service to do a one-time stock transfer\r\nfrom 3PF to FBS, to drive up the progress. SG will also ensure of MY free\r\ntrial sellers who did not join SG free trial to join at least MY->SG Direct\r\nor MYSG SIP\r\n\r\nDid we find out how many say ok to MY but not to SG? When we pitch, shall\r\nwe just group both markets as 1?\r\n\r\nThere are 320 sellers (covering 630 shops, 22k ADO in MY ADO) who said okay\r\nto MY free trial but not to SG. For these sellers, we plan to onboard them\r\nto MYSG direct or SIP\r\n\r\nFor new sellers, we will group both market as 1 for pitching (pitch MY FBS\r\ntogether with SG FBS first, and if seller still reject due to SG FBS, then\r\nwe will need sellers to minimally do SIP or MYSG Direct)\r\n\r\n\r\nSlide 73 (now Slide 81)\r\n\r\nHow many have we gotten for H2 so far?\r\n\r\nWe have moved 51 sellers for 2025H2 so far.\r\n\r\nFor 2025H2 we aim to move 305 sellers in total, target still pending\r\nfeasibility check with CN and Local CNLS team:\r\n\r\n   -\r\n\r\n   CNLS mode: aim to onboard additional ~90 sellers, we will increase pitch\r\n   success rate by facilitating vendor handshaking, FBS attack and ensuring\r\n   regional role coverage\r\n   -\r\n\r\n   Direct model: we will kick off PH pitching in Oct, assume 30% success\r\n   rate - same as other non-CNLS seller direct pitching\r\n\r\nWhich is the export market that we are pitching for?\r\n\r\nFor current batch we focus on PH, because PH has highest seller # base,\r\nexport seller # is the highest, and trending up.\r\n\r\n\r\n\r\n   -\r\n\r\n   CB model: will kick off PH pitching in Oct, target pending CN side final\r\n   confirmation\r\n\r\n\r\nWill this confuse the sellers too much? On whether they choose Direct or\r\nExport model?\r\n\r\nWe segment pitching based on seller willingness and ops team location to\r\navoid confusion:"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q10",
+          "question": "Prioritization: new sellers with limited manpower to prepare stocks"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Bad experience: Due to bad experiences in PH, such as PN pause and"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Seller willingness strong >> go directly with CNLS"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Seller mid/low willingness + CN based >> go with CB SLS"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Seller mid/low willingness + local based >> go with direct"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q10",
+          "answer": "High Seller COGS: RZY is a 铺货 reseller from Taobao or 1688, resulting in\r\n   less competitive pricing. Although this seller's pricing is not ideal, they\r\n   were able to bring in 450k SKUs which gave us the breadth of assortment\r\n   that we wanted at the start."
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Next step: We are identifying more direct TB sellers who can offer\r\n      more competitive prices and onboard them onto TB program. (e.g 常州市希薇尔\r\n      120 ADO selling dining tables and chairs, already onboarded to program)"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Incorrect Price Setting: RZY uploads up to 30K SKUs per month to support\r\n   assortment growth, using of blanket pricing strategies."
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Next step: We are pushing RZY to improve SKU-level pricing and\r\n      expect to correct this by 17 Oct in view of CN golden week. There has\r\n      already been some progress here (12% of SKUs saw price reduction\r\nafter our\r\n      NPC push)\r\n\r\nOverall, RZY profit margin is around 10–12% of the selling price, which is\r\nconsistent with other top furniture GGPs on SHP."
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies in blue below:\r\n\r\nWhich is the export market that we are pitching for?\r\n\r\nFor current batch we focus on PH, because PH has highest seller # base,\r\nexport seller # is the highest, and trending up.\r\n\r\nSorry I meant import market\r\n\r\nWe will prioritize ID/MY, given highest seller interests through seller\r\nsurvey and recent upward trend of sellers moving in.\r\n\r\n\r\nFurniture and F&B still remains the issue? Do we know why?\r\n\r\nFurniture:\r\n\r\n   -\r\n\r\n   82% of expensive SKUs "
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q15",
+          "question": "*High Seller COGS:* RZY is a 铺货 reseller from Taobao or 1688,"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Next step: We are identifying more direct TB sellers who can offer"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*Incorrect Price Setting:* RZY uploads up to 30K SKUs per month to"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Next step: We are pushing RZY to improve SKU-level pricing and"
+        }
+      ]
+    }
+  ]
+}

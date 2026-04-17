@@ -1,0 +1,313 @@
+{
+  "id": "thread-073",
+  "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Jul'25",
+  "date": "2025-07-14",
+  "deck_filename": "CB FP&A Meeting_Initiatives and Updates_20250715 (2).pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "marketing",
+    "pricing",
+    "data-analysis"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Edric Tan Eng Tong",
+      "Faye Yan",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find tmr's FP&A monthly meeting, given Jun performance quite volatile,\r\nwe will share more details on observations of performances drill down in\r\nprep for Chris meeting as well, key agenda as follows\r\n\r\n\r\n*CB Performance update*\r\n\r\n   - Jun’25 Actuals Performance (as of Jun 11th)\r\n   - Jul’25 Projection\r\n   - H1’25 Review\r\n   - Drill down of Jun’25 Performance\r\n\r\n\r\n*Key Initiatives Updates*\r\n\r\n   - All BU: Local Ownership Initiatives (Workshop Feedback)\r\n   - Marketplace: Commission Increase/Waiver Updates\r\n   - SLS: [VN/PH] Customs New Regulations Status Update\r\n   - SLS: [MY] BSC Push Impact\r\n\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Slide 17: For such analysis, usually CNCB side only focus on those SKUs\r\nwith orders in the past x (usually 6) months. Is that how you pull data?\r\n\r\nSlide 18: Think Derek and Elaine also have some analysis on this, but more\r\non take rate changes. Can get from them?\r\n\r\nSlide 25: I asked Alfred to pull out product data to show how many churn\r\nusers during KYC process for KR/JP/HK CB now. Overall, my sense is the\r\nimpact is not so bad."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Can remind me where did we land on the rates for NN WH?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "And what is\r\n   our view of this WH moving forward?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- And how is the utilization of NN WH right now?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "How is the P&L of this\r\n   WH looking like?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 4\r\n\r\n   - How is the accuracy of our KRJP projections now?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 7\r\n\r\n   - Is this view for CN business?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Or entire MP?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- Is there a separate view for KR business?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 9\r\n\r\n   - What is the reason that SCS does not benefit from all these recent PRM\r\n   push?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 16\r\n\r\n   - MY did not see an increase in FBS % even though we raised 3PF rates?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 17\r\n\r\n   - How do I compare price increase % vs commissions % increase?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "How are\r\n   we negotiating to get sellers to reduce price?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 18\r\n\r\n   - Do we know what is causing the issue in VN here?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 20\r\n\r\n   - Think we need to take a step back and evaluate the use case of NNWH?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- What does it do for TH business?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- What does it do for VN business?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- For TH business, how does it compare vs Anbo WH?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Is it worth\r\n   sacrificing USD 750K/month?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- For VN business, how does it fit in our overall 3PF/FBS strategy?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "What\r\n   will the comms be vs 3PF?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Will we end up pushing too much to FBS, when we\r\n   should be pushing them towards 3PF instead?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "- For our NNWH, how long more of a lease do we have?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "And how much does\r\n   it cost/month?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "I think we should not be forced to make the wrong decision\r\n   for the business just because we have a fix cost that we are managing\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*From:* Jianghong Liu <jianghong.liu@shopee.com>\r\n*Sent:* Tuesday, 15 July 2025 7:28 am\r\n*To:* Faye Yan <faye.yan@shopee.com>\r\n*Cc:* Soo Siang, Ian Ho <hoi@sea.com>; Shuning Wang <shuning.wang@shopee.com>;\r\nYao Jiaqi <jiaqi.yao@shopee.com>; Kuan Wai Mei <waimei.kuan@shopee.com>;\r\nEdric Tan Eng Tong <edric.tanet@shopee.com>; Hao Lei <hao.lei@shopee.com>;\r\nJermia Lai Geng Hui <jermia.laigh@shopee.com>; Yuna Kwon <\r\nyuna.kwon@shopee.com>; Ning Li <ning.li@shopee.com>; Chengchen Huo <\r\nchengchen.huo@shopee.com>; Janice Xu <janice.xu@shopee.com>; Fang Jing <\r\nfangjing.too@shopee.com>; Jason Yu <jason.yu@shopee.com>\r\n*Subject:* Re: [Pre-read] CB FP&A monthly Initiatives and Update_Jul'25\r\n\r\n\r\n\r\nSlide 17: For such analysis, usually CNCB side only focus on those SKUs\r\nwith orders in the past x (usually 6) months. Is that how you pull data?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Slide 18: Think Derek and Elaine also have some analysis on this, but more\r\non take rate changes. Can get from them?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Slide 11: How about BR situation? Getting better now?\r\n\r\nOn Tue, Jul 15, 2025 at 7:28 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Edric Tan Eng Tong",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPlease find the reply for our meeting\r\n\r\nSlide 4\r\n\r\n   - [Ian] How is the accuracy of our KRJP projections now?\r\n\r\nto PRM injections. > EBITDA gap for Jun has also reduced to -0.2m (vs. L3M\r\nwhere gap was >0.5m)> However, consistently missing P&L target mainly from\r\nunderprojection of PRM given recent pushes from the platform. Will need to\r\ncontinue monitoring PRM projections\r\n\r\n Slide 7\r\n\r\n   - [Ian] Is this view for CN business? Or entire MP? Overall CB\r\n   - [Ian] Is there a separate view for KR business? Added in deck P31\r\n\r\n Slide 9\r\n\r\n   - [Ian] What is the reason that SCS does not benefit from all these\r\n   recent PRM push?\r\n\r\nplatform fees increase (seller needs to mark-up price to counter this), and\r\n3) cannot enjoy the high ABS push (low non-logs CIR increase)\r\n\r\n   -\r\n\r\n   PH: vs 3P,\r\n   -\r\n\r\n      ADO increase more, benefiting from FSV0 push (FSV0% increased more\r\n      (+23%) than other BU),\r\n      -\r\n\r\n      however ADGMV less growth, as SCS didn’t benefit from high ABS push\r\n      (voucher rebate starting from PHP 200 (USD 4))\r\n      -\r\n\r\n   VN: more severe case, SCS do benefit from FSV0 push(FSV0 order% increase\r\n   by 18%), however\r\n   -\r\n\r\n      Platform increase fees: hence SCS increase price\r\n      -\r\n\r\n      Severe platform ads competition: 3P sellers MoM +0.3% ads takerate\r\n      -\r\n\r\n      Meanwhile, similar as PH, VN also push for voucher related but Choice\r\n      cannot hit the MBS (voucher rebate ranging between 50k/100k/200k (USD\r\n      1.9/3.8/7.6)\r\n\r\nI think we are lacking two important monitoring, on track building\r\n\r\n   1.\r\n\r\n   Seller listing price monitor - to track on listing price movement\r\n   2.\r\n\r\n   Platform Voucher/Item rebates strategy\r\n\r\n\r\nSlide 11\r\n\r\n   - [JH] How about BR situation? Getting better now?\r\n\r\nFrom Projection accuracy perspective: Yes, overall accuracy is also seen\r\ngetting better\r\n\r\n   -\r\n\r\n   ADO runrate at 100% and EBITDA runrate at 97% in June\r\n   -\r\n\r\n   However, SLS P&L gap still h"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nRegarding yesterday’s Chris meeting P&L question, pls find below answer (i\r\nsent here for CB review first, and only keep Choice members)\r\n\r\n#1 Standalone P&L in MP business session confusion\r\n\r\n\r\n#2 For choice, why seller P&L is positive, but EBITDA is so negative\r\n\r\nreflected in the seller P&L (+0.5mil) in Jun’25, the gap is due to\r\n\r\n1) -4.2mil from SLS discount (31% discount on ASF vs other sellers)\r\n\r\n2) -0.8mil from MP commission discount (total 4% discount, 2% from Anbo\r\nrate lower than SLS sellers applied to Choice-SLS, another 2% from Dec’24\r\nChris alignment on mgmt reporting - applied to all Choice)\r\n\r\n3) *-**1*.3mil from MP ads discount (50% off, also per Dec’24 Chris\r\nalignment on mgmt reporting)\r\n\r\nTo further explain the run-down of how Choice mgmt. EBITDA is calculated\r\n\r\nDefinition clarity:\r\n\r\n   -\r\n\r\n   EBITDA (per meeting deck) reflects Choice as a business contribution to\r\n   SHP EBITDA (i.e. in Jun, our CB biz has a overall EBITDA of 10mil, with\r\n   choice contributing -6mil, rest of BU contributes +16mil), this includes A)\r\n   Choice own standalone P&L, Choice as a biz contribution to the platform B)\r\n   MP P&L, C) SLS P&L, and D) shared cost allocation, this definition\r\nhas been aligned\r\n   with Reg FP&A reporting to Chris\r\n   -\r\n\r\n   However, this definition is different from Choice own entity EBITDA (so\r\n   call seller EBITDA), which is used solely to evaluate Choice as a\r\n   seller’s earning/loss when operating its business, the equation shall be\r\n   seller P&L - interest - tax - depreciation - amortization, which is the\r\n   version that Lining showed to G-team Oct’24\r\n\r\n\r\nRundown of EBITDA(SHP Mgmt. EBITDA) calculation\r\n[image: image.png]\r\n\r\n\r\nBest,\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265\r\n\r\n\r\n\r\nOn Tue, Jul 15, 2025 at 2:05 PM Edric Tan Eng Tong <edric.tanet@shopee.com>\r\nwrote:"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q26",
+          "question": "*-4.2mil* from* SLS discount* (31% discount on ASF vs other sellers)"
+        },
+        {
+          "question_id": "Q27",
+          "question": "*-0.8mil* from *MP commission discount* (total 4% discount, 2% from Anbo"
+        },
+        {
+          "question_id": "Q28",
+          "question": "*-1.3mil *from* MP ads discount (*50% off, also per Dec’24 Chris"
+        },
+        {
+          "question_id": "Q29",
+          "question": "cannot enjoy the high ABS push (low non-logs CIR increase)"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Seller listing price monitor - to track on listing price movement"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Platform Voucher/Item rebates strategy"
+        }
+      ]
+    }
+  ]
+}

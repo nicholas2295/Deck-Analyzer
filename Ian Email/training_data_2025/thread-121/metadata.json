@@ -1,0 +1,54 @@
+{
+  "id": "thread-121",
+  "subject": "IDSIP Rubik cube case follow up",
+  "date": "2025-11-13",
+  "deck_filename": "IDSIP Rubik cube case follow up.pdf",
+  "deck_topic_tags": [
+    "category",
+    "pricing",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Wei Qiang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Wei Qiang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find the IDSIP Rubik Cube case follow-up (Price Floor and RR study)\r\nattached for your review. We plan to implement for ID and replicate the\r\napproach in VN by this week, and all other markets by the end of next week.\r\n\r\n\r\nThank you\r\n-- \r\n\r\n*Qiang Wei*\r\n\r\nShopee | SIP"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Can show the RR rate at category level?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Do we see any abuse happening?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- For trusted sellers, what is the % of top SIP sellers who are non\r\n   managed, non mall?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Even for trusted sellers we want USD 50 price floor?"
+        }
+      ]
+    }
+  ]
+}

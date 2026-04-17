@@ -1,0 +1,347 @@
+{
+  "id": "thread-062",
+  "subject": "SIP Weekly Update - Week ending 13 Jun",
+  "date": "2025-06-17",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 13 Jun.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "finance",
+    "product-launch",
+    "growth",
+    "user-growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Huang Wan-Jung"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 11 Jun)\r\n\r\nA/ Topline/P&L\r\n\r\n* Taobao program target ongoing adjustments\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Jun proj ADO 228k, 108% RR, %CB +0.3pp MoM; ADG $2.6M, 111%RR,\r\n   %CB +0.7pp MoM\r\n   1.\r\n\r\n      Local SIP ADO 103% RR, %CB +0.2pp MoM; higher RR driven by i) PH\r\n      market outperformance from higher ads spending from BPSF budget ii) SG\r\n      market upsized rebates for trendy assortment\r\n      2.\r\n\r\n      CNSIP ADO 103% RR, %CB maintained MoM; higher RR driven by ongoing\r\n      optimization initiatives (e.g., ads markup removal for\r\nnon-performing SKUs)\r\n      2.\r\n\r\n   [P&L] Jun proj combined PC2 $4.3M, $0.9M over-performance\r\n   1.\r\n\r\n      Local SIP 1.2M out-performance, mainly from MP PC2 $1M\r\n      out-performance; higher ads take-rate earned by MP as SIP increases ads\r\n      spending with BPSF budget\r\n      2.\r\n\r\n      CN SIP 0.3M under-performance, mainly due to maintained marketing\r\n      budget level after removal of management fees to grow topline; one-time\r\n      support to cushion immediate budget impact from management fee\r\nremoval, to\r\n      start rationalising pricing/budget from Jul\r\n\r\n\r\nB/ Follow up question from last CB FP&A monthly meeting: to relook at SIP\r\nJun spending plan and projection\r\n\r\n\r\nHighlights: In the latest proj, Jun vs May saw both topline and Sum P&L\r\ngrowth. Previous version MP PC2 is under projected due to conservative TR\r\nassumptions\r\n\r\nC/ SKU migration\r\n\r\n* #SKU lived in specific month includes the 1) live SKU count by end of\r\nmonth and 2) total SKUs lost in specific month\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   Grew lived SKUs to 158M in May-25 (132% RR vs Q2 target), via 1)\r\n   onboarding criteria revision 2) SKU revival and 3) SKU resync after\r\n   product/ops fix; Almost all import market have more SKUs migrated MoM,\r\n   except 1) MY/TH: high level of non-performing SKU cleanup; 2) BR: SKU\r\n   cleanup due to strict CB SKU % control in BR\r\n   2.\r\n\r\n   Introduced 136M new SKUs from Ma"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\n*Performance Dashboard** (as of 11 Jun)*\r\n\r\n\r\n\r\n*A/ Topline/P&L*\r\n\r\n** Taobao program target ongoing adjustments*\r\n\r\n\r\n\r\n\r\n\r\nHow come direct selling is growing so slowly?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "What lanes are coming up next?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "For CN SIP, why is the P&L negative?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Growth seems really slow as well given\r\nthe small size?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*D/ CS (as of 8 Jun 2025)*\r\n\r\n\r\n\r\nSG Numbers are very bad in general across the board?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "What is going on here?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Who is managing the team right now. SG side or SIP side?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "How is the reporting change for all SIP teams coming along?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q9",
+          "question": "On counter Taobao\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - # of SKUs just not growing\r\n   - @'Keljin Chua' <keljin.chua@shopee.com> why SG ADO so poor and not\r\n   growing?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "MY ADG not growing at all\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Number is very small, only 20 sellers in 1 month?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Slide 7\r\n\r\n   - Why is it by market and not for all markets?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Numbers are really small.\r\n   Is this from existing sellers or totally new?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 8\r\n\r\n   - #3 >> Where are we on solving of the pricing problem?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 16 and 21\r\n\r\n   - Do we have actual ADO numbers here?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Progress seems very slow\r\n\r\n\r\n\r\nOverall, the progress seems very slow for this entire project. It is not\r\nmoving at the pace and speed that it should.\r\n\r\n\r\n\r\n\r\n\r\n*From:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Sent:* Wednesday, 18 June 2025 11:05 am\r\n*To:* 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Cc:* 'Jianghong Liu' <jianghong.liu@shopee.com>; 'Shuning Wang' <\r\nshuning.wang@shopee.com>; 'Keljin Chua' <keljin.chua@shopee.com>; 'Jason\r\nYu' <jason.yu@shopee.com>; 'Yu Zhang' <yu.zhang@shopee.com>; 'Ailin Xie' <\r\nailin.xie@shopee.com>; 'Wei Qiang' <wei.qiang@shopee.com>; 'Momo Chen' <\r\nmomo.chen@shopee.com>; 'Huang Wan-Jung' <wanjung.huangwj@shopee.com>;\r\n'Chiong Zhi Ann' <zhiann.chiong@shopee.com>; 'Steven Liu' <\r\nsteven.liusk@shopee.com>; 'Wei Loong Yong' <weiloong.yong@shopee.com>;\r\n'Nicholas Lim' <nicholas.lim@shopee.com>; 'Keith Huang' <\r\nkeith.huang@shopee.com>; 'Joe Li' <joe.liyc@shopee.com>; 'Ren Jiahui' <\r\njiahui.ren@shopee.com>; 'Lee Jia Yi' <jiayi.jylee@shopee.com>; 'Eveline\r\nSeah' <eveline.seahyl@shopee.com>; 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Subject:* RE: SIP Weekly Update - Week ending 13 Jun\r\n\r\n\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\n*Performance Dashboard** (as of 11 Jun)*\r\n\r\n\r\n\r\n*A/ Topline/P&L*\r\n\r\n** Taobao program target ongoing adjustments*\r\n\r\n\r\n\r\n\r\n\r\nHow come direct selling is growing so slowly?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "What lanes are coming up next?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "For CN SIP, why is the P&L negative?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Growth seems really slow as well given\r\nthe small size?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*D/ CS (as of 8 Jun 2025)*\r\n\r\n\r\n\r\nSG Numbers are very bad in general across the board?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "What is going on here?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Who is managing the team right now. SG side or SIP side?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "How is the reporting change for all SIP teams coming along?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "The TB wishlist SKU sourcing target is for all markets, and differs by\r\n   site due to different market potential and incentive package across sites\r\n   (see chart below)"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "From existing sellers for wishlist SKU sourcing\r\n\r\n\r\nChart: Fashion wishlist SKU# target and Jun progress (as of Jun 17th)\r\n\r\nTB SKU Wishlist, SKU # target\r\n\r\nDec Target\r\n\r\nJun Target\r\n\r\nJun MTD progress\r\n\r\nTotal new to SHP\r\n\r\n19,500\r\n\r\n1,500\r\n\r\n1,769\r\n\r\nSG\r\n\r\n9,750\r\n\r\n750\r\n\r\n150\r\n\r\nMY\r\n\r\n9,750\r\n\r\n750\r\n\r\n222\r\n\r\nTH\r\n\r\n15,600\r\n\r\n1,200\r\n\r\n1,022\r\n\r\nVN\r\n\r\n15,600\r\n\r\n1,200\r\n\r\n685\r\n\r\nNote: Sourced SKUs are currently under local review. Total new-to-SHP SKU #\r\nexpected to decrease if local identifies some sourced SKUs as non-wishlist\r\nitems; SKU # per site expected to increase, as SKUs will migrate to more\r\nsites once confirmed as wishlist SKU."
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Why the number of Wishlist SKU sourcing is small:\r\n\r\n\r\n\r\n   -\r\n\r\n   Total TB wishlist pool for fashion is 42k, through regional BI crawling\r\n   of top 100 pages of TB SKU\r\n   -\r\n\r\n   Wishlist SKU sourcing EOY target is 19.5k, 46% coverage of total pool\r\n   42k.\r\n   -\r\n\r\n      19.5k target is based on bottom-up method: ~150 managed sellers to\r\n      source SKU, where 30 top sellers each source 80 SKUs per month, and other\r\n      120 sellers source 5 SKUs per month\r\n      -\r\n\r\n   Despite strong push by CN cluster, wishlist SKU sourcing is limited by"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "complex SOP and 2) low seller willingness due to insufficient incentive\r\n   -"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Complex SOP for sellers: Need project team and CN cluster co-work\r\n      to further simplify SOP\r\n      -"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "low seller willingness mainly due to incentive is not attractive\r\n      enough\r\n      -\r\n\r\n         SG/MY: lower willingness of SKU sourcing, due to 1) relatively low\r\n         market size and not priority for sellers to invest and upload\r\nSKU, 2) low\r\n         incentive (SG/MY gives only 2% item rebate)\r\n         -\r\n\r\n         TH/VN as benchmark: relatively higher willingness, given 1) larger\r\n         market size, 2) higher lever incentive (e.g., VN provides 8%\r\nitem rebate\r\n         for Top 200 in newly sourced TB SKU)\r\n         -\r\n\r\n      wishlist SKU sourcing"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Additional SKU sourcing besides wishlist\r\n\r\n\r\n\r\n   -\r\n\r\n   Besides Wishlist SKU sourcing, Fashion also drive SKU# by SKU site\r\n   migration and other SKU sourcing (not in wishlist), will contribute\r\n   40k-90k new SKU# per site by Dec’25\r\n\r\n\r\nSlide 8\r\n\r\n#3 >> Where are we on solving of the pricing problem?\r\n\r\n   -\r\n\r\n   Feedback from ERPs is that they don’t have the desired TB price in their\r\n   system\r\n   -\r\n\r\n   Thus, we’ll build a seller tool to lower prices for us and work with CN\r\n   team to push sellers to use the tool\r\n\r\n\r\nSlide 16 and 21\r\n\r\nDo we have actual ADO numbers here? Progress seems very slow\r\n\r\n   -\r\n\r\n   Program has already started, and pitching will conclude this week\r\n   (started around 1 week ago after package was finalised)\r\n\r\n\r\n   -\r\n\r\n   Once we’ve the final numbers from pitching, and BI completes all key\r\n   metrics of the table, we will be ready to show it in next week’s update\r\n\r\n\r\nOverall, the progress seems very slow for this entire project. It is not\r\nmoving at the pace and speed that it should.\r\n\r\nNoted, we will push harder with CN team and local team on both sku# and sku\r\nefficiency."
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q23",
+          "question": "The TB wishlist SKU sourcing target is *for all markets*, and differs"
+        },
+        {
+          "question_id": "Q24",
+          "question": "*From existing sellers* for wishlist SKU sourcing"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Why the number of Wishlist SKU sourcing is small:"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nPlease find responses related to Direct Selling below in green. Taobao\r\nrelated responses will follow separately.\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\n\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to open shop, 101 (14%) shop opened but on HM to\r\n   finalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\n   target of 430\r\n   -\r\n\r\n   Slow onboarding because sellers need to take multiple steps to set up\r\n   sub account to run oversea shops. We have explored ops and system\r\n   workarounds, but decided to park as they could disrupt sellers’ local shop\r\n   (MY shop) operations. Plans in place to accelerate 1) short-term: RM to\r\n   support sellers closely on onboarding and set up the shop for sellers with\r\n   their permission; 2) long-term: system solution to open shop automatically\r\n   for sellers once they accepted invitation [FRF submitted, ETA pending RSX\r\n   review]\r\n\r\n\r\n\r\nDo we know when this will be ready?\r\n\r\n\r\n\r\nWhy did we not consider this in the development phase?\r\n\r\n\r\nFRF submitted for RSX review, target launch ETA end-Jul/early-Aug. We\r\nconsidered it in the dev phase but originally put it in phase 2 due to high\r\ndev efforts needed. Have expedited it to be the P0 feature to add once we\r\nnoticed the onboarding issue.\r\n\r\n\r\n\r\n   -\r\n\r\n   Concurrently we will accelerate pitching by expanding mass pitching pool\r\n   to cover additional 50k qualified sellers (total mass pitching 133k) and\r\n   repitching non-responsive sellers via system PN/SCA [ETA 20 Jun]\r\n\r\nHow is the user experience right now, is it that bad? Does it make sense to\r\npitch to so many sellers if the user experience is bad?\r\n\r\n\r\nBased on seller feedback, the onboarding process and instruction a"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nPlease find responses related to Direct Selling below in green. Taobao\r\nrelated responses will follow separately.\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\n\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to ope"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nPlease find responses related to Direct Selling below in green. Taobao\r\nrelated responses will follow separately.\r\n\r\nHow come direct selling is growing so slowly? What lanes are coming up next?\r\n\r\n\r\n\r\nMYSG\r\n\r\n   -\r\n\r\n   Overall ADO growth on track considering new system de-bugging and new\r\n   shop ramp up\r\n   -\r\n\r\n   New seller acquisition slower than expected mainly due to slow\r\n   onboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\n   onboarding process to ope"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q26",
+          "question": "What exactly are the multiple steps that sellers need to take in the\r\nonboarding process, and how long do these steps actually take?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Sunday, 22 June 2025 7:07 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Shuning Wang <shuning.wang@shopee.com>; Jason Yu <jason.yu@shopee.com>;\r\nKeljin Chua <keljin.chua@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Lee Jia Yi <\r\njiayi.jylee@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 13 Jun\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPlease find responses related to Direct Selling below in green. Taobao\r\nrelated responses will follow separately.\r\n\r\n\r\n\r\nHow come direct selling is growing so slowly?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "What lanes are coming up next?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "MYSG\r\n\r\n·  Overall ADO growth on track considering new system de-bugging and new\r\nshop ramp up\r\n\r\n·  New seller acquisition slower than expected mainly due to slow\r\nonboarding: Jun MTD 735 sellers acquired, out of which 458 (62%) still in\r\nonboarding process to open shop, 101 (14%) shop opened but on HM to\r\nfinalize pricing; 176 (24%) active selling, 41% RR of Jun active selling\r\ntarget of 430\r\n\r\n·  Slow onboarding because sellers need to take multiple steps to set up\r\nsub account to run oversea shops. We have explored ops and system\r\nworkarounds, but decided to park as they could disrupt sellers’ local shop\r\n(MY shop) operations. Plans in place to accelerate 1) short-term: RM to\r\nsupport sellers closely on onboarding and set up the shop for sellers with\r\ntheir permission; 2) long-term: system solution to open shop automatically\r\nfor sellers once they accepted invitation [FRF submitted, ETA pending RSX\r\nreview]\r\n\r\n\r\n\r\nDo we know when this will be ready?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Why did we not consider this in the development phase?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "FRF submitted for RSX review, target launch ETA end-Jul/early-Aug. We\r\nconsidered it in the dev phase but originally put it in phase 2 due to high\r\ndev efforts needed. Have expedited it to be the P0 feature to add once we\r\nnoticed the onboarding issue.\r\n\r\n\r\n\r\n·  Concurrently we will accelerate pitching by expanding mass pitching pool\r\nto cover additional 50k qualified sellers (total mass pitching 133k) and\r\nrepitching non-responsive sellers via system PN/SCA [ETA 20 Jun]\r\n\r\nHow is the user experience right now, is it that bad?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Does it make sense to\r\npitch to so many sellers if the user experience is bad?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Based on seller feedback, the onboarding process and instruction are clear;\r\njust the process is tedious and troublesome. Experience after shop opening\r\nis good with automatic listing/review/rating migration, price\r\nrecommendations, and chat/logs operations in the same interface.\r\n\r\n\r\n\r\nAgree that we need the onboarding process to be simplified before we can\r\nmeaningfully scale up. Therefore we will pause mass re-pitching of\r\nnot-yet-accepted sellers (originally planned once per month) till the\r\nsystem improvement is in place in early-Aug. Meanwhile for savvy sellers\r\nwho are able to navigate through the current system we will support\r\nonboarding closely via RM/CS.\r\n\r\n\r\n\r\nUpcoming lanes (overview attached below)\r\n\r\n·  *VNMY (biz launch 23 Jun)*: system ready by 16 Jun, pending final legal\r\nclearance ETA 19 Jun; pitching started 2 Jun, target to onboard 1st batch\r\nof ~300 sellers on 23 Jun\r\n\r\n·  *IDMY (biz launch 23 Jun)*: system ready by 23 Jun, pitching started 28\r\nMay, target to onboard 1st batch of 200 sellers on 23 Jun\r\n\r\n·  *MYPH (biz launch early Aug)*: system ready by end-Jul; aligning with\r\nthe MYCB team to secure RM resources for pitching and onboarding support\r\n\r\n·  *THPH (biz launch early Aug)*: system ready by end-Jul; pitching to\r\nstart from 23 Jun, target to onboard 1st batch of ~900 sellers by early-Aug\r\n\r\nWill the issue above plague other new lanes as well?"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Huang Wan-Jung",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q26",
+          "answer": "sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will also allow “one-button” automatic shop opening, and\r\nsellers can continue to use their current account to operate local and\r\noverseas shops\r\n\r\n\r\nTable: summary of as-is and to-be onboarding process for direct selling (UI\r\nsnapshot attached below)\r\n\r\n\r\n[snapshot 1]\r\n\r\n\r\n[snapshot 2]\r\n\r\n\r\n[snapshot 3]\r\n\r\n\r\nThank you. Best regards,\r\n\r\n*Jill Huang Wan-Jung*\r\n\r\nShopee | Cross-Border | SLS\r\n\r\nMobile: +65 9813 3840\r\n\r\nAddress: 1 Fusionopolis Place #09-10, Galaxis, Singapore, 138522"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nBelow are the current onboarding process details and future improvements\r\nfor your reference:\r\n\r\n[As-is] Currently 15 seller steps and ~60 mins to complete;. additionally,\r\n1) sellers need to switch between 4 interfaces; and b) create and use a new\r\naccount to manage their local shops and overseas shops. Given the\r\ncomplexity, it is expected that sellers may park the setup process at any\r\nstep\r\n\r\n[To-be] Proposed solution is to shorten to 6 steps and ~30 mins to\r\ncomplete; it will als"
+        }
+      ]
+    }
+  ]
+}

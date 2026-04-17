@@ -1,0 +1,97 @@
+{
+  "id": "thread-011",
+  "subject": "[For Review] Jan CB Quarterly Management Meeting",
+  "date": "2025-01-24",
+  "deck_filename": "[Jan'25] CB Quarterly Management Meeting_v0.2.pdf",
+  "deck_topic_tags": [
+    "quarterly-review",
+    "growth",
+    "regional",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Jason Yu",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH,\r\n\r\nPlease find attached deck for the upcoming CB Quarterly meeting with CF on\r\n27th Jan for your review. The content is mostly similar to Monthly meeting\r\nwith TP, with some updates as below:\r\n\r\n*Slide 28-41:* [CN Seller Update] CN Seller Performance Review, Topline\r\nProjection and 2025 CN Seller Initiatives/Plan\r\n*Slide 95:* [KR SLS] Updated cost per order target for 2025\r\n\r\nLet me know if any questions, will send deck to Chris on 26th Jan.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "For Taobao direct, will we be able to share updated numbers on top of just\r\nSG/MY?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "The sequence of SLS part is quite strange. We complete SLS full year plan\r\nfirst, then talk about BR commercial CC.\r\n\r\nThe rest are fine. Thanks!"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH,\r\n\r\nIan: For Taobao direct, will we be able to share updated numbers on top of\r\njust SG/MY?\r\nHave added new slide 87 on TB Direct performance for other lanes,\r\nscreenshot below:\r\n[image: image.png]\r\n\r\nJH: The sequence of SLS part is quite strange. We complete SLS full year\r\nplan first, then talk about BR commercial CC.\r\nSlide 106-107: Have changed the sequence of presentation; BR commercial CC\r\nshifted to after 2025 plan\r\n\r\n\r\nOn Sun, Jan 26, 2025 at 8:20 AM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q2",
+          "question": "How about pc2?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Was growth prm driven?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nHow about pc2? Was growth prm driven?\r\n\r\n   - SG: MTD PC2 positive at $576 (6.45%) daily\r\n   - MY: MTD PC2 positive at $874 (2.00%) daily\r\n   - Other markets: to start tracking PC2 from 1 Feb; the current growth is\r\n   likely driven by both marketing push + VN platform's pre-CNY traffic\r\n   growth. Will detail out the PC2 drivers in the tracking.\r\n\r\nThank you.\r\nCuiwei"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nHow about pc2? Was growth prm driven?\r\n\r\n   - SG: MTD PC2 positive at $576 (6.45%) daily\r\n   - MY: MTD PC2 positive at $874 (2.00%) daily\r\n   - Other markets: to start tracking PC2 from 1 Feb; the current growth is\r\n   likely driven by both marketing push + VN platform's pre-CNY traffic\r\n   growth. Will detail out the PC2 drivers in the tracking.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "id": "thread-050",
+  "subject": "May SIP monthly meeting",
+  "date": "2025-05-12",
+  "deck_filename": "SIP Monthly Meeting 20250513 + SIP biz update 20250520 (1).pdf",
+  "deck_topic_tags": [
+    "finance",
+    "quarterly-review",
+    "growth",
+    "marketing",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached monthly SIP meeting doc for our discussion at 9am tmr.\r\n\r\n   - Page 1-31 is the draft document for the SIP biz update to CF/TP during\r\n   their CN visits next Tue, for your review\r\n   - Page 31 onwards are additional business updates, including 1) Apr/May\r\n   biz performance; 2) counter Taobao program; 3) regional direct selling\r\n   roll-out\r\n\r\nThank you very much.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For P&L, I cannot tell if the margins have gotten better/worse\r\n   - Can we also add another slide that shows assortment increase and UE\r\n   improvement over time?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- We should probably indicate when we started our optimizing efforts.\r\n   Think it was Q3’24 right?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 8\r\n\r\n   - How did this numbers look like in Q3’24?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 9\r\n\r\n   - Probably good to also show the numbers before to show trend\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I cannot link the 5.7K with the 2.7K in the table\r\n   - What is the reason that the acceptance rate is so low?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Only at 10%\r\n   right now?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- What is the average discount that they give right now?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "I wonder if it\r\n   is simpler to design a program for them to join. For eg. Paid Ads program,\r\n   where they pay a fix % for every order instead\r\n\r\n\r\n\r\nSlide 12\r\n\r\n   - Is there a view of the markups of the top 5 lanes before, and how it\r\n   has evolved over time?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 16- 18\r\n\r\n   - It is not very clear to understand right now\r\n      - What is the UE of our business before?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Including CIR on Ads?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "And\r\n      what was ROAS?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "And what was it broken down into new/old SKU?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- What is it right now?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- I cannot tell whether CIR and hence UE has gotten better or worse?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 19 – 20\r\n\r\n   - Do we really need the view on Slide 19?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- Can we use the view on Slide 20, but have some historic numbers?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- Probably can call out that it was not good, but it has improved\r\n\r\n\r\n\r\nSlide 21\r\n\r\n   - Hard to understand, maybe can focus on top 5 lanes?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 24\r\n\r\n   - I like to understand the true cost of each line better. Are we paying\r\n   true cost?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Or we mark up as well on the true cost?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- For eg. RR at 3% seems high. Not sure what LM here means\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   - What is our coverage of ads (what % of ADO do we do ads on) right now?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "- How does this compare with a CB ST seller?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Slide 28\r\n\r\n   - How did we arrive at these numbers?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "We tested it or?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 29\r\n\r\n   - How come not covered?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "I thought these would be top SKUs?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q25",
+          "question": "Slide 37\r\n\r\n   - Who is approving all these COD reopening of lanes right now?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- Have we identified why COD for Local SIP is higher than CNCB yet?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "- How is the fraud situation in VN right now?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "- Have we addressed Christin’s questions yet?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Slide 38\r\n\r\n   - The BWT for some of these lanes are just too long?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "- For eg. VNMY, VNPH, is there a reason why?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- For LFF cross selling, are we doing it for other markets as well?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Slide 41\r\n\r\n   - Is this MOM growth?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Or growth since Jan?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 42\r\n\r\n   - Not quite sure how to read this table\r\n\r\n\r\n\r\nSlide 46\r\n\r\n   - This is for furniture alone?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Slide 47\r\n\r\n   - Fashion or furniture?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "- And what is the full picture?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "Including ERP?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "It is being shown in bits\r\n   and pieces right now\r\n\r\n\r\n\r\nSlide 49\r\n\r\n   - There is fashion and furniture here.. I also do not know what we are\r\n   trying to say..\r\n\r\n\r\n\r\nSlide 50 onwards\r\n\r\n   - Did not really read, unsure of content..\r\n\r\n\r\n\r\n\r\n\r\n*From:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Sent:* Tuesday, 13 May 2025 8:21 am\r\n*To:* 'Cuiwei Sun' <cuiwei.sun@shopee.com>\r\n*Cc:* 'Jianghong Liu' <jianghong.liu@shopee.com>; 'Shuning Wang' <\r\nshuning.wang@shopee.com>; 'Keljin Chua' <keljin.chua@shopee.com>; 'Yu\r\nZhang' <yu.zhang@shopee.com>; 'Ailin Xie' <ailin.xie@shopee.com>; 'Wei\r\nQiang' <wei.qiang@shopee.com>; 'Steven Liu' <steven.liusk@shopee.com>;\r\n'Nicholas Lim' <nicholas.lim@shopee.com>; 'Huang Wan-Jung' <\r\nwanjung.huangwj@shopee.com>; 'Joe Li' <joe.liyc@shopee.com>; 'Ren Jiahui' <\r\njiahui.ren@shopee.com>; 'Jason Yu' <jason.yu@shopee.com>\r\n*Subject:* RE: May SIP monthly meeting\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For P&L, I cannot tell if the margins have gotten better/worse\r\n   - Can we also add another slide that shows assortment increase and UE\r\n   improvement over time?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "- We should probably indicate when we started our optimizing efforts.\r\n   Think it was Q3’24 right?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Slide 8\r\n\r\n   - How did this numbers look like in Q3’24?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Slide 9\r\n\r\n   - Probably good to also show the numbers before to show trend\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I cannot link the 5.7K with the 2.7K in the table\r\n   - What is the reason that the acceptance rate is so low?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "Only at 10%\r\n   right now?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "- What is the average discount that they give right now?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "I wonder if it\r\n   is simpler to design a program for them to join. For eg. Paid Ads program,\r\n   where they pay a fix % for every order instead\r\n\r\n\r\n\r\nSlide 12\r\n\r\n   - Is there a view of the markups of the top 5 lanes before, and how it\r\n   has evolved over time?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "Slide 16- 18\r\n\r\n   - It is not very clear to understand right now\r\n      - What is the UE of our business before?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Including CIR on Ads?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "And\r\n      what was ROAS?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "And what was it broken down into new/old SKU?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "- What is it right now?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "- I cannot tell whether CIR and hence UE has gotten better or worse?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "Slide 19 – 20\r\n\r\n   - Do we really need the view on Slide 19?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "- Can we use the view on Slide 20, but have some historic numbers?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "- Probably can call out that it was not good, but it has improved\r\n\r\n\r\n\r\nSlide 21\r\n\r\n   - Hard to understand, maybe can focus on top 5 lanes?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "Slide 24\r\n\r\n   - I like to understand the true cost of each line better. Are we paying\r\n   true cost?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "Or we mark up as well on the true cost?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "- For eg. RR at 3% seems high. Not sure what LM here means\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   - What is our coverage of ads (what % of ADO do we do ads on) right now?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "- How does this compare with a CB ST seller?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Slide 28\r\n\r\n   - How did we arrive at these numbers?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "We tested it or?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Slide 29\r\n\r\n   - How come not covered?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "I thought these would be top SKUs?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\nWell noted the comments - will go through verbally in our meeting and\r\nprovide written follow-up after.\r\nPls refer to the new attachment here for counter Taobao section. there was\r\na pages mixed-up. apologies for the confusion."
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find attached version 2 of biz update doc for your review.\r\n\r\nKey changes/new content are:\r\n1. How is SIP UE: page 5-6\r\n2. How has assortment grown from Q3-24: page 10\r\n3. How has pricing markup improved since Q3-24: page 14\r\n4. How is the ads coverage, plan to improve coverage, and plan to answer\r\nthe trade-off question on pricing vs ads: page 22-28.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, please find the version to be used in our meeting at 6.30pm.\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached version 4 for review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q62",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Can highlight that changes started in Q4’24?"
+        },
+        {
+          "question_id": "Q63",
+          "question": "Maybe box it up or\r\n   something?"
+        },
+        {
+          "question_id": "Q64",
+          "question": "Slide 22\r\n\r\n   - Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1?"
+        },
+        {
+          "question_id": "Q65",
+          "question": "That\r\n   does not sound right?"
+        },
+        {
+          "question_id": "Q66",
+          "question": "Slide 26\r\n\r\n   - What is the absolute PC2 difference here?"
+        },
+        {
+          "question_id": "Q67",
+          "question": "% is very misleading?"
+        },
+        {
+          "question_id": "Q68",
+          "question": "We\r\n   could have made more overall even though the PC2% is lower?"
+        },
+        {
+          "question_id": "Q69",
+          "question": "Especially if\r\n   there is growth?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q62",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes cross-subsidizing\r\n      IDMY lane for Raya push: for the total marketing budget for IDSIP, more\r\n      budget is allocated to IDMY vs other IDSIP lanes; thus IDMY PC2 is\r\n      negative, while other lanes positive, overall IDSIP PC2 breakeven\r\n      -\r\n\r\n      Updated the slide to show the incremental PC2 vs status quo;\r\n      incremental PC2 comes from higher ads revenue collected by MP\r\nfrom SIP. SIP\r\n      ads budget is from export market profit passback (BPSF reduction\r\ninitiative)\r\n\r\nSlide 26\r\n\r\n   -\r\n\r\n   What is the absolute PC2 difference here? % is very misleading? We could\r\n   have made more overall even though the PC2% is lower? Especially if there\r\n   is growth?\r\n   -\r\n\r\n      Added absolute PC2 difference in table\r\n      -\r\n\r\n      for case 1 (ads reduction), absolute PC2$ drops because topline drops\r\n      -\r\n\r\n      for case 2 (price reduction), absolute PC2$ drops because the growth\r\n      in topline is not able to compensate PC2 drop per order"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        },
+        {
+          "question_id": "Q69",
+          "answer": "Hi Ian,\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Can highlight that changes started in Q4’24? Maybe box it up or\r\n   something?\r\n   -\r\n\r\n      Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   -\r\n\r\n   Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1? That\r\n   does not sound right?\r\n   -\r\n\r\n      PC2 negative for March due to other IDSIP lanes"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q70",
+          "question": "Ok, can input into main document thanks\r\n\r\n\r\n\r\n*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Monday, 19 May 2025 6:30 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Yu Zhang <\r\nyu.zhang@shopee.com>; Ailin Xie <ailin.xie@shopee.com>; Wei Qiang <\r\nwei.qiang@shopee.com>; Steven Liu <steven.liusk@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Joe\r\nLi <joe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>\r\n*Subject:* Re: May SIP monthly meeting\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPlease see responses below and version 5 attached.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Can highlight that changes started in Q4’24?"
+        },
+        {
+          "question_id": "Q71",
+          "question": "Maybe box it up or\r\n   something?"
+        },
+        {
+          "question_id": "Q72",
+          "question": "- Ok. modified title and highlights on slide 4 accordingly\r\n\r\n Slide 22\r\n\r\n   - Do not quite understand this, we are PC2 negative when advertising on\r\n   ADO >5, but we will become PC2 positive when advertising on ADO >1?"
+        },
+        {
+          "question_id": "Q73",
+          "question": "That\r\n   does not sound right?"
+        },
+        {
+          "question_id": "Q74",
+          "question": "- PC2 negative for March due to other IDSIP lanes cross-subsidizing IDMY\r\n      lane for Raya push: for the total marketing budget for IDSIP, more budget\r\n      is allocated to IDMY vs other IDSIP lanes; thus IDMY PC2 is\r\nnegative, while\r\n      other lanes positive, overall IDSIP PC2 breakeven\r\n      - Updated the slide to show the incremental PC2 vs status quo;\r\n      incremental PC2 comes from higher ads revenue collected by MP\r\nfrom SIP. SIP\r\n      ads budget is from export market profit passback (BPSF reduction\r\ninitiative)\r\n\r\nSlide 26\r\n\r\n   - What is the absolute PC2 difference here?"
+        },
+        {
+          "question_id": "Q75",
+          "question": "% is very misleading?"
+        },
+        {
+          "question_id": "Q76",
+          "question": "We\r\n   could have made more overall even though the PC2% is lower?"
+        },
+        {
+          "question_id": "Q77",
+          "question": "Especially if\r\n   there is growth?"
+        }
+      ]
+    }
+  ]
+}

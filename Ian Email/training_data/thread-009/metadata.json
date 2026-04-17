@@ -1,0 +1,232 @@
+{
+  "id": "thread-009",
+  "subject": "KR/JP Bi-weekly Update_250127",
+  "date": "2026-01-26",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20260127.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "ops-review",
+    "marketing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Haenle Suh",
+      "Hyunji Seo",
+      "Joanne Lee",
+      "Saeyeon Jung"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Saeyeon Jung",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find the attachment for Jan 27 KR/JP bi-weekly meeting.\r\n\r\n[image: image.png]\r\nThank you!\r\n\r\nBest,\r\n*Saeyeon Jung*\r\nShopee | Projects Team\r\nAddress: 16F, Centerfield West Tower, 231 Teheran-ro, Gangnam-gu, Seoul,\r\nRepublic of Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Joanne Lee",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "+Ren Jiahui <jiahui.ren@shopee.com> +Eveline Seah\r\n<eveline.seahyl@shopee.com>\r\n\r\nOn Tue, Jan 27, 2026 at 12:20 AM Saeyeon Jung <saeyeon.jung@shopee.com>\r\nwrote:\r\n\r\n\r\n\r\n-- \r\n*Regards,*\r\n\r\n*Joanne Lee 이조앤*\r\nKorea Cross Border, New Channels Commercial Team\r\n*Address: *서울특별시 강남구 테헤란로 231 센터필드WEST"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Is the YOY numbers for JP and KR here correct?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "For eg. 44% for ADO. It\r\n   looks very different from the daily report.\r\n   - Why did PC2 % drop so much MOM?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Seems like TR% got much worser MOM?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 7\r\n\r\n   - We probably will need a new set of OKRs\r\n   - And ideally, we will break up the KR and JP OKR separately\r\n   - For KR, there are some fundamentals we should look to improve including\r\n      - New seller acquisition (new sellers to platform + existing sellers\r\n      starting shops in more markets)\r\n      - New category expansion (if applicable)\r\n      - Campaign participation/Net Price Competitiveness/LFF\r\n   - For JP,\r\n      - New seller acquisition\r\n      - Campaign participation\r\n      - LFF (if applicable)\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - I like to understand the LFF % broken down by SMT 1/2/3\r\n   - And amongst SMT 1/2/3 are there sellers that are outliers which we\r\n   should identify to push into LFF?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 11\r\n\r\n   - #6 and #12 seems to remain an issue?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Does not seem to really improve?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 13\r\n\r\n   - Quite a few brands remain an issue\r\n   - How are we pushing for sellers to move into LFF given tax issues?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Have\r\n   we identified specific sellers from SMT 1/2/3 for the TH market that we\r\n   should push into LFF?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 16\r\n\r\n   - What does the % actual ADGMV mean here?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "What do we use for numerator\r\n   and denominator?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- For TW, it seems ok, but why are so little of our SKUs being rebated\r\n   vs Coupang?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Slide 20 -21\r\n\r\n   - I cannot really understand what the targets mean here\r\n   - I remember we wanted to push for F&B SKUs to acquire, how is that\r\n   coming along?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- I remember we wanted to push for existing sellers (both in TW and\r\n   outside TW) to onboard more SKUs into TW. How is that coming along?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- It is not quite clear to me the trend of new KR SKUs, new KR sellers\r\n   broken down into categories for TW market. And how this has impacted the\r\n   trend of ADO over time\r\n\r\n\r\n\r\nSlide 22\r\n\r\n   - Not quite sure what we are saying here, can go through in meeting\r\n   - I need to understand if seller onboarding is on track, SKU onboarding\r\n   is on track, campaign participation is on track etcetc\r\n      - If it is on track, why is the ADO not flowing in\r\n      - If it is not on track, what is the reason\r\n\r\n\r\n\r\nSlide 26\r\n\r\n   - Not quite clear to me. Are we comparing cost to seller here for FBS\r\n   and SLS?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- Are we pushing for sellers to use FBS or 3PF?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- What is the difference in BWT?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- Are there tax savings as well on top of operational savings?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 28 – 33\r\n\r\n   - Which product fixes are critical that I should take note of?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- How is the progress of KR and JP SIP?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Slide 34\r\n\r\n   - @Jason Yu <jason.yu@shopee.com> which markets are they complaining\r\n   about?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Haenle Suh",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "+Amanda Eng <amanda.eng@shopee.com> +Ray Wang <ray.wang01@shopee.com>"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Hyunji Seo",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\n Please find the action items from KRJP biweekly as below.\r\n\r\n#\r\n\r\nTopic\r\n\r\nAction Items\r\n\r\nPIC\r\n\r\nDeadline\r\n\r\n1\r\n\r\nCampaign participation\r\n\r\n   1.\r\n\r\n   Participation definition update\r\n   1.\r\n\r\n      Include unmanaged sellers\r\n      2.\r\n\r\n      Update denominator to only exclude OOO, delisted, penalty SKUs\r\n\r\nHyeyun Choi <hyeyun.choi@shopee.com>\r\n\r\nFeb 12\r\n\r\n2\r\n\r\nCounter-Coupang\r\n\r\n   1.\r\n\r\n   Improve SKU match pool to include more Coupang SKUs\r\n   2.\r\n\r\n   Prioritize category to counter CP\r\n   3.\r\n\r\n   Show trend of SOB/match rate/NPC\r\n\r\nHyunji Seo <hyunji.seo@shopee.com>\r\n\r\nFeb 12\r\n\r\n3\r\n\r\nLFF\r\n\r\n   1.\r\n\r\n   TW LFF Cost Modeling local FBS JIT model vs. 3PF and feasibility\r\n\r\nDabin Kim <dabin.kim@shopee.com> Joanne Lee <joanne.lee@shopee.com>\r\n\r\nFeb 12\r\n\r\n4\r\n\r\nLFF\r\n\r\n   1.\r\n\r\n   2026 LFF Penetration Target Proposal\r\n\r\nDabin Kim <dabin.kim@shopee.com> Joanne Lee <joanne.lee@shopee.com>\r\n\r\nFeb 12\r\n\r\n5\r\n\r\nLFF\r\n\r\n   1.\r\n\r\n   KFBS Proposal\r\n\r\nJoanne Lee <joanne.lee@shopee.com>\r\n\r\nFeb 26\r\nPlease feel free to add on if I missed anything.\r\n\r\nBest,\r\nHyunji"
+        }
+      ]
+    }
+  ]
+}

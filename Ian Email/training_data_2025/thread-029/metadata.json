@@ -1,0 +1,135 @@
+{
+  "id": "thread-029",
+  "subject": "[Email Update] Bi-Weekly CB-PM Catch Up 20250313",
+  "date": "2025-03-13",
+  "deck_filename": "Bi-Weekly CB - PM Catch up - 20250314 (Email Update).pdf",
+  "deck_topic_tags": [
+    "strategy",
+    "product-launch",
+    "marketing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Ren Jiahui",
+      "Shuning Wang",
+      "Yiru Zhao"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Ren Jiahui",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi All,\r\n\r\nAs this week's meeting is cancelled, we will submit the meeting deck for\r\nreading.\r\n\r\n*Agenda:*\r\nKey Initiatives Update\r\n\r\n   1. CNLS seller feedback on Marketing tool\r\n   2. Shopbot LLM Rollout Status Update\r\n   3. CB BUG SLA review - Feb\r\n\r\nKindly note that\r\n\r\n   - There will be a separate email out on 03.14 requesting for HOD\r\n   approval on new marketplace P0P1 requests.\r\n   - Regular OKR project update is omitted from today's email. Please refer\r\n   to the regular weekly update email out on 03.15."
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\nUpdate the shopbot launch status on page 10 and csat/DR comparison (CB SCS\r\nvs local MP seller) on page 11.\r\nFor CB MP seller launch, loop @Yiru Zhao <yiru.zhao@shopee.com> to\r\ncoordinate between BPM and Derek, will update next week.\r\n\r\n@Jason Yu <jason.yu@shopee.com> and @Cheng Derek <derek.cheng@shopee.com> ,\r\nBPM collected cnls sellers' marketing feature needs (page 5 to 8), will\r\nreview and request to Bingyu team next week, see if good to you, and will\r\nwork with you on priority analysis\r\n\r\nThanks"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks. + @Ning Li <ning.li@shopee.com>\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - How does the LLM + NLU co-exist?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- If we look at deflection rate and CSAT, how does the LLM compare with\r\n   NLU at the moment?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- What is the plan moving forward for all 3 business lines?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Will we be\r\n   using LLM or NLU or both and when?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 11\r\n\r\n   - I am not sure it is one or the other but a balance\r\n   - If I have a question, I am perfectly ok if a bot can answer it. But if\r\n   I find that you are avoiding me on purpose, naturally I will not be very\r\n   happy about it. Off-hand, it does seem like our deflection rate is too high\r\n   at the moment\r\n   - Who is looking at this exactly?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "On how we can improve our shopbot for\r\n   SCS/Lovito/SIP?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- For eg. Do we know what are the most common queries that are coming\r\n   into Shopbot right now for each business?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "And do we have the relevant\r\n   answers to feed to the bot?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Yiru Zhao",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "+Way Liu <way.liu@shopee.com> +Vonnie Wu <vonnie.wu@shopee.com> +Janice Chen\r\n<janice.chen01@shopee.com> +Holiday Huang <jing.huang01@shopee.com> CBCS\r\nPIC for seller bot for vis"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\n\r\nSee answers below:\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   How does the LLM + NLU co-exist?\r\n   -\r\n\r\n      LLM is mostly used in pre-sales scenarios, while for post-sales\r\n      enquires, it will more rely on NLU (directly get fixed answer from biz\r\n      maintained intent knowledge base)\r\n      -\r\n\r\n   If we look at deflection rate and CSAT, how does the LLM compare with\r\n   NLU at the moment?\r\n   -\r\n\r\n      Neither product team nor us did a fair AB testing before. If we want\r\n      to make an objective comparison, it would be best to wait for\r\nthe A/B test\r\n      for choice/lovito/SIP LLM rollout at the end of March.\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the plan moving forward for all 3 business lines? Will we be\r\n   using LLM or NLU or both and when?\r\n   -\r\n\r\n      SCS/Lovito/SIP shopbot will all use LLM+NLU combination\r\n      -\r\n\r\n      Rollout plan:\r\n      -\r\n\r\n         Now - March 19: A/B  test preparation, solution review &\r\n         customization, UAT\r\n         -\r\n\r\n         Late March - Early April: A/B testing, LLM performance evaluation\r\n         -\r\n\r\n         Late April:  fully rollout for SCS/Lovito/SIP\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   -\r\n\r\n   I am not sure it is one or the other but a balance\r\n   -\r\n\r\n      It's supposed to be a balance\r\n      -\r\n\r\n   If I have a question, I am perfectly ok if a bot can answer it. But if I\r\n   find that you are avoiding me on purpose, naturally I will not be very\r\n   happy about it. Off-hand, it does seem like our deflection rate is too high\r\n   at the moment\r\n   -\r\n\r\n      Yes, agree that choice BR/PH/VN deflection rate is a bit too high.\r\n      Actually when we start to replace leliao(3rd party bot) with LLM shopbot\r\n      for SCS on 2024.10, SCS CS Biz have done a manual sampling & tagging of\r\n      Leliao and shopee bot deflected sessions  to verify the 'real deflection\r\n      rate'( bot truly understand buyer intent and provide the right answer\r\n      before buyer leave) of these two bots and it turns out the true\r\n      deflection rat"
+        }
+      ]
+    }
+  ]
+}

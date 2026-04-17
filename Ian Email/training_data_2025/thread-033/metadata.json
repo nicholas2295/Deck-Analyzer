@@ -1,0 +1,109 @@
+{
+  "id": "thread-033",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.03.27",
+  "date": "2025-03-26",
+  "deck_filename": "SCS & Lovito & Warehouse bi-weekly dicussion_2025.03.27.pdf",
+  "deck_topic_tags": [
+    "strategy",
+    "data-analysis",
+    "shopee",
+    "hiring",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du",
+      "LI Ning",
+      "Ran Yang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito and warehouse for\r\nour discussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nPlease kindly find the to-do's from today's meeting. Let me know if you\r\nhave any questions.\r\n\r\n[image: image.png]"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "LI Ning",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "@Jinyu Du <jinyu.du@shopee.com> , The screenshot is too small, and can't be\r\nclicked, help to send again?\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Sure, please find the updated version below:\r\n\r\n[image: image.png]"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nOn CS, can share with me a more detailed initiative list, timeline and\r\ntargets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "I want to understand better how we will fix the chatbot, productivity,\r\nhiring etc and our expectations in terms of improvements in the next few\r\nmonths.\r\n\r\n\r\n\r\nAnd for the metrics that we measure our CS quality, we should measure it\r\nacross all markets. Is there a way for us to build this into our daily\r\nreport right now?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "LI Ning",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "noted, we will come up with a plan by next week with all the details\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "noted, we will come up with a plan by next week with all the details\r\n\r\n*Best regards,*\r\n\r\n*LI Ning*\r\nSCS"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ran Yang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nFollowing up on your questions during our last bi-weekly meeting, here you\r\nmay find the CS team update deck as attached. This deck covers following\r\ntopics:\r\n\r\n   - By-month target setting and detailed initiative plan\r\n   - Discussion topic: FRT (First response time) comparison vs. local\r\n   SCS/SIP and CB Top Sellers\r\n   - Discussion topic: Chatbot LLM & NLU application in pre-sales & after\r\n   sales scenarios\r\n   - Appendix: By-site performance of CS team\r\n\r\nPlease let us know if you have any questions. Thanks!\r\n\r\nBest,\r\n\r\nRussell"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "thread-033",
+  "subject": "[Pre-read] Reg LFF/ CNLS/ Projects Monthly Update - Apr 2026",
+  "date": "2026-04-13",
+  "deck_filename": "[For Discussion] Reg CB LFF_CNLS_Projects Monthly Catchup - April_vf.pdf",
+  "deck_topic_tags": [
+    "strategy",
+    "product-launch",
+    "team-performance",
+    "user-growth",
+    "regional"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPlease find attached slides for our discussion tomorrow, let me know for\r\nany questions.\r\n\r\nThank you.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Where do we stand vs TT in terms of FBS/3PF penetration market by\r\n   market?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- What is the difference between FBS ADO % to seller and to shop?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Where did we land on when will FBS seller get FBS tag on SKU?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "What is\r\n   the # of SKUs/ADO that will lose FBS tag?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "How are we getting these sellers\r\n   to bring relevant variations into FBS?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Is it an impactful initiative that\r\n   we should work on?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 7\r\n\r\n   - I think we need to look at FBS ADO % of Shop level more closely, as\r\n   compared to just SKUs\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - We calculated using SKU efficiency?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "How has SKU efficiency for FBS\r\n   evolved over time?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- What are next steps here?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 11\r\n\r\n   - Have we looked at CR% assumptions at current ADIS requirement?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "First\r\n   step should be to increase the CR%?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Do we have market by market comparison?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 14 -15\r\n\r\n   - Do we have a sense of size of TTS only 3PF sellers by market?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "And what\r\n   is the CR % that we expect to bring onboard?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "- For the gap between us and TTS right now, how much is it via\r\n   acquisition of 3PF sellers we do not have, how much of it is increasing CR%\r\n   of SLS sellers?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "It is not very clear right now\r\n\r\n\r\n\r\nSlide 16\r\n\r\n   - Do not quite understand this. For potential sellers on\r\n   Amazon/Temu/Other platforms, are they based in local markets?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 22\r\n\r\n   - What is the % of ADO that we anticipate to acquire?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Feels like <20% by\r\n   each market?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Others\r\n\r\n   - What other projects are we working on?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to seller help see seller as a whole and get them to\r\nnot only increase FBS shop penetration but also convert their SLS / 3PF\r\nshop to FBS\r\n\r\n\r\n\r\n\r\n   -\r\n\r\n   Where did we land on when will FBS seller get FBS tag on SKU? What is\r\n   the # of SKUs/ADO that will lose FBS tag? How are we getting these sellers\r\n   to bring relevant variations into FBS? Is it an impactful initiative that\r\n   we should work on?\r\n\r\n\r\nFor FBS tagging, we land on SG MY PH at 80% ADO threshold, TH at 60%\r\nthreshold. With this threshold, around ~50% SKU can retain its tag covering\r\n~75% CB FBS ADO. This is expected to launch on 16 Apr. Around 50% of SKU\r\ncovering 25% ADO will lose the tag.\r\n\r\n\r\nWill get FBS tag\r\n\r\nSG\r\n\r\nMY\r\n\r\nTH\r\n\r\nPH\r\n\r\n#model coverage\r\n\r\n45%\r\n\r\n54%\r\n\r\n55%\r\n\r\n53%\r\n\r\nADO coverage\r\n\r\n79%\r\n\r\n73%\r\n\r\n74%\r\n\r\n71%\r\n\r\n\r\nWe’re working on a hunt list (for tag losing sellers with >70% ADO) and\r\nwill work with CN/KR to do a targeted push to encourage sellers to inbound\r\nmore models and prioritize the high performing models as low hanging fruit\r\n\r\n\r\n\r\nSlide 7\r\n\r\n   -\r\n\r\n   I think we need to look at FBS ADO % of Shop level more closely, as\r\n   compared to just SKUs\r\n\r\n\r\nYes, we also monitor ADO% of Shop (in slide 4, below please find the\r\nsummary)\r\n\r\n\r\nIn short, the seller penetration and shop penetration is growing in all\r\nmarkets but we realise that SKU count is declining. Thus we deep dive to\r\nSKU decline today, we will ensure\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   -\r\n\r\n   We calculated using S"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "increase addressable SKU,"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Launch New SKU package,"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Check WH capacity,"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "CN/KR to assess if to add to RM KPI\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   -\r\n\r\n   Have we looked at CR% assumptions at current ADIS requirement? First\r\n   step should be to increase the CR%? Do we have market by market comparison?\r\n\r\n\r\nYes we look at CR% at the current addressable pool (factor in ADIS cut off\r\nand licensing requirement). Current CR% is around 19% (PH/TH ADIS\r\nrequirement is more strict, hence pool is smaller and CR% higher at 27% and\r\n19%)\r\n\r\n\r\nYes our proposal is to focus on current pool first and trigger ADIS\r\ndiscussion when we hit >50% conversion of current pool\r\n\r\n\r\n\r\n [image: image.png]\r\n\r\nSlide 14 -15\r\n\r\n   -\r\n\r\n   Do we have a sense of size of TTS only 3PF sellers by market? And what\r\n   is the CR % that we expect to bring onboard?\r\n\r\n\r\nWe have a view of TTS only 3PF sellers based on 3PF survey, but we will\r\nalso gather this information from each local BI team, just like how we did\r\nfor VN.\r\n\r\nBased on 3PF vendor survey, TTS only 3PF sellers total around 239k ADO\r\n(slide 22), we are targeting to acquire ~20% of all sellers that 3PFs\r\nindicated in the survey\r\n\r\n\r\nADO view\r\n\r\nMY\r\n\r\nTH\r\n\r\nPH\r\n\r\nVN\r\n\r\nTTS only 3PF seller ADO base\r\n\r\n(Slide 22)\r\n\r\n59.8k\r\n\r\n62.2k\r\n\r\n70.3k\r\n\r\n46.0k\r\n\r\nProgram target to acquire TTS 3PF ADO\r\n\r\n11.9k\r\n\r\n9.1k\r\n\r\n10.9k\r\n\r\n7.8k\r\n\r\nConversion\r\n\r\n20%\r\n\r\n15%\r\n\r\n16%\r\n\r\n17%\r\n\r\n\r\n\r\nSeller # view\r\n\r\nMY\r\n\r\nTH\r\n\r\nPH\r\n\r\nVN\r\n\r\nTTS only 3PF sellers (Slide 22)\r\n\r\n1.9k\r\n\r\n1.1k\r\n\r\n1.1k\r\n\r\n674\r\n\r\nProgram target to acquire TTS 3PF sellers\r\n\r\n454\r\n\r\n243\r\n\r\n177\r\n\r\n47\r\n\r\nConversion\r\n\r\n24%\r\n\r\n22%\r\n\r\n16%\r\n\r\n7%\r\n\r\n\r\n\r\n   -\r\n\r\n   For the gap between us and TTS right now, how much is it via acquisition\r\n   of 3PF sellers we do not have, how much of it is increasing CR% of SLS\r\n   sellers? It is not very clear right now\r\n\r\n\r\nWe will get back on this on more clear view with by market breakdown and by\r\nlever breakdown so that we can track this more closely, our initial view is\r\nas below\r\n\r\n   -\r\n\r\n   Apr MTD we are at 50% LFF\r\n   -\r\n\r\n   TT"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Where do we stand vs TT in terms of FBS/3PF penetration market by market?\r\n\r\nSummary in slide 15, we are still behind TTS by 6%. We breakdown of how to\r\nclose is in late replies\r\n[image: f3c12abb-f457-4985-9f6e-44fec64ed117.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   What is the difference between FBS ADO % to seller and to shop?\r\n\r\n\r\nBig CB sellers typically have multiple shops, such as multiple SLS shop +\r\nmultiple 3PF shop + 1 or multiple FBS shop.\r\n\r\n\r\nWe think tracking FBS% to s"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi All,\r\n\r\nPlease see follow up from our catchup today, thank you.\r\n\r\nNo. Topic Action Items PIC DDL\r\n1 SKU push together with FBS Tagging Identify SKU hunt list to push for\r\nsellers inbound more SKU to hit 80% threshold and size the impact Jason 21\r\nApr\r\n2 SKU pool assessment For SKU funnel, extract top unconverted ADIS SKUs and\r\nfilter for eligible to inbound SKUs for priority pushing\r\nFor SKU that are light and more expensive to do FBS than SLS, to assess\r\nimpact to FBS SKU pool and discuss with local for solution e.g., rate card\r\nflexibility Jason 30 Apr\r\n3 TTS 3PF Program Target setting Re-assess TTS 3PF program target and push\r\nfor higher coverage over TTS only 3PF sellers pool Jason 21 Apr"
+        }
+      ]
+    }
+  ]
+}

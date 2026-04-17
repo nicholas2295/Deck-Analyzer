@@ -1,0 +1,61 @@
+{
+  "id": "thread-081",
+  "subject": "[Approval Needed] JPCB P1 Program Commission Discount Request (Aug–Dec 2025)",
+  "date": "2025-07-29",
+  "deck_filename": "P1 Yuna approval.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "business-review",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Xiaolin Huang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Xiaolin Huang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nI am writing to seek your approval for the JPCB P1 Program commission\r\ndiscount request for the August–December 2025 cycles, as recapped during\r\nthe biweekly yesterday. Due to time constraints, we’ve already secured\r\napproval from Yuna in advance — please find a snapshot of her approval\r\nemail attached for your reference.\r\n\r\n*Background & Business Objective:*\r\nAs shared previously, this program is designed to accelerate new seller\r\nonboarding and ADO by offering a 3% commission discount (excluding PH and\r\nTH) to sellers acquired through our key JP acquisition partners (seller\r\ncommunities). These sellers have historically outperformed the general new\r\nseller base, with 2–3x higher ADO per GP.\r\n\r\n*Commission Waiver Details:*\r\na) Date: *1st Aug – 31st Dec 2025 (5 months)*\r\nb) Commission discount %: 3% discount of the MP commission\r\nc) Eligible shops: 952 shops (subject to updates)\r\n\r\n*KPI Targets :*\r\n- Expected ADO: 1,720 ADO by Dec 2025 (+198% vs June baseline)\r\n- Expected ADGMV: 121K USD by Dec 2025 (+202% vs June baseline)\r\n- Estimated Foregone Revenue: ~15K USD/month initially, rising to ~30K\r\nUSD/month by Dec, as more sellers begin generating orders\r\n\r\nTo support the review, please find the attached P&L assessment table\r\nprovided by CBBI. The table reflects the performance of the updated August\r\ncycle shop list.\r\n[image: image.png]\r\n-- \r\n\r\n*Huang Xiao Lin*\r\n\r\nShopee | Cross Border | JPCB SA & ICB\r\n\r\n*Mobile:* +82 010-9663-1316\r\n\r\n*Address:* 16F, Centerfield West Tower, 231, Teheran-ro, Gangnam-gu, Seoul,\r\nRepublic of Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Can remind me what is this about again?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "As new sellers, their commissions is already 0% right?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Xiaolin Huang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nYes, you're right — new sellers enjoy a 0% commission for their first 3\r\nmonths as part of the standard onboarding benefit.\r\n\r\nHowever, the JP P1 Program is different and does not target new sellers.\r\n\r\nAs Haenle mentioned during the meeting yesterday, the P1 Program targets\r\nexisting resellers from top-performing seller communities. Under this\r\nprogram, Shopee offers a 3% commission discount, and in return, sellers are\r\nexpected to reinvest in paid ads and work toward specific ADO targets set\r\nby us, with support from the communities (e.g., education materials,\r\nlisting tools, etc.).\r\n\r\nThe program is starting from 8/1, and the seller communities have expressed\r\nstrong confidence in the scheme and their ability to meet the assigned\r\nseller count and ADO targets. We're now following up to seek your official\r\napproval to engage with CBBI for the commission discount setup.\r\n\r\nPlease let me know if you have further questions."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nYes, you're right — new sellers enjoy a 0% commission for their first 3\r\nmonths as part of the standard onboarding benefit.\r\n\r\nHowever, the JP P1 Program is different and does not target new sellers.\r\n\r\nAs Haenle mentioned during the meeting yesterday, the P1 Program targets\r\nexisting resellers from top-performing seller communities. Under this\r\nprogram, Shopee offers a 3% commission discount, and in return, sellers are\r\nexpected to reinvest in paid ads and work toward specific ADO ta"
+        }
+      ]
+    }
+  ]
+}

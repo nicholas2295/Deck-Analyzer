@@ -1,0 +1,1637 @@
+{
+  "total_threads": 129,
+  "date_range": {
+    "from": "2024-12-30",
+    "to": "2025-12-19"
+  },
+  "all_tags": [
+    "business-review",
+    "category",
+    "cross-border",
+    "data-analysis",
+    "e-commerce",
+    "finance",
+    "gmv",
+    "growth",
+    "hiring",
+    "logistics",
+    "marketing",
+    "marketplace",
+    "pricing",
+    "product-launch",
+    "quarterly-review",
+    "regional",
+    "seller-acquisition",
+    "shopee",
+    "sip",
+    "strategy",
+    "supply-chain",
+    "team-performance",
+    "tech",
+    "user-growth"
+  ],
+  "threads": [
+    {
+      "id": "thread-001",
+      "subject": "[Shuning's Approval Needed] Oh Ee Ching | BPM Team - Corporate, FTE, Associate, Regional Cross Border",
+      "date": "2024-12-30",
+      "tags": [
+        "regional",
+        "shopee",
+        "hiring",
+        "cross-border"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-002",
+      "subject": "Re: [For Approval] SG Export LH and TWS vendor(SSO) - Contract Amendment and New Contract",
+      "date": "2025-01-02",
+      "tags": [
+        "supply-chain",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-003",
+      "subject": "Jan SIP monthly meeting - pre-reads",
+      "date": "2025-01-05",
+      "tags": [
+        "finance",
+        "pricing",
+        "regional",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-004",
+      "subject": "SIP Weekly Update - Week of 6 Jan",
+      "date": "2025-01-12",
+      "tags": [
+        "regional",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-005",
+      "subject": "Fwd: IDSIP Jan Monthly Meeting - Direct sale part",
+      "date": "2025-01-13",
+      "tags": [
+        "product-launch",
+        "category",
+        "shopee",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 11
+    },
+    {
+      "id": "thread-006",
+      "subject": "[Pre-Reading] THCB Monthly Meeting Update Jan'25",
+      "date": "2025-01-14",
+      "tags": [
+        "finance",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-007",
+      "subject": "[Pre-read] CB Monthly Update - VN - Jan 15, 2025",
+      "date": "2025-01-15",
+      "tags": [
+        "finance",
+        "category",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-008",
+      "subject": "[Pre-read] KR/JP '25 Jan Monthly Business Update Meeting Deck_250116",
+      "date": "2025-01-16",
+      "tags": [
+        "finance",
+        "pricing",
+        "regional",
+        "shopee",
+        "tech"
+      ],
+      "num_turns": 15
+    },
+    {
+      "id": "thread-009",
+      "subject": "SIP Weekly Update - Week of 13 Jan",
+      "date": "2025-01-18",
+      "tags": [
+        "product-launch",
+        "quarterly-review",
+        "marketing",
+        "regional",
+        "sip"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-010",
+      "subject": "[For Review] Jan CB Monthly Management Meeting",
+      "date": "2025-01-20",
+      "tags": [
+        "finance",
+        "growth",
+        "marketing",
+        "data-analysis",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-011",
+      "subject": "[For Review] Jan CB Quarterly Management Meeting",
+      "date": "2025-01-24",
+      "tags": [
+        "quarterly-review",
+        "growth",
+        "regional",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-012",
+      "subject": "SIP Weekly Update - Week of 20 Jan",
+      "date": "2025-01-27",
+      "tags": [
+        "logistics",
+        "finance",
+        "strategy",
+        "product-launch",
+        "growth"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-013",
+      "subject": "Feb SIP monthly meeting - pre-reads",
+      "date": "2025-02-10",
+      "tags": [
+        "finance",
+        "product-launch",
+        "quarterly-review",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-014",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Feb'25",
+      "date": "2025-02-11",
+      "tags": [
+        "finance",
+        "strategy",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-015",
+      "subject": "[Pre-read] CB Monthly Update - VN - Feb 19, 2025",
+      "date": "2025-02-18",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "strategy",
+        "product-launch"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-016",
+      "subject": "[Urgent Shuning Approval Needed] Rachael Leong Fu Rong | Regional Cross Border, Business Intelligence, Financial Planning & Analytics Team - Corporate, FTE - Associate, Cross Border",
+      "date": "2025-02-19",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "regional",
+        "shopee",
+        "hiring"
+      ],
+      "num_turns": 11
+    },
+    {
+      "id": "thread-017",
+      "subject": "Materials for Reg CB HRBP Updates - 21 Feb 2025",
+      "date": "2025-02-20",
+      "tags": [
+        "finance",
+        "team-performance",
+        "shopee",
+        "hiring",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-018",
+      "subject": "SIP Weekly Update - Week ending 21 Feb",
+      "date": "2025-02-22",
+      "tags": [
+        "finance",
+        "product-launch",
+        "marketing",
+        "pricing",
+        "supply-chain"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-019",
+      "subject": "PHCB Monthly Update - 26 Feb 2025",
+      "date": "2025-02-25",
+      "tags": [
+        "finance",
+        "team-performance",
+        "regional",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-020",
+      "subject": "[Pre-reading] TH CB Monthly Update Feb",
+      "date": "2025-02-26",
+      "tags": [
+        "seller-acquisition",
+        "strategy",
+        "user-growth",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-021",
+      "subject": "SIP Weekly Update - Week ending 28 Feb",
+      "date": "2025-03-01",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "growth"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-022",
+      "subject": "[TH] CB weekly update - Week of 28 Feb ’25",
+      "date": "2025-03-02",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "shopee",
+        "tech",
+        "cross-border"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-023",
+      "subject": "[Shuning's Approval Needed] Lyanne Li Yuan | SIP Special Projects Team - Corporate, FTE, Senior Associate, Regional Cross Border",
+      "date": "2025-03-04",
+      "tags": [
+        "regional",
+        "shopee",
+        "hiring",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-024",
+      "subject": "[Shuning's Approval Needed] McCoy Toh | SIP Special Projects Team - Corporate, FTE, Associate, Regional Cross Border",
+      "date": "2025-03-04",
+      "tags": [
+        "regional",
+        "shopee",
+        "hiring",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-025",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.03.05",
+      "date": "2025-03-05",
+      "tags": [
+        "finance",
+        "category",
+        "data-analysis",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-026",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Mar'25",
+      "date": "2025-03-06",
+      "tags": [
+        "finance",
+        "strategy",
+        "regional",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-027",
+      "subject": "Mar SIP monthly meeting - pre-reads",
+      "date": "2025-03-10",
+      "tags": [
+        "finance",
+        "regional",
+        "shopee",
+        "hiring",
+        "cross-border"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-028",
+      "subject": "Flexi-Work Arrangement (FWA) - WFH Request - Tammy Choo Min Li",
+      "date": "2025-03-12",
+      "tags": [
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-029",
+      "subject": "[Email Update] Bi-Weekly CB-PM Catch Up 20250313",
+      "date": "2025-03-13",
+      "tags": [
+        "strategy",
+        "product-launch",
+        "marketing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-030",
+      "subject": "[Ian Approval Needed] Charlene Cheah Mun Yee | Regional Cross Border, Business Intelligence, Financial Planning & Analytics Team - Corporate, FTE - Associate, Cross Border",
+      "date": "2025-03-14",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "regional",
+        "shopee",
+        "hiring"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-031",
+      "subject": "SIP Weekly Update - Week ending 14 Mar",
+      "date": "2025-03-15",
+      "tags": [
+        "gmv",
+        "logistics",
+        "finance",
+        "product-launch",
+        "marketing"
+      ],
+      "num_turns": 13
+    },
+    {
+      "id": "thread-032",
+      "subject": "FW: Monthly Regional Marketplace Ops - 19 Mar 2025",
+      "date": "2025-03-18",
+      "tags": [
+        "marketplace",
+        "quarterly-review",
+        "regional"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-033",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.03.27",
+      "date": "2025-03-26",
+      "tags": [
+        "strategy",
+        "data-analysis",
+        "shopee",
+        "hiring",
+        "business-review"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-034",
+      "subject": "Re: [For Approval] [PHCB] Commission Waiver for 2025 Focus Brands Program",
+      "date": "2025-03-27",
+      "tags": [
+        "growth",
+        "shopee",
+        "tech"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-035",
+      "subject": "[Pre-read] KR/JP Bi-weekly Update_250328",
+      "date": "2025-03-27",
+      "tags": [
+        "finance",
+        "supply-chain",
+        "regional",
+        "shopee",
+        "business-review"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-036",
+      "subject": "SIP Weekly Update - Week ending 28 Mar",
+      "date": "2025-03-29",
+      "tags": [
+        "gmv",
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "strategy"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-037",
+      "subject": "[Urgent Ian Approval Needed] Soo Wan Cheng | Regional Cross Border, Business Intelligence, Financial Planning & Analytics Team - Corporate, FTE - Associate, Cross Border Ecommerce",
+      "date": "2025-04-02",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "regional",
+        "e-commerce",
+        "cross-border"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-038",
+      "subject": "<Pre-read> Follow-up on Shop CS from Reg CS",
+      "date": "2025-04-03",
+      "tags": [
+        "finance",
+        "team-performance",
+        "data-analysis",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 19
+    },
+    {
+      "id": "thread-039",
+      "subject": "PH CB Monthly Update 7 Apr 2025",
+      "date": "2025-04-04",
+      "tags": [
+        "regional",
+        "shopee",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-040",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Apr'25",
+      "date": "2025-04-06",
+      "tags": [
+        "marketplace",
+        "finance",
+        "strategy",
+        "regional",
+        "tech"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-041",
+      "subject": "SIP Weekly Update - Week ending 4 Apr",
+      "date": "2025-04-08",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "strategy",
+        "pricing",
+        "data-analysis"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-042",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.04.11",
+      "date": "2025-04-10",
+      "tags": [
+        "finance",
+        "marketing",
+        "category",
+        "pricing",
+        "data-analysis"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-043",
+      "subject": "[For Shuning's Approval] Meimei Tan - MY Marketing to Reg CB (MY Satellite Team)",
+      "date": "2025-04-15",
+      "tags": [
+        "marketing",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-044",
+      "subject": "SIP Weekly Update - Week ending 18 Apr",
+      "date": "2025-04-20",
+      "tags": [
+        "logistics",
+        "finance",
+        "data-analysis",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-045",
+      "subject": "[Pre-read] Apr CB Quarterly Management Meeting",
+      "date": "2025-04-21",
+      "tags": [
+        "finance",
+        "quarterly-review",
+        "shopee",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-046",
+      "subject": "[Pre-read] SCS & Lovito bi-weekly update_2025.04.22",
+      "date": "2025-04-21",
+      "tags": [
+        "finance",
+        "growth",
+        "marketing",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-047",
+      "subject": "SIP Weekly Update - Week ending 25 Apr",
+      "date": "2025-04-28",
+      "tags": [
+        "marketplace",
+        "logistics",
+        "finance",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-048",
+      "subject": "SIP Weekly Update - Week ending 2 May",
+      "date": "2025-05-06",
+      "tags": [
+        "marketplace",
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "strategy"
+      ],
+      "num_turns": 9
+    },
+    {
+      "id": "thread-049",
+      "subject": "CB Discussion Topics for 20th May",
+      "date": "2025-05-09",
+      "tags": [
+        "finance",
+        "growth",
+        "shopee",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 9
+    },
+    {
+      "id": "thread-050",
+      "subject": "May SIP monthly meeting",
+      "date": "2025-05-12",
+      "tags": [
+        "finance",
+        "quarterly-review",
+        "growth",
+        "marketing",
+        "regional"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-051",
+      "subject": "Materials for Reg CB Tech BI Discussion - 15 May 2025",
+      "date": "2025-05-14",
+      "tags": [
+        "tech",
+        "cross-border"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-052",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.05.15",
+      "date": "2025-05-14",
+      "tags": [
+        "finance",
+        "strategy",
+        "category",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-053",
+      "subject": "[Shuning Approval Needed] Gaspar Ching Loi Min | Regional Cross Border, Taiwan CB Team - Corporate, FTE - Associate, Cross Border Ecommerce",
+      "date": "2025-05-15",
+      "tags": [
+        "finance",
+        "regional",
+        "shopee",
+        "e-commerce",
+        "hiring"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-054",
+      "subject": "[For Review] Anbo Warehouse Commission and Choice SLS discount Proposal",
+      "date": "2025-05-16",
+      "tags": [
+        "finance",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-055",
+      "subject": "SIP Weekly Update - Week ending 16 May",
+      "date": "2025-05-19",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "growth"
+      ],
+      "num_turns": 9
+    },
+    {
+      "id": "thread-056",
+      "subject": "CNSIP revamp update",
+      "date": "2025-05-22",
+      "tags": [
+        "growth",
+        "marketing",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-057",
+      "subject": "Materials for Discussion of Reg CB MY Offshore Plan - 26 May 2025",
+      "date": "2025-05-23",
+      "tags": [
+        "finance",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-058",
+      "subject": "SIP Weekly Update - Week ending 30 May",
+      "date": "2025-06-02",
+      "tags": [
+        "finance",
+        "strategy",
+        "growth",
+        "user-growth",
+        "pricing"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-059",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Jun'25",
+      "date": "2025-06-08",
+      "tags": [
+        "finance",
+        "strategy",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-060",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.06.10",
+      "date": "2025-06-09",
+      "tags": [
+        "finance",
+        "marketing",
+        "pricing",
+        "business-review"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-061",
+      "subject": "KR/JP Bi-weekly Update_ 250613",
+      "date": "2025-06-13",
+      "tags": [
+        "gmv",
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "strategy"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-062",
+      "subject": "SIP Weekly Update - Week ending 13 Jun",
+      "date": "2025-06-17",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "growth",
+        "user-growth"
+      ],
+      "num_turns": 8
+    },
+    {
+      "id": "thread-063",
+      "subject": "[For Review] Jun CB Monthly Management Meeting",
+      "date": "2025-06-21",
+      "tags": [
+        "pricing",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-064",
+      "subject": "SIP Weekly Update - Week ending 20 Jun",
+      "date": "2025-06-24",
+      "tags": [
+        "gmv",
+        "seller-acquisition",
+        "finance",
+        "team-performance",
+        "marketing"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-065",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.06.26",
+      "date": "2025-06-25",
+      "tags": [
+        "pricing",
+        "shopee",
+        "tech",
+        "business-review"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-066",
+      "subject": "[For Ian's approval] Local Movement from CNCB to Reg CB CN SIP - Linda Sun",
+      "date": "2025-06-26",
+      "tags": [
+        "shopee",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-067",
+      "subject": "SIP Weekly Update - Week ending 27 Jun",
+      "date": "2025-06-30",
+      "tags": [
+        "gmv",
+        "seller-acquisition",
+        "finance",
+        "strategy",
+        "team-performance"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-068",
+      "subject": "[For Approval] Request to approve CNLS partial fulfillment as Key Project",
+      "date": "2025-07-02",
+      "tags": [
+        "logistics",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-069",
+      "subject": "Reg CB Counter Taobao Weekly Report 20250704",
+      "date": "2025-07-07",
+      "tags": [
+        "seller-acquisition",
+        "strategy",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-070",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.07.09",
+      "date": "2025-07-08",
+      "tags": [
+        "finance",
+        "tech",
+        "business-review",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-071",
+      "subject": "KR/JP Bi-weekly Update_250711",
+      "date": "2025-07-10",
+      "tags": [
+        "gmv",
+        "finance",
+        "product-launch",
+        "growth",
+        "marketing"
+      ],
+      "num_turns": 16
+    },
+    {
+      "id": "thread-072",
+      "subject": "[For Review] Jul CB Quarterly Management Meeting",
+      "date": "2025-07-11",
+      "tags": [
+        "gmv",
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "quarterly-review"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-073",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Jul'25",
+      "date": "2025-07-14",
+      "tags": [
+        "finance",
+        "strategy",
+        "marketing",
+        "pricing",
+        "data-analysis"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-074",
+      "subject": "Materials for Reg CB HRBP Updates - 16 July 2025",
+      "date": "2025-07-15",
+      "tags": [
+        "quarterly-review",
+        "regional",
+        "hiring",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-075",
+      "subject": "Fwd: Quick recap of KR-TW CB counter Coupang",
+      "date": "2025-07-16",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "team-performance",
+        "marketing",
+        "user-growth"
+      ],
+      "num_turns": 18
+    },
+    {
+      "id": "thread-076",
+      "subject": "Jul SIP monthly meeting",
+      "date": "2025-07-20",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "quarterly-review",
+        "growth",
+        "pricing"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-077",
+      "subject": "Reg CB Counter Taobao Weekly Report 20250718",
+      "date": "2025-07-21",
+      "tags": [
+        "logistics",
+        "growth",
+        "pricing",
+        "shopee",
+        "tech"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-078",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.07.23",
+      "date": "2025-07-23",
+      "tags": [
+        "finance",
+        "product-launch",
+        "growth",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-079",
+      "subject": "KR/JP Bi-weekly Update_250728",
+      "date": "2025-07-27",
+      "tags": [
+        "seller-acquisition",
+        "growth",
+        "marketing",
+        "user-growth",
+        "pricing"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-080",
+      "subject": "[For Read] KRJP P&L accuracy and profitablity Updates_20250728",
+      "date": "2025-07-28",
+      "tags": [
+        "finance",
+        "regional",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-081",
+      "subject": "[Approval Needed] JPCB P1 Program Commission Discount Request (Aug–Dec 2025)",
+      "date": "2025-07-29",
+      "tags": [
+        "seller-acquisition",
+        "business-review",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-082",
+      "subject": "Reg CB Counter Taobao Weekly Report 20250731",
+      "date": "2025-08-04",
+      "tags": [
+        "growth",
+        "marketing",
+        "pricing",
+        "data-analysis",
+        "regional"
+      ],
+      "num_turns": 14
+    },
+    {
+      "id": "thread-083",
+      "subject": "[For Review] Nanning WH positioning",
+      "date": "2025-08-12",
+      "tags": [
+        "finance",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 9
+    },
+    {
+      "id": "thread-084",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.08.13",
+      "date": "2025-08-12",
+      "tags": [
+        "finance",
+        "strategy",
+        "team-performance",
+        "growth",
+        "marketing"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-085",
+      "subject": "[For Visibility] Aug CB Monthly Management Meeting Agenda",
+      "date": "2025-08-13",
+      "tags": [
+        "finance",
+        "strategy",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-086",
+      "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Aug 2025",
+      "date": "2025-08-18",
+      "tags": [
+        "logistics",
+        "finance",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-087",
+      "subject": "[Shuning Approval Needed] Chong Wai Sheen | Regional Cross Border, Business Intelligence Team - Corporate, FTE - Associate, Regional Cross Border",
+      "date": "2025-08-18",
+      "tags": [
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-088",
+      "subject": "KR/JP Bi-weekly Update_250822",
+      "date": "2025-08-22",
+      "tags": [
+        "gmv",
+        "seller-acquisition",
+        "finance",
+        "marketing",
+        "user-growth"
+      ],
+      "num_turns": 8
+    },
+    {
+      "id": "thread-089",
+      "subject": "[Pre-read] Aug SIP monthly meeting",
+      "date": "2025-08-24",
+      "tags": [
+        "finance",
+        "category",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-090",
+      "subject": "",
+      "date": "2025-08-25",
+      "tags": [
+        "pricing",
+        "business-review"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-091",
+      "subject": "SIP Weekly Update - Week ending 29 Aug",
+      "date": "2025-08-31",
+      "tags": [
+        "finance",
+        "product-launch",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-092",
+      "subject": "TWCB weekly update - Week of September 5, 2025",
+      "date": "2025-09-05",
+      "tags": [
+        "gmv",
+        "logistics",
+        "finance",
+        "strategy",
+        "pricing"
+      ],
+      "num_turns": 11
+    },
+    {
+      "id": "thread-093",
+      "subject": "SIP Weekly Update - Week ending 5 Sep",
+      "date": "2025-09-08",
+      "tags": [
+        "finance",
+        "regional",
+        "sip"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-094",
+      "subject": "[Shuning Approval Needed] Jesper Fong | Regional Cross Border, BPM Team - Corporate, FTE - Associate, Product Management",
+      "date": "2025-09-08",
+      "tags": [
+        "regional",
+        "shopee",
+        "hiring",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-095",
+      "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Sep 2025",
+      "date": "2025-09-10",
+      "tags": [
+        "finance",
+        "cross-border"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-096",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.09.18",
+      "date": "2025-09-17",
+      "tags": [
+        "finance",
+        "growth",
+        "pricing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-097",
+      "subject": "[Pre-read] Sep SIP monthly meeting",
+      "date": "2025-09-17",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "strategy",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-098",
+      "subject": "[Pre-read] Counter coupang study",
+      "date": "2025-09-19",
+      "tags": [
+        "category",
+        "shopee",
+        "business-review",
+        "cross-border"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-099",
+      "subject": "[For Review] Sep CB Monthly Management Meeting",
+      "date": "2025-09-22",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "growth",
+        "pricing"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-100",
+      "subject": "SIP Weekly Update - Week ending 26 Sep",
+      "date": "2025-09-28",
+      "tags": [
+        "finance",
+        "product-launch",
+        "user-growth",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-101",
+      "subject": "KR/JP Bi-weekly Update_250930",
+      "date": "2025-09-29",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "strategy",
+        "growth",
+        "marketing"
+      ],
+      "num_turns": 20
+    },
+    {
+      "id": "thread-102",
+      "subject": "Reg CB Counter Taobao Weekly Report 20250926",
+      "date": "2025-09-30",
+      "tags": [
+        "finance",
+        "growth",
+        "marketing",
+        "user-growth",
+        "pricing"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-103",
+      "subject": "SIP Weekly Update - Week ending 3 Oct",
+      "date": "2025-10-05",
+      "tags": [
+        "logistics",
+        "finance",
+        "strategy",
+        "product-launch",
+        "team-performance"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-104",
+      "subject": "[For Your Approval] CorpPass Application to apply for Enterprise Development Grant - Enterprise Singapore",
+      "date": "2025-10-06",
+      "tags": [
+        "shopee",
+        "tech",
+        "cross-border"
+      ],
+      "num_turns": 11
+    },
+    {
+      "id": "thread-105",
+      "subject": "[For Review] Oct CB Quarterly Management Meeting",
+      "date": "2025-10-09",
+      "tags": [
+        "finance",
+        "quarterly-review",
+        "data-analysis",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 12
+    },
+    {
+      "id": "thread-106",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.10.21",
+      "date": "2025-10-17",
+      "tags": [
+        "gmv",
+        "finance",
+        "strategy",
+        "growth",
+        "category"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-107",
+      "subject": "SIP Weekly Update - Week ending 17 Oct",
+      "date": "2025-10-18",
+      "tags": [
+        "product-launch",
+        "growth",
+        "pricing",
+        "data-analysis",
+        "regional"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-108",
+      "subject": "[Pre-read] TWCB Monthly Management Meeting Update_October 2025",
+      "date": "2025-10-20",
+      "tags": [
+        "finance",
+        "growth",
+        "cross-border"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-109",
+      "subject": "KR/JP Bi-weekly Update_251023",
+      "date": "2025-10-22",
+      "tags": [
+        "gmv",
+        "finance",
+        "growth",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-110",
+      "subject": "[Pre-read] ERP Project Meeting Update_October 2025",
+      "date": "2025-10-23",
+      "tags": [
+        "logistics",
+        "finance",
+        "regional",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 8
+    },
+    {
+      "id": "thread-111",
+      "subject": "[Pre-read] Oct-25 SIP monthly meeting",
+      "date": "2025-10-26",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "regional",
+        "shopee",
+        "sip"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-112",
+      "subject": "SIP Weekly Update - Week ending 31 Oct",
+      "date": "2025-11-02",
+      "tags": [
+        "gmv",
+        "finance",
+        "marketing",
+        "pricing",
+        "data-analysis"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-113",
+      "subject": "Reg CB Counter Taobao Weekly Report 202501030",
+      "date": "2025-11-03",
+      "tags": [
+        "gmv",
+        "marketing",
+        "user-growth",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-114",
+      "subject": "KR/JP Bi-weekly Update_251106",
+      "date": "2025-11-05",
+      "tags": [
+        "gmv",
+        "finance",
+        "strategy",
+        "marketing",
+        "pricing"
+      ],
+      "num_turns": 22
+    },
+    {
+      "id": "thread-115",
+      "subject": "[Special Offer - Ian Approval Needed] Han Wan Chee | Regional Cross Border, BPM Team - Corporate, FTE, Associate, Cross Border",
+      "date": "2025-11-05",
+      "tags": [
+        "regional",
+        "cross-border"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-116",
+      "subject": "SIP Weekly Update - Week Ending 7 Nov",
+      "date": "2025-11-10",
+      "tags": [
+        "finance",
+        "sip"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-117",
+      "subject": "[For Shuning's Approval] Internal Transfer - Shermaine Ang (SP14028) - Reg CB to SGBD team",
+      "date": "2025-11-10",
+      "tags": [
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-118",
+      "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Nov 2025",
+      "date": "2025-11-10",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "quarterly-review",
+        "growth",
+        "pricing"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-119",
+      "subject": "[For Shuning's Approval - Nov 2025] Reg CB - Off In Lieu",
+      "date": "2025-11-12",
+      "tags": [
+        "marketing",
+        "shopee",
+        "cross-border"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-120",
+      "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.11.13",
+      "date": "2025-11-12",
+      "tags": [
+        "finance",
+        "strategy",
+        "product-launch",
+        "marketing",
+        "category"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-121",
+      "subject": "IDSIP Rubik cube case follow up",
+      "date": "2025-11-13",
+      "tags": [
+        "category",
+        "pricing",
+        "sip"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-122",
+      "subject": "KR/JP Bi-weekly Update_251120",
+      "date": "2025-11-19",
+      "tags": [
+        "shopee",
+        "business-review",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-123",
+      "subject": "[Pre-read] Nov-25 SIP monthly meeting",
+      "date": "2025-11-19",
+      "tags": [
+        "finance",
+        "strategy",
+        "regional",
+        "sip"
+      ],
+      "num_turns": 2
+    },
+    {
+      "id": "thread-124",
+      "subject": "SIP Weekly Update - Week ending 28 Nov",
+      "date": "2025-12-01",
+      "tags": [
+        "product-launch",
+        "regional",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-125",
+      "subject": "KR/JP Bi-weekly Update_251203",
+      "date": "2025-12-02",
+      "tags": [
+        "finance",
+        "growth",
+        "category",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 22
+    },
+    {
+      "id": "thread-126",
+      "subject": "SIP Weekly Update - Week ending 5 Dec",
+      "date": "2025-12-08",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "quarterly-review"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-127",
+      "subject": "[For Review] Dec CB Monthly Management Meeting",
+      "date": "2025-12-12",
+      "tags": [
+        "product-launch",
+        "growth",
+        "cross-border",
+        "sip"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-128",
+      "subject": "[For Ian Approval] [PHCB] Base commission adjustments for 1 Jan 2026",
+      "date": "2025-12-16",
+      "tags": [
+        "tech",
+        "cross-border"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-129",
+      "subject": "[Email update] Dec-25 SIP monthly meeting",
+      "date": "2025-12-19",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "marketing",
+        "user-growth"
+      ],
+      "num_turns": 9
+    }
+  ]
+}

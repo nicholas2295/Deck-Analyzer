@@ -1,0 +1,420 @@
+{
+  "total_threads": 33,
+  "date_range": {
+    "from": "2025-12-02",
+    "to": "2026-04-13"
+  },
+  "all_tags": [
+    "business-review",
+    "category",
+    "data-analysis",
+    "e-commerce",
+    "finance",
+    "gmv",
+    "growth",
+    "hiring",
+    "logistics",
+    "marketing",
+    "ops-review",
+    "pricing",
+    "product-launch",
+    "quarterly-review",
+    "regional",
+    "seller-acquisition",
+    "shopee",
+    "strategy",
+    "supply-chain",
+    "team-performance",
+    "tech",
+    "user-growth"
+  ],
+  "threads": [
+    {
+      "id": "thread-001",
+      "subject": "KR/JP Bi-weekly Update_251203",
+      "date": "2025-12-02",
+      "tags": [
+        "finance",
+        "growth",
+        "category",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 22
+    },
+    {
+      "id": "thread-002",
+      "subject": "SIP Weekly Update - Week ending 5 Dec",
+      "date": "2025-12-08",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "quarterly-review"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-003",
+      "subject": "[Email update] Dec-25 SIP monthly meeting",
+      "date": "2025-12-19",
+      "tags": [
+        "seller-acquisition",
+        "finance",
+        "product-launch",
+        "marketing",
+        "user-growth"
+      ],
+      "num_turns": 9
+    },
+    {
+      "id": "thread-004",
+      "subject": "KR/JP Bi-weekly Update_250107",
+      "date": "2026-01-07",
+      "tags": [
+        "team-performance",
+        "marketing",
+        "user-growth",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 3
+    },
+    {
+      "id": "thread-005",
+      "subject": "[For Approval] TWCB 3PL 7-11 Seaway New Contract and OKMart Contract Addendum",
+      "date": "2026-01-13",
+      "tags": [
+        "logistics",
+        "shopee"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-006",
+      "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Jan 2026",
+      "date": "2026-01-13",
+      "tags": [
+        "finance",
+        "regional"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-007",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Jan'26",
+      "date": "2026-01-14",
+      "tags": [
+        "strategy",
+        "business-review"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-008",
+      "subject": "[Pre-read] Swarm 2026 Business plan",
+      "date": "2026-01-17",
+      "tags": [
+        "seller-acquisition",
+        "pricing",
+        "shopee"
+      ],
+      "num_turns": 11
+    },
+    {
+      "id": "thread-009",
+      "subject": "KR/JP Bi-weekly Update_250127",
+      "date": "2026-01-26",
+      "tags": [
+        "gmv",
+        "ops-review",
+        "marketing",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-010",
+      "subject": "[CB Budgeting] CB Jan'26 Cycle Submissions - Preliminary",
+      "date": "2026-01-27",
+      "tags": [
+        "finance",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-011",
+      "subject": "[For Shuning & Kel Jin Review] Reg CB Townhall Agenda - 27 Feb 2026",
+      "date": "2026-01-29",
+      "tags": [
+        "data-analysis",
+        "regional",
+        "shopee",
+        "hiring"
+      ],
+      "num_turns": 10
+    },
+    {
+      "id": "thread-012",
+      "subject": "SIP weekly update - week ending 30 Jan",
+      "date": "2026-02-02",
+      "tags": [
+        "logistics",
+        "finance",
+        "growth",
+        "marketing",
+        "regional"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-013",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Feb'26",
+      "date": "2026-02-08",
+      "tags": [
+        "finance",
+        "strategy",
+        "user-growth",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 14
+    },
+    {
+      "id": "thread-014",
+      "subject": "SIP weekly update - week ending 6 Feb",
+      "date": "2026-02-09",
+      "tags": [
+        "user-growth",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-015",
+      "subject": "[Pre-read] Reg CB LFF/ CNLS/ Projects Monthly Update - Feb 2026",
+      "date": "2026-02-10",
+      "tags": [
+        "finance",
+        "marketing",
+        "regional"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-016",
+      "subject": "KR/JP Bi-weekly Update_260212",
+      "date": "2026-02-11",
+      "tags": [
+        "quarterly-review",
+        "team-performance",
+        "pricing",
+        "data-analysis",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-017",
+      "subject": "SIP weekly update - week ending 13 Feb",
+      "date": "2026-02-16",
+      "tags": [
+        "marketing",
+        "user-growth",
+        "shopee"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-018",
+      "subject": "Feb-26 SIP monthly meeting",
+      "date": "2026-02-25",
+      "tags": [
+        "product-launch",
+        "growth",
+        "marketing",
+        "regional"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-019",
+      "subject": "KR/JP Bi-weekly Update_260305",
+      "date": "2026-03-05",
+      "tags": [
+        "growth",
+        "category",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 14
+    },
+    {
+      "id": "thread-020",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Mar'26",
+      "date": "2026-03-09",
+      "tags": [
+        "strategy",
+        "category"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-021",
+      "subject": "[Pre-read] Changes to CN eCommerce Regulations",
+      "date": "2026-03-11",
+      "tags": [
+        "gmv",
+        "seller-acquisition",
+        "shopee",
+        "e-commerce"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-022",
+      "subject": "[For Visibility] March CB Quarterly Management Meeting Agenda",
+      "date": "2026-03-17",
+      "tags": [
+        "quarterly-review",
+        "business-review"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-023",
+      "subject": "Mar-26 SIP monthly meeting",
+      "date": "2026-03-20",
+      "tags": [
+        "finance",
+        "strategy",
+        "user-growth",
+        "pricing",
+        "regional"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-024",
+      "subject": "KR/JP Bi-weekly Update_260320",
+      "date": "2026-03-21",
+      "tags": [
+        "logistics",
+        "seller-acquisition",
+        "strategy",
+        "user-growth",
+        "supply-chain"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-025",
+      "subject": "[Urgent Shuning's Approval Needed] Claris Peh | Regional Cross Border, PMO Team (Zhang Yu's) - Corporate, FTE - Associate, Cross Border Ecommerce",
+      "date": "2026-03-25",
+      "tags": [
+        "regional",
+        "shopee",
+        "e-commerce"
+      ],
+      "num_turns": 8
+    },
+    {
+      "id": "thread-026",
+      "subject": "[For Review] March CB Quarterly Management Meeting",
+      "date": "2026-03-26",
+      "tags": [
+        "finance",
+        "strategy",
+        "quarterly-review",
+        "growth",
+        "category"
+      ],
+      "num_turns": 6
+    },
+    {
+      "id": "thread-027",
+      "subject": "[Pre-read] MY & SG CB Monthly Update - Mar 2026",
+      "date": "2026-03-29",
+      "tags": [
+        "growth",
+        "data-analysis",
+        "regional",
+        "shopee"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-028",
+      "subject": "KR/JP Bi-weekly Update_260401",
+      "date": "2026-04-01",
+      "tags": [
+        "finance",
+        "regional"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-029",
+      "subject": "[For JH, Ian Approval] [PHCB] Ads Auto Escrow Top Up",
+      "date": "2026-04-03",
+      "tags": [
+        "regional",
+        "tech"
+      ],
+      "num_turns": 4
+    },
+    {
+      "id": "thread-030",
+      "subject": "SIP weekly update - week ending 3 Apr",
+      "date": "2026-04-05",
+      "tags": [
+        "finance",
+        "ops-review",
+        "marketing",
+        "user-growth",
+        "pricing"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-031",
+      "subject": "VNCB SOB Analysis",
+      "date": "2026-04-06",
+      "tags": [
+        "finance",
+        "data-analysis",
+        "shopee"
+      ],
+      "num_turns": 5
+    },
+    {
+      "id": "thread-032",
+      "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Apr'26",
+      "date": "2026-04-13",
+      "tags": [
+        "gmv",
+        "logistics",
+        "finance",
+        "strategy",
+        "growth"
+      ],
+      "num_turns": 7
+    },
+    {
+      "id": "thread-033",
+      "subject": "[Pre-read] Reg LFF/ CNLS/ Projects Monthly Update - Apr 2026",
+      "date": "2026-04-13",
+      "tags": [
+        "strategy",
+        "product-launch",
+        "team-performance",
+        "user-growth",
+        "regional"
+      ],
+      "num_turns": 4
+    }
+  ]
+}

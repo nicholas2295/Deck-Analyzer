@@ -1,0 +1,131 @@
+{
+  "id": "thread-020",
+  "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Mar'26",
+  "date": "2026-03-09",
+  "deck_filename": "CB FP&A Meeting_Initiatives and Updates_20260310.pdf",
+  "deck_topic_tags": [
+    "strategy",
+    "category"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls kindly find tmr's CB FP&A monthly meeting material, we will cover the\r\nfollowing topics, also includes updates on weekly report about TH tax and\r\nSwarm performance\r\n\r\nCB Performance update\r\n\r\n   - Feb’26 Review\r\n   - Mar’26 Projections\r\n   - CNY recovery/impact to topline\r\n   - Breakdown of Swarm latest performance\r\n\r\nKey Initiatives Updates :\r\n\r\n   - Impact from Technical Support Fee\r\n   - TH Tax impact after Feb 9th\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Any chance to isolate a period we can see TTS multiple impact after we\r\nadjust TH tax rate by category?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Do we have the trajectory for March?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "So Swarm ADO has dropped all the\r\n   way to 1.5K?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- How do we expect March to be like?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 8\r\n\r\n   - For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- Do we take a look at the # of sellers who are not spending enough on\r\n   ads and the reasons behind it?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "It is probably not healthy to be\r\n   accumulating ads credits that are not utilized?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 10\r\n\r\n   - We need to measure Ads ROAS here\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - What are our next steps here then?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Is the increase going down over\r\n   time as we negotiate to bring it down?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the gap is mainly G2N 2) mismatched ads\r\ncredits period and GMV period, aka ads credits is based on W-1 accumulated\r\nescrowed orders, GMV is W+1\r\n\r\n   -\r\n\r\n   Do we take a look at the # of sellers who are not spending enough on ads\r\n   and the reasons behind it? It is probably not healthy to be accumulating\r\n   ads credits that are not utilized?\r\n\r\nheard that this auto on feature is proposed to turn off due to bad seller\r\nsentiment\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   We need to measure Ads ROAS here\r\n\r\nROAS, with sync CN Ads as next step\r\n\r\n\r\nSlide 11\r\n\r\n   -\r\n\r\n   What are our next steps here then? Is the increase going down over time\r\n   as we negotiate to bring it down?\r\n\r\nstabilized, if still the case, to bring down\r\n\r\nSlide 13 (Jianghong)\r\n\r\n   -\r\n\r\n   Any chance to isolate a period we can see TTS multiple impact after we\r\n   adjust TH tax rate by category?\r\n\r\nwe can have by category splits, and see if categories that we reduced -3%\r\nvs TTS grew more, let us get back with Reg Mkt, CN CI and TH CB side\r\n\r\n\r\n\r\nBest\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls see compiled answers as follows\r\n\r\nSlide 6\r\n\r\n   -\r\n\r\n   Do we have the trajectory for March? So Swarm ADO has dropped all the\r\n   way to 1.5K?\r\n   -\r\n\r\n   How do we expect March to be like?\r\n\r\n-1.14 with projected P&L to land -85k. Swarm team expects to further\r\noptimize UE from Feb’26 across both incubation and mature.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   For sellers with TR <5%, it seems like they have not reached the 5%\r\n   level yet?\r\n\r\ncommission base rather than GMV, the "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find the follow-up of this meeting, will update in upcoming weekly\r\nreport for progress!\r\n\r\nS/N Key Topics Action Items PIC Timeline Status\r\n1 Compulsory Ads Impact To Operations:\r\n- Monitor ROAS impact in ads expenditure spikes\r\n\r\nTo Budget:\r\n- Monitor full month impact (by rolling base, expect W3 high, W1 low ads\r\ntakerate)\r\n- Adjust ads takerate (auto turn on feature off impact, expect to be small,\r\nto monitor and adjust) Jiaqi/Rachael\r\n\r\nwith CN Ads Mar 18\r\n(Mar cycle budget submission) WIP\r\n2 Post Fee Increase Price Impact To Operations:\r\n- Sync with CN side on CODB for pushing on price reduction program\r\n\r\nTo Budget:\r\n- monitor CB ADO% to revise upcoming projections Charlene Mar 13 WIP\r\n3 TH Post Tax reduction for certain categories Identify the benefit to SOB\r\n- Overall SOB: need to wait for EOW\r\n- Post increased SOB: to check with Reg if doable by period\r\n- By category SOB increase: to check with CI if doable, as -3% than TTS tax\r\ncharge Jiaqi\r\n\r\nwith CN CI, THCB Mar 13 WIP\r\nBest,\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    }
+  ]
+}

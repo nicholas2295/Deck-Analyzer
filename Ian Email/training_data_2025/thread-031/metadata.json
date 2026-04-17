@@ -1,0 +1,519 @@
+{
+  "id": "thread-031",
+  "subject": "SIP Weekly Update - Week ending 14 Mar",
+  "date": "2025-03-15",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 14 Mar.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "logistics",
+    "finance",
+    "product-launch",
+    "marketing"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Shuning Wang",
+      "Yu Zhang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n\r\n\r\nPerformance Dashboard (as of 11 Mar)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Mar proj ADO 207k, 108% RR; ADO as %CB +0.4pp MoM; proj ADG\r\n   $2.3M, 114%RR; ADG as %CB +0.6pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 113% RR, %CB +0.4pp MoM; outperformance on Raya\r\n      trends from IDMY, IDSG & MYSG, driven by 1) migrated 10 mil Raya related\r\n      SKUs into SG and MY; 2) Pushed 20K trendy SKUs based on Raya hot\r\nkeywords;\r\n      3) Ramped up ads investment to new SKUs with additional budget\r\nfrom market\r\n      cosponsorship\r\n      2.\r\n\r\n      CNSIP proj ADO 99% RR, ADO as % CB -0.03pp MoM; slightly behind\r\n      target due to VN VAT impact\r\n      2.\r\n\r\n   [P&L]\r\n   1.\r\n\r\n      Local SIP proj P+SA PC2 -$234k, $21k lower than target due to MYSG\r\n      (-3% P&L) outperformance\r\n      2.\r\n\r\n      CNSIP proj SA PC2 $18k, on track for full month breakeven\r\n      3.\r\n\r\n      Overall proj combined PC2 healthy at Shopee level at $2.8M, $452k\r\n      higher than target driven by topline outperformance\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   IDMY proj 112% RR; driven by Raya related categories from 1) 3.3K ADO\r\n   growth from newly migrated SKU ads push 2) 1K ADO growth from 6mil growth\r\n   from Raya fashion SKU with market cosponsorship 3) 2.3K ADO growth from\r\n   trendy SKU sourced by top keywords\r\n   2.\r\n\r\n   VNMY proj 137% RR; high RR due to 1) VN sellers fully recovered from Tet\r\n   holiday; 2) extended ads push to drive traffic recovery for top sellers. VN\r\n   fashion sees MoM +55% ADO growth despite VN does not sell Muslim fashion\r\n\r\n\r\nC/ BWT\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   IDMY 93% RR, +0.3 days MoM / VNMY 98% RR, -2.0 days MoM: mainly driven\r\n   by continued KUL CC inspection issues (+0.5 days delay); expect inspection\r\n   to loosen by end-Mar\r\n   2.\r\n\r\n   MYSG 95% RR, +0.2 days MoM: mainly due to TWS backlog during 3.3 period\r\n   (+0.2 days BWT impact). Backlog cleared in D+2.\r\n   3.\r\n\r\n   IDSG 99% RR, +0"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Mar proj ADO 207k, 108% RR; ADO as %CB +0.4pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 113% RR, %CB +0.4pp MoM*; outperformance on Raya"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Ramped up ads investment to new SKUs with additional budget"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*CNSIP proj ADO 99% RR, ADO as % CB -0.03pp MoM;* slightly behind"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Local SIP proj P+SA PC2 -$234k, *$21k lower than target due to MYSG"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*CNSIP proj SA PC2 $18k, *on track for full month breakeven"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*Overall proj combined PC2 healthy at Shopee level at $2.8M*, $452k"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*IDMY **proj 112% RR*; driven by Raya related categories from 1) 3.3K"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*VNMY* *proj 137% RR*; high RR due to 1) VN sellers fully recovered"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*IDMY 93% RR, +0.3 days MoM / VNMY 98% RR, -2.0 days MoM*: mainly"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*MYSG 95% RR, +0.2 days MoM*: mainly due to TWS backlog during 3.3"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*IDSG 99% RR, +0.4 days MoM: *mainly driven by the 3.3 backlog at FM"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*MYPH 111% RR, +0.5 days MoM: *mainly driven by the frequent offloads"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*MYTH 88% RR, -0.7 days MoM: *mainly driven by the 2-3 days delay in"
+        },
+        {
+          "question_id": "Q15",
+          "question": "CRR: still sorting out data inconsistency issue between SIP & local;"
+        },
+        {
+          "question_id": "Q16",
+          "question": "In progress of preparing SIP CS plan for Ian review on 19 Mar,"
+        },
+        {
+          "question_id": "Q17",
+          "question": "improving agent efficiency and productivity; 4) scaling up with shop"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*#1 Regional discount tool*: Live release on-track ETA 14/Mar for"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*#2 MYSG SC:* Under UAT. Target to release Live on March 27th and"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*#3 IDMY SC:*  Phase planning aligned with ID local team. Target to"
+        },
+        {
+          "question_id": "Q21",
+          "question": "*#4 Order snapshot:* Tech improvement request ongoing, to confirm"
+        },
+        {
+          "question_id": "Q22",
+          "question": "*#5 SIP Settlement Price*: Local SIP settlement price lived 12/Mar,"
+        },
+        {
+          "question_id": "Q23",
+          "question": "*#6 FBS x SIP:* UAT pending listing ETA 17/Mar and order checkout"
+        },
+        {
+          "question_id": "Q24",
+          "question": "*#8 BRSIP:* Go-live on 12/Mar, live testing ongoing ETA for"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Marketing solution update"
+        },
+        {
+          "question_id": "Q26",
+          "question": "SEM text ads launched to Brunei from 8 Feb, performing well with a"
+        },
+        {
+          "question_id": "Q27",
+          "question": "*SEO*: plan to raise a request to add hreflang settings for Brunei on"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Yu Zhang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "whether Brunei users know how to handle delivery;"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "whether direct shipping is a highly desired service;\r\n\r\n   -\r\n\r\n   ETA: 26 Mar\r\n\r\n\r\nTaobao\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For the SKUs/ADO/ADGMV here, are they all direct selling? Or contains\r\n   SIP as well?\r\n   -\r\n\r\n      They contain both direct selling and SIP. Please see the breakdown\r\n      below.\r\n\r\n                        [image: image.png]\r\n\r\n   -\r\n\r\n   For now SIP is small, with both SKU count and SKU effi lower than direct\r\n   selling. We are in progress of revamping CNSIP to make it a more effective\r\n   strategic tool (simpler, faster) to help close CN/KR/JP CB assortment gaps.\r\n\r\nSlide 11\r\n\r\n   -\r\n\r\n   Are these all direct selling or SIP? Are they all SLS? Or includes LFF\r\n   too?\r\n   -\r\n\r\n   I thought the sellers were only supporting SG/MY? How come there are\r\n   sales in other markets?\r\n   -\r\n\r\n      These are all direct selling, which includes both SLS and 3PF (~75%\r\n      of SKUs are 3PF)\r\n      -\r\n\r\n      Yes, we are currently only running the program in SG/MY (with plans\r\n      to start in VN/TH by end-Mar/early-Apr). However as these sellers already\r\n      have existing shops + SKUs in the other regions, we are tracking their\r\n      performance as well\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   # of SKUs for MY seem to have dropped?\r\n   -\r\n\r\n      Yes, the drop was due to the top GGPs’ SKUs being unlisted due to a\r\n      seller / ops issue (~10k SKUs). We are fixing this with Yiru’s\r\nand Derek’s\r\n      teams, and expect to recover the SKUs by Wed (19 Mar)\r\n\r\n\r\nBest Regards\r\nZhang Yu"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian:\r\n\r\nPlease see answers below. Let us know if you have any further questions.\r\n\r\n\r\nUpdate\r\n\r\n   -\r\n\r\n   Where are we on direct selling for various markets?\r\n\r\n                     [image: image.png]\r\n\r\n   - Recap for our project timeline: Each lane on track\r\n\r\n\r\n   -\r\n\r\n   For Ops, we probably need to check the CS metrics for the various lanes.\r\n   For this report, can probably focus on the 5 key lanes\r\n   -\r\n\r\n      Yes will do. Our proposal will be based on the existing CS metrics\r\n     "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q28",
+          "question": "whether Brunei users know how to handle delivery;"
+        },
+        {
+          "question_id": "Q29",
+          "question": "whether direct shipping is a highly desired service;"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nI remember that Christin had some concerns with ID direct selling, has that\r\nbeen resolved?\r\n\r\nChristin has concerns related to seller experiences on 1) buyer chats; 2)\r\npayment; 3) RR.\r\n\r\nTogether with CB BPM and ID biz team, we have come up with proposed system\r\ndesign and biz flow to address her concerns. We have cleared them with ID\r\ncompliance earlier and HQ legal today (no hard blockers). Next step to\r\nupdate Christin on Wed to get final sign-off.\r\n\r\nAppendix: system features/biz flows to tailor to ID needs"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nI remember that Christin had some concerns with ID direct selling, has that\r\nbeen resolved?\r\n\r\nChristin has concerns related to seller experiences on 1) buyer chats; 2)\r\npayment; 3) RR.\r\n\r\nTogether with CB BPM and ID biz team, we have come up with proposed system\r\ndesign and biz flow to address her concerns. We have cleared them with ID\r\ncompliance earlier and HQ legal today (no hard blockers). Next step to\r\nupdate Christin on Wed to get final sign-off.\r\n\r\nAppendix: system features/bi"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q30",
+          "question": "How does the 3P Financier work?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Who will pay for the cost of this?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "How does the mark up of cost via Shopee platform fee work?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Monday, 17 March 2025 10:53 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Yu Zhang <yu.zhang@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>; Jules Zhao <jules.zhao@shopee.com>; Tina Tai <\r\ntina.tai@shopee.com>; Tzong Meng Ong <tzongmeng.ong@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 14 Mar\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nI remember that Christin had some concerns with ID direct selling, has that\r\nbeen resolved?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nHow does the 3P Financier work? Who will pay for the cost of this?\r\n\r\n\r\n3P financier is a local third-party insurance company that provides\r\nearly/fast escrow services to ID direct sellers. It will pay ID seller once\r\na parcel leaves ID TWS; and receive payment from MY after the transaction\r\nis completed in MY. It will charge a service fee in exchange for the\r\nfinancial risks between 2 payment cadences.\r\n\r\n\r\nID sellers will pay for the cost (3P service fee); either in the form of 1)\r\nhigher platform fee charged at MY side (MY pays 3P order transaction +\r\nservice fee), or 2) lower payment to ID seller (3P pays seller order\r\ntransaction - service fee). Details need to work out with the 3P financier\r\nonce ID biz team identifies one\r\n\r\n\r\n\r\nHow does the mark up of cost via Shopee platform fee work?\r\n\r\nFor example, MY platform currently charges CNCB sellers/IDMY SIP 15% base\r\ncomm. IDMY SIP data shows that RR cost on this lane is 5% GMV. To hide the\r\nRR cost, MY platform will charge IDMY direct sellers 15%+5%=20% base comm.\r\n\r\nIf the actual RR cost is lower than 5%, MY platform will keep the margin;\r\nif the actual RR cost is higher than 5%, MY platform will bear the loss."
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nHow does the 3P Financier work? Who will pay for the cost of this?\r\n\r\n\r\n3P financier is a local third-party insurance company that provides\r\nearly/fast escrow services to ID direct sellers. It will pay ID seller once\r\na parcel leaves ID TWS; and receive payment from MY after the transaction\r\nis completed in MY. It will charge a service fee in exchange for the\r\nfinancial risks between 2 payment cadences.\r\n\r\n\r\nID sellers will pay for the cost (3P service fee); either in the form of 1)\r\n"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nHow does the 3P Financier work? Who will pay for the cost of this?\r\n\r\n\r\n3P financier is a local third-party insurance company that provides\r\nearly/fast escrow services to ID direct sellers. It will pay ID seller once\r\na parcel leaves ID TWS; and receive payment from MY after the transaction\r\nis completed in MY. It will charge a service fee in exchange for the\r\nfinancial risks between 2 payment cadences.\r\n\r\n\r\nID sellers will pay for the cost (3P service fee); either in the form of 1)\r\n"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nHow does the 3P Financier work? Who will pay for the cost of this?\r\n\r\n\r\n3P financier is a local third-party insurance company that provides\r\nearly/fast escrow services to ID direct sellers. It will pay ID seller once\r\na parcel leaves ID TWS; and receive payment from MY after the transaction\r\nis completed in MY. It will charge a service fee in exchange for the\r\nfinancial risks between 2 payment cadences.\r\n\r\n\r\nID sellers will pay for the cost (3P service fee); either in the form of 1)\r\n"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q34",
+          "question": "For IDMY SIP, it will be the buyers paying for it right?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Cause sellers do\r\nnot actually pay any different\r\n\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Tuesday, 18 March 2025 7:45 am\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* Yu Zhang <yu.zhang@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>; Jules Zhao <jules.zhao@shopee.com>; Tina Tai <\r\ntina.tai@shopee.com>; Tzong Meng Ong <tzongmeng.ong@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 14 Mar\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nHow does the 3P Financier work?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "Who will pay for the cost of this?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "3P financier is a local third-party insurance company that provides\r\nearly/fast escrow services to ID direct sellers. It will pay ID seller once\r\na parcel leaves ID TWS; and receive payment from MY after the transaction\r\nis completed in MY. It will charge a service fee in exchange for the\r\nfinancial risks between 2 payment cadences.\r\n\r\n\r\n\r\nID sellers will pay for the cost (3P service fee); either in the form of 1)\r\nhigher platform fee charged at MY side (MY pays 3P order transaction +\r\nservice fee), or 2) lower payment to ID seller (3P pays seller order\r\ntransaction - service fee). Details need to work out with the 3P financier\r\nonce ID biz team identifies one\r\n\r\n\r\n\r\nHow does the mark up of cost via Shopee platform fee work?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\n*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and advises her team to educate ID sellers\r\naccordingly*"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\n*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\n*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\n*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\n*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q39",
+          "question": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\nHow does it affect price competitiveness?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "5% is not small?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "For direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and advises her team to educate ID sellers\r\naccordingly*\r\n\r\nThen where is the markup coming from?"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\nYes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying\r\n\r\nHow does it affect price competitiveness? 5% is not small?\r\n\r\n5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller self mark-up model: listings with\r\nlower actual RR than 5% will be less price competitive from over mark-up;\r\nlistings with higher actual RR than 5% will be more price competitiveness\r\nfrom under mark-up; assuming seller is capable of marking up based on\r\nactual RR cost per listing\r\n\r\nWe aligned with Christin to start with 5% first, and subsequently\r\n\r\n   -\r\n\r\n   Short-term: break down 5% and assess ways to lower RR cost (e.g., reduce\r\n   delivery failure, COD failure)\r\n   -\r\n\r\n   Mid-term: consider lower RR mark-up for good sellers, higher RR mark-up\r\n   for bad sellers\r\n   -\r\n\r\n   Long-term: return RR responsibility back to seller\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?\r\n\r\nYes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate\r\n\r\nChristin is ok with this, and advises her team to educate ID sellers\r\naccordingly\r\n\r\nThen where is the markup coming from?\r\n\r\n\r\nThe RR markup will come from charging 5pp higher base comm vs SIP\r\n\r\n   -\r\n\r\n   ID base comm (local seller): 7.2%\r\n   -\r\n\r\n   MY base comm (CNCB/SIP): 15%\r\n   -\r\n\r\n   MY base comm (IDMY Direct sellers): 15% + 5% = 20%\r\n\r\n\r\n\r\nNot sure we take all these into consideration while weighing the pros/cons\r\nof being buyer friendly..\r\n\r\n\r\nBuyer experiences should be similar between SIP and Direct as they won't\r\nfeel the difference on how RR is marked. However price competitiveness of\r\nindividual listi"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\nYes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying\r\n\r\nHow does it affect price competitiveness? 5% is not small?\r\n\r\n5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller se"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\nYes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying\r\n\r\nHow does it affect price competitiveness? 5% is not small?\r\n\r\n5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller se"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\nYes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying\r\n\r\nHow does it affect price competitiveness? 5% is not small?\r\n\r\n5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller se"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right? Cause sellers do\r\nnot actually pay any different\r\n\r\nYes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying\r\n\r\nHow does it affect price competitiveness? 5% is not small?\r\n\r\n5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller se"
+        }
+      ]
+    },
+    {
+      "turn": 12,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q44",
+          "question": "@Shuning Wang <shuning.wang@shopee.com> this aligned with you?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "I wonder if these are indeed deal breakers to start ID direct (any maybe\r\ndirect across all markets) hence just cost of doing business?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Wednesday, 19 March 2025 3:32 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Yu Zhang <yu.zhang@shopee.com>; Jianghong Liu <\r\njianghong.liu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Keljin\r\nChua <keljin.chua@shopee.com>; Jason Yu <jason.yu@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Ren Jiahui <jiahui.ren@shopee.com>; Eveline Seah <\r\neveline.seahyl@shopee.com>; Jules Zhao <jules.zhao@shopee.com>; Tina Tai <\r\ntina.tai@shopee.com>; Tzong Meng Ong <tzongmeng.ong@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 14 Mar\r\n\r\n\r\n\r\nHi Ian,\r\n\r\nFor IDMY SIP, it will be the buyers paying for it right?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Cause sellers do\r\nnot actually pay any different\r\n\r\n*Yes, the RR cost will be marked up into final listing price for both SIP\r\nand Direct, which is buyer paying*\r\n\r\nHow does it affect price competitiveness?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "5% is not small?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "5% is the actual IDMY RR cost incurred to SIP\r\n\r\nPrice competitiveness against SIP: same (fair game), as the same 5% will be\r\nmarked up into the final listing price\r\n\r\nPrice competitiveness against seller self mark-up model: listings with\r\nlower actual RR than 5% will be less price competitive from over mark-up;\r\nlistings with higher actual RR than 5% will be more price competitiveness\r\nfrom under mark-up; assuming seller is capable of marking up based on\r\nactual RR cost per listing\r\n\r\nWe aligned with Christin to start with 5% first, and subsequently\r\n\r\n   - Short-term: break down 5% and assess ways to lower RR cost (e.g.,\r\n   reduce delivery failure, COD failure)\r\n   - Mid-term: consider lower RR mark-up for good sellers, higher RR\r\n   mark-up for bad sellers\r\n   - Long-term: return RR responsibility back to seller\r\n\r\nFor direct, we intend to charge a different comm rate from what ID sellers\r\nare paying locally?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "*Yes, ID direct sellers by default will follow the CNCB/SIP comm rate in\r\ndestination market, which is different from ID local rate*\r\n\r\n*Christin is ok with this, and advises her team to educate ID sellers\r\naccordingly*\r\n\r\nThen where is the markup coming from?"
+        }
+      ]
+    },
+    {
+      "turn": 13,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open to run as MY to SG\r\ndirect biz, we can use them as a benchmark to persuade ID team after launch.\r\n\r\nShuning"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian\r\n\r\nThis is aligned.\r\n\r\n   - ID team wants to play safe and bias for seller ux for launch, as\r\n   Christin needs it for both pr purpose and biz purpose.\r\n   - But I also aligned with Chrisin, for longer term, can run the biz to\r\n   be: seller to bear rr loss, seller to run chats themselves etc.\r\n\r\nMy suggestion is we just launch id as Cuiwei(Christin) suggests, persuade\r\nID team to be more biased for biz after seeing the results.\r\n\r\nBTW, all other P mkts we are working with are more open t"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "id": "thread-048",
+  "subject": "SIP Weekly Update - Week ending 2 May",
+  "date": "2025-05-06",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 2 May.pdf",
+  "deck_topic_tags": [
+    "marketplace",
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "strategy"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Lee Sun Cheah"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (Apr full-month)\r\n\r\nA/ Topline/P&L\r\n\r\n** Local SIP Apr full month P&L is after pass-back of $200k clawed back\r\namount from ID fraud sellers, but before tax passback and SLS compensation\r\n\r\n* CN SIP Apr full month P&L is 1) preliminary after BI script change, and\r\n2) before CB FBS SIP P&L inclusion\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Apr ADO 179k, 104% RR; ADO as %CB 113% RR; ADG $2.2M, 111%RR;\r\n   ADG as %CB 116% RR\r\n   -\r\n\r\n      Local SIP ADO 97% RR, %CB -0.8pp MoM; RR recovering mainly driven by\r\n      COD reopening of “safe” IDSIP sellers with 85% COD ADO coverage\r\n      -\r\n\r\n      CNSIP ADO 111% RR, %CB +0.1pp MoM; driven by SIP optimization\r\n      initiatives 1) price reduction; 2) new SKU ads incubation\r\n      2.\r\n\r\n   [P&L] Apr local SIP seller PC2 -$2.0M, $1.8M below target for seller P&L\r\n   due to IDSIP fraud case\r\n\r\n\r\n\r\nLoss to SIP\r\n\r\nRemark\r\n\r\n(1) Loss on Apr 17th\r\n\r\n$1,081,026\r\n\r\n-> updated to Chris in CB meeting\r\n\r\n(2) New fraud findings (found on Apr 30th)\r\n\r\n~$500K\r\n\r\n-> By improved fraud check model, and further manual checks\r\n\r\n(3) Additional ads/voucher\r\n\r\n~$200K\r\n\r\n-> Push to maintain ADO runrate at 96% and mitigate the COD closure impact\r\n(aligned with ID side)\r\n\r\nTotal (1)+(2)+(3)\r\n\r\n1.77 million\r\n\r\nVs SIP Seller PL target of April\r\n\r\n\r\n   3.\r\n\r\n    Combined PC2 at shopee level -205k, $2.3M below target due to IDSIP\r\n   fraud case\r\n   -\r\n\r\n      $1.8M from seller P&L loss (in #2)\r\n      -\r\n\r\n      $560k from MP PC2 gap va target, mainly due to 1) topline missing\r\n      target (on net order basis ADG at 99% run-rate); 2) higher than expected\r\n      platform CIR%\r\n\r\n\r\nB/ SIP fraud management update\r\n\r\n\r\n   1.\r\n\r\n   Fraud detection\r\n   1.\r\n\r\n      IDSIP: Total 303 fraud sellers detected so far; loss to shopee\r\n      $1.6mil; $200k clawed back\r\n      2.\r\n\r\n      VNSIP: Total 26 fraud sellers detected so far; loss to shopee $3.5k;\r\n      COD order settlement is extended for 10 days, the 33 sellers’\r\ncod was off"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb"
+        },
+        {
+          "question_id": "Q2",
+          "question": "According to MY SPX, LT started to recover since 21 Apr; expect to be"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Key reasons for slow recovery back to Feb level, due to HC/hiring"
+        },
+        {
+          "question_id": "Q4",
+          "question": "before CB FBS SIP P&L inclusion*"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*[Topline] Apr ADO 179k, 104% RR; ADO as %CB 113% RR; ADG $2.2M,"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*[P&L] Apr local SIP seller PC2 -$2.0M, $1.8M below target for seller"
+        },
+        {
+          "question_id": "Q7",
+          "question": "* Combined PC2 at shopee level -205k, $2.3M below target due to IDSIP"
+        },
+        {
+          "question_id": "Q8",
+          "question": "IDSIP: Total 303 fraud sellers detected so far; loss to shopee"
+        },
+        {
+          "question_id": "Q9",
+          "question": "VNSIP: Total 26 fraud sellers detected so far; loss to shopee $3.5k;"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Other SIPs: no obvious fraud detected with security strategy team"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Continuous daily scanning by fraud detection model + manual check in"
+        },
+        {
+          "question_id": "Q12",
+          "question": "85% COD ADO coverage) reopened"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Next step for biz security to suggest additional group of “safe”"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Offline investigation on ID fraud sellers to potentially recover"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Long-term product solution: CB BPM in discussion with dev team on"
+        },
+        {
+          "question_id": "Q16",
+          "question": "MYSG SIP 90% RR, +0.2 day MoM / MYSG LFF 98% RR, +0.2 day MoM: Mainly"
+        },
+        {
+          "question_id": "Q17",
+          "question": "VNMY 97% RR, +0.1 day MoM: Logistics vendor missing SLA requirement;"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb"
+        },
+        {
+          "question_id": "Q19",
+          "question": "According to MY SPX, LT started to recover since 21 Apr; expect to be"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Key reasons for slow recovery back to Feb level, due to HC/hiring"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Agent CSAT: overall hitting target across markets, with overall RR"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Agent productivity: As of 27 Apr, MY productivity remains low at 5.6"
+        },
+        {
+          "question_id": "Q23",
+          "question": "*Agent Avg Response time: Overall missing target with 66% RR.*"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Low Chatbot CSAT due to non-LLM chatbot; reviewed A/B testing results"
+        },
+        {
+          "question_id": "Q25",
+          "question": "#3 Live test timeline 29/Apr - 9/May"
+        },
+        {
+          "question_id": "Q26",
+          "question": "#4 Local FBS x SIP enhancement pending marketplace (order) TD review"
+        },
+        {
+          "question_id": "Q27",
+          "question": "#7 FRF reviewed with FPM. Target to UAT on May 16th and Live on 22/May"
+        },
+        {
+          "question_id": "Q28",
+          "question": "#9 Aligned with VN local team about the customized features for VNMY"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#10 Long-term solution to cover all resync reasons pending FRF review"
+        },
+        {
+          "question_id": "Q30",
+          "question": "#12 POP ticket raised, pending RSX approval"
+        },
+        {
+          "question_id": "Q31",
+          "question": "#13 POP ticket raised, pending RBX approval"
+        },
+        {
+          "question_id": "Q32",
+          "question": "#15 To conduct FRF review and obtain sign-off with business teams ETA"
+        },
+        {
+          "question_id": "Q33",
+          "question": "#16 Raised as P0 to ROX, pending approval"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Topline performance, and benchmark against Temu BN"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Competitiveness vs Temu: assortment, price, logistics service"
+        },
+        {
+          "question_id": "Q36",
+          "question": "Revisit direct shipping service options: BWT, CPO, and how to close"
+        },
+        {
+          "question_id": "Q37",
+          "question": "clear legal for auto-enrollment cases"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Lee Sun Cheah",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April generally due to the high volume and post raya backlog /\r\ncongestion issues\r\n\r\n\r\nWhile in May, what we observe is that\r\n\r\n(1) Relocation of JB RC end of Feb (no longer have the synergy of being in\r\nthe same WH as JB RC, required LH to transports goods to SIP WH\r\n\r\n(2) Start of May with just post 5.5 volume (slightly elevated ADT), we\r\nthink should normalise to ~1.2\r\n\r\n\r\nNext steps:"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "For immediate, to consider adjusting  LH, Ops shift timings and manpower\r\nto improve handover %"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "To study SIP sorting plan with BRS come online to shorten overall\r\nprocessing from SOC time in Q3\r\n\r\n\r\n\r\nBest,\r\n\r\nLee Sun"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "1. Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb\r\n   2. According to MY SPX, LT started to recover since 21 Apr; expect to be\r\n   1.3 days in May, and back to 1.1 days in Jun\r\n   3. Key reasons for slow recovery back to Feb level, due to HC/hiring\r\n   gap. HC is not filled as planned and unable to hire sufficient part-timers\r\n\r\n\r\n\r\nDo not understand. @'Lee Sun Cheah' <leesun.cheah@spxexpress.com> you know\r\nwhat is going on here?\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\nMarch and April gen"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nDirect selling\r\n\r\nHow is direct adoption coming along with the new seller centre? In terms of\r\n# of sellers, skus, ado?\r\n\r\n\r\n   -\r\n\r\n   We have whitelisted all existing 6580 MYSG Direct sellers to migrate to\r\n   new GSC as of 23 Apr\r\n   -\r\n\r\n      MTD 115 active sellers, 19k SKUs (60% of their MY SKUs, in line with\r\n      SKU migration projection); MTD ADO 6\r\n      -\r\n\r\n      Next steps to accelerate the shop opening & active selling with 1)\r\n      “carrots” and “sticks” from MYSG team (0% comm waiver till 30\r\nJun, SG shop\r\n      platform support to cut by 30 May); 2) product solution to bypass seller\r\n      manual processes and open the shop for the seller [ETA 18 May]\r\n      -\r\n\r\n      Target to complete shop opening of all 6580 sellers to start selling\r\n      by end May\r\n      -\r\n\r\n   Meanwhile we have kicked off the new seller acquisition from 23 Apr\r\n   -\r\n\r\n      MTD 321 sellers accepted and in the onboarding process; MTD active\r\n      sellers 4 (1.3% RR vs May target of 298 new active sellers)\r\n      -\r\n\r\n      Next step to 1) push accepted sellers to open shop by end May; 2)\r\n      continue to pitch target pool of 900 sellers for May\r\n\r\n\r\n\r\n Table 1: new seller acquisition status\r\n\r\n\r\nMay MTD\r\n\r\nMay target\r\n\r\nRR\r\n\r\nActive sellers\r\n\r\n4\r\n\r\n298\r\n\r\n1.3%\r\n\r\nLive SKUs\r\n\r\n267\r\n\r\n292,140\r\n\r\n0.1%\r\n\r\nADO\r\n\r\n0\r\n\r\n10\r\n\r\n0.1%\r\n\r\nTable 2: new seller acquisition funnel\r\n\r\n\r\n\r\n\r\nAcquisition funnel\r\n\r\nOnboarding funnel\r\n\r\nS/N\r\n\r\nSeller Grp\r\n\r\nTarget 1:1 pitching pool\r\n\r\nAccepted\r\n\r\nRejected\r\n\r\nOn-ice\r\n\r\nIn discussion\r\n\r\nPending reach out\r\n\r\n# Whitelisted\r\n\r\n#Shops Opened\r\n\r\n1\r\n\r\nNot on SIP\r\n\r\n890\r\n\r\n28\r\n\r\n65\r\n\r\n344\r\n\r\n37\r\n\r\n416\r\n\r\n16\r\n\r\n4\r\n\r\n2\r\n\r\nOn SIP - non-performing\r\n\r\n1,570\r\n\r\n97\r\n\r\n215\r\n\r\n946\r\n\r\n80\r\n\r\n232\r\n\r\n70\r\n\r\n0\r\n\r\n3\r\n\r\nOn SIP - performing\r\n\r\n5,562\r\n\r\n196\r\n\r\n350\r\n\r\n1,462\r\n\r\n208\r\n\r\n3,346\r\n\r\n143\r\n\r\n0\r\n\r\nTotal\r\n\r\n8,022\r\n\r\n321\r\n\r\n630\r\n\r\n2,752\r\n\r\n325\r\n\r\n3,994\r\n\r\n229\r\n\r\n4\r\n\r\n\r\nCS\r\n\r\nWhy Chatbot CSAT got worse\r\n\r\nChatbot CSAT remained within normal fluctuation "
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Attaching PDF as some images are too big to load."
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q38",
+          "question": "Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb"
+        },
+        {
+          "question_id": "Q39",
+          "question": "According to MY SPX, LT started to recover since 21 Apr; expect to"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Key reasons for slow recovery back to Feb level, due to HC/hiring"
+        },
+        {
+          "question_id": "Q41",
+          "question": "For immediate, to consider adjusting  LH, Ops shift timings and manpower"
+        },
+        {
+          "question_id": "Q42",
+          "question": "To study SIP sorting plan with BRS come online to shorten overall"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Lee Sun Cheah",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\nSorry coming back on this late.\r\n\r\nWhen we look at ops clock, main gap is due to the delays in receiving of\r\nvolume to SIP warehouse that lead to\r\nCut off time 1 <3pm has reduced ~8% for May to 36.2% vs 44.42% in Feb,\r\nthough same day handover % remain high at >98.5%\r\n\r\nOps clock:\r\n[image: image.png]\r\nSame day handover:\r\n[image: image.png]\r\n\r\nWe will work with @Cuiwei Sun <cuiwei.sun@shopee.com> and @Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com> on how critical is to bring up the CO1 1\r\nhandover % (and at what % would really improve SG SPX downstream ADT), and\r\nwe layout the plans to achieve that\r\n\r\nBest,\r\nLee Sun"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\nSorry coming back on this late.\r\n\r\nWhen we look at ops clock, main gap is due to the delays in receiving of\r\nvolume to SIP warehouse that lead to\r\nCut off time 1 <3pm has reduced ~8% for May to 36.2% vs 44.42% in Feb,\r\nthough same day handover % remain high at >98.5%\r\n\r\nOps clock:\r\n[image: image.png]\r\nSame day handover:\r\n[image: image.png]\r\n\r\nWe will work with @Cuiwei Sun <cuiwei.sun@shopee.com> and @Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com> on how critical is to bring up the CO1 1\r\n"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\nSorry coming back on this late.\r\n\r\nWhen we look at ops clock, main gap is due to the delays in receiving of\r\nvolume to SIP warehouse that lead to\r\nCut off time 1 <3pm has reduced ~8% for May to 36.2% vs 44.42% in Feb,\r\nthough same day handover % remain high at >98.5%\r\n\r\nOps clock:\r\n[image: image.png]\r\nSame day handover:\r\n[image: image.png]\r\n\r\nWe will work with @Cuiwei Sun <cuiwei.sun@shopee.com> and @Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com> on how critical is to bring up the CO1 1\r\n"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\nSorry coming back on this late.\r\n\r\nWhen we look at ops clock, main gap is due to the delays in receiving of\r\nvolume to SIP warehouse that lead to\r\nCut off time 1 <3pm has reduced ~8% for May to 36.2% vs 44.42% in Feb,\r\nthough same day handover % remain high at >98.5%\r\n\r\nOps clock:\r\n[image: image.png]\r\nSame day handover:\r\n[image: image.png]\r\n\r\nWe will work with @Cuiwei Sun <cuiwei.sun@shopee.com> and @Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com> on how critical is to bring up the CO1 1\r\n"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\nSorry coming back on this late.\r\n\r\nWhen we look at ops clock, main gap is due to the delays in receiving of\r\nvolume to SIP warehouse that lead to\r\nCut off time 1 <3pm has reduced ~8% for May to 36.2% vs 44.42% in Feb,\r\nthough same day handover % remain high at >98.5%\r\n\r\nOps clock:\r\n[image: image.png]\r\nSame day handover:\r\n[image: image.png]\r\n\r\nWe will work with @Cuiwei Sun <cuiwei.sun@shopee.com> and @Huang Wan-Jung\r\n<wanjung.huangwj@shopee.com> on how critical is to bring up the CO1 1\r\n"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q43",
+          "question": "Hmm ok, so we are not really sure what changed from before Raya?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "Can let me know what the plans are after discussing?"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q45",
+          "question": "Apr MY SPX FM LT 1.5 days, 0.4 days longer than 1.1 days for Feb"
+        },
+        {
+          "question_id": "Q46",
+          "question": "According to MY SPX, LT started to recover since 21 Apr; expect to"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Key reasons for slow recovery back to Feb level, due to HC/hiring"
+        },
+        {
+          "question_id": "Q48",
+          "question": "For immediate, to consider adjusting  LH, Ops shift timings and manpower"
+        },
+        {
+          "question_id": "Q49",
+          "question": "To study SIP sorting plan with BRS come online to shorten overall"
+        }
+      ]
+    }
+  ]
+}

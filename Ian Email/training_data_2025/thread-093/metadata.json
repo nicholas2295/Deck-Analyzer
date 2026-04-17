@@ -1,0 +1,80 @@
+{
+  "id": "thread-093",
+  "subject": "SIP Weekly Update - Week ending 5 Sep",
+  "date": "2025-09-08",
+  "deck_filename": "SIP CS weekly update -20250905.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "regional",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard\r\n\r\nA/ Topline/P&L (Aug full-month)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   Topline: ADO 209k (107% RR, +14% MoM, CB% +0.4pp MoM), ADG $2.1M (104% RR,\r\n   +5% MoM, CB% +0.2pp MoM).\r\n   1.\r\n\r\n      WH cross-selling ADG 90% RR, ADG CB% 87% RR, due to ABS missing\r\n      target: CB choice ADO outperformed with low ABS ($4), while local FBS\r\n      missed ADO target with high ABS ($10).\r\n      2.\r\n\r\n   Seller/standalone P&L: $232k, +$708k vs target, +$149k MoM.\r\n   1.\r\n\r\n      Local SIP seller P&L +$842k vs target, +$272k vs Jul, due to more\r\n      than expected budget passback from ID leading to marketing budget\r\n      underspending; to optimize budget spending in Sep to maximize\r\ntopline while\r\n      maintaining seller P&L breakeven\r\n      2.\r\n\r\n      CNSIP seller P&L -$134k vs target, -$123k vs Jul, due to\r\n      new-to-market 3-month commission waiver higher than expected due\r\nto topline\r\n      outperformance; commission waiver booked as cost in CNSIP seller P&L\r\n      (instead of foregone revenue in MP PC2) due to ops challenge to\r\nset waiver\r\n      for large amount of CNSIP shops in the system\r\n      3.\r\n\r\n   Combined PC2 at Shopee level: $4.56M, +$0.87M vs target, +$0.26M MoM.\r\n   1.\r\n\r\n      Local SIP MP PC2 -$196k vs target, due to higher MY PRM than target\r\n      (MY provided additional fashion PRM in Aug which was not booked during MP\r\n      budget submission).\r\n\r\n\r\nB/ Regional direct selling (as of 8 Sep)\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Follow-up question from last weekly] I think we need to understand\r\n   better why the ABS is 2X of SIP. I do not think it is an issue of sellers\r\n   pricing 2x higher because they sell overseas?\r\n\r\nmix.\r\n\r\nhigher than the same SIP SKU price, due to system calculating destination\r\nmkt price based on source mkt sku’s original price (vs SIP uses sku’s\r\ndiscounted price). We will fix this system issue by mid-Sep. RMs are\r\npushing sellers to lower prices based on discounted prices before system\r\nready.\r\n\r\nASP SK"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Hi Ian,\r\n\r\n\r\n\r\n*Performance Dashboard*\r\n\r\n\r\n\r\n*A/ Topline/P&L (Aug full-month)*\r\n\r\n\r\n\r\n\r\n\r\nWhen will we change to the seller p&l view?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*B/ Regional direct selling (as of 8 Sep)*\r\n\r\n\r\n\r\n# of sellers are still very small to begin with\r\n\r\n\r\n\r\n*Highlights*\r\n\r\n   1. *[Follow-up question from last weekly] I think we need to understand\r\n   better why the ABS is 2X of SIP. I do not think it is an issue of sellers\r\n   pricing 2x higher because they sell overseas?*\r\n\r\nmix.\r\n\r\nhigher than the same SIP SKU price, due to system calculating destination\r\nmkt price based on source mkt sku’s original price (vs SIP uses sku’s\r\ndiscounted price). We will fix this system issue by mid-Sep. RMs are\r\npushing sellers to lower prices based on discounted prices before system\r\nready.\r\n\r\nASP SKUs), we will monitor and deep-dive once we have more comparable SKUs\r\nonboarded in Sep.\r\n\r\n\r\n\r\nI do not quite understand the seller mark up issue right now.."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Weekly mass pitching via system notifications"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Local RM resource focus on 1) 1:1 repitch top 100 local sellers; 2) push\r\n   accepted sellers to start sell"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q3",
+          "question": "Weekly mass pitching via system notifications"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Local RM resource focus on 1) 1:1 repitch top 100 local sellers; 2)"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Build success cases for top 5-10 IDMY and VNMY direct sellers by"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": "thread-021",
+  "subject": "SIP Weekly Update - Week ending 28 Feb",
+  "date": "2025-03-01",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 28 Feb_vF.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "product-launch",
+    "growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 26 Feb)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Feb proj ADO 176k, 99% RR; ADO as %CB +0.23pp MoM; proj ADG\r\n   $2.0M, 102%RR; ADG as %CB +0.32pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 99% RR, ADO as % CB +0.03pp MoM. Slight gap in RR\r\n      mainly due to MY market platform performance lower than expected\r\n      2.\r\n\r\n      CNSIP proj ADO 112% RR, ADO as % CB +0.10pp MoM; above target driven\r\n      by Price reduction initiative in PH and VN\r\n      2.\r\n\r\n   [P&L]\r\n   1.\r\n\r\n      Both Local SIP P+SA and CN SIP SA expect to land at full month Feb\r\n      PC2 breakeven\r\n      2.\r\n\r\n      Overall combined PC2 healthy at Shopee level at $112k/day\r\n      ($3.1m/month), +25% MoM\r\n      1.\r\n\r\n         PC2 MoM growth much higher than ADG growth (+3% MoM) due to 1)\r\n         WHOB orders recovery from CNY; 2) P&L budget under-allocation\r\nand marketing\r\n         under-spending, mainly due to conservative budgeting approach\r\nin Feb to\r\n         ensure P&L breakeven\r\n         2.\r\n\r\n         From Mar, adopt new budgeting approach to better support marketing\r\n         budget utilization and topline growth whereby 1) aggressively allocate\r\n         budget in 1H 2) cut if necessary in 2H\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   IDMY proj 95% RR; Platform ADO% grew by 0.1p.p. Also overperforms CB\r\n   with MoM increase in ADO %CB by 1.1pp.\r\n   2.\r\n\r\n   VNMY proj 84% RR; low RR due to slower Tet recovery that sellers are\r\n   only fully back on 20 Feb, too late to recover ADO for the full-month; but\r\n   L5D ADO already recovered to ~8K ADO range\r\n   3.\r\n\r\n   IDSG proj 107% RR; MoM increase in ADO% CB by 0.3pp with growth in\r\n   fashion and lifestyle cluster with traffic growth; increased ads investment\r\n   MoM leveraging on automation tool for new SKUs set up\r\n\r\n\r\nC/ BWT\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   VNMY 90% RR, +1.7 days MoM: mainly driven by 2 days delay in KUL CC\r\n   inspection and KCH CC. Has p"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Feb proj ADO 176k, 99% RR; ADO as %CB +0.23pp MoM; proj"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 99% RR, ADO as % CB +0.03pp MoM*. Slight gap in"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP proj ADO 112% RR, ADO as % CB +0.10pp MoM;* above target"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*Both Local SIP P+SA and CN SIP SA expect to land at full month Feb"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*Overall combined PC2 healthy at Shopee level at $112k/day"
+        },
+        {
+          "question_id": "Q6",
+          "question": "PC2 MoM growth much higher than ADG growth (+3% MoM) due to 1) WHOB"
+        },
+        {
+          "question_id": "Q7",
+          "question": "From Mar, adopt new budgeting approach to better support marketing"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*IDMY **proj 95% RR*; Platform ADO% grew by 0.1p.p. Also overperforms"
+        },
+        {
+          "question_id": "Q9",
+          "question": "*VNMY* *proj 84% RR*; low RR due to slower Tet recovery that sellers"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*IDSG proj 107% RR*; MoM increase in ADO% CB by 0.3pp with growth in"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*VNMY 90% RR, +1.7 days MoM*: mainly driven by 2 days delay in KUL CC"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*MYTH 81% RR, +0.6 days MoM*: mainly driven by the airline terminal"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*VNTH 104% RR, +0.8 days MoM: *MTD LT affected by the export custom"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*CRR:* In progress of improving CRR data accuracy as it is not"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*#1 (Regional Discount Tool - Phase 1):* UAT sign-off ETA 5/Mar EOD. Live"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*#4 (Order Snapshot table): *BRD review with Dev/PM on 28/Feb"
+        },
+        {
+          "question_id": "Q17",
+          "question": "*#6* *(FBS x SIP): *Phase 1 CB FBS x SIP seller onboarding released"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*#7 (Resell x SIP): *#7 FBS release to UAT delayed to 3/Mar due to"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*#8 (BRSIP):* Live release by all product lines ETA 12/Mar, business"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Marketing solution update"
+        },
+        {
+          "question_id": "Q21",
+          "question": "SEM text ads launched to Brunei from 8 Feb, performing well with a"
+        },
+        {
+          "question_id": "Q22",
+          "question": "SEO: plan to raise a request to add hreflang settings for Brunei on"
+        },
+        {
+          "question_id": "Q23",
+          "question": "SKU revival for non-performing SKUs with lower price due to lower ASF by"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n      -\r\n\r\n         We did not set the target as it is a passive result of A market\r\n         platform take rate minus PRM based on the topline we generate\r\nin each A\r\n         market\r\n         -\r\n\r\n         We do have monthly projection - we will include it from next update\r\n\r\n\r\n\r\n   -\r\n\r\n   IDMY should be growing MOM? Given that it is Raya season? Any reason why\r\n   it is not the case?\r\n   -\r\n\r\n      The key reason is Raya trends this year kicked off much later than\r\n      expected (25 Feb this year vs 15 Feb last year, 10 days late)\r\n      -\r\n\r\n      From 1-24 Feb, MY fashion cluster ADO saw -11.2% MoM. IDMY SIP Raya\r\n      related categories (Muslim Fashion, Women Clothes, Men Clothes) performed\r\n      slightly better than platform despite much lower platform-sponsored ads\r\n      budget than last year, but overall impacted by low platform traffic.\r\n      -\r\n\r\n      From 25 Feb onwards, we saw significant growth in Raya categories. MY\r\n      platform fashion cluster ADO +16.7% MoM, IDMY SIP fashion +45.8% MoM. The\r\n      growth is Driven by\r\n      -\r\n\r\n         Platform level: Extra platform PRM has driven more Raya buyers to\r\n         purchase on Shopee\r\n         -\r\n\r\n         For IDMY SIP specifically\r\n         -\r\n\r\n         Ramped up paid ads for new Raya SKUs\r\n         -\r\n\r\n         Sourced 10K trendy SKUs to push (Hijab, traditional wears, etc)\r\n         -\r\n\r\n         Revived 6 mil SKU into MY since 28 Feb\r\n\r\n\r\nOn Brunei\r\n\r\n   -\r\n\r\n   How are the deliveries being done ri"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\n\r\n   -\r\n\r\n   Can we always display P&L for the month? And we should probably have\r\n   some targets? Instead of leaving it blank?\r\n   -\r\n\r\n      Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      -\r\n\r\n      For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      -\r\n\r\n      The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n   "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q24",
+          "question": "- IDMY should be growing MOM?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Given that it is Raya season?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Any reason\r\n   why it is not the case?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "- The key reason is Raya trends this year kicked off much later than\r\n      expected (25 Feb this year vs 15 Feb last year, 10 days late)\r\n      - From 1-24 Feb, MY fashion cluster ADO saw -11.2% MoM. IDMY SIP Raya\r\n      related categories (Muslim Fashion, Women Clothes, Men Clothes) performed\r\n      slightly better than platform despite much lower platform-sponsored ads\r\n      budget than last year, but overall impacted by low platform traffic.\r\n      - From 25 Feb onwards, we saw significant growth in Raya categories.\r\n      MY platform fashion cluster ADO +16.7% MoM, IDMY SIP fashion +45.8% MoM.\r\n      The growth is Driven by\r\n         - Platform level: Extra platform PRM has driven more Raya buyers\r\n         to purchase on Shopee\r\n         - For IDMY SIP specifically\r\n         - Ramped up paid ads for new Raya SKUs\r\n         - Sourced 10K trendy SKUs to push (Hijab, traditional wears, etc)\r\n         - Revived 6 mil SKU into MY since 28 Feb\r\n\r\n\r\n\r\n\r\n\r\nHow else can we grow IDMY more during this period?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "- Do we need to teach them on how to handle delivery?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "Or expect them to\r\n   figure out themselves?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "- We believe they can figure out themselves because\r\n         - Runner services are popular in Brunei\r\n         - Plenty of tutorial videos/advertisements on social media\r\n         - Promoting runner service is risky due to legal concerns over\r\n         their unofficial status\r\n\r\n\r\n\r\nAre we sure about this?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Wednesday, 5 March 2025 10:28 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Momo Chen <\r\nmomo.chen@shopee.com>; Huang Wan-Jung <wanjung.huangwj@shopee.com>; Chiong\r\nZhi Ann <zhiann.chiong@shopee.com>; Steven Liu <steven.liusk@shopee.com>;\r\nWei Loong Yong <weiloong.yong@shopee.com>; Nicholas Lim <\r\nnicholas.lim@shopee.com>; Keith Huang <keith.huang@shopee.com>; Joe Li <\r\njoe.liyc@shopee.com>; Johan Liew <johan.liew@shopee.com>; Ren Jiahui <\r\njiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>; Jules\r\nZhao <jules.zhao@shopee.com>; Tina Tai <tina.tai@shopee.com>; Tzong Meng\r\nOng <tzongmeng.ong@shopee.com>; Mingkit Tan <mingkit.tan@shopee.com>; Lim\r\nWei <wei.lim@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 28 Feb\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\n   - Can we always display P&L for the month?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "And we should probably have\r\n   some targets?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Instead of leaving it blank?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "- Noted will show P&L on monthly basis, attached below with dashboard\r\n      MTD as of 26 Feb ($2.9M)\r\n      - For SIP P&L, our OKR target is P MP PC1 + SIP standalone PC2\r\n      breakeven, which we are hitting target since Jan\r\n      - The combined PC2 on Shopee level is mainly the MP PC2 collected by\r\n      the A markets\r\n\r\n\r\n   - We did not set the target as it is a passive result of A market\r\n         platform take rate minus PRM based on the topline we generate\r\nin each A\r\n         market\r\n         - We do have monthly projection - we will include it from next\r\n         update\r\n\r\n\r\n\r\n   - IDMY should be growing MOM?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Given that it is Raya season?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "Any reason\r\n   why it is not the case?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- The key reason is Raya trends this year kicked off much later than\r\n      expected (25 Feb this year vs 15 Feb last year, 10 days late)\r\n      - From 1-24 Feb, MY fashion cluster ADO saw -11.2% MoM. IDMY SIP Raya\r\n      related categories (Muslim Fashion, Women Clothes, Men Clothes) performed\r\n      slightly better than platform despite much lower platform-sponsored ads\r\n      budget than last year, but overall impacted by low platform traffic.\r\n      - From 25 Feb onwards, we saw significant growth in Raya categories.\r\n      MY platform fashion cluster ADO +16.7% MoM, IDMY SIP fashion +45.8% MoM.\r\n      The growth is Driven by\r\n\r\n\r\n   - Platform level: Extra platform PRM has driven more Raya buyers to\r\n         purchase on Shopee\r\n         - For IDMY SIP specifically\r\n         - Ramped up paid ads for new Raya SKUs\r\n         - Sourced 10K trendy SKUs to push (Hijab, traditional wears, etc)\r\n         - Revived 6 mil SKU into MY since 28 Feb\r\n\r\n\r\n\r\n*On Brunei*\r\n\r\n   - How are the deliveries being done right now?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "How does the\r\n   registration/downloads and buyers/downloads compare with new users in MY?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "- Brunei buyers arrange their own runner service. Parcel will be\r\n      delivered to a Malaysian address near Brunei via shopee MY logistics, and\r\n      then the runner collects it and delivers it to Brunei within four days.\r\n      - Pending MY BI provides new user conversion data for BN-MY\r\n      comparison. ETA 7 Mar.\r\n      - Also heads up that we will review the BN entry assessment in end\r\n      Mar as planned, to see any changes on market potential, buyer sentiment,\r\n      and logistics solutions. Will provide review update in April’s\r\nSIP monthly\r\n      meeting\r\n\r\n\r\n\r\n   - Do we need to teach them on how to handle delivery?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Or expect them to\r\n   figure out themselves?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "- We believe they can figure out themselves because\r\n\r\n\r\n   - Runner services are popular in Brunei\r\n         - Plenty of tutorial videos/advertisements on social media\r\n         - Promoting runner service is risky due to legal concerns over\r\n         their unofficial status\r\n\r\n\r\n\r\n*On counter TB*\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Why so many sellers opt out?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "- To clarify, 8 and 9 self-run sellers opted out from SG and MY\r\n      respectively\r\n      - Sellers opted out from SG/MY mainly because they want focus\r\n      capacity on bigger markets like VN/TH, as they still believe SG/MY has\r\n      limited growth potential\r\n      - The ADO impact of these sellers to the program is ~7% for MY, and\r\n      ~10% for SG\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - What is the expectation around growth for March?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "- Mar target is 22% ADO growth for SG and 20% ADO growth for MY\r\n      - Target to grow SKU count (+16k for SG, 14% MoM; +52k for MY, 480%\r\n      MoM), with 1) local wishlist SKUs uploaded by sellers; 2) SKUs\r\nmigration of\r\n      top GGP to MY; 3) onboarding newly acquired top TB sellers (not on SHP)\r\n      - Maintain/Grow SKU efficiency in MY/SG by pushing the customised\r\n      incentive package with top sellers, which includes sellers sourcing and\r\n      investing in ads/vouchers, in exchange for RM support, comms waiver (SG\r\n      only), PRM support, and other exposure points\r\n\r\n\r\n\r\n   - For MY, how are we intending to show that we have more furniture SKUs\r\n   now?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- MY will increase the marketing exposure to the furniture SKUs via 1)\r\n      Shopee Home Microsite; 2) AMS; 3) SS slots\r\n\r\n\r\n\r\nSlide 14\r\n\r\n   - What are next steps then?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "If it is not attractive?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q24",
+          "answer": "Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar."
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Ramp up AMS for top shops covering 20% of ADO. ETA today."
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive up\r\n   traffic/conversion if PnL has surplus\r\n\r\n\r\n\r\n   -\r\n\r\n   Do we need to teach them on how to handle delivery? Or expect them to\r\n   figure out themselves?\r\n   -\r\n\r\n      We believe they can figure out themselves because\r\n      -\r\n\r\n         Runner services are popular in Brunei\r\n         -\r\n\r\n         Plenty of tutorial videos/advertisements on social media\r\n         -\r\n\r\n         Promoting runner service is risky due to legal concerns over their\r\n         unofficial status\r\n\r\nAre we sure about this?\r\n\r\n\r\n\r\n   -\r\n\r\n   We discussed further with MY marketing - we are not able to identify any\r\n   marketing moves that can enhance buyer’s awareness of runner service,\r\n   without the risk of being traced back to Shopee\r\n   -\r\n\r\n   Overall there is limited room for us to navigate as we need to keep a\r\n   safety space with “runner service” to mitigate any legal/GR risks\r\n   -\r\n\r\n   To help BN buyers in the long-run, we need to revisit direct shipping\r\n   options. SIP SLS team will lead the reassessment and conclude by end-Mar"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nHow else can we grow IDMY more during this period?\r\n\r\nWe have three additional WIP actions to grow IDMY more\r\n\r\n   1.\r\n\r\n   Conduct 6% price reduction for top 500K non-performing SKUs in fashion\r\n   categories, ranked by their ID local ADO. ETA tomorrow 7 Mar.\r\n   2.\r\n\r\n   Ramp up AMS for top shops covering 20% of ADO. ETA today.\r\n   3.\r\n\r\n   Continuously monitor and check SIP’s SKUs’ performance against platform\r\n   on top Raya Keywords; to ramp up paid ads/rebates quickly to drive u"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q46",
+          "question": "Conduct 6% price reduction for top 500K non-performing SKUs in"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Ramp up AMS for top shops covering 20% of ADO. ETA today."
+        },
+        {
+          "question_id": "Q48",
+          "question": "Continuously monitor and check SIP’s SKUs’ performance against"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "thread-008",
+  "subject": "[Pre-read] Swarm 2026 Business plan",
+  "date": "2026-01-17",
+  "deck_filename": "Swarm ADO projection with newold shop breakdown.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "pricing",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Shuning Wang",
+      "Yu Zhang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong\r\n\r\nAttaching Swarm Y26 Business plan. There are two docs for your reference\r\n1. *[Swarm Y26 Business Plan.pdf] *is the main deck about our program\r\ndevelopment plan in Y26\r\n2.* [Swarm Y26 projection monthly data.xlsx]* is the breakdown for page 4\r\nof main deck, it contains the data details on how we achieve the target\r\nmonth by month.\r\n\r\nThanks\r\n-- \r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks\r\n\r\nSlide 2\r\n- why does active shop and skus keep going down mom?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- in terms of current UE of -1, how does it compare to how much we spend on\r\nnew cb sellers now?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Trying to understans if it is low/high right now\r\n\r\n\r\nSlide 4\r\n- it is not easy to tie this table with the (1), (2), (3) items on Slide 3.\r\nSeems like there are 4 lines here instead of 3. I cannot tell which is the\r\nmost inportant focus and which is the least\r\n\r\nSlide 13\r\n- I probably need to understand better the priority list. What is P0/P1, so\r\ni can understand better what i should be more focused on in following up\r\nwith this push\r\n- on erp integration, the 2 that we have integrated with are not doing that\r\ngreat, what makes us think that by integrating more will change things?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian\r\n\r\n\r\nPlease refer to answers below.\r\n\r\n\r\nThanks\r\n\r\nSlide 2:\r\n\r\n\r\n\r\n   -\r\n\r\n   Why does active shop and skus keep going down mom?\r\n\r\nIt is due to ops cleanup we started from Jan (clean up non-performing skus\r\n, freeze no payment account shops etc). 94% is from OF, 6% is from JST, the\r\nADO impact is very small (~17 ADO).\r\n\r\n\r\n\r\n\r\n   -\r\n\r\n   In terms of the current UE of -1, how does it compare to how much we\r\n   spend on new cb sellers now? Trying to understand if it is low/high right\r\n   now\r\n\r\nTo new sellers, Swarm UE is worse than CNCB and local SIP who have 3 months\r\ncommission waiver, which means we have higher (enough) investment:\r\n\r\n[image: image.png]\r\n\r\n\r\nSlide 4\r\n\r\n\r\n\r\n   -\r\n\r\n   It is not easy to tie this table with the (1), (2), (3) items on slide"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "I cannot tell which is the most important focus and which is the least\r\n\r\nSorry for confusion:\r\n\r\n   -\r\n\r\n   Channel (1) in page 3 corresponds to Mass pitching in page 4 Channel (2)\r\n   in page 3 corresponds to ERPs extension and Marketing Pitching in page 4\r\n\r\nChannel (3) in page 3 corresponds to SAI pitching in page 4\r\n\r\n(4) in page 3 is to improve the onboarding process for all the levels on\r\npage 4.\r\n\r\n   -\r\n\r\n   ERP expansion and SHP Mkt pitching are High priority, with the highest\r\n   ADO potential ( 33.9K ADO for ERP extension and 24.6K ADO for Mkt pitching)\r\n   and medium ADO/man day in page 3 (11 ADO/man day)\r\n   -\r\n\r\n   Mass pitching is quick win, we take it as Medium, with Dec 1.8K ADO\r\n   potential but takes the lowest manpower and highest ADO/man day in page 3\r\n   (43 ADO/man day).\r\n   -\r\n\r\n   SAI pitching is Low priority given low ADO potential (Dec 1.7K ADO\r\n   potential) and takes the lowest ADO/man day in page 3  (4.7 ADO/man day)\r\n\r\n\r\nSlide 13\r\n\r\n   -\r\n\r\n   I probably need to understand better the priority list. What is P0/P1,\r\n   so i can understand better what i should be more focused on in following up\r\n   with this push\r\n\r\nAccording to priority (High/Medium/Low) above, we put the project priority\r\nas P0/P1/P2\r\n\r\n\r\nGrowth lever\r\n\r\nInitiative\r\n\r\nPriority\r\n\r\nTasks\r\n\r\nPIC\r\n\r\nETA\r\n\r\nMass Pitching\r\n\r\nIncrease mass pitching frequency through 6 main mass pitching types\r\n\r\nImpact: Onboard ~205 sellers, generate 1.8k ADO\r\n\r\nP1\r\n\r\n   -\r\n\r\n   Coordinate with PR team on articles release, promotion on Shopee\r\n   official site and conducting livestreams\r\n   -\r\n\r\n   Outreach to 210k sellers and convert 1.2k sellers\r\n\r\nIvy\r\n\r\nMonthly\r\n\r\nP2\r\n\r\n   -\r\n\r\n   Organising seller group and large-scale offline events\r\n   -\r\n\r\n   Outreach to 9.4k sellers and convert 239 sellers\r\n\r\nIvy\r\n\r\nX times per year\r\n\r\nERP Extension\r\n\r\nIntegrate with 10 new ERPs: 妙手 before CNY, 3 P0 ERPs by Apr’26, 6 P1 ERPs\r\nby July’26\r\n\r\nImpact: Target to achieve 33.9k ADO by Dec’26\r\n\r\nP0\r\n\r\n   -\r\n"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian\r\n\r\n\r\nPlease refer to answers below.\r\n\r\n\r\nThanks\r\n\r\nSlide 2:\r\n\r\n\r\n\r\n   -\r\n\r\n   Why does active shop and skus keep going down mom?\r\n\r\nIt is due to ops cleanup we started from Jan (clean up non-performing skus\r\n, freeze no payment account shops etc). 94% is from OF, 6% is from JST, the\r\nADO impact is very small (~17 ADO).\r\n\r\n\r\n\r\n\r\n   -\r\n\r\n   In terms of the current UE of -1, how does it compare to how much we\r\n   spend on new cb sellers now? Trying to understand if it is low/high right\r\n   n"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q4",
+          "question": "Thanks.\r\n\r\n\r\n\r\nDo we have targets over time?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Broken down by # of ERP, # of Seller, # of\r\nSKUs, # of ADO etc?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*From:* Shuning Wang <shuning.wang@shopee.com>\r\n*Sent:* Tuesday, 20 January 2026 9:37 pm\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Leo Chen <\r\nleo.chenyh@shopee.com>; Yu Zhang <yu.zhang@shopee.com>\r\n*Subject:* Re: [Pre-read] Swarm 2026 Business plan\r\n\r\n\r\n\r\nHi Ian\r\n\r\n\r\n\r\nPlease refer to answers below.\r\n\r\n\r\n\r\nThanks\r\n\r\nSlide 2:\r\n\r\n\r\n\r\n   - Why does active shop and skus keep going down mom?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "It is due to ops cleanup we started from Jan (clean up non-performing skus\r\n, freeze no payment account shops etc). 94% is from OF, 6% is from JST, the\r\nADO impact is very small (~17 ADO).\r\n\r\n\r\n\r\n\r\n\r\n   - In terms of the current UE of -1, how does it compare to how much we\r\n   spend on new cb sellers now?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Trying to understand if it is low/high right\r\n   now\r\n\r\nTo new sellers, Swarm UE is worse than CNCB and local SIP who have 3 months\r\ncommission waiver, which means we have higher (enough) investment:\r\n\r\n\r\n\r\nSlide 4\r\n\r\n\r\n\r\n   - It is not easy to tie this table with the (1), (2), (3) items on slide\r\n   3. I cannot tell which is the most important focus and which is the least\r\n\r\nSorry for confusion:\r\n\r\n·       Channel (1) in page 3 corresponds to Mass pitching in page 4 *Channel\r\n(2) in page 3 corresponds to ERPs extension and Marketing Pitching in page\r\n4*\r\n\r\nChannel (3) in page 3 corresponds to SAI pitching in page 4\r\n\r\n(4) in page 3 is to improve the onboarding process for all the levels on\r\npage 4.\r\n\r\n·       *ERP expansion and SHP Mkt pitching are **High priority*, with the\r\nhighest ADO potential ( 33.9K ADO for ERP extension and 24.6K ADO for Mkt\r\npitching) and medium ADO/man day in page 3 (11 ADO/man day)\r\n\r\n·       *Mass pitching is quick win, we take it as **Medium**,* with Dec\r\n1.8K ADO potential but takes the lowest manpower and highest ADO/man day in\r\npage 3  (43 ADO/man day).\r\n\r\n·       *SAI pitching is **Low priority* given low ADO potential (Dec 1.7K\r\nADO potential) and takes the lowest ADO/man day in page 3  (4.7 ADO/man day)\r\n\r\n\r\n\r\nSlide 13\r\n\r\n   - I probably need to understand better the priority list. What is P0/P1,\r\n   so i can understand better what i should be more focused on in following up\r\n   with this push\r\n\r\nAccording to priority (High/Medium/Low) above, we put the project priority\r\nas P0/P1/P2\r\n\r\n\r\n\r\n*Growth lever*\r\n\r\n*Initiative*\r\n\r\n*Priority*\r\n\r\n*Tasks*\r\n\r\n*PIC*\r\n\r\n*ETA*\r\n\r\n*Mass Pitching*\r\n\r\n*Increase mass pitching frequency through 6 main mass pitching types*\r\n\r\n*Impact: *Onboard ~205 sellers, generate 1.8k ADO\r\n\r\nP1\r\n\r\n   - Coordinate with PR team on articles release, promotion on Shopee\r\n   official site and conducting livestreams\r\n   - Outreach to 210k sellers and convert 1.2k sellers\r\n\r\nIvy\r\n\r\nMonthly\r\n\r\nP2\r\n\r\n   - Organising seller group and large-scale offline events\r\n   - Outreach to 9.4k sellers and convert 239 sellers\r\n\r\nIvy\r\n\r\nX times per year\r\n\r\n*ERP Extension*\r\n\r\n*Integrate with 10 new ERPs: **妙手** before CNY, 3 P0 ERPs by Apr’26, 6 P1\r\nERPs by July’26 *\r\n\r\n*Impact: *Target to achieve 33.9k ADO by Dec’26\r\n\r\nP0\r\n\r\n   - Integrate with 4 P0 erps by April\r\n\r\nIvy - marketing\r\n\r\nHongjun - Syst\r\n\r\nFeb - April\r\n\r\nP1\r\n\r\n   - Integrate with all 6 P1 erps by July\r\n\r\nIvy - marketing\r\n\r\nHongjun - Syst\r\n\r\nBy July\r\n\r\n*Marketing Pitching*\r\n\r\n*Role Model Building*\r\n\r\n*Impact: *770 sellers and generate 24.6k ADO by Dec’26\r\n\r\nP0\r\n\r\n   - Build 3 role models each with 100 ADO for each 产业带\r\n   - 1-2 role models from Feb-Aug’26\r\n\r\nZhangyu\r\n\r\nFeb - Aug’26\r\n\r\nP0\r\n\r\n   - Work with JST to pitch and acquire using the role model in each 产业带\r\n\r\nIvy\r\n\r\n*SAI Pitching*\r\n\r\n*Focused Sellers Pitching *\r\n\r\nImpact: 6 sellers / month\r\n\r\nP2\r\n\r\n   - Focus on Tier A sellers for pitching and approach with cautious by\r\n   dropping message first to slowly gain seller’s trust followed by a call to\r\n   introduce about this program\r\n\r\nDerek\r\n\r\nMonthly\r\n\r\n*Existing Sellers Pool*\r\n\r\n*Seamless onboarding process via automation*\r\n\r\nP1\r\n\r\n   - Increase BPO HC to improve sellers onboarding support\r\n\r\nDone\r\n\r\nP1\r\n\r\n   - Use auto bot reply to replace BPO\r\n\r\nJiahui\r\n\r\nQ2\r\n\r\nP1\r\n\r\n   - Improve system capability to support seamless seller onboarding\r\n\r\nHongjun\r\n\r\nDone\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n   - On ERP integration, the 2 that we have integrated with are not doing\r\n   that great, what makes us think that by integrating more will change\r\n   things?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Yu Zhang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian:\r\n\r\nPlease see attached file page 3 and page 4 for target breakdown by ERP for\r\n# seller, #SKU and #ADO\r\n\r\nBest Regards\r\nZhang Yu"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian:\r\n\r\nPlease see attached file page 3 and page 4 for target breakdown by ERP for\r\n# seller, #SKU and #ADO\r\n\r\nBest Regards\r\nZhang Yu"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian:\r\n\r\nPlease see attached file page 3 and page 4 for target breakdown by ERP for\r\n# seller, #SKU and #ADO\r\n\r\nBest Regards\r\nZhang Yu"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian:\r\n\r\nPlease see attached file page 3 and page 4 for target breakdown by ERP for\r\n# seller, #SKU and #ADO\r\n\r\nBest Regards\r\nZhang Yu"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian:\r\n\r\nPlease see attached file page 3 and page 4 for target breakdown by ERP for\r\n# seller, #SKU and #ADO\r\n\r\nBest Regards\r\nZhang Yu"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q9",
+          "question": "how do i see UE over time broken down by new sku, old sku and total?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Yu Zhang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian: Please see attached documents page 3.\r\n\r\nSummary:\r\n1. Mature sellers: onboarded > 90 days vs Incubation sellers: onboarded <\r\n90 days\r\n\r\n2. Mature seller UE improves over months, as we will increase price while\r\noptimize marketing spending gradually\r\n\r\n2. Incubation seller UE gradually improve from -2.24 in Jan to -1.35 in\r\nDec, as\r\n\r\n1）More investment to build up role model sellers for marketing 产业带 pitch in\r\n1H26\r\n\r\n2)  We will reduce spending month by month even when sellers are in\r\nincubation.\r\n\r\n3. In Dec Y26: UE is positive, mature seller UE at 0.62, and  incubation\r\nseller UE at -1.35.\r\n\r\nBest Regards\r\nZhang Yu"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q10",
+          "question": "*Mature sellers:* onboarded > 90 days vs *Incubation sellers:* onboarded"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*Mature seller UE* improves over months, as we will increase price while"
+        },
+        {
+          "question_id": "Q12",
+          "question": "We will reduce spending month by month even when sellers are in"
+        }
+      ]
+    },
+    {
+      "turn": 9,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian\r\n\r\nTo answer your question\r\n\r\n*I thought we were spending -1 on new sellers? Seems like it has increased\r\nto -2.2 - -2.4 now? What changed?*\r\n\r\nSorry for the confusion, swarm new seller UE was kept at -2 to -3 from Nov\r\nto Jan (*-$2.24)*. Instead our program P&L (seller+sls+MP PC2) is -1.x (\r\n*-$1.42* for Jan)\r\n\r\n\r\nAlso to address your question on swarm UE vs MP new sellers*: are we\r\ninvesting more or less than new MP sellers? and what's our long term plan?*\r\n\r\n*Conclusion*: we are investing *2.08* usd/order *more* than CNCB MP mainly\r\ndue to\r\n\r\n\r\n   - a) SLS discount to swarm as swarm order weight is heavier, which we\r\n   agreed to enjoy the heavy rate table\r\n   - b) subsidy in seller P&L to drive new sku growth.\r\n\r\n*In the long run by end of year, seller P&L needs to breakeven as a whole*\r\n+ SLS discount will stay for those heavy weight items/shops.\r\n\r\n\r\n*For details, please refer to table below:*\r\n[image: image.png]\r\n\r\nThanks"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian\r\n\r\nTo answer your question\r\n\r\n*I thought we were spending -1 on new sellers? Seems like it has increased\r\nto -2.2 - -2.4 now? What changed?*\r\n\r\nSorry for the confusion, swarm new seller UE was kept at -2 to -3 from Nov\r\nto Jan (*-$2.24)*. Instead our program P&L (seller+sls+MP PC2) is -1.x (\r\n*-$1.42* for Jan)\r\n\r\n\r\nAlso to address your question on swarm UE vs MP new sellers*: are we\r\ninvesting more or less than new MP sellers? and what's our long term plan?*\r\n\r\n*Conclusion*: we are invest"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian\r\n\r\nTo answer your question\r\n\r\n*I thought we were spending -1 on new sellers? Seems like it has increased\r\nto -2.2 - -2.4 now? What changed?*\r\n\r\nSorry for the confusion, swarm new seller UE was kept at -2 to -3 from Nov\r\nto Jan (*-$2.24)*. Instead our program P&L (seller+sls+MP PC2) is -1.x (\r\n*-$1.42* for Jan)\r\n\r\n\r\nAlso to address your question on swarm UE vs MP new sellers*: are we\r\ninvesting more or less than new MP sellers? and what's our long term plan?*\r\n\r\n*Conclusion*: we are invest"
+        }
+      ]
+    },
+    {
+      "turn": 10,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q13",
+          "question": "wow, i thought you told me before new seller for MP was -0.7?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "now it is\r\nactually positive?"
+        }
+      ]
+    },
+    {
+      "turn": 11,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPls find reply to your questions\r\n\r\nwow, i thought you told me before new seller for MP was -0.7? now it is\r\nactually positive? we are really spending so much more per order..\r\nnot adding the MP seller's own P&L UE. *From Seller UE view*, Swarm is\r\n-2.24usd/order, CNCB MP new sellers is -0.7 usd/order (shared with you last\r\ntime).\r\nFor reference, to drive business, SCS began with a UE of about -2.4\r\nusd/order at 3.5K orders.\r\n[image: image.png]\r\n\r\nTrue that investment in Swarm new shops remains substantial, but positive\r\ntrends are evident:\r\n#1: New shops' UE improved from *-5.7* usd/order in Oct ’25 to *-2.24* in\r\nJan’26, with ADO rising from 0.6k to 1.7k orders\r\n#2: After three incubation months, UE has recovered to around *-1.2*\r\nusd/order. We are working towards to achieve positive P&L on mature Shops\r\nthrough seller co-sponsorship and optimised investment by *Apr'26*\r\n#3: As the seller portfolio matures, overall (new+old skus) UE is projected\r\nto *break even* , new shops UE is projected to improved to *-1.35 **by\r\nDec’26*\r\n\r\nThanks"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPls find reply to your questions\r\n\r\nwow, i thought you told me before new seller for MP was -0.7? now it is\r\nactually positive? we are really spending so much more per order..\r\nnot adding the MP seller's own P&L UE. *From Seller UE view*, Swarm is\r\n-2.24usd/order, CNCB MP new sellers is -0.7 usd/order (shared with you last\r\ntime).\r\nFor reference, to drive business, SCS began with a UE of about -2.4\r\nusd/order at 3.5K orders.\r\n[image: image.png]\r\n\r\nTrue that investment in Swarm new sho"
+        }
+      ]
+    }
+  ]
+}

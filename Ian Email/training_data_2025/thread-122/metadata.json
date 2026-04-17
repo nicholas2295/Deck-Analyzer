@@ -1,0 +1,132 @@
+{
+  "id": "thread-122",
+  "subject": "KR/JP Bi-weekly Update_251120",
+  "date": "2025-11-19",
+  "deck_filename": "KRJP Cross Border Bi-weekly_20251120.pdf",
+  "deck_topic_tags": [
+    "shopee",
+    "business-review",
+    "cross-border",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Mail Delivery Subsystem",
+      "Shuning Wang",
+      "Yuna Kwon"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\n Please find the attachment for 20 Nov KR/JP Bi-weekly meeting.\r\n[image: image.png]\r\n\r\nBest,\r\n\r\n-- \r\n\r\n*Yuna Kwon, 권윤아*\r\n\r\nShopee | Cross-border, Korea + Japan\r\n\r\n*Mobile:* +82 10 9618 2875\r\n\r\n*Address: *Teheran-ro 231, Center Field (West) Level16, Gangnam-gu, Seoul,\r\nRep. of Korea"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Is there a reason why JPCB non-ads TR% ~3% lower than KRCB?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 8\r\n\r\n   - What is the issue regarding G2N?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 14 – 16\r\n\r\n   - As discussed please go ahead and I suspect Cosrx and Somebymi fall\r\n   under D as compared to A\r\n\r\n\r\n\r\nSlide 18 -20\r\n\r\n   - Good progress but we need to look at TH\r\n   - And probably need to increase # of brands to match\r\n\r\n\r\n\r\nSlide 27\r\n\r\n   - @Shuning Wang <shuning.wang@shopee.com> did we check with KR team on\r\n   the shop name issue?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "- @Shuning Wang <shuning.wang@shopee.com> did we check with KR team on\r\n   the shop name issue? Where did we land on that\r\n\r\ndiscussed with kr team on the naming, no conclusions, need to wait kr team\r\nthink it through to design the naming rules.\r\n\r\nwe decided to request krsip first, with a very low effort script to mass\r\nchange shop names. the naming is not a blocker for the project.\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632\r\n\r\n\r\n\r\n\r\n\r\n\r\nSoo Siang, Ian Ho <hoi@sea.com> 于 2025年11月27日周四 19:54写道："
+        },
+        {
+          "question_id": "Q2",
+          "answer": "- @Shuning Wang <shuning.wang@shopee.com> did we check with KR team on\r\n   the shop name issue? Where did we land on that\r\n\r\ndiscussed with kr team on the naming, no conclusions, need to wait kr team\r\nthink it through to design the naming rules.\r\n\r\nwe decided to request krsip first, with a very low effort script to mass\r\nchange shop names. the naming is not a blocker for the project.\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "- @Shuning Wang <shuning.wang@shopee.com> did we check with KR team on\r\n   the shop name issue? Where did we land on that\r\n\r\ndiscussed with kr team on the naming, no conclusions, need to wait kr team\r\nthink it through to design the naming rules.\r\n\r\nwe decided to request krsip first, with a very low effort script to mass\r\nchange shop names. the naming is not a blocker for the project.\r\n\r\n*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, "
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Mail Delivery Subsystem",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "** Address not found **\r\n\r\nYour message wasn't delivered to jenny.law@shopee.com because the address couldn't be found, or is unable to receive mail.\r\n\r\nLearn more here: https://support.google.com/mail/?p=NoSuchUser\r\n\r\nThe response was:\r\n\r\n550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuchUser 98e67ed59e1d1-3477b1e2468sor736147a91.1 - gsmtp"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q4",
+          "question": "as long as we do not use the official brand name to sell, is this something\r\nthe brands would be fine with and accept to be on SIP?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Yuna Kwon",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q4",
+          "answer": "--> For SIP name, I'd suggest to use the current P shop's name but just\r\ntake out the word \"official\" and keep the brand name. So for brand shop\r\nexample, [torridenofficial.os] will be [torriden.th]. Since sellers will\r\nneed to consent in one form or the other, they will want their names in it,\r\nbut not project the SIP shop as the flagship and just more sensitive with\r\nthe word \"official\".\r\n\r\nSlide 6 Haenle Suh <haenle.suh@shopee.com>\r\n\r\n   -\r\n\r\n   Is there a reason why JPCB non-ads TR% ~3% lower than KRCB?\r\n\r\n->(Please refer to below table pointer #1) When looking at L3M(‘25 Aug-Oct\r\nPnL) actuals, the non-ads TR% gap mainly comes from 3 factors; commission\r\nTR%, mkt pck TR% and handling fee TR%;\r\n\r\nCommission TR% for JP is lower vs. KR due to ~10%p lower G2N(e.g for Oct JP\r\nG2N 67% vs KR G2N 76%)  and mkt pck TR% lower due to not having enough big\r\nsellers to buy year long CBP(e.g. KR UST Beauty brands year long CBP\r\nenrollment in all markets)\r\n\r\n [image: image.png]\r\n\r\nSlide 8 Haenle Suh <haenle.suh@shopee.com>\r\n\r\n   -\r\n\r\n   What is the issue regarding G2N?\r\n\r\n-> No issue as the commission TR% gap(0.18mil out of 0.55mil PC2 gap as of\r\n11/20 previous sharing) was based on “wrong” G2N data as Reg BI didn’t have\r\nCB BU split. Thus now fixed with KRJP specific G2N data, we do not see much\r\ngap in commission TR% nor significant drop in the G2N\r\n\r\n-> For your reference, as of 11/26, KRJP PC2 & SLS PnL is above target with\r\nRR 116%(Total 2.45mil - PC2 missing target by 0.13mil but SLS PnL making up\r\nwith surplus of 0.5mil) and majority of the PC2 gap coming from KR ads TR%\r\ngap (please refer to below table blue box)\r\n\r\n[image: image.png]\r\n\r\n\r\nSlide 14 – 16 Yuna Kwon <yuna.kwon@shopee.com> Junho Kim\r\n<junho.kim@shopee.com>\r\n\r\n   -\r\n\r\n   As discussed please go ahead and I suspect Cosrx and Somebymi fall under\r\n   D as compared to A\r\n\r\n→ Cosrx is type A they have local OS (MY)\r\n<https://shopee.com.my/cosrx.my?categoryId=100630&entryPoint=ShopByPDP&itemId=29000297333&upstream"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q5",
+          "question": "--> For SIP name, I'd suggest to use the current P shop's name but just\r\ntake out the word \"official\" and keep the brand name. So for brand shop\r\nexample, [torridenofficial.os] will be [torriden.th]. Since sellers will\r\nneed to consent in one form or the other, they will want their names in it,\r\nbut not project the SIP shop as the flagship and just more sensitive with\r\nthe word \"official\".\r\n\r\n\r\n\r\nOk, we can try this if we feel it has the highest chance of getting seller\r\napproval.\r\n\r\n\r\n\r\nI think we may need to give a few use case of other brands that we have\r\nprovided this service for, to allay the fears that we mis-manage the brand.\r\n\r\n\r\n\r\nSlide 6 Haenle Suh <haenle.suh@shopee.com>\r\n\r\n   - Is there a reason why JPCB non-ads TR% ~3% lower than KRCB?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "->(Please refer to below table pointer #1) When looking at L3M(‘25 Aug-Oct\r\nPnL) actuals, the non-ads TR% gap mainly comes from 3 factors; commission\r\nTR%, mkt pck TR% and handling fee TR%;\r\n\r\nCommission TR% for JP is lower vs. KR due to ~10%p lower G2N(e.g for Oct JP\r\nG2N 67% vs KR G2N 76%)  and mkt pck TR% lower due to not having enough big\r\nsellers to buy year long CBP(e.g. KR UST Beauty brands year long CBP\r\nenrollment in all markets)\r\n\r\n\r\n\r\nSo for commissions/service fee/handling fee, it is the same for KR vs JP?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Is there any difference between Mall/Non-Mall?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Did we make JP sellers mandatory FSS as well?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 14 – 16 Yuna Kwon <yuna.kwon@shopee.com> Junho Kim\r\n<junho.kim@shopee.com>\r\n\r\n   - As discussed please go ahead and I suspect Cosrx and Somebymi fall\r\n   under D as compared to A\r\n\r\n→ Cosrx is type A they have local OS (MY)\r\n<https://shopee.com.my/cosrx.my?categoryId=100630&entryPoint=ShopByPDP&itemId=29000297333&upstream=search>\r\nrun by a local vendor glampick. But the assortment still short of TTS\r\n(different vendor storeNgo). But still need to close gap of assortment. So\r\neven if they fall under A, we still treat them as D and arranged T2T\r\nmeetings with both brands in the week of 8Dec\r\n\r\n\r\n\r\nI see. I think the preference was always StoreNgo compared to Gampick"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "thread-047",
+  "subject": "SIP Weekly Update - Week ending 25 Apr",
+  "date": "2025-04-28",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 25 Apr.pdf",
+  "deck_topic_tags": [
+    "marketplace",
+    "logistics",
+    "finance",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 23 Apr 2025)\r\n\r\nA/ Topline/P&L\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Apr proj ADO 176k, 98% RR; ADO as %CB 108% RR; proj ADG $2.0M,\r\n   103%RR; ADG as %CB 110% RR\r\n   -\r\n\r\n      Local SIP proj ADO 92% RR, %CB -1pp MoM; low RR due to IDSIP COD\r\n      closure with -22% daily order impact from 19 Apr onwards; expect\r\nto recover 11%\r\n      ADO with low-risk shops COD re-opening\r\n      -\r\n\r\n      CNSIP proj ADO 104% RR, %CB +0.1pp MoM; driven by optimization\r\n      initiatives 1) price reduction; 2) new SKU ads incubation\r\n      2.\r\n\r\n   [P&L] Apr proj combined PC2 at Shopee level at $88k, $2.1M\r\n   under-performance mainly due to local SIP fraud case leading to\r\n   historical high level of COD fail and cancellation costs\r\n\r\n\r\n\r\nB/ IDSIP fraud situation\r\n\r\n\r\n   1.\r\n\r\n   Total 255 fraud sellers, total loss of $1.28M from 34k identified fraud\r\n   orders, $200k (16%) recovered from seller wallet claw back\r\n   2.\r\n\r\n   Progress\r\n   1.\r\n\r\n      Concluded the investigation of current episode of fraud situation,\r\n      seller identification, claw back etc.\r\n      2.\r\n\r\n      Started BAU daily escrow of COD success cases\r\n      3.\r\n\r\n      Started phased COD reopening to “safer” sellers\r\n      4.\r\n\r\n      Submitted long-term product solution request\r\n      3.\r\n\r\n   Next steps [ETA: end this week]\r\n   1.\r\n\r\n      Align long-term re-opening criteria and proceed to reopen\r\n      2.\r\n\r\n      Align escrow timeline for “delivery failed + non-fraud identified”\r\n      orders\r\n      3.\r\n\r\n      ID legal to get back on the offline actions possible to recover loss\r\n      4.\r\n\r\n      Confirm long-term solution ETA and start to plan ops resources for\r\n      fraud check\r\n\r\n\r\nC/ BWT\r\n\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   MY SPX experienced manpower issues in SOCs which caused MY-export and\r\n   MY-import lead time 0.5 days longer. Discussed with MY SPX - target to\r\n   improve 0.1~0.2 days in May and fully recover in Jun\r\n   2.\r\n\r\n   IDSG 97% RR, 0.1 day long"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[P&L] Apr proj combined PC2 at Shopee level at $88k, $2.1M"
+        },
+        {
+          "question_id": "Q2",
+          "question": "MY SPX experienced manpower issues in SOCs which caused MY-export and"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*[Topline] Apr proj ADO 176k, 98% RR; ADO as %CB 108% RR; proj ADG"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L] Apr proj combined PC2 at Shopee level at $88k, $2.1M"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Total 255 fraud sellers, total loss of $1.28M from 34k identified"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Concluded the investigation of current episode of fraud situation,"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Started BAU daily escrow of COD success cases"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Started phased COD reopening to “safer” sellers"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Submitted long-term product solution request"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Next steps [ETA: end this week]"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Align long-term re-opening criteria and proceed to reopen"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Align escrow timeline for “delivery failed + non-fraud identified”"
+        },
+        {
+          "question_id": "Q13",
+          "question": "ID legal to get back on the offline actions possible to recover loss"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Confirm long-term solution ETA and start to plan ops resources for"
+        },
+        {
+          "question_id": "Q15",
+          "question": "MY SPX experienced manpower issues in SOCs which caused MY-export and"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*IDSG 97% RR,* 0.1 day longer than projected, mainly driven by lower"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Agent CSAT: overall hitting target across markets, with overall RR"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Agent productivity: MY productivity low at 5.5 due to"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Llow Chatbot CSAT due to non-LLM chatbot; reviewed A/B testing"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*Agent Avg Response time: Overall missing target with 68% RR.*"
+        },
+        {
+          "question_id": "Q21",
+          "question": "#3 UAT ongoing, to be completed ETA 25/Apr, Live test timeline 28/Apr"
+        },
+        {
+          "question_id": "Q22",
+          "question": "#4 Local FBS x SIP enhancement pending marketplace (order) TD review"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#5 Pending biz alignment with Legal side for rollout ETA TBD"
+        },
+        {
+          "question_id": "Q24",
+          "question": "#7 FRF reviewed with FPM. Target to UAT on May 16th and Live on 22/May"
+        },
+        {
+          "question_id": "Q25",
+          "question": "#9 Aligned with the VN local team about the customized features for"
+        },
+        {
+          "question_id": "Q26",
+          "question": "#10 Short-term solution to automate resync for ‘ItemSyncFail’ and"
+        },
+        {
+          "question_id": "Q27",
+          "question": "#15 To conduct FRF review and obtain sign-off with business teams ETA"
+        },
+        {
+          "question_id": "Q28",
+          "question": "clear legal for auto-enrollment cases"
+        }
+      ]
+    }
+  ]
+}

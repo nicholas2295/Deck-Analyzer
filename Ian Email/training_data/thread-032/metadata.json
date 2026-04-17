@@ -1,0 +1,253 @@
+{
+  "id": "thread-032",
+  "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Apr'26",
+  "date": "2026-04-13",
+  "deck_filename": "CB FP&A Meeting_Initiatives and Updates_20260414.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "logistics",
+    "finance",
+    "strategy",
+    "growth"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan",
+      "Jianghong Liu",
+      "Leo Chen"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find tmr's FP&A monthly meeting material, we will cover following topics\r\n\r\n\r\n*CB Performance update*\r\n\r\n   - Mar’26 Actuals\r\n   - Apr’26 Projections\r\n   - FY26 Status Quo and Scenario Planning\r\n\r\n\r\n*Key Initiatives Updates : *\r\n\r\n   - MP: Compulsory ads impact\r\n   - SLS: Fuel cost impact\r\n   - SBS: FBS Push Direction Change reflects in P&L\r\n   - AI case usage\r\n\r\n\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Slide 9: We have noticed TTS and AE increased their CB logistics rate table\r\nin selected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nSlide 19: What happened to TH in Q3? Suddenly increase seller subsidy %?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - Can check what FX rates we are using?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "And if it is consistent across\r\n   all business?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "For 1P + Consignment, I understand that we are negative this\r\n   month for standalone because of FX rates\r\n   - For management EBITDA, why did 1P + Consignment miss by so much?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "Slide 7\r\n\r\n   - I think if we look at SLS + CNLS, the growth is still lower than\r\n   platform?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Do we have a sense by market how the situation looks?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "And for\r\n   CNLS here, do we only take into account Type 1 and 3?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Or also Type 2?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- The same study that we did for VN, we probably need to replicate for\r\n   all markets.\r\n      - FBS/LFF\r\n      - Acquisition of TT only sellers. SLS/LFF\r\n      - CPIGMV study. Whether it make sense to invest more in SLS/LFF/CNLS\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - Have we reconciled TR% between FBS/3PF/SLS for all markets?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Which\r\n   markets are still giving discount and how much?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 10\r\n\r\n   - I think we need to do a CPIGMV study vs what market can spend to\r\n   properly align\r\n\r\n\r\n\r\nSlide 12\r\n\r\n   - How can utilization be higher than top up?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- We probably need utilization at seller level so RM can action upon?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- Do we track the total in ads escrow?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Do we know if that number is\r\n   increasing/decreasing?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "- What are next steps for TH/PH?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "Slide 14\r\n\r\n   - What amount did we last submit?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Has it changed?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 19\r\n\r\n   - Can show market by market view on SLS vs FBS/3PF?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Are there any plans\r\n   to change that?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n\r\nCan check what FX rates we are using? And if it is consistent across all\r\nbusiness? For 1P + Consignment, I understand that we are negative this\r\nmonth for standalone because of FX rates Edric Tan Eng Tong\r\n<edric.tanet@shopee.com> Hao Lei <hao.lei@shopee.com>\r\n\r\nreporting)\r\n\r\n[image: image.png]\r\n\r\nSeafin guideline is to take last day of M-1 (e.g. 28 Feb) as M0 actuals\r\n(Mar) and M+1 projection onwards (Apr - Dec)\r\n\r\nFx rate will be used for reporting across the full month (daily fluctuation\r\ngap borne by Shopee)\r\n\r\nLocal pays Shopee in LCY\r\n\r\nShopee pays SLS in USD (as per agreed Fx rate in target)\r\n\r\nShopee bears the daily fluctuation risk\r\n\r\n\r\n\r\nFor management EBITDA, why did 1P + Consignment miss by so much? Kuan Wai\r\nMei <waimei.kuan@shopee.com>\r\n\r\ncontributed from the MP PC2 -313k vs target, with breakdown below:\r\n\r\n   -\r\n\r\n   -42k from Lovito, mainly driven by lower ads revenue\r\n   -\r\n\r\n   -270k from SCS, mainly driven by BR higher order RR, ADO 102%, ADGMV\r\n   105%, while mp pc2 at -27%.\r\n\r\n\r\nSlide 7\r\n\r\nI think if we look at SLS + CNLS, the growth is still lower than platform?\r\nDo we have a sense by market how the situation looks?\r\n\r\n\r\nAnd for CNLS here, do we only take into account Type 1 and 3? Or also Type\r\n2? >> includes all\r\n\r\n\r\nThe same study that we did for VN, we probably need to replicate for all\r\nmarkets.\r\n\r\n   -\r\n\r\n   FBS/LFF\r\n   -\r\n\r\n   Acquisition of TT only sellers. SLS/LFF\r\n   -\r\n\r\n   CPIGMV study. Whether it make sense to invest more in SLS/LFF/CNLS\r"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "From JH:\r\n\r\nSlide 9:\r\n\r\nJH: We have noticed TTS and AE increased their CB logistics rate table in\r\nselected markets. We decided not to follow for now, but will see how the\r\nfuel cost evolve.\r\n\r\nYep\r\n\r\n\r\nSlide 19:\r\n\r\nJH: What happened to TH in Q3? Suddenly increase seller subsidy %?\r\n\r\nFrom CPO perspective, total seller subsidies in Q3’26 remain at 0.26 per\r\noutbound order, while platform voucher rebate per outbound order optimized\r\nacross period.\r\n\r\n[image: image.png]\r\n\r\n\r\nFrom Ian:\r\n\r\nSlide 4\r\n"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Leo Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian\r\n\r\nTo give more visibility on the compulsory ads usage, please find the below\r\n\r\n1. We track Ads Balance Depletion Ratio (weeks of coverage for ads\r\nbalance), and set Jan numbers (before compulsory ads) as target. In March,\r\nthe measures got worse, especially for sellers with take rate<5%.\r\n[image: image.png]\r\n\r\n2. The summary below outlines the levers we are acting on. The most\r\nimpactful ones are: (1) RM KPI for strong RM push as top 10 sellers\r\ncontribute to 20% of gap (2) Setting an expiry - we are in discussion with\r\nrelevant teams (PM, legal, finance)\r\n[image: image.png]\r\n3. Many of sellers with high balances actually have good  ROAS (benchmarked\r\nagaisnt category ROAS) - we have identify the top sellers and are\r\npushing for more seller education with both RM push and MKT ads diagnosis\r\nsupport\r\n[image: image.png]\r\n\r\nBest\r\nLeo"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q19",
+          "question": "We track Ads Balance Depletion Ratio (weeks of coverage for ads"
+        },
+        {
+          "question_id": "Q20",
+          "question": "The summary below outlines the levers we are acting on. The most"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Many of sellers with high balances actually have good  ROAS (benchmarked"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Leo Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian\r\n\r\nFor your questions, pls find answers as follows:\r\n\r\nDo we have a sense on what a good ratio would be?\r\n\r\nFirst to clarify the number we are tracking is Ads days of coverage (which\r\nI incorrectly communicated as weeks of coverage previously). Sincerely\r\napologize!\r\n\r\n\r\nFor CNCB MP total, we take pre compulsory-ads’ number (3-month average Nov’\r\n25-Jan’ 26), as target for end of H1, which is 4.8 days (Mar actual is\r\n8.7). However, this number can be very different across seller group. We\r\nare closely monitoring as sellers ads-spending behaviors shift and plan to\r\nhave 7 days as safe line on seller level (given our weekly billing cycle)\r\nonce <5%TR sellers’ behavior start to stabilize.\r\n\r\n\r\nAny sense why we saw a big increase in march for sellers with TR<5%?\r\n\r\nIt’s mostly due to under-spending of auto escrow - the increase in balance\r\nis faster than the increase in spending, esp. for sellers who used to spend\r\nvery little or none. To avoid the snowball effect, we need to ensure\r\nsellers’ net ads take rate above 4% (assuming 80% G2N and full transition\r\nto Tech fee top-up), otherwise the DOC will keep accumulating.\r\n\r\n\r\nDo we have a sense of overall ads escrow, is it increasing or?\r\n\r\nThe total top-up has decreased in March - mostly from >5% sellers reduce\r\ntheir manual top-ups to prioritize consuming existing balance.\r\n\r\n[image: image.png]\r\n\r\nHow do we deal with outliers? There will definitely be sellers who are not\r\nspending and will keep accumulating?\r\n\r\nThere are a few types of outliers we’ve been monitoring\r\n\r\n   -\r\n\r\n   Strategic top brands <5% TR, i.e. PPMT and potentially Xiaomi in PH,\r\n   which we have a special approval process to exclude them from auto-escrow\r\n   which ultimately needs JH’s signoff.\r\n   -\r\n\r\n   Other managed sellers with hard complaints, we also have a process in\r\n   place for RMs to file escalation, and so far we haven’t heard anything\r\n   -\r\n\r\n   For unmanaged sellers, potentially the more concerning ones, actions we\r\n   are work"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian\r\n\r\nFor your questions, pls find answers as follows:\r\n\r\nDo we have a sense on what a good ratio would be?\r\n\r\nFirst to clarify the number we are tracking is Ads days of coverage (which\r\nI incorrectly communicated as weeks of coverage previously). Sincerely\r\napologize!\r\n\r\n\r\nFor CNCB MP total, we take pre compulsory-ads’ number (3-month average Nov’\r\n25-Jan’ 26), as target for end of H1, which is 4.8 days (Mar actual is\r\n8.7). However, this number can be very different across seller group. We"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian\r\n\r\nFor your questions, pls find answers as follows:\r\n\r\nDo we have a sense on what a good ratio would be?\r\n\r\nFirst to clarify the number we are tracking is Ads days of coverage (which\r\nI incorrectly communicated as weeks of coverage previously). Sincerely\r\napologize!\r\n\r\n\r\nFor CNCB MP total, we take pre compulsory-ads’ number (3-month average Nov’\r\n25-Jan’ 26), as target for end of H1, which is 4.8 days (Mar actual is\r\n8.7). However, this number can be very different across seller group. We"
+        }
+      ]
+    }
+  ]
+}

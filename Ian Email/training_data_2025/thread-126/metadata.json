@@ -1,0 +1,292 @@
+{
+  "id": "thread-126",
+  "subject": "SIP Weekly Update - Week ending 5 Dec",
+  "date": "2025-12-08",
+  "deck_filename": "SIP weekly update_week ending 7 Dec.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "seller-acquisition",
+    "finance",
+    "product-launch",
+    "quarterly-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and all,\r\n\r\nPlease find SIP weekly update attached for review.\r\n\r\nAddressing follow-up questions on AME launch from last weekly below\r\n(detailed updates in slides)\r\n\r\n\r\n   -\r\n\r\n   Brunei - Aligned with MY AME Launch PMO\r\n   -\r\n\r\n      [P0] CNSIP / CN Direct: Jan-26\r\n      -\r\n\r\n      [P1] Local SIP / Local Direct: Feb-26\r\n      -\r\n\r\n      [P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n      finalize plan\r\n\r\n\r\nFor local sip/direct, i thought it was going to be Jan'26?\r\n\r\n\r\nJan’26 P0 segments are 1) MY local shops; 2) CNCB MP shops; 3) CNSIP shops\r\non MY platform to enable their fulfillment from MY/CN to BN.\r\n\r\n\r\nFor IDBN SIP and IDBN Direct, we target to be ready together with P0\r\nsegments by end-Jan, if not latest by 15 Feb to be ready for Raya ramp-up.\r\nKey launch prep actions include logistics solution and channel setup;\r\nglobal seller center + global wallet testing (for direct); HQ legal\r\nreview/modification of TOS.\r\n\r\n\r\nPls refer to slide 16 for overall timeline.\r\n\r\n\r\n[image: image.png]\r\n\r\n\r\n   -\r\n\r\n   Cambodia & Laos - Aligned with VN/TH AME Launch PMO\r\n   -\r\n\r\n      [P0] VN-Cambodia / TH-Laos: Jan-26\r\n\r\n\r\nwhat model will we start with here?\r\n\r\n\r\nVN-Cambodia and TH-Laos will start with local SIP model. SIP team is\r\nsupporting VN and TH PMO to prep launch, currently on track.\r\n\r\n\r\nwe think that we can open BN to more SEA markets other than MY? How will\r\nthe logistics flow work?\r\n\r\n\r\nYes we can enable ID/VN/TH/PH exports to BN in Q1-Q2 26, by enabling\r\nfulfillment of their local SIP/Direct shops on MY platform to BN.\r\n\r\n\r\nLogistics wise, there are 2 options available for each lane: 1) direct\r\nflight into BN; 2) transit from MY/SG into BN\r\n\r\n   -\r\n\r\n   ID-BN/VN-BN: direct flight option preferred due to lower cost and\r\n   shorter lead time vs transit option\r\n   -\r\n\r\n   TH-BN/PH-BN: pending vendor data; likely also direct flight option better\r\n\r\n\r\nNext step to obtain actual vendor quotations to finalize logistics\r\nsolutions; and estimate top"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 12 – 14\r\n\r\n   - How are we relooking Ops policy for other markets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 20\r\n\r\n   - For JST, why is the # of mature SKUs and SKU efficiency going down?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- In general, there are probably too little new SKUs for JST?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- Can we also track seller numbers?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "How has this grown over time?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 23\r\n\r\n   - How are we doing things differently than before?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "In general, number of\r\n   new sellers from JST still feel very low?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "- What is going on with the other ERP who we integrated with?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 26\r\n\r\n   - How are the paid ads and campaign participation for these sellers so\r\n   far?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "- How are we managing the large direct sellers right now?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Who is\r\n   managing?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Especially for the large lanes like IDMY, MYSG etc.\r\n\r\n\r\n\r\nOthers\r\n\r\n   - I remember there were some product fix to pass CS chat back to\r\n   sellers, where did we land on that?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "- And for seller vouchers, how are we using it for SIP right now?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Can we\r\n   use it?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Monday, 8 December 2025 6:13 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>; Wei\r\nLoong Yong <weiloong.yong@shopee.com>; Linda Sun <linda.sun@shopee.com>;\r\nXiao Xuan Soh <xiaoxuan.soh@shopee.com>; Faye Yan <faye.yan@shopee.com>;\r\nJoe Li <joe.liyc@shopee.com>; Lim Wan Ting <wanting.lim@shopee.com>; Ren\r\nJiahui <jiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>;\r\nLee Jia Yi <jiayi.jylee@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>\r\n*Subject:* SIP Weekly Update - Week ending 5 Dec\r\n\r\n\r\n\r\nHi Ian and all,\r\n\r\n\r\n\r\nPlease find SIP weekly update attached for review.\r\n\r\n\r\n\r\nAddressing follow-up questions on AME launch from last weekly below\r\n(detailed updates in slides)\r\n\r\n\r\n\r\n   - *Brunei - Aligned with MY AME Launch PMO*\r\n\r\n\r\n   - *[P0] CNSIP / CN Direct: Jan-26*\r\n      - *[P1] Local SIP / Local Direct: Feb-26*\r\n      - *[P1] KRJP Direct: Feb-26 tentative; MY PMO + MYCB + KRJP team to\r\n      finalize plan*\r\n\r\n\r\n\r\n*For local sip/direct, i thought it was going to be Jan'26?*\r\n\r\n\r\n\r\nJan’26 P0 segments are 1) MY local shops; 2) CNCB MP shops; 3) CNSIP shops\r\non MY platform to enable their fulfillment from MY/CN to BN.\r\n\r\n\r\n\r\nFor IDBN SIP and IDBN Direct, we target to be ready together with P0\r\nsegments by end-Jan, if not latest by 15 Feb to be ready for Raya ramp-up.\r\nKey launch prep actions include logistics solution and channel setup;\r\nglobal seller center + global wallet testing (for direct); HQ legal\r\nreview/modification of TOS.\r\n\r\n\r\n\r\nPls refer to slide 16 for overall timeline.\r\n\r\n\r\n\r\n\r\n\r\n*o   **Cambodia & Laos - Aligned with VN/TH AME Launch PMO*\r\n\r\n*§  **[P0] VN-Cambodia / TH-Laos: Jan-26*\r\n\r\n\r\n\r\n*what model will we start with here?*\r\n\r\n\r\n\r\nVN-Cambodia and TH-Laos will start with local SIP model. SIP team is\r\nsupporting VN and TH PMO to prep launch, currently on track.\r\n\r\n\r\n\r\n*we think that we can open BN to more SEA markets other than MY?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "How will\r\nthe logistics flow work?*\r\n\r\n\r\n\r\nYes we can enable ID/VN/TH/PH exports to BN in Q1-Q2 26, by enabling\r\nfulfillment of their local SIP/Direct shops on MY platform to BN.\r\n\r\n\r\n\r\nLogistics wise, there are 2 options available for each lane: 1) direct\r\nflight into BN; 2) transit from MY/SG into BN\r\n\r\n   - ID-BN/VN-BN: direct flight option preferred due to lower cost and\r\n   shorter lead time vs transit option\r\n   - TH-BN/PH-BN: pending vendor data; likely also direct flight option\r\n   better\r\n\r\n\r\n\r\nNext step to obtain actual vendor quotations to finalize logistics\r\nsolutions; and estimate topline potential based on actual shipping\r\ncost/time to decide order of launch.\r\n\r\n\r\n\r\nPls refer to slide 17 for detailed logistics options."
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "+28k new SKUs from mature sellers"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "-28k SKUs from CO/CL closure"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "-23k SKUs from non-performing SKU clean up + seller unlist\r\n\r\n\r\n[image: image.png]\r\n\r\nSKU efficiency dropped vs Oct due to"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Marketing budget cut in Nov for mature sellers. Mature sellers’P&L\r\n   +$761k Mom (slide 22 below)"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Newer SKUs added in Nov diluting the overall SKU efficiency\r\n\r\n[image: image.png]\r\n\r\n   -\r\n\r\n   In general, there are probably too little new SKUs for JST?\r\n\r\n\r\nYes. In terms of SKU# per seller, we have about 3k SKU/seller, and when\r\nbenchmarked against traditional sources of acquisition such as Lever 1 of\r\n~0.2k/ seller, we are higher.\r\n\r\n\r\nHowever, in an absolute SKU # sense, we are working to increase this\r\nthrough increasing our seller onboarding speed, which will also be\r\naddressed in the question below. The reason for the slow growth is after\r\nour marketing cuts in November, mature sellers experienced fluctuations in\r\ntheir topline and many new sellers did not generate orders, and this\r\nsparked concerns in the JST sales team to further push more sellers. In the\r\nmeantime, we are discussing with JST on the feasibility of an incentive\r\nprogram where we give them a referral fee for each seller they successfully\r\nrefer to us.\r\n\r\n\r\n\r\n   -\r\n\r\n   Can we also track seller numbers? How has this grown over time?\r\n\r\n\r\nWe have 302 JST/WDT sellers in total till date, which grew at an average\r\npace of ~50 sellers per month over the past 5 months since we started the\r\nprogram.\r\n\r\n\r\nMetric\r\n\r\nBefore Jul\r\n\r\nAug\r\n\r\nSep\r\n\r\nOct\r\n\r\nNov\r\n\r\nDec\r\n\r\nSeller # (who joined)\r\n\r\n47\r\n\r\n82\r\n\r\n182\r\n\r\n243\r\n\r\n284\r\n\r\n302\r\n\r\n... JST\r\n\r\n34\r\n\r\n62\r\n\r\n154\r\n\r\n208\r\n\r\n245\r\n\r\n259\r\n\r\n... WDT\r\n\r\n13\r\n\r\n20\r\n\r\n28\r\n\r\n35\r\n\r\n39\r\n\r\n43\r\n\r\nSeller # (with listings)\r\n\r\n13\r\n\r\n40\r\n\r\n94\r\n\r\n136\r\n\r\n169\r\n\r\n171\r\n\r\n... JST\r\n\r\n11\r\n\r\n32\r\n\r\n82\r\n\r\n122\r\n\r\n153\r\n\r\n155\r\n\r\n... WDT\r\n\r\n2\r\n\r\n8\r\n\r\n12\r\n\r\n14\r\n\r\n16\r\n\r\n16\r\n\r\nSKU #\r\n\r\n37,779\r\n\r\n109,685\r\n\r\n346,645\r\n\r\n456,297\r\n\r\n475,010\r\n\r\n475,498\r\n\r\n... JST\r\n\r\n34,635\r\n\r\n106,297\r\n\r\n342,769\r\n\r\n452,401\r\n\r\n471,114\r\n\r\n471,602\r\n\r\n... WDT\r\n\r\n3,144\r\n\r\n3,388\r\n\r\n3,876\r\n\r\n3,896\r\n\r\n3,896\r\n\r\n3,896\r\n\r\n\r\n\r\n\r\nSlide 23 Nicholas Lim <nicholas.lim@shopee.com>\r\n\r\n   -\r\n\r\n   How are we doing things differently than before? In general, number of\r\n   new sellers from JST still feel very low?\r\n\r\n\r\nFrom a marketing pe"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nSlide 12 – 14 Wei Qiang <wei.qiang@shopee.com>\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\nSlide 20 Nicholas Lim <nicholas.lim@shopee.c"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q17",
+          "question": "+28k new SKUs from mature sellers"
+        },
+        {
+          "question_id": "Q18",
+          "question": "-28k SKUs from CO/CL closure"
+        },
+        {
+          "question_id": "Q19",
+          "question": "-23k SKUs from non-performing SKU clean up + seller unlist"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Marketing budget cut in Nov for mature sellers. Mature sellers’P&L"
+        },
+        {
+          "question_id": "Q21",
+          "question": "Newer SKUs added in Nov diluting the overall SKU efficiency"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\nSlide 12 – 14 Wei Qiang\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high NFR sellers\r\n\r\n\r\n\r\nFor other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.\r\n\r\n\r\n\r\n#3 should be done even if there is ADO impact? It is just poor buyer\r\nexperience?\r\n\r\n*Yes, we have frozen all shops with high NFR across all markets this week.\r\nBelow is the ADO impact for your review.*\r\n\r\nImport markets\r\n\r\nOffboard high NFR sellers\r\n\r\nOverall Impact %\r\n\r\nAction taken\r\n\r\nADO impact\r\n\r\nADG impact\r\n\r\nADO%\r\n\r\nADG %\r\n\r\nSG\r\n\r\n-153\r\n\r\n-2,982\r\n\r\n-0.4%\r\n\r\n-0.6%\r\n\r\nShop freezed on Nov 28\r\n\r\nMY\r\n\r\n-452\r\n\r\n-5,514\r\n\r\n-0.6%\r\n\r\n-0.8%\r\n\r\nShop freezed on Dec 19\r\n\r\nPH\r\n\r\n-277\r\n\r\n-3,682\r\n\r\n-0.5%\r\n\r\n-0.9%\r\n\r\nTH\r\n\r\n-61\r\n\r\n-660\r\n\r\n-0.7%\r\n\r\n-0.8%\r\n\r\nTW\r\n\r\n-16\r\n\r\n-323\r\n\r\n-1.4%\r\n\r\n-1.4%\r\n\r\nAR\r\n\r\n-1\r\n\r\n-12\r\n\r\n-6.3%\r\n\r\n-3.4%\r\n\r\nMX\r\n\r\n-3\r\n\r\n-41\r\n\r\n-1.4%\r\n\r\n-1.1%\r\n\r\nOverall\r\n\r\n-963\r\n\r\n-13,214\r\n\r\n-0.5%\r\n\r\n-0.8%\r\n\r\n\r\n\r\nOthers\r\n\r\n   -\r\n\r\n   And for seller vouchers, how are we using it for SIP right now? Can we\r\n   use it? Zhang Yu\r\n\r\nCurrently SIP does not use seller vouchers. This is because SIP uses one\r\ndummy buyer account to “purchase” from an export market shop on behalf of\r\nmultiple import market-buyers. By platform policy the dummy buyer account\r\ncan only collect 1 seller voucher per shop. We explored the possibility of\r\ncollecting 1 seller voucher per shop per end-buyer, but rejected by HQ\r\nlegal due to compliance concerns, and ID/VN biz team due to PR/seller\r\nsentiment concerns (e.g., they will see SIP as one buyer"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\nSlide 12 – 14 Wei Qiang\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\nSlide 12 – 14 Wei Qiang\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\nSlide 12 – 14 Wei Qiang\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high "
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\nSlide 12 – 14 Wei Qiang\r\n\r\n   -\r\n\r\n   How are we relooking Ops policy for other markets?\r\n\r\n\r\n\r\nFor SG, SIP implemented 3 actions\r\n\r\n#1 Lower price ceiling on category level\r\n\r\n#2 Tighten onboarding criteria to admit only proven sellers\r\n\r\n#3 Offboard high "
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q22",
+          "question": "*Agree. We have clarified legal concerns. Legal guidance is that the\r\neligibility of seller voucher collection should be based on end-buyer\r\nprofile and not SIP decision; and the voucher amount needs to be passed to\r\nend-buyer real-time upon collection; this is to legally protect SIP as a\r\npurchase agent for end-buyers, instead of making purchase decisions.\r\nHowever it conflicts with the current 2-order system design.*\r\n\r\n*With above constraints, we are in progress of exploring short-term\r\nworkarounds and long-term product solutions with HQ legal and CB BPM. Will\r\nupdate progress in next weekly update.*\r\n\r\n\r\n\r\nLet’s solve for this. Seller vouchers are meant for end buyers, and SIP is\r\njust a channel we use to allow end buyers to be able to buy. We should be\r\nable to find a workaround for legal concern.\r\n\r\n\r\n\r\nAnd ID/VN should not have this concern as well.\r\n\r\n\r\n\r\n*For Swarm Document*\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - Can split out OF from here when we look at active sellers and SKUs?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "I\r\n   am not sure they will be a big contributor to the business moving forward.\r\n   How does their SKU efficiency compare with JST?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Slide 3\r\n\r\n   - I am more concerned with the growth of JST and WDT over time. The pace\r\n   has been overall slow\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - For incubation, is there any way to grow these sellers faster so they\r\n   can start investing themselves?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "- We will need to set targets for JST and WDT\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*From:* Cuiwei Sun <cuiwei.sun@shopee.com>\r\n*Sent:* Tuesday, 23 December 2025 6:10 pm\r\n*To:* Soo Siang, Ian Ho <hoi@sea.com>\r\n*Cc:* Jianghong Liu <jianghong.liu@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Keljin Chua <keljin.chua@shopee.com>; Jason Yu <\r\njason.yu@shopee.com>; Yu Zhang <yu.zhang@shopee.com>; Ailin Xie <\r\nailin.xie@shopee.com>; Wei Qiang <wei.qiang@shopee.com>; Huang Wan-Jung <\r\nwanjung.huangwj@shopee.com>; Chiong Zhi Ann <zhiann.chiong@shopee.com>; Wei\r\nLoong Yong <weiloong.yong@shopee.com>; Linda Sun <linda.sun@shopee.com>;\r\nXiao Xuan Soh <xiaoxuan.soh@shopee.com>; Faye Yan <faye.yan@shopee.com>;\r\nJoe Li <joe.liyc@shopee.com>; Lim Wan Ting <wanting.lim@shopee.com>; Ren\r\nJiahui <jiahui.ren@shopee.com>; Eveline Seah <eveline.seahyl@shopee.com>;\r\nLee Jia Yi <jiayi.jylee@shopee.com>; Nicholas Lim <nicholas.lim@shopee.com>\r\n*Subject:* Re: SIP Weekly Update - Week ending 5 Dec\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPls find our responses on ops cleanup and seller voucher questions below *in\r\ngreen*. For Swarm related feedback, please find attached slides for\r\nvalidated data, business plan recap, and responses to your questions. Thank\r\nyou.\r\n\r\n\r\n\r\n*Slide 12 – 14 Wei Qiang*\r\n\r\n·  *How are we relooking Ops policy for other markets?*\r\n\r\n\r\n\r\n*For SG, SIP implemented 3 actions *\r\n\r\n*#1 Lower price ceiling on category level*\r\n\r\n*#2 Tighten onboarding criteria to admit only proven sellers*\r\n\r\n*#3 Offboard high NFR sellers *\r\n\r\n\r\n\r\n*For other markets, #1 and #2 are done; #3 ETA 18 Dec after completing biz\r\nimpact analysis of using the same threshold in SG to other markets.*\r\n\r\n\r\n\r\n*#3 should be done even if there is ADO impact?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "It is just poor buyer\r\nexperience?*\r\n\r\n\r\n\r\n*Yes, we have frozen all shops with high NFR across all markets this week.\r\nBelow is the ADO impact for your review.*\r\n\r\n\r\n\r\n*Import markets*\r\n\r\n*Offboard high NFR sellers*\r\n\r\n*Overall Impact %*\r\n\r\n*Action taken*\r\n\r\n*ADO impact*\r\n\r\n*ADG impact*\r\n\r\n*ADO%*\r\n\r\n*ADG %*\r\n\r\nSG\r\n\r\n-153\r\n\r\n-2,982\r\n\r\n-0.4%\r\n\r\n-0.6%\r\n\r\nShop freezed on Nov 28\r\n\r\nMY\r\n\r\n-452\r\n\r\n-5,514\r\n\r\n-0.6%\r\n\r\n-0.8%\r\n\r\nShop freezed on Dec 19\r\n\r\nPH\r\n\r\n-277\r\n\r\n-3,682\r\n\r\n-0.5%\r\n\r\n-0.9%\r\n\r\nTH\r\n\r\n-61\r\n\r\n-660\r\n\r\n-0.7%\r\n\r\n-0.8%\r\n\r\nTW\r\n\r\n-16\r\n\r\n-323\r\n\r\n-1.4%\r\n\r\n-1.4%\r\n\r\nAR\r\n\r\n-1\r\n\r\n-12\r\n\r\n-6.3%\r\n\r\n-3.4%\r\n\r\nMX\r\n\r\n-3\r\n\r\n-41\r\n\r\n-1.4%\r\n\r\n-1.1%\r\n\r\nOverall\r\n\r\n-963\r\n\r\n-13,214\r\n\r\n-0.5%\r\n\r\n-0.8%\r\n\r\n\r\n\r\n*Others*\r\n\r\n·  *And for seller vouchers, how are we using it for SIP right now?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Can we\r\nuse it?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q22",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Slide 4: What are the things we plan to do to increase ABS? Saw a big\r\nincrease on slide 2, but nothing mentioned here."
+        }
+      ]
+    }
+  ]
+}

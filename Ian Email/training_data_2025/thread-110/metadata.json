@@ -1,0 +1,223 @@
+{
+  "id": "thread-110",
+  "subject": "[Pre-read] ERP Project Meeting Update_October 2025",
+  "date": "2025-10-23",
+  "deck_filename": "Swarm Project _ biz plan & PnL update.pdf",
+  "deck_topic_tags": [
+    "logistics",
+    "finance",
+    "regional",
+    "shopee",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan",
+      "Nicholas Lim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPlease find the attached slides for our ERP meeting tomorrow.\r\nThank you.\r\n\r\n-- \r\n*Nicholas Lim*\r\nShopee | Cross Border | Special Projects / TWCB"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nSending the follow-ups from the meeting earlier. Thank you.\r\n\r\n# Key Topics Action Items PIC ETA\r\n1 P&L Reduce SLS Rate card for ERP to heavy rate card Faye Oct 28th\r\n2 P&L Redefine Incubation vs Mature sellers, check and make sure mature\r\nsellers positive P&L Shuning/Nic Oct 28th\r\n3 P&L/Targets Optimize rebate spending in markets (i.e. PH/BR/TW etc) to\r\nlower down costs dramatically and evaluate topline impact accordingly\r\nShuning/Nic Oct 28th\r\n4 OF Recheck OF funding interest to cut the cost to Shopee Shuning/Nic Oct\r\n30th"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks\r\n\r\n\r\n\r\nFor #1 – It should not only be for ERP right?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "How about lever 1 and 2?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "+Edric Tan Eng Tong <edric.tanet@shopee.com>\r\nHi Ian,\r\n\r\nFor #1 – It should not only be for ERP right? How about lever 1 and 2?\r\n\r\n*>> not only for ERP, for level 1/2 also apply to Taobao heavy rate card,\r\nJason/Kaiwen to write approval to you and Jianghong by EOD and whitelist\r\naccordingly.*\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "+Edric Tan Eng Tong <edric.tanet@shopee.com>\r\nHi Ian,\r\n\r\nFor #1 – It should not only be for ERP right? How about lever 1 and 2?\r\n\r\n*>> not only for ERP, for level 1/2 also apply to Taobao heavy rate card,\r\nJason/Kaiwen to write approval to you and Jianghong by EOD and whitelist\r\naccordingly.*\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find the follow up from the last meeting on the *future projection part*,\r\nwe will walkthrough in tmr's meeting.\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q3",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 2\r\n\r\n   - What is the definition of incubation vs mature?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- Does the P&L here right now include CNSIP?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Or it is just Swamp?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- For Mature UE, can help me compare with existing CNSIP?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- Our UE improvement from Oct to Nov will come from\r\n      - Rev increase of USD 3?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "How does this work?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- Shipping fee reduction of 0.8?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "how does this work?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- For Incubation UE, can help me compare with existing SCS incubation?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- What is the UE before and after Oct cut?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "And what was the impact to\r\n   ADO?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 4\r\n\r\n   - Cannot reconcile the numbers here with Slide 2?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "I thought we would\r\n   breakeven by Jul’26?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Slide 5\r\n\r\n   - Similar comment as Slide 4\r\n   - What will before/after for Nov’25 submission look like?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q3",
+          "answer": "Shop age > 60days from shop opening"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "OR Shop ado > threshold for each market"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Big market: VN, PH, TH, MY >300"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "SG>100"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right now include CNSIP? Or it is just Swamp?\r\n\r\n\r\n   -\r\n\r\n   For Mature UE, can help me compare with existing CNSIP? Yu Zhang\r\n   <yu.zhang@shopee.com> Joe Li <joe.liyc@shopee.com> (if we have existing\r\n   format for CNSIP)\r\n\r\n\r\n   -\r\n\r\n   Our UE improvement from Oct to Nov will come from\r\n   -\r\n\r\n      Rev increase of USD 3? How does this work?\r\n\r\nfrom expected negative price sentiment has also been factored in\r\n\r\n   -\r\n\r\n   Shipping fee reduction of 0.8? how does this work?\r\n\r\nheavy/choice rate table)\r\n\r\nFor the rest, to follow Choice discount\r\n\r\n\r\n   -\r\n\r\n   For Incubation UE, can help me compare with existing SCS incubation? Kuan\r\n   Wai Mei <waimei.kuan@shopee.com> - checking in with SCS team >> shared\r\n   in deck\r\n\r\n   -\r\n\r\n   What is the UE before and after Oct cut? And what was the impact to\r\nADO? Natasha\r\n   Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nUE was better by 2.1 usd/order (from -4.1usd/order to -2 usd/order)\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   Cannot reconcile the numbers here with Slide 2? I thought we would\r\n   breakeven by Jul’26? Faye Yan <faye.yan@shopee.com> Kuan Wai Mei\r\n   <waimei.kuan@shopee.com>\r\n\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   Similar comment as Slide 4\r\n   -\r\n\r\n   What will before/after for Nov’25 submission look like? >> revised in\r\n   deck\r\n\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPls find answers as follows with attached backup deck\r\n\r\nSlide 2\r\n\r\n   -\r\n\r\n   What is the definition of incubation vs mature? Nicholas Lim\r\n   <nicholas.lim@shopee.com> Natasha Ho Yi Xin <natasha.hoyx@shopee.com>\r\n\r\nthese conditions:\r\n\r\n   1.\r\n\r\n   Shop age > 60days from shop opening\r\n   2.\r\n\r\n   OR Shop ado > threshold for each market\r\n   1.\r\n\r\n      Big market: VN, PH, TH, MY >300\r\n      2.\r\n\r\n      SG>100\r\n      3.\r\n\r\n      Small market: >20\r\n\r\n\r\n   -\r\n\r\n   Does the P&L here right"
+        }
+      ]
+    },
+    {
+      "turn": 8,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find the follow-up items of this meeting\r\n\r\n# Key Topics Action Items PIC ETA\r\n1 Spending Optimization 1. To cut OF spending and optimization ERP sellers\r\nspending Shuning/Nic Oct 31\r\n2 OF effectiveness evaluation 1. To run OF for another one month and\r\nmonitor topline and PnL performance\r\n2. OF SKUs evaluation: whether truly bring in SKUs that are not on Shopee\r\n3. OF SKUs price mark-up evaluation Shuning/Nic Nov 15\r\n3 SLS discount evaluation 1. To confirm if to apply Choice SLS discount to\r\nSwarm Faye/Edric Oct 31\r\n4 Official PnL booking 1. To start booking from Nov'25 Submission\r\nFaye/Waimei Nov 20\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    }
+  ]
+}

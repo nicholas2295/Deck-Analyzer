@@ -1,0 +1,45 @@
+{
+  "id": "thread-116",
+  "subject": "SIP Weekly Update - Week Ending 7 Nov",
+  "date": "2025-11-10",
+  "deck_filename": "SIP weekly update _ week ending 7 Nov.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find SIP weekly update attached for your review.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - What is the expected P&L for Nov?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 12\r\n\r\n   - Where did we land on how we handle RR for direct sellers right now?"
+        }
+      ]
+    }
+  ]
+}

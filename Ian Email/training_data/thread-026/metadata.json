@@ -1,0 +1,242 @@
+{
+  "id": "thread-026",
+  "subject": "[For Review] March CB Quarterly Management Meeting",
+  "date": "2026-03-26",
+  "deck_filename": "Mar 26 CB Quarterly Management Meeting_v0.1.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "quarterly-review",
+    "growth",
+    "category"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu",
+      "Keljin Chua"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong,\r\n\r\nPlease find attached version 1 deck for the upcoming Quarterly CB\r\nManagement Meeting on 31st Mar, Tuesday, for review.\r\n\r\nWork-in-progress (WIP) parts will be completed by next iteration, tomorrow,\r\n27th Mar.\r\n\r\nLet me know for any questions.\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Keljin Chua",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "thanks, in general let's avoid long winded updates that are too\r\ntactical/bottom up and aim to be concise + sharp + strategic with CF/TP\r\n\r\n@Faye Yan <faye.yan@shopee.com> @Jason Yu <jason.yu@shopee.com> as\r\ndiscussed\r\n\r\n   - Currently the sob/yoy growth has way too much clutter:\r\n      - Pls refer to the sg deck with CF/TP. To be concise and sharp about\r\n      key msgs. Pls combine cb and cnls together and dont leave out kr/jp\r\n      - Can summarize the tables into quarterly instead of monthly since\r\n      this meeting with cf is quarterly\r\n      - Pls focus on adg sob and move ado sob into appendix\r\n      - Pls have 1 slide that clearly states that we are outperforming\r\n      platform in terms of adg sob against tts\r\n      - Pls have 1 slide that clearly states that we are on track to our\r\n      YoY target\r\n   - For fbs,\r\n      - Pls combine cb and cnls into 1, focusing on the key number of cb +\r\n      cnls fbs ado%. Currently way too confusing and way too much clutter\r\n      - Pls have 1 slide that clearly states that our fbs ado% is growing\r\n   - SLS/War impact/Automation\r\n      - The summary of the pnl impact should be the 1st slide and concise\r\n      - Pls also ensure alignment with reg fpna and local markets about\r\n      what’s budgeted for what we show to CF/TP. Currently quite alot of\r\n      confusion with what each local market budgets vs regional budget\r\n      - Any update on automation\r\n   - Temu: any development on market expansion or pushing further in SEA?\r\n   If not lets make it clear as that's quite a important thing to track from\r\n   overall org pov\r\n   - The rest can move to a separate deck as update deck\r\n\r\n\r\n--\r\n\r\n*Chua Kel Jin*\r\n\r\nMobile: +65 8511 5071\r\n\r\nAddress: 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Please see my comments in the PDF file.\r\n\r\nFor the war impact, I'll talk with the team offline"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Keljin/Jianghong,\r\n\r\nWe have further sharpened the deck, please find response to your feedback\r\nbelow and V2 of the completed decks attached.\r\n\r\nJianghong’s Feedback\r\n\r\nSlide 3 -  1) SHP VN 3PF CMS increase by ~2.5% from Jan  - What is CMS and\r\nwhat is the message we want to deliver here?\r\n\r\nSlide 3 - 3) higher LFF ADO pene% of TTS compared with SHP (TTS ~64% vs SHP\r\n~42% Think this one is not so important?\r\n\r\n(Slide is simplified and details will be given in case CF asks)\r\n\r\nCMS stands for commission rate.\r\n\r\nThe message CNCB team wants to deliver is that:\r\n\r\nFor CNCB ADO SOB, from Dec’25 to Mar’26, SHP VN 3PF actual commission take\r\nrate increased by ~5% (from ~5.3% to 10.1%), primarily due to a commission\r\nfee increase by ~2% starting from Jan’25, coupled with commission fee\r\nwaivers for some new 3PF sellers ended in Feb / Mar. This could pose\r\npotential pressure for VN 3PF ADO growth.\r\n\r\nIn contrast, TTS shows a higher LFF ADO pene% in VN compared with SHP (64%\r\nvs 42%), thus TTS’s robust LFF growth can largely drive the overall CB\r\ntopline growth (updated in slides)\r\n\r\nHowever, looking into ADG SOB, VN ADG SOB QoQ dropped by -0.16x,\r\nunderperforming the platform by -0.15x. This is primarily due to quick TTS\r\nCNCB ramp-up (ADG +29% QoQ) by aggressively expanding LFF sellers\r\nspecialized in large & bulky categories with higher ABS\r\n\r\nSlide 3 - between TTS CNCB sellers and TTS platform (~3–4 p.p.) - What is\r\nthe root cause? Category mix?\r\n\r\nThe root cause of CIR% gap: TTS strategic PRM support on PHCB to gain\r\nmarket share\r\n\r\n   -\r\n\r\n   As PH remains the only SEA market other than SG with SHP/TTS CB ADG SOB\r\n   above 1.0x, TTS deploys strategic PRM, especially heavy logistic PRM, on\r\n   PHCB to gain market share\r\n\r\nThe category mix remains broadly consistent between PH local and CB, with\r\nnuances in FMCG and EL. (Note: local has slightly higher FMCG presence with\r\na lean EL, while CB features a more balanced split)\r\n\r\nSlide 8 -  +17% below platform growth,  the"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - For CB, can breakdown into SLS and LFF?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "17% yoy is not very good\r\n   - If we add CNLS into total CB, how will the YOY growth be like?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 12\r\n\r\n   - We fell behind for MY and PH?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "I thought we were always in front?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Others\r\n\r\n   - There is an initiative to acquire TTS only sellers via 3PFs?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Can we\r\n   bring it up, and where are we on it?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Slide 16\r\n\r\n   - Does this take into account LFF % increasing over time?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "As LFF\r\n   increases, the impact on SLS should by right decline?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "Slide 17\r\n\r\n   - How do I reconcile the numbers here with the 48M on Slide 16?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Others\r\n\r\n   - Any content on our WH automation that we should like to bring up?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- What automation are we testing right now?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "CPO impact?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "How we are\r\n   bringing these automation locally\r\n   - Can bring SCS + Lovito content from update to discussion deck\r\n\r\n\r\n\r\n*From:* Jason Yu <jason.yu@shopee.com>\r\n*Sent:* Saturday, 28 March 2026 5:27 pm\r\n*To:* Jianghong Liu <jianghong.liu@shopee.com>\r\n*Cc:* Keljin Chua <keljin.chua@shopee.com>; Ian Ho <hoi@sea.com>; Amanda\r\nEng <amanda.eng@shopee.com>; Haenle Suh <haenle.suh@shopee.com>; Ray Wang <\r\nray.wang01@shopee.com>; Shuning Wang <shuning.wang@shopee.com>; Cuiwei Sun <\r\ncuiwei.sun@shopee.com>; Faye Yan <faye.yan@shopee.com>; Max Goh Shi Long <\r\nmax.gohsl@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>; Lu Lin <\r\nlu.lin@shopee.com>; Siqin Liu <siqin.liu@lovito.com>; Roy Lv <\r\nroy.lv@shopee.com>; Di Zhang <di.zhangd@shopee.com>; Elaine Wang <\r\nelaine.wang@shopee.com>; kexin hong <kexin.hong@shopee.com>; Leo Chen <\r\nleo.chenyh@shopee.com>; Ruofei Wang <phyllis.wang@shopee.com>; Sophie Peng <\r\nsophie.peng@shopee.com>\r\n*Subject:* Re: [For Review] March CB Quarterly Management Meeting\r\n\r\n\r\n\r\nHi Keljin/Jianghong,\r\n\r\n\r\n\r\nWe have further sharpened the deck, please find response to your feedback\r\nbelow and V2 of the completed decks attached.\r\n\r\n\r\n\r\n*Jianghong’s Feedback*\r\n\r\nSlide 3 -  1) SHP VN 3PF CMS increase by ~2.5% from Jan  - What is CMS and\r\nwhat is the message we want to deliver here?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Slide 3 - 3) higher LFF ADO pene% of TTS compared with SHP (TTS ~64% vs SHP\r\n~42% Think this one is not so important?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "(Slide is simplified and details will be given in case CF asks)\r\n\r\nCMS stands for commission rate.\r\n\r\nThe message CNCB team wants to deliver is that:\r\n\r\nFor CNCB ADO SOB, from Dec’25 to Mar’26, SHP VN 3PF actual commission take\r\nrate increased by ~5% (from ~5.3% to 10.1%), primarily due to a commission\r\nfee increase by ~2% starting from Jan’25, coupled with commission fee\r\nwaivers for some new 3PF sellers ended in Feb / Mar. This could pose\r\npotential pressure for VN 3PF ADO growth.\r\n\r\nIn contrast, TTS shows a higher LFF ADO pene% in VN compared with SHP (64%\r\nvs 42%), thus TTS’s robust LFF growth can largely drive the overall CB\r\ntopline growth (updated in slides)\r\n\r\nHowever, looking into ADG SOB, VN ADG SOB QoQ dropped by -0.16x,\r\nunderperforming the platform by -0.15x. This is primarily due to quick TTS\r\nCNCB ramp-up (ADG +29% QoQ) by aggressively expanding LFF sellers\r\nspecialized in large & bulky categories with higher ABS\r\n\r\n\r\n\r\nSlide 3 - between TTS CNCB sellers and TTS platform (~3–4 p.p.) - What is\r\nthe root cause?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "Category mix?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "The root cause of CIR% gap: TTS strategic PRM support on PHCB to gain\r\nmarket share\r\n\r\n   - As PH remains the only SEA market other than SG with SHP/TTS CB ADG\r\n   SOB above 1.0x, TTS deploys strategic PRM, especially heavy logistic PRM,\r\n   on PHCB to gain market share\r\n\r\nThe category mix remains broadly consistent between PH local and CB, with\r\nnuances in FMCG and EL. (Note: local has slightly higher FMCG presence with\r\na lean EL, while CB features a more balanced split)\r\n\r\n\r\n\r\nSlide 8 -  +17% below platform growth,  there should be a comma here,\r\notherwise the meaning is very different\r\n\r\nHave updated the title.\r\n\r\nSlide 8 - expansion and automation This one refers to the FBS warehouse\r\nexpansion and automation cost allocated to CB?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Yes.\r\n\r\n\r\n\r\nSlide 20 (Now moved to For Update)- FBS Free Trial Program - Can remind me\r\nwhether we still have a \"free trial\" program?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Yes. We are still running Free Trial for all CB FBS markets, incl. SG, MY,\r\nTH, PH, aligned with local FBS programs as well.\r\n\r\n\r\n\r\nSlide 20  - On this slide, you better list down a comparison table between\r\nJet fuel volatility compared to vehicle fuel (SPX). 1) Higher 2) Delayed\r\n\r\nWe have added into the updated slides.\r\n\r\n\r\n\r\nSlide 21  - To mark where we are now on the chart\r\n\r\nWe have added into the updated slides.\r\n\r\nSlide 22 - indicative of diesel prices in SEA - You want to compare to SPX\r\nfuel cost here, right?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Yes we want to leverage the chart to highlight jet fuel's greater price\r\nvolatility vs diesel (SPX fuel cost).\r\n\r\n\r\n\r\nSlide 56 - Included 新拼姆\r\n\r\n\r\n\r\n*Keljin’s Feedback*\r\n\r\n   - Currently the sob/yoy growth has way too much clutter:\r\n\r\n·       Pls refer to the sg deck with CF/TP. To be concise and sharp about\r\nkey msgs. Pls combine cb and cnls together and dont leave out kr/jp\r\n\r\n·       Can summarize the tables into quarterly instead of monthly since\r\nthis meeting with cf is quarterly\r\n\r\n·       Pls focus on adg sob and move ado sob into appendix\r\n\r\n·       Pls have 1 slide that clearly states that we are outperforming\r\nplatform in terms of adg sob against tts\r\n\r\n·       Pls have 1 slide that clearly states that we are on track to our\r\nYoY target\r\n\r\nFor FY26 Topline, we have combined the CB and CNLS and trimmed insights.\r\nFor SOB we have trimmed to show ADG by Quarter and sharpen the insights.\r\nADO SOB is placed as a back up slide.\r\n\r\n   - For fbs,\r\n\r\n·       Pls combine cb and cnls into 1, focusing on the key number of cb +\r\ncnls fbs ado%. Currently way too confusing and way too much clutter\r\n\r\n·       Pls have 1 slide that clearly states that our fbs ado% is growing\r\n\r\nHave combined and shortened the slides, the rest moved to For Updates\r\n\r\n   - SLS/War impact/Automation\r\n\r\n\r\n   - The summary of the pnl impact should be the 1st slide and concise\r\n\r\nNoted, we are starting the session with the P&L impact.\r\n\r\n·       Pls also ensure alignment with reg fpna and local markets about\r\nwhat’s budgeted for what we show to CF/TP. Currently quite alot of\r\nconfusion with what each local market budgets vs regional budget\r\n\r\nAligned with Faye on the PnL numbers\r\n\r\n·       Any update on automation\r\n\r\nAdded automation slides to the deck.\r\n\r\n   - Temu: any development on market expansion or pushing further in SEA?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 is negative, why LFF YoY\r\nPC2% fell). A cleaner narrative for ADG: +17% YoY, despite not strong, it’s\r\nstraightforward to explain,\r\n\r\n   -\r\n\r\n   with most of the gap driven by TH/VN downturns (platform +35%/+25% vs.\r\n   CB +16%/0%)\r\n   -\r\n\r\n   Also note on deck that Q4’26 vs Q4’25 is +24%, in line with the platform\r\n   +26% for the same period, by then, the anti‑import policies were already in\r\n   effect in Q4’25\r\n\r\n[image: image.png]\r\n\r\n\r\n\r\n   -\r\n\r\n   If we add CNLS into total CB, how will the YOY growth be like?\r\n\r\n+22%, can see 2nd last row in the deck table\r\n\r\n\r\nSlide 12 (Now Slide 11)\r\n\r\n   -\r\n\r\n   We fell behind for MY and PH? I thought we were always in front?\r\n\r\nMY and PH was on par with TTS in Dec’25 but fell slightly behind from\r\nJan’26 to Feb’26, mainly due to 1) TTS didn’t increase base comm while SHP\r\nmandatory fee increase significantly from Jan (MY CB FBS base comm\r\nincreased by 4% + 5% new mandatory ads to all CN sellers; PHCB FBS base\r\ncomm increased by 1.5%) and 2) TTS tends to spike more in Jan/Feb, slowing\r\ndown in later months\r\n\r\n\r\nTo catch up by Jun, we are accelerating FBS growth by setting more\r\naggressive targets for MY/PH and optimizing our existing FBS penetration\r\nprogram. We will also grow total LFF seller base by running TTS 3PF seller\r\nacquisition program.\r\n\r\n\r\nOthers\r\n\r\n   -\r\n\r\n   There is an initiative to acquire TTS only sellers via 3PFs? Can we\r\n   bring it up, and where are we on it?\r\n\r\n\r\nYes, we’ve added this as slide 12\r\n\r\n[image: image.p"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nPlease see replies below in blue and updated slides attached, let me know\r\nif any other questions.\r\n\r\nAdditionally, have replaced SOB with Slide 3 which combines view of CB/CNLS\r\nto show total SOB improvement vs platform, moved CB/CNLS split into\r\nappendix.\r\n\r\nSlide 8 (Now Slide 5)\r\n\r\n   -\r\n\r\n   For CB, can breakdown into SLS and LFF? 17% yoy is not very good\r\n\r\nAdded in deck, can also see the breakdown in the table below. Table may\r\ntrigger comparison questions (e.g., why SLS MP PC2 "
+        }
+      ]
+    }
+  ]
+}

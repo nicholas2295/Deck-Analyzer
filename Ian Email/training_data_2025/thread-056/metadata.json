@@ -1,0 +1,97 @@
+{
+  "id": "thread-056",
+  "subject": "CNSIP revamp update",
+  "date": "2025-05-22",
+  "deck_filename": "CNSIP revamp plan_20250602.pdf",
+  "deck_topic_tags": [
+    "growth",
+    "marketing",
+    "pricing",
+    "regional",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, JH,\r\n\r\nProviding a quick update on CNSIP revamp plan and timeline in below summary\r\ntable. We have made progress on a few of them alongside local SIP\r\noptimization efforts, and WIP on additional ones, focusing on\r\n\r\n1) address issues that make sellers reject CNSIP: a) provide SIP shop\r\nvisibility to sellers, b) simplify settlement logic to help seller\r\nunderstand the payment clearly\r\n\r\n2) improve our internal growth levers on SKU count, price, and marketing\r\n\r\nWe are also working with Derek’s CN SMT team and James’ CN SLS team to\r\nexplore opportunities and synergies. Please expect a completed joint\r\nproposal from us by 30 May on following initiatives.\r\n\r\nSummary of CNSIP revamp initiatives\r\n\r\nFocus\r\n\r\n#\r\n\r\nOn-going initiative\r\n\r\nDescription\r\n\r\nCurrent progress and impact realized\r\n\r\nNext-steps and ETA\r\n\r\nImpact potential (Dec-25)\r\n\r\nMore SKUs\r\n\r\n1\r\n\r\nImprove SKU migration\r\n\r\nRevive non-performing SKUs with price reduction\r\n\r\nImprove system migration efficiency with product/ops fix\r\n\r\nRevise SIP seller onboarding criteria\r\n\r\nRevived non-performing SKUs for 6 CNSIP lanes in mid-Apr, recovered ~1.1M\r\nSKUs\r\n\r\nPost 2 weeks avg +623 ADO\r\n\r\nConducted resync after raising shop listing limit, pending impact monitoring\r\n\r\nBuild overall SKU gap funnel per market and deep-dive into reasons why SKU\r\ngaps are not on CNSIP, and next-steps to close the gap [ETA 28 May]\r\n\r\nImprove migration efficiency with system/ops fix alongside local SIP lanes\r\n[ETA Jun]\r\n\r\nTo be added by 30 May\r\n\r\nCheaper price\r\n\r\n2a\r\n\r\nSeller settlement price reduction\r\n\r\nPush CNSIP sellers to lower settlement price to SIP\r\n\r\nConducted price negotiation for 5-10% discount to top SKUs on monthly basis\r\n\r\nMTD +1.9K ADO from pitched SKU pool\r\n\r\nAfter management fee removal, initiate shop-leve (instead of current SKU\r\nlevel) negotiation, similarly to local SIP practice [ETA Jun]\r\n\r\nExplore system solution to allow dynamic settlement price based on lowest\r\nsettlement price among seller’s direct shops; 2) sca"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "address issues that make sellers reject CNSIP: a) provide SIP shop"
+        },
+        {
+          "question_id": "Q2",
+          "question": "improve our internal growth levers on SKU count, price, and marketing"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nFor existing SIP sellers, are they in all markets that they are not in with\r\ndirect model?\r\n\r\n   -\r\n\r\n   Yes, we open SIP shops for all markets that they currently do not have\r\n   Direct shops in\r\n\r\n\r\n\r\nFor new SIP sellers, the low hanging fruit for me would be GGPs who are not\r\nin all our markets. It is unclear to me whether it should be\r\n\r\n   -\r\n\r\n   What the size is\r\n   -\r\n\r\n   We pitch them direct first\r\n   -\r\n\r\n   We get them on SIP first, then return shop to them later\r\n\r\n\r\n\r\nThen we will move down the value chain in terms of type of sellers to\r\nprioritize..\r\n\r\n   -\r\n\r\n   Size: we are building the funnel view for each market as part of our\r\n   proposal next week. We are assessing, for all the CNCB GPs and their SKUs,\r\n   how many are already in a local market (via direct or via CNSIP); for the\r\n   remaining gap, why they are not live in CNSIP (not eligible? not pitched?\r\n   Rejected? Migration issue?)\r\n   -\r\n\r\n   Direct first or SIP first:\r\n   -\r\n\r\n      We had initial discussion with Derek/Elaine, current preference is\r\n      Direct first\r\n      -\r\n\r\n      The approach is\r\n      -\r\n\r\n         For the target seller pool that CN SMT team wants to pitch for\r\n         Direct (mainly short-tail and Mall sellers), CN SMT will\r\npitch for Direct\r\n         first, and then pitch for CNSIP as a backup option to seller\r\nif the sellers\r\n         confirms not to join Direct\r\n         -\r\n\r\n         For the sellers outside CN SMT target pool (mainly long-tail and\r\n         non-Mall), we pitch to CNSIP directly\r\n         -\r\n\r\n         Eventual goal is we have one shop in each market, Direct or SIP,\r\n         so the SKUs are made available to the market\r\n         -\r\n\r\n      We will jointly finalize the collaboration plan and impact early next\r\n      week, to share our joint proposal by 30 May"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nFor existing SIP sellers, are they in all markets that they are not in with\r\ndirect model?\r\n\r\n   -\r\n\r\n   Yes, we open SIP shops for all markets that they currently do not have\r\n   Direct shops in\r\n\r\n\r\n\r\nFor new SIP sellers, the low hanging fruit for me would be GGPs who are not\r\nin all our markets. It is unclear to me whether it should be\r\n\r\n   -\r\n\r\n   What the size is\r\n   -\r\n\r\n   We pitch them direct first\r\n   -\r\n\r\n   We get them on SIP first, then return shop to them later\r\n\r\n\r\n\r\nTh"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, JH,\r\n\r\nPlease find attached CNSIP revamp proposal for your review. The scope split\r\nand collaborations with CNCB SMT in this doc are our joint proposal with @Cheng\r\nDerek <derek.cheng@shopee.com> / @Elaine Wang <elaine.wang@shopee.com> / @Xu\r\nWu <amy.wu@shopee.com>.\r\n\r\nThank you.\r\nCuiwei"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Few things I think qutie important, but missing.\r\n\r\n1) Team effort estimation.\r\n\r\nFor listing migration, @Yiru Zhao <yiru.zhao@shopee.com> team did some\r\nestimation, which indicates quite substaintial HC requirement for listing\r\nQC, unperforming listing removal and GR coordinations. Need to factor in\r\nthose. Also for RMs, please share the additional processes. Their focus for\r\n2025 are LFF and pricing based on current plan. As SKU migration is the\r\nmajor uplifting of this initiative, we have to consider the additional team\r\neffort from local Ops, Reg Ops, CNCB RMs and CNCB SIP team.\r\n\r\n2) For more SKU initiatives, can show me the SKU efficiency assumption on\r\nslide 13? We have to bear in mind that large portion of these non migrated\r\nSIP SKUs could be sellers purposely choose not to populate from MTSKUs to\r\nMPSKUs.\r\n\r\n3) Have we done remove duplications effect from SMT market expansion\r\ninitiative?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi JH,\r\n\r\n\r\nThanks for the comments. Please kindly see below responses inputted/aligned\r\namong CB ops / CNCB SMT / CNSIP team. Thanks a lot!\r\n\r\n\r\n\r\n1) Team effort estimation.\r\n\r\n\r\nFor listing migration, @Yiru Zhao team did some estimation, which indicates\r\nquite substantial HC requirement for listing QC, unperforming listing\r\nremoval and GR coordinations. Need to factor in those. Also for RMs, please\r\nshare the additional processes. Their focus for 2025 are LFF and pricing\r\nbased on current plan. As SKU migration is the major uplifting of this\r\ninitiative, we have to consider the additional team effort from local Ops,\r\nReg Ops, CNCB RMs and CNCB SIP team.\r\n\r\n\r\nListing QC [Input from Reg Listing team]\r\n\r\nAs of April 2025, SIP has significantly higher QC agent cost per order\r\ncompared to non-SIP SKUs. Cost per order is expected to increase when SIP\r\nmigration intensifies.\r\n\r\nQC Agent Cost per '000 orders (Apr 25)\r\n\r\nSG\r\n\r\nMY\r\n\r\nTH\r\n\r\nTW\r\n\r\nVN\r\n\r\nPH\r\n\r\nBR\r\n\r\nSIP\r\n\r\n$0.35\r\n\r\n$1.05\r\n\r\n$2.87\r\n\r\n$1.43\r\n\r\n$6.80\r\n\r\n$0.21\r\n\r\n$2.66\r\n\r\nNon-SIP\r\n\r\n$0.17\r\n\r\n$0.17\r\n\r\n$0.17\r\n\r\n$1.06\r\n\r\n$0.07\r\n\r\n$0.01\r\n\r\n$0.11\r\n\r\n% Difference\r\n\r\n102%\r\n\r\n528%\r\n\r\n1594%\r\n\r\n35%\r\n\r\n9552%\r\n\r\n1575%\r\n\r\n2222%\r\n\r\n\r\nAs such, we proposed the following SOP to SIP to ensure they can curate\r\nSKUs flexibly without being constrained by QC cost or volume:\r\n\r\n   1.\r\n\r\n   SIP SKU quality shall not rely on agent QC, most of the qc rules are\r\n   already being put in SIP migration system.\r\n   2.\r\n\r\n   By default, SIP SKUs that trigger QC (e.g. flagged by Listing QC DS\r\n   models) shall not be reviewed nor go live. You can imagine this to be an\r\n   additional layer of filter to the existing listing validation checks such\r\n   as logistic channel/prohibited category restrictions. Then these manual\r\n   checks will be put in the system.\r\n   3.\r\n\r\n   If there are certain SKUs triggered for QC that SIP believe have high\r\n   potential (e.g. above a certain ADO/ADGMV threshold), they can be\r\n   whitelisted for agent review and a c"
+        }
+      ]
+    }
+  ]
+}

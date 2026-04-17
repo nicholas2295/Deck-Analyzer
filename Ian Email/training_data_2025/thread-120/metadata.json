@@ -1,0 +1,813 @@
+{
+  "id": "thread-120",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.11.13",
+  "date": "2025-11-12",
+  "deck_filename": "SCS & Lovito & Warehouse bi-weekly update_2025.11.13.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "strategy",
+    "product-launch",
+    "marketing",
+    "category"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Gang Chen"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Gang Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito, and warehouse for\r\nour discussion tomorrow.\r\n\r\nThank you!\r\n\r\nBest,\r\nChen Gang"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - We need to meet both top and bottom line targets?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Will we meet them\r\n   for Nov?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "- Fo Nov, our ABS still does not show signs of improvement?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- In general, Nov should be a good month with good traffic and platform\r\n   support?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "But it seems like we are performing worse than Sep..\r\n\r\n\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - Cannot quite understand how to read the table, it does not add up to\r\n   100%\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I understand that our FBS rates for heavy items are not competitive\r\n   and this is deliberate, but am not sure how this would impact our sourcing?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 13 -14\r\n\r\n   - This is probably still not sufficient?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "We moved from 68% lower than CB\r\n   seller to probably 65% lower?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 16\r\n\r\n   - Are we also looking at category mix as well?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "For eg. I know markets\r\n   are keen to push Taobao stuff >> F&B/Fashion/Beauty/Furniture. Are we\r\n   looking at this angle?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 19\r\n\r\n   - For Proya, we can still allow them to have pricing control while\r\n   managing consignment model?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "All they need to do is to give us the floor\r\n   price that we cannot go below?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "Why do we want to have a fix service fee\r\n   model?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 20\r\n\r\n   - How did our UE look like on 11.11 vs BAU day?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Is this something that\r\n   we can do more frequently?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "There are more campaigns than just 11.11?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "For\r\n   eg. 15th, Payday etc.\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   - For VN, where are we on exploring 3PFs?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- For BR, they are pushing FBS, are we intending to be part of the push?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q18",
+          "question": "Slide 38\r\n\r\n   - Does Jap manga collaboration make sense?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Slide 39\r\n\r\n   - Did we look at bag accessories in the end?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "- And do we have enough accessories/kids fashion in general for this?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- How will we be marketing this?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "Slide 41\r\n\r\n   - When will the front end feature be ready to do customized clothes?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "- When compared to CB sellers, are we able to do it cheaper than them?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "If so, it is probably worth investing in it even though the processes are\r\n   manual?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Slide 43\r\n\r\n   - PC3 here is daily number?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- What is the contribution of ADO to total Lovito PH ADO?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Slide 46\r\n\r\n   - We need to aim for 1-2 launch per month?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Who do we have for VN?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "When are we looking at a new KOL collaboration for PH again?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Slide 48\r\n\r\n   - Push would probably come more from SCS side as compared to Fashion\r\n\r\n\r\n\r\nSlide 50\r\n\r\n   - Bags are not really growing?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- For Kids, do we sell in different shop?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "For men do we sell in\r\n   different shop?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Probably should not be putting everything in lovito shop?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Thursday, 13 November 2025 12:44 pm\r\n*To:* 'Gang Chen' <gang.chen@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Ran Yang' <russell.yang@shopee.com>; 'Roy Lv' <roy.lv@shopee.com>;\r\n'Charissa Li' <charissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>;\r\n'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy Kong' <\r\nrainy.kong@shopee.com>; Jiahui Ren <renjh@sea.com>; 'Xingguo Liu' <\r\nkala.liu@shopee.com>; 'Bai L' <bai.l@shopee.com>; 'Alex You' <\r\nalex.you@shopee.com>; 'Jinyu Du' <jinyu.du@shopee.com>; 'Di Zhang' <\r\ndi.zhangd@shopee.com>; 'Weijia Song' <vega.song@lovito.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito & Warehouse bi-weekly\r\nupdate_2025.11.13\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - We need to meet both top and bottom line targets?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "Will we meet them\r\n   for Nov?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "- Fo Nov, our ABS still does not show signs of improvement?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- In general, Nov should be a good month with good traffic and platform\r\n   support?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "But it seems like we are performing worse than Sep..\r\n\r\n\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - Cannot quite understand how to read the table, it does not add up to\r\n   100%\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I understand that our FBS rates for heavy items are not competitive\r\n   and this is deliberate, but am not sure how this would impact our sourcing?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "Slide 13 -14\r\n\r\n   - This is probably still not sufficient?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "We moved from 68% lower than CB\r\n   seller to probably 65% lower?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Slide 16\r\n\r\n   - Are we also looking at category mix as well?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "For eg. I know markets\r\n   are keen to push Taobao stuff >> F&B/Fashion/Beauty/Furniture. Are we\r\n   looking at this angle?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Slide 19\r\n\r\n   - For Proya, we can still allow them to have pricing control while\r\n   managing consignment model?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "All they need to do is to give us the floor\r\n   price that we cannot go below?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "Why do we want to have a fix service fee\r\n   model?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Slide 20\r\n\r\n   - How did our UE look like on 11.11 vs BAU day?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Is this something that\r\n   we can do more frequently?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "There are more campaigns than just 11.11?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "For\r\n   eg. 15th, Payday etc.\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   - For VN, where are we on exploring 3PFs?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "- For BR, they are pushing FBS, are we intending to be part of the push?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q51",
+          "question": "Slide 55\r\n\r\n   - Is this something that SCS should do more as well?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "Slide 57 – 60\r\n\r\n   - Seems like nothing new?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "- Anything that helps in our listings or qc process?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "or price monitoring\r\n   process?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "- How about on CS side?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "How we can manage our buyer replies better?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "- Do we have cost savings of each of these initiatives?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "There is a\r\n   standardized way of calculating this\r\n\r\n\r\n\r\nSlide 69\r\n\r\n   - Is this growing the way we want it to be right now?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "Who are the\r\n   sellers who are using Anbo WH right now?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Does it make sense to scale or not?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "Slide 72 and 73\r\n\r\n   - Average waiting time is so poor?"
+        },
+        {
+          "question_id": "Q62",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Thursday, 13 November 2025 1:03 pm\r\n*To:* 'Gang Chen' <gang.chen@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Ran Yang' <russell.yang@shopee.com>; 'Roy Lv' <roy.lv@shopee.com>;\r\n'Charissa Li' <charissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>;\r\n'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy Kong' <\r\nrainy.kong@shopee.com>; 'Jiahui Ren' <renjh@sea.com>; 'Xingguo Liu' <\r\nkala.liu@shopee.com>; 'Bai L' <bai.l@shopee.com>; 'Alex You' <\r\nalex.you@shopee.com>; 'Jinyu Du' <jinyu.du@shopee.com>; 'Di Zhang' <\r\ndi.zhangd@shopee.com>; 'Weijia Song' <vega.song@lovito.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito & Warehouse bi-weekly\r\nupdate_2025.11.13\r\n\r\n\r\n\r\nSlide 38\r\n\r\n   - Does Jap manga collaboration make sense?"
+        },
+        {
+          "question_id": "Q63",
+          "question": "Slide 39\r\n\r\n   - Did we look at bag accessories in the end?"
+        },
+        {
+          "question_id": "Q64",
+          "question": "- And do we have enough accessories/kids fashion in general for this?"
+        },
+        {
+          "question_id": "Q65",
+          "question": "- How will we be marketing this?"
+        },
+        {
+          "question_id": "Q66",
+          "question": "Slide 41\r\n\r\n   - When will the front end feature be ready to do customized clothes?"
+        },
+        {
+          "question_id": "Q67",
+          "question": "- When compared to CB sellers, are we able to do it cheaper than them?"
+        },
+        {
+          "question_id": "Q68",
+          "question": "If so, it is probably worth investing in it even though the processes are\r\n   manual?"
+        },
+        {
+          "question_id": "Q69",
+          "question": "Slide 43\r\n\r\n   - PC3 here is daily number?"
+        },
+        {
+          "question_id": "Q70",
+          "question": "- What is the contribution of ADO to total Lovito PH ADO?"
+        },
+        {
+          "question_id": "Q71",
+          "question": "Slide 46\r\n\r\n   - We need to aim for 1-2 launch per month?"
+        },
+        {
+          "question_id": "Q72",
+          "question": "Who do we have for VN?"
+        },
+        {
+          "question_id": "Q73",
+          "question": "When are we looking at a new KOL collaboration for PH again?"
+        },
+        {
+          "question_id": "Q74",
+          "question": "Slide 48\r\n\r\n   - Push would probably come more from SCS side as compared to Fashion\r\n\r\n\r\n\r\nSlide 50\r\n\r\n   - Bags are not really growing?"
+        },
+        {
+          "question_id": "Q75",
+          "question": "- For Kids, do we sell in different shop?"
+        },
+        {
+          "question_id": "Q76",
+          "question": "For men do we sell in\r\n   different shop?"
+        },
+        {
+          "question_id": "Q77",
+          "question": "Probably should not be putting everything in lovito shop?"
+        },
+        {
+          "question_id": "Q78",
+          "question": "*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Thursday, 13 November 2025 12:44 pm\r\n*To:* 'Gang Chen' <gang.chen@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Ran Yang' <russell.yang@shopee.com>; 'Roy Lv' <roy.lv@shopee.com>;\r\n'Charissa Li' <charissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>;\r\n'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy Kong' <\r\nrainy.kong@shopee.com>; Jiahui Ren <renjh@sea.com>; 'Xingguo Liu' <\r\nkala.liu@shopee.com>; 'Bai L' <bai.l@shopee.com>; 'Alex You' <\r\nalex.you@shopee.com>; 'Jinyu Du' <jinyu.du@shopee.com>; 'Di Zhang' <\r\ndi.zhangd@shopee.com>; 'Weijia Song' <vega.song@lovito.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito & Warehouse bi-weekly\r\nupdate_2025.11.13\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - We need to meet both top and bottom line targets?"
+        },
+        {
+          "question_id": "Q79",
+          "question": "Will we meet them\r\n   for Nov?"
+        },
+        {
+          "question_id": "Q80",
+          "question": "- Fo Nov, our ABS still does not show signs of improvement?"
+        },
+        {
+          "question_id": "Q81",
+          "question": "- In general, Nov should be a good month with good traffic and platform\r\n   support?"
+        },
+        {
+          "question_id": "Q82",
+          "question": "But it seems like we are performing worse than Sep..\r\n\r\n\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   - Cannot quite understand how to read the table, it does not add up to\r\n   100%\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - I understand that our FBS rates for heavy items are not competitive\r\n   and this is deliberate, but am not sure how this would impact our sourcing?"
+        },
+        {
+          "question_id": "Q83",
+          "question": "Slide 13 -14\r\n\r\n   - This is probably still not sufficient?"
+        },
+        {
+          "question_id": "Q84",
+          "question": "We moved from 68% lower than CB\r\n   seller to probably 65% lower?"
+        },
+        {
+          "question_id": "Q85",
+          "question": "Slide 16\r\n\r\n   - Are we also looking at category mix as well?"
+        },
+        {
+          "question_id": "Q86",
+          "question": "For eg. I know markets\r\n   are keen to push Taobao stuff >> F&B/Fashion/Beauty/Furniture. Are we\r\n   looking at this angle?"
+        },
+        {
+          "question_id": "Q87",
+          "question": "Slide 19\r\n\r\n   - For Proya, we can still allow them to have pricing control while\r\n   managing consignment model?"
+        },
+        {
+          "question_id": "Q88",
+          "question": "All they need to do is to give us the floor\r\n   price that we cannot go below?"
+        },
+        {
+          "question_id": "Q89",
+          "question": "Why do we want to have a fix service fee\r\n   model?"
+        },
+        {
+          "question_id": "Q90",
+          "question": "Slide 20\r\n\r\n   - How did our UE look like on 11.11 vs BAU day?"
+        },
+        {
+          "question_id": "Q91",
+          "question": "Is this something that\r\n   we can do more frequently?"
+        },
+        {
+          "question_id": "Q92",
+          "question": "There are more campaigns than just 11.11?"
+        },
+        {
+          "question_id": "Q93",
+          "question": "For\r\n   eg. 15th, Payday etc.\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   - For VN, where are we on exploring 3PFs?"
+        },
+        {
+          "question_id": "Q94",
+          "question": "- For BR, they are pushing FBS, are we intending to be part of the push?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Gang Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q69",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q70",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q71",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q72",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q73",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q74",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q75",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q76",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q77",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q78",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q79",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q80",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q81",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q82",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q83",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q84",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q85",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q86",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q87",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q88",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q89",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q90",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q91",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q92",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q93",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        },
+        {
+          "question_id": "Q94",
+          "answer": "Hi Ian,\r\n\r\nAttached below please find the to-do list from yesterday's meeting.\r\n\r\n[image: image.png]\r\n\r\nBest,\r\n\r\nChen Gang"
+        }
+      ]
+    }
+  ]
+}

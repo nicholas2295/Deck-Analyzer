@@ -1,0 +1,112 @@
+{
+  "id": "thread-021",
+  "subject": "[Pre-read] Changes to CN eCommerce Regulations",
+  "date": "2026-03-11",
+  "deck_filename": "Impact Analysis - CN Regulation Change_20260318.pdf",
+  "deck_topic_tags": [
+    "gmv",
+    "seller-acquisition",
+    "shopee",
+    "e-commerce"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan",
+      "Leo Chen"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Leo Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi\r\n\r\nPlease find the attached memo for tomorrow's discussion.\r\nhttps://docs.google.com/document/d/1RgQBtoEGj9N55IFLK5Tdw85CpthY0f9YQ5-aZFmOlPk/edit?usp=sharing\r\n\r\nThanks\r\nLeo"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Leo Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Terence\r\n\r\nPlease find the below as follow ups from the meeting.\r\n[image: image.png]\r\n\r\nThanks\r\nLeo"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Leo Chen",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Terence\r\n\r\nTo update on item #1 and #2, please find the below summary (detailed study\r\nis attached).\r\n\r\n*#1. GMS auto toggle-on in SG/MY/TH/VN*\r\n\r\n   - Remediation plan: suspend GMS auto toggle-on for new shops going\r\n   forwards (mass toggle-on for all shops have been performed in Feb)\r\n      - 2026FY impact is estimated to be -*$553k for EBITDA *(*-0.01pp for\r\n      CB* take rate, *-0.001pp for platform* take rate for SG/MY/TH/VN)\r\n      - *We will mitigate this potential loss and deliver as budgeted* with\r\n      seller management and product measures.\r\n\r\n*#2. Auto escrow 2% with default enrollment in PH*\r\n\r\n   - *Remediation plan **A*: shift to opt-in mode\r\n      - The estimated impact for FY2026 is *-$1.3m for EBITDA *(*-0.06pp\r\n      for CB* take rate, *-0.01pp for platform* take rate for PH)\r\n   - *Remediation plan B* (Recommended): transition to 5% fee-based model\r\n   (like other countries) from Oct, when regulatory environment and seller\r\n   sentiment cool down\r\n      - The estimated impact for FY2026 is *+$8m for EBITDA *(*+0.36pp for\r\n      CB* take rate, *+0.06pp for platform* take rate for PH)\r\n   - We are currently in discussion with PH on the remediation plan decision\r\n\r\n\r\nBest\r\nLeo"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n\r\nSorry for the late reply as I was sick last few days. CN side aligned with\r\nus on the take rate impact beforehand, deck wise not. Pls find replies as\r\nfollows.\r\n\r\n\r\nHow much are we supposed to charge, how much was utilized, how much not\r\nutilized, how bad is the utilization rate and is there a particular\r\nconcentration?\r\n\r\n~87-90% was utilized*. The key gap is with 3P SLS sellers, driven not by\r\nGMV Max auto-on, but by sellers’ inability to spend large ad top up.\r\nEvidences showed in below table,\r\n\r\n   -\r\n\r\n    FBS/3PF (more short-tail) utilization rate changed little across the\r\n   Phase 1/2/3\r\n   -\r\n\r\n   3P SLS utilization fell post-rollout in both Phase 2 and 3\r\n\r\nI suggest we monitor 2-3 more weeks of top up to ensure the judgement,\r\ncurrent phase 3 only got 1 week\r\n\r\nTable: CNCB Ads Expenditure/Ads Topup% by period\r\n\r\n[image: image.png]\r\n\r\n*Note: Ads Utilization uses the same period for spend and top-ups, which\r\ncan look inflated if auto top-ups accumulated from different period vs\r\nexpenditure, however, the rolling view is more representative when more\r\nweeks data in.\r\n\r\n\r\nhow does this impact the TR% and how will we get sellers to utilize the ads?\r\n\r\neven with GMV Max auto-off for new sellers, CN shared results is aligned\r\nwith us\r\n\r\n   -\r\n\r\n   Last TP meeting: after the meeting, we mentioned that the uplift was\r\n   1.3% vs 1.8% committed (~0.5% short) due to lower ad top-ups during CNY\r\n   -\r\n\r\n   Latest week (ad credits and GMV both normal time): take rate uplift vs\r\n   pre-compulsory period is on track 1.9% vs 1.8% committed (see table below)\r\n\r\nI suggest we monitor 2-3 more weeks of top up to ensure the judgement, current\r\nphase 3 only got 1 week\r\n\r\n\r\n   -\r\n\r\n   #1 How to solve “top-ups made but not auto spend”?  (this email key\r\n   focus: CN Regulation prohibit Deemed Consent)\r\n\r\n\r\n   -\r\n\r\n   1) from seller mgmt wise, a) educate on ROAS protection and GMV Max\r\n   algorithms to address concerns about GMV Max on, b) incentive sellers to\r\n   st"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Ok so we are 0.1% better than committed?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "That is probably ok then..\r\n\r\n\r\n\r\n*From:* Faye Yan <faye.yan@shopee.com>\r\n*Sent:* Tuesday, 24 March 2026 8:47 am\r\n*To:* Ian Ho <hoi@sea.com>\r\n*Cc:* Jason Yu <jason.yu@shopee.com>; Shuning Wang <shuning.wang@shopee.com>\r\n*Subject:* Re: [Pre-read] Changes to CN eCommerce Regulations\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nSorry for the late reply as I was sick last few days. CN side aligned with\r\nus on the take rate impact beforehand, deck wise not. Pls find replies as\r\nfollows.\r\n\r\n\r\n\r\nHow much are we supposed to charge, how much was utilized, how much not\r\nutilized, how bad is the utilization rate and is there a particular\r\nconcentration?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*>> Suppose to charge at 5%+VAT of charge base, and out of total top-up,\r\n~87-90% was utilized*. The key gap is with 3P SLS sellers, driven not by\r\nGMV Max auto-on, but by sellers’ inability to spend large ad top up.\r\nEvidences showed in below table,*\r\n\r\n   - * FBS/3PF (more short-tail) utilization rate changed little across the\r\n   Phase 1/2/3*\r\n   - *3P SLS utilization fell post-rollout in both Phase 2 and 3*\r\n\r\n*I suggest we monitor 2-3 more weeks of top up to ensure the judgement,\r\ncurrent phase 3 only got 1 week*\r\n\r\n*Table: CNCB Ads Expenditure/Ads Topup% by period*\r\n\r\n**Note: Ads Utilization uses the same period for spend and top-ups, which\r\ncan look inflated if auto top-ups accumulated from different period vs\r\nexpenditure, however, the rolling view is more representative when more\r\nweeks data in.*\r\n\r\n\r\n\r\nhow does this impact the TR% and how will we get sellers to utilize the ads?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*>>About impact to Takerate: Based on recent week, targets look achievable\r\neven with GMV Max auto-off for new sellers, CN shared results is aligned\r\nwith us*\r\n\r\n   - *Last TP meeting: after the meeting, we mentioned that the uplift was\r\n   1.3% vs 1.8% committed (~0.5% short) due to lower ad top-ups during CNY*\r\n   - *Latest week (ad credits and GMV both normal time): take rate uplift\r\n   vs pre-compulsory period is on track 1.9% vs 1.8% committed (see table\r\n   below) *\r\n\r\n*I suggest we monitor 2-3 more weeks of top up to ensure the judgement,\r\ncurrent phase 3 only got 1 week*\r\n\r\n*>>About get sellers to utilize the ads: split into two parts to answer*\r\n\r\n   - *#1 How to solve “top-ups made but not auto spend”?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSo far yes, we are monitoring weekly ads top up and see if trends sustain.\r\nKeep posted!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSo far yes, we are monitoring weekly ads top up and see if trends sustain.\r\nKeep posted!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nSo far yes, we are monitoring weekly ads top up and see if trends sustain.\r\nKeep posted!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nSo far yes, we are monitoring weekly ads top up and see if trends sustain.\r\nKeep posted!\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    }
+  ]
+}

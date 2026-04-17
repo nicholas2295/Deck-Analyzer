@@ -1,0 +1,333 @@
+{
+  "id": "thread-041",
+  "subject": "SIP Weekly Update - Week ending 4 Apr",
+  "date": "2025-04-08",
+  "deck_filename": "Counter Taobao Weekly Update - Week ending 4 Apr.pdf",
+  "deck_topic_tags": [
+    "seller-acquisition",
+    "finance",
+    "strategy",
+    "pricing",
+    "data-analysis"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Cuiwei Sun"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPerformance Dashboard (as of 2 Apr 2025)\r\n\r\nA/ Topline/P&L\r\n\r\nNote: M-1 P&L is preliminary before book-closing adjustments\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   [Topline] Apr proj ADO 182k, 101% RR; ADO as %CB -1pp MoM; proj ADG\r\n   $2.2M, 109%RR; ADG as %CB -1pp MoM\r\n   1.\r\n\r\n      Local SIP proj ADO 102% RR, %CB -1.0pp MoM; MoM decline due to MY &\r\n      ID sellers on holiday mode and Raya assortment detrend; in process of\r\n      ramping up evergreen assortment to recover CB%\r\n      2.\r\n\r\n      CNSIP proj ADO 100% RR, %CB -0.04p MoM; %CB MoM decline due to\r\n      removal of low ROI ads spending in LATAM lanes. Next step to\r\ncomplete price\r\n      reduction to catch-up\r\n      2.\r\n\r\n   [P&L] Overall proj combined PC2 healthy at Shopee level at $2.1M\r\n\r\n\r\nB/ ADO breakdown (multiple BU/lanes)\r\n\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   All top 5 SIP lanes and WH cross-selling lanes on par with projection\r\n   (except for IDMY)\r\n   2.\r\n\r\n   IDMY proj 98% RR; platform low RR with ID sellers on holiday mode,\r\n   expecting sellers to fully return on D+12; ads boost, CRM & product promo\r\n   planned for top shops and evergreen assortment after sellers return\r\n   3.\r\n\r\n   MYSG proj 113% RR; driven by new SKUs ads automation ramp up with\r\n   commission fee reduction\r\n   4.\r\n\r\n   Other lanes 96% RR; as mainly ID-export lanes impacted by ID seller\r\n   absence\r\n\r\n\r\nC/ BWT\r\n\r\n\r\n(Use March full month data as Apr MTD performance is skewed with 2-day data\r\npoints, Apr data will update from 7th Apr)\r\n\r\nHighlights\r\n\r\n   1.\r\n\r\n   MY custom check loosened but still needs a few more documentation checks\r\n   vs before. Key blocker now is the lack of custom manpower to clear the\r\n   backlog due to holiday impact. Expected to start recovery next week after\r\n   manpower is recovered. CN SLS parcels facing the same situation\r\n   2.\r\n\r\n   IDMY 87% RR +0.8 MoM; mainly driven by (1) KUL LH LT worse than expected\r\n   as Malaysia airline terminal experienced a longer delay than expected.\r\n   Shipment took ~1 d"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "*[Topline] Apr proj ADO 182k, 101% RR; ADO as %CB -1pp MoM; proj ADG"
+        },
+        {
+          "question_id": "Q2",
+          "question": "*Local SIP proj ADO 102% RR, %CB -1.0pp MoM*; MoM decline due to MY &"
+        },
+        {
+          "question_id": "Q3",
+          "question": "*CNSIP proj ADO 100% RR, %CB -0.04p MoM;* %CB MoM decline due to"
+        },
+        {
+          "question_id": "Q4",
+          "question": "*[P&L]* *Overall proj combined PC2 healthy at Shopee level at $2.1M*"
+        },
+        {
+          "question_id": "Q5",
+          "question": "*All top 5 SIP lanes and WH cross-selling lanes on par with"
+        },
+        {
+          "question_id": "Q6",
+          "question": "*IDMY proj 98% RR*; platform low RR with ID sellers on holiday mode,"
+        },
+        {
+          "question_id": "Q7",
+          "question": "*MYSG* *proj 113% RR*; driven by new SKUs ads automation ramp up with"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Other lanes 96% RR; as mainly ID-export lanes impacted by ID seller"
+        },
+        {
+          "question_id": "Q9",
+          "question": "MY custom check loosened but still needs a few more documentation"
+        },
+        {
+          "question_id": "Q10",
+          "question": "*IDMY 87% RR +0.8 MoM; *mainly driven by (1) KUL LH LT worse than"
+        },
+        {
+          "question_id": "Q11",
+          "question": "*MYSG 96% RR, +0.1 MoM; *FM LT performance worse than expected by 0.2"
+        },
+        {
+          "question_id": "Q12",
+          "question": "*VNMY 99% RR, -2.0 MoM; *mainly driven by the delay in SGN-KUL"
+        },
+        {
+          "question_id": "Q13",
+          "question": "*IDSG 96% RR, +0.5 MoM;* mainly driven by unexpected delay in SG SATS"
+        },
+        {
+          "question_id": "Q14",
+          "question": "*MYTH 91% RR, -1.0 MoM; *mainly due to the wrong target setting"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*In progress of aligning CS key metrics with CB SCS, SG/MY SBS/SCS;"
+        },
+        {
+          "question_id": "Q16",
+          "question": "*Apr MTD data will be ready from Apr 11 due to data table legacy"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Low CSAT RR in SG/MY: mainly due to lack of revised SOP/monitoring"
+        },
+        {
+          "question_id": "Q18",
+          "question": "*MY improved L7D CSAT to* *85%* by 1) improve SOP; 2) enhance"
+        },
+        {
+          "question_id": "Q19",
+          "question": "*SG improve L7D CSAT to 72%* by same initiatives; next step is to"
+        },
+        {
+          "question_id": "Q20",
+          "question": "*CSAT RR 95% in ID: primarily due to a high volume of chats and a"
+        },
+        {
+          "question_id": "Q21",
+          "question": "*PH productivity low at 4.9*: in progress of sorting out root-causes"
+        },
+        {
+          "question_id": "Q22",
+          "question": "In progress of preparing SIP CS end-to-end proposal for Ian review on"
+        },
+        {
+          "question_id": "Q23",
+          "question": "#1 Live testing completed 24/Mar, pending biz rollout to all P markets"
+        },
+        {
+          "question_id": "Q24",
+          "question": "#3 2nd batch product line released to Live with non blocker issues."
+        },
+        {
+          "question_id": "Q25",
+          "question": "#4 high level biz model aligned with ID local team. Target to"
+        },
+        {
+          "question_id": "Q26",
+          "question": "#7 CB FBS x SIP live testing to be completed 4/Apr EOD"
+        },
+        {
+          "question_id": "Q27",
+          "question": "#8 live testing to be completed 4/Apr EOD"
+        },
+        {
+          "question_id": "Q28",
+          "question": "#9 Live testing still ongoing"
+        },
+        {
+          "question_id": "Q29",
+          "question": "#10 Datafix on 2/Apr facing a blocker, pending email format change to"
+        },
+        {
+          "question_id": "Q30",
+          "question": "*BN user survey was populated for PN on 2 Apr*, pending for users to"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Recommendation price calculation for VNMY"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan here?\r\n\r\n   -\r\n\r\n   Lower Chatbot CSAT is low as SIP is using the old NLU model\r\n   -\r\n\r\n   Plan to\r\n   -\r\n\r\n      Rollout NLU+LLM model; PH, VN, and BR as import markets are in A/B\r\n      testing. Other import markets to start A/B testing from 23 Apr. Full\r\n      rollout by the end of May if results are good\r\n      -\r\n\r\n      Set a chatbot CSAT target [ETA 15 Apr]\r\n\r\n\r\nAgent CSAT for SG is so bad? How come?\r\n\r\n   -\r\n\r\n   SG Apr MTD agent CSAT has been improved to 73% and expect to hit 80%\r\n   from 14 Apr\r\n   -\r\n\r\n   Low CSAT in March was due to poor-performing agents; 11 agents were\r\n   removed from 10 Mar\r\n   -\r\n\r\n   Action taken to improve CSAT\r\n   -\r\n\r\n      Implemented weekly agent performance monitoring (3 warning letters =\r\n      removal)\r\n      -\r\n\r\n      SOPs were updated in past 2 weeks with a CSAT improvement (79% CSAT\r\n      on Apr 8)\r\n\r\n\r\nAgent productivity in PH is so bad? How come? And yet their average\r\nresponse rate is so high? How come?\r\n\r\n   -\r\n\r\n   PH productivity is low at 4.9 due to underutilization. We reviewed the\r\n   HC planning with the PH team and adjusted it on the 1st week of Apr. Apr\r\n   MTD productivity improved to 14.\r\n   -\r\n\r\n   Longer average response time is under investigation [ETA 15 Apr]\r\n\r\n\r\nThere is abandon rate and response time issue? In ID export? But their\r\nproductivity seems ok\r\n\r\n   -\r\n\r\n   IDSG/ID/MY/IDPH  abandon rate & average response time is relatively\r\n   higher than other SIP lanes due to higher productivity and high chat\r\n   "
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Hi Ian,\r\n\r\nCS\r\n\r\nCan we not use A market P market anymore? Just use Import/Export? I always\r\nhave a hard time remembering which is which\r\n\r\n   -\r\n\r\n   Noted, will use Import/Export from next weekly report\r\n\r\n\r\nWhat does full month here mean? Which month are we referring to? Is there a\r\nway to also look at last month numbers?\r\n\r\n   -\r\n\r\n   March full month data is used in this table. Will start Apr MTD data\r\n   report from this week\r\n\r\n\r\nOur chatbot CSAT is really really bad, what is our plan her"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Cuiwei Sun",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Attaching the pdf in case the snapshots cannot be displayed properly."
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q32",
+          "question": "Our chatbot CSAT is really really bad, what is our plan here?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "- Lower Chatbot CSAT is low as SIP is using the old NLU model\r\n   - Plan to\r\n\r\n\r\n   - Rollout NLU+LLM model; PH, VN, and BR as import markets are in A/B\r\n      testing. Other import markets to start A/B testing from 23 Apr. Full\r\n      rollout by the end of May if results are good\r\n      - Set a chatbot CSAT target [ETA 15 Apr]\r\n\r\n\r\n\r\nI thought we will be using LLM model for all import markets?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 14\r\n\r\n   - For the 16 new sellers, are they in all markets or?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "- The 16 sellers are in most markets as some of them are newly onboarded\r\n      in Shopee, pushing them to onboard to all markets.\r\n\r\n\r\n   -  How do we convince them to set up shop in as many countries as\r\n   possible?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "- We will pitch them to set up shops to all markets with the incentive\r\n      package aligned with each market i.e. if they join 3 mkts, they’ll get\r\n      packages for all 3 mkts\r\n\r\n\r\n   - Acquisition speed seems very slow if we only acquired 16 over 1 quarter\r\n\r\n\r\n   - The previous acquisition was without a package. Our acquisition\r\n      package was finalised last week, and we’ll ramp up from this month onwards\r\n\r\n\r\n\r\nAny targets that we are setting here?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "id": "thread-042",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.04.11",
+  "date": "2025-04-10",
+  "deck_filename": "SCS & Lovito & Warehouse bi-weekly dicussion_2025.04.11.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "marketing",
+    "category",
+    "pricing",
+    "data-analysis"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du",
+      "Shuning Wang"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito and warehouse for\r\nour discussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - I remember that we already budgeted for removal of PID boosting in Apr\r\n   budget?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Not sure why we keep putting it back on S&R issue\r\n   - We must hit Apr targets\r\n\r\n\r\n\r\nSlide 5\r\n\r\n   - That was not what you told me last time. We cannot keep changing the\r\n   narrative to suit what we want to say, I do remember what was told to me\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - Why would there be such a high cost to BS if we can return to seller?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 8\r\n\r\n   - Not sure how we arrived at these numbers\r\n      - We always knew PID boosting was going to go away\r\n      - Without the emphasis on cheapest, we should be able to price\r\n      higher, earn more and put back into ads\r\n   - I thought our aim was to increase our penetration % of entire CB. But\r\n   the way we are planning for the business, our penetration is going down\r\n   instead\r\n\r\n\r\n\r\nSlide 9\r\n\r\n   - Again, we keep putting it on the S&R issues. What are our initiatives\r\n   to increase ADO?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- Paid ads optimization?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "- CS optimization?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "- LS/Video opitimization?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "- I keep seeing that we want to keep reducing targets, we need to grow..\r\n\r\n\r\n\r\nSlide 11\r\n\r\n   - Do the numbers here refer to models in SPU or?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 13\r\n\r\n   - This seems different from the number that was reported in the last\r\n   meeting?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- Is Mohit aware of this?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "Slide 17\r\n\r\n   - What does ADO penetration vs CB mean here?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "That our penetration went\r\n   down vs CB sellers?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- Video is really bad?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Why do we think that it is on track?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "Others\r\n\r\n   - How is our not in CSPU doing?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "I was asking if we were going to return\r\n   the stock under “others” did not hear back\r\n   - I thought there was some category study that we were doing?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "When is a\r\n   good time to discuss that?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 25\r\n\r\n   - Why did SG&A go down by so much MOM?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "- Can we meet topline budget for Apr as well?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "Slide 28\r\n\r\n   - Can I understand the ADO breakdown of Shein better based on the L1\r\n   categories?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "- How big is kids fashion for them?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- If we look at our platform?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "What is kids fashion contribution to\r\n   fashion?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "Slide 29\r\n\r\n   - We should go for trendy style, but price points should be more similar\r\n   to TT shop?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "- How does the price point compare with our Women Clothes right now?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Slide 30\r\n\r\n   - We do not want to do for Babies?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "Slide 31\r\n\r\n   - So long to get started?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "Slide 33\r\n\r\n   - How is our push into bags and shoes coming along?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Slide 34\r\n\r\n   - What is the ADO expectation for this?"
+        },
+        {
+          "question_id": "Q29",
+          "question": "- Is Shopee BR going to help push this too?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Or it is mostly from Free\r\n   Fire?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "- I remember I had some comments on a Freefire email but did not hear\r\n   back\r\n\r\n\r\n\r\nSlide 41\r\n\r\n   - We will miss June CPI targets?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Slide 42\r\n\r\n   - Have we changed to 1 shift for Langhua yet?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "- What is our breakdown between full timers and part timers now for WH\r\n   labour?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "Slide 50\r\n\r\n   - Are we able to shift to the new chatbot sooner?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "If not, is there a way\r\n   to reduce deflection rate for existing chat bot?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "it is quite bad\r\n   - Productivity is quite bad?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "- Average waiting time in queue is still wait too long at 20 mins?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "- We have 6 agents in PH already?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "- Do we have abandon rate?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "- How about Lovito?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "How is it being managed?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "And do we have a view on\r\n   metrics?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Slide 53\r\n\r\n   - What is our operating hours right now for agents?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- How does it compare to what we want?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "Slide 52\r\n\r\n   - Does 1 agent only handle one market?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Or they do multiple markets as\r\n   well?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Slide 56\r\n\r\n   - Why is there a link to claim the voucher?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "How will a buyer claim the\r\n   via  a link in the app?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "- How about dealing with post sales?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "Especially for buyers who gave us\r\n   poor rating?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "Slide 58\r\n\r\n   - We will only use LLM moving forward right?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Dear all,\r\n\r\nPlease find the to-dos from today's meeting:\r\n\r\n[image: image.png]"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Shuning Wang",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "*Wang Shuning*\r\n\r\nShopee | Cross Border - SG | BPM - BI - SIP\r\n\r\n*Mobile:* +65 96310932\r\n\r\n*Address:* Galaxy, 1 Fusionopolis Way, Singapore 138632"
+        }
+      ]
+    }
+  ]
+}

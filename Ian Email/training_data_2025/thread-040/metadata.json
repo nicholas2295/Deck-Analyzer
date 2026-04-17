@@ -1,0 +1,74 @@
+{
+  "id": "thread-040",
+  "subject": "[Pre-read] CB FP&A monthly Initiatives and Update_Apr'25",
+  "date": "2025-04-06",
+  "deck_filename": "CB FP&A Meeting_Initiatives and Updates_20250407.pdf",
+  "deck_topic_tags": [
+    "marketplace",
+    "finance",
+    "strategy",
+    "regional",
+    "tech"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Faye Yan"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Jianghong,\r\n\r\nPls find tmr's CB FP&A monthly meeting, we will be covering\r\n1) Mar performance (added breakdown by choice, sip, and marketplace-non SIP)\r\n2) Key Updates on\r\n\r\n   - All BU: CB P&L Projection Accuracy Improvement Initiatives\r\n   - Marketplace P&L: VN budget explanation\r\n   - Marketplace P&L: Mar’25 Commission Setting Update\r\n   - SLS: SEA Last Mile SPX comparison vs 3PL vendors\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Mar performance (added breakdown by choice, sip, and marketplace-non SIP)"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Key Updates on"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   For MY/TH/VN, are these one-off or do we need to change projections for\r\n   future months?\r\n   -\r\n\r\n      Topline: MY/VN platform push direction change, topline has been\r\n      adjusted in Mar submission. FY25 ADO MY -6%, VN - 13% vs Feb\r\n      submission\r\n      -\r\n\r\n      TH tax: one-off, we have officially budgeted tax impact in future\r\n      months in the latest budget submission\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For Local SIP, feels like we can reinvest for more growth? If we want to\r\n   match MP at MP EBITDA level? What are next steps here?\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   Have we called out to Dhika, Anh and Pine about these issues?\r\n\r\nheads 2) updates in CB mgmt meeting (mainly BR)\r\n\r\n   -\r\n\r\n   VN [Anh about to know]: Identified multiple stakeholder issue this\r\n   cycle, will discuss in person with VN team\r\n   -\r\n\r\n   TH [Dhika know]: Issue has been resolved, to send out email callout and\r\n   ensure manual error not repeated\r\n   -\r\n\r\n   BR [Pine Knew] : Raised issue to Pine in Feb’25:\r\n   -\r\n\r\n      [Inevitable] Chris direction,  has initiated dedicated email loops\r\n      incl. Pine in for key changes\r\n      -\r\n\r\n      [Inevitable] Business abrupt changes: e.g. Mar’25 One-off issue of\r\n      Anjun congestion, hence reduce 1 FSV\r\n      -\r\n\r\n      [Evitable] Projection Method: using MTD to project for rest of year,\r\n      pointing out, Feb/Mar frequency has been reduced\r\n\r\n\r\nSlide 15\r\n\r\n   -\r\n\r\n   CNCB Mobile Cat seems quite bad, do we know which sellers are these?\r\n   Feels even worse than local mobile sellers\r\n\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   For MY/TH/VN, are these one-off or do we need to change projections for\r\n   future months?\r\n   -\r\n\r\n      Topline: MY/VN platform push direction change, topline has been\r\n      adjusted in Mar submission. FY25 ADO MY -6%, VN - 13% vs Feb\r\n      submission\r\n      -\r\n\r\n      TH tax: one-off, we have officially budgeted tax impact in future\r\n      months in the latest budget submission\r\n\r\nSlide 5\r\n\r\n   -\r\n\r\n   For Local SIP, feels like we can reinvest for more growt"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\n\r\nPls find the FY25 comparison btw latest projection vs Commit to Chris\r\nversion (Dec’24).\r\n\r\n   -\r\n\r\n   FY25 ADO: -2%,\r\n   - *BR: +12%* from choice adjust up and MP low projection based on MTD\r\n      performance in Dec'24, and was revised upward after recovery in\r\nJan/Feb'25;\r\n      - *MY/VN: *-6% and -10% to refactor latest trends after MP PC2 and\r\n      ABS optimization\r\n   -\r\n\r\n   FY25 EBITDA: +65mil (from 168mil to 233mil)\r\n   - FY25 MP PC2: +46mil, mainly from takerate +0.9% from 1) ads take rate\r\n      pushed up by 0.4~0.8 p.p across SEA mkts 2) commission increase for\r\n      SG/MY/TH; netting off by CIR -0.4% (more spending): Dec’24 CIR was\r\n      overly optimistic for TH/VN/BR, with actual spending in Feb/Mar 0.5-1%\r\n      higher than projected\r\n      - FY25 SLS: +7mil, despite TH -12mil from tax cost booking, BR +15mil\r\n      due to SPX cost reduction and PH +7mil from increased SLS-marketplace\r\n      orders due to Choice recession\r\n      - FY25 Seller PnL: +2mil from -3.5mil to -2mil, officially require\r\n      Choice seller PnL to breakeven FY25 from Jan cycle, hence Dec\r\nChris version\r\n      is still FY25 negative PnL\r\n      - Share Cost: +10mil from less net orders and share cost/order\r\n      improvements\r\n\r\n\r\n*Table: FY25 Projection Version Comparison btw Mar’25 version and Dec’24\r\nChris version*\r\n\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    }
+  ]
+}

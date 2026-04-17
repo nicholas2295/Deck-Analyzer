@@ -1,0 +1,86 @@
+{
+  "id": "thread-108",
+  "subject": "[Pre-read] TWCB Monthly Management Meeting Update_October 2025",
+  "date": "2025-10-20",
+  "deck_filename": "TWCB Monthly Update - October 2025.pptx.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "growth",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Nicholas Lim"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi All,\r\n\r\nPlease find the attached document for the October TWCB monthly management\r\nmeeting tomorrow.\r\n\r\n1\r\n\r\nOverall CB budget / FP&A update\r\n\r\n   1.\r\n\r\n   CB OKR\r\n   2.\r\n\r\n   CB topline & P&L\r\n   -\r\n\r\n      SLS - September performance\r\n      -\r\n\r\n      SCS and Lovito - September performance\r\n\r\n2\r\n\r\nCommercial Update\r\n\r\n   1.\r\n\r\n   *[For Update] CNCB: Banned/Frozen/Deleted (BFD) shop impact on topline*\r\n   2.\r\n\r\n   *[For Update] CNCB: SCS Performance Deep Dive + Next Steps*\r\n   3.\r\n\r\n   [For Update] JPC*B: Fraud sellers and mitigation plan*\r\n   4.\r\n\r\n   [For Update] KR/JPC*B: New Seller Program*\r\n\r\n3\r\n\r\nKey Initiatives / Projects Update\r\n\r\n   1.\r\n\r\n   *[For Discussion] **KRCB: Counter Coupang*\r\n   2.\r\n\r\n   [For Update] Counter Taobao Program\r\n   3.\r\n\r\n   [For Update] XDD Program\r\n\r\n4\r\n\r\nOther Initiatives\r\n\r\n-- \r\n*Nicholas Lim*\r\nShopee | Cross Border | Special Projects / TWCB"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi all,\r\n\r\nSending over the follow-ups from TW's monthly meeting from today. Thank you.\r\n\r\n# Key Topics Action Items PIC ETA\r\n1 Banned / Frozen / Deleted (BFD) Shops - For Live shops, look into NPC and\r\nhow we can grow a select pool of these sellers\r\n- Look into CNSIP to migrate top shops back into TW Nic / Kaishen Oct 31\r\n2 Counter Coupang - Align on key categories i.e. F&B, Beauty and sellers\r\nthat we want to push with TW Local Yuna / Hyunji Oct 28\r\n3 Counter Coupang - Share plan on how we want to catch up on assortment and\r\nNPC Yuna / Hyunji Oct 23"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nThank you. We plan to cover this in action item #1. We will first look into\r\nthe existing CB sellers vs Local sellers growth split by clusters, and look\r\ninto NPC and propose ways to improve, and also migrate sellers that quit\r\nback into TW via CNSIP.\r\n\r\nWe have elaborated on this action item in the follow-up table below.\r\n# Key Topics Action Items PIC ETA\r\n1 Banned / Frozen / Deleted (BFD) Shops - Look into CNCB existing shops\r\ngrowth vs Local split by clusters\r\n- Work with TW Local on NPC comparison for CB vs Local\r\n- Look into which components can we drive price lower\r\n- Look into CNSIP and check on whether we have, or can migrate top sellers\r\nover back to TW Nic / Kaishen Oct 31\r\n2 Counter Coupang - Align on key categories i.e. F&B, Beauty and sellers\r\nthat we want to push with TW Local Yuna / Hyunji Oct 28\r\n3 Counter Coupang - Share plan on how we want to catch up on assortment and\r\nNPC Yuna / Hyunji Oct 23"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "On #3, can get back with updated SKU and NPC targets over time?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nYes, we will start updating the NPC and SKU in our weekly email starting\r\nthis week.\r\nAlso, aligned that KR team will update you by this week on their assortment\r\nand NPC catch up plan."
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Nicholas Lim",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Shuning, forwarding you KR's plan for Counter TB to Ian."
+        }
+      ]
+    }
+  ]
+}

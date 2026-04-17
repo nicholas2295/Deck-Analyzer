@@ -1,0 +1,597 @@
+{
+  "id": "thread-065",
+  "subject": "[Pre-read] SCS & Lovito & Warehouse bi-weekly update_2025.06.26",
+  "date": "2025-06-25",
+  "deck_filename": "SCS & Lovito business update_2025.06.26.pdf",
+  "deck_topic_tags": [
+    "pricing",
+    "shopee",
+    "tech",
+    "business-review"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jinyu Du"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nAttached please find the business update for SCS, Lovito, and warehouse for\r\nour discussion tomorrow. Thank you!\r\n\r\nBest,\r\nJinyu"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - The MOM drop is quite concerning given that we still have platform\r\n   boost. We should be growing\r\n   - How does July look like?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "- Our ABS also dropped?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 9\r\n\r\n   - What does VMI mean here?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- How does the JIT performance compare vs New CSPUs?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Seems like not very\r\n   food\r\n   - Can remind me how we are selecting for JIT products again?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Slide 10 – 11\r\n\r\n   - Would we be operating their brand stores?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "Or will they be placing\r\n   their products inside Choice store?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "Slide 12\r\n\r\n   - How big is the brands business in Temu right now?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "- It is mostly half consignment right?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "And pricing is set by brands?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "- What does POP mean?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "- Out of the 3 type of brands here, which is the most successful?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Slide 13\r\n\r\n   - How does AE do this?"
+        },
+        {
+          "question_id": "Q14",
+          "question": "What do they do?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "What does the brands do?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- How out the 3 type of brands here, which has been the most successful\r\n   in this model?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "Slide 16\r\n\r\n   - We will probably be able to benefit from platform incentive program as\r\n   well?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "Slide 21\r\n\r\n   - So what exactly is our new operating hours now?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "It is not clear to me\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   - Do not quite understand #4, are we taking into account what SLS is\r\n   really charging us?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "Slide 25\r\n\r\n   - Why do we not put much more in TH Local WH?"
+        },
+        {
+          "question_id": "Q21",
+          "question": "- For VN, what is the comms between NN and Anbo right now?"
+        },
+        {
+          "question_id": "Q22",
+          "question": "NN has\r\n   benefits in terms of faster BWT right?"
+        },
+        {
+          "question_id": "Q23",
+          "question": "- For TH, what is the advantages of putting so much in NNWH?"
+        },
+        {
+          "question_id": "Q24",
+          "question": "Slide 28\r\n\r\n   - Where does the JIT fall within here?"
+        },
+        {
+          "question_id": "Q25",
+          "question": "Feels like JIT performance is\r\n   quite bad comparatively?"
+        },
+        {
+          "question_id": "Q26",
+          "question": "- Do we have results of the Not in SPU when it becomes an old SKU?"
+        },
+        {
+          "question_id": "Q27",
+          "question": "How\r\n   is the performance compared with SKUs in CSPU?"
+        },
+        {
+          "question_id": "Q28",
+          "question": "Slide 32 – 37\r\n\r\n   - I remember we wanted to improve the listing quality overall. How do I\r\n   understand what we will fix first, and the SKU coverage over time?"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q29",
+          "question": "Slide 46 – 47\r\n\r\n   - Can discuss in meeting, not sure I understand this very well\r\n\r\n\r\n\r\nSlide 48\r\n\r\n   - Our contribution from AMS is going down?"
+        },
+        {
+          "question_id": "Q30",
+          "question": "Paid ads too?"
+        },
+        {
+          "question_id": "Q31",
+          "question": "Slide 51\r\n\r\n   - Have we heard back from legal yet on IP issues\r\n\r\n\r\n\r\nSlide 52\r\n\r\n   - How are we dealing with Shop CS operating hours?"
+        },
+        {
+          "question_id": "Q32",
+          "question": "Similar to SCS?"
+        },
+        {
+          "question_id": "Q33",
+          "question": "Slide 67\r\n\r\n   - So these are typically MT/LT sellers?"
+        },
+        {
+          "question_id": "Q34",
+          "question": "- How has this improved BWT overall for these sellers?"
+        },
+        {
+          "question_id": "Q35",
+          "question": "- What does #4 and #5 mean?"
+        },
+        {
+          "question_id": "Q36",
+          "question": "We pitch them Anbo and LFF together or?"
+        },
+        {
+          "question_id": "Q37",
+          "question": "Slide 68\r\n\r\n   - So 2k sellers have registered but we are only serving 50 right now?"
+        },
+        {
+          "question_id": "Q38",
+          "question": "Why so little?"
+        },
+        {
+          "question_id": "Q39",
+          "question": "- Can remind me what are the numbers we are looking at for this business\r\n   in the months ahead?"
+        },
+        {
+          "question_id": "Q40",
+          "question": "Slide 69\r\n\r\n   - What is this about?"
+        },
+        {
+          "question_id": "Q41",
+          "question": "Not clear to me\r\n\r\n\r\n\r\nSlide 70\r\n\r\n   - Not sure we can do this ba..\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n*From:* Ian Ho <hoi@sea.com>\r\n*Sent:* Thursday, 26 June 2025 8:55 am\r\n*To:* 'Jinyu Du' <jinyu.du@shopee.com>\r\n*Cc:* 'Ning Li' <ning.li@shopee.com>; 'Larry Lin' <larry.lin@shopee.com>;\r\n'Chengchen Huo' <chengchen.huo@shopee.com>; 'Florence Zhai' <\r\nflorence.zhai@shopee.com>; 'Roger Yao' <roger.yao@shopee.com>; 'Jessie\r\nZhang' <mengqi.zhang@shopee.com>; 'Jiang Hans' <hans.jiang@shopee.com>;\r\n'Mengxiao Yu' <william.yu@shopee.com>; 'Ran Yang' <russell.yang@shopee.com>;\r\n'Ang Li' <ang.lee@shopee.com>; 'Fan Fan' <jacob.fan01@shopee.com>; 'Roy Lv'\r\n<roy.lv@shopee.com>; 'Lu Lin' <lu.lin@shopee.com>; 'Charissa Li' <\r\ncharissa.li@shopee.com>; 'Siqin Liu' <siqin.liu@lovito.com>; 'Weijia Song' <\r\nvega.song@shopee.com>; 'Shuning Wang' <shuning.wang@shopee.com>; 'Rainy\r\nKong' <rainy.kong@shopee.com>; Jiahui Ren <renjh@sea.com>; 'Xingguo Liu' <\r\nkala.liu@shopee.com>; 'Bai L' <bai.l@shopee.com>\r\n*Subject:* RE: [Pre-read] SCS & Lovito & Warehouse bi-weekly\r\nupdate_2025.06.26\r\n\r\n\r\n\r\nThanks.\r\n\r\n\r\n\r\nSlide 6\r\n\r\n   - The MOM drop is quite concerning given that we still have platform\r\n   boost. We should be growing\r\n   - How does July look like?"
+        },
+        {
+          "question_id": "Q42",
+          "question": "- Our ABS also dropped?"
+        },
+        {
+          "question_id": "Q43",
+          "question": "Slide 9\r\n\r\n   - What does VMI mean here?"
+        },
+        {
+          "question_id": "Q44",
+          "question": "- How does the JIT performance compare vs New CSPUs?"
+        },
+        {
+          "question_id": "Q45",
+          "question": "Seems like not very\r\n   food\r\n   - Can remind me how we are selecting for JIT products again?"
+        },
+        {
+          "question_id": "Q46",
+          "question": "Slide 10 – 11\r\n\r\n   - Would we be operating their brand stores?"
+        },
+        {
+          "question_id": "Q47",
+          "question": "Or will they be placing\r\n   their products inside Choice store?"
+        },
+        {
+          "question_id": "Q48",
+          "question": "Slide 12\r\n\r\n   - How big is the brands business in Temu right now?"
+        },
+        {
+          "question_id": "Q49",
+          "question": "- It is mostly half consignment right?"
+        },
+        {
+          "question_id": "Q50",
+          "question": "And pricing is set by brands?"
+        },
+        {
+          "question_id": "Q51",
+          "question": "- What does POP mean?"
+        },
+        {
+          "question_id": "Q52",
+          "question": "- Out of the 3 type of brands here, which is the most successful?"
+        },
+        {
+          "question_id": "Q53",
+          "question": "Slide 13\r\n\r\n   - How does AE do this?"
+        },
+        {
+          "question_id": "Q54",
+          "question": "What do they do?"
+        },
+        {
+          "question_id": "Q55",
+          "question": "What does the brands do?"
+        },
+        {
+          "question_id": "Q56",
+          "question": "- How out the 3 type of brands here, which has been the most successful\r\n   in this model?"
+        },
+        {
+          "question_id": "Q57",
+          "question": "Slide 16\r\n\r\n   - We will probably be able to benefit from platform incentive program as\r\n   well?"
+        },
+        {
+          "question_id": "Q58",
+          "question": "Slide 21\r\n\r\n   - So what exactly is our new operating hours now?"
+        },
+        {
+          "question_id": "Q59",
+          "question": "It is not clear to me\r\n\r\n\r\n\r\nSlide 24\r\n\r\n   - Do not quite understand #4, are we taking into account what SLS is\r\n   really charging us?"
+        },
+        {
+          "question_id": "Q60",
+          "question": "Slide 25\r\n\r\n   - Why do we not put much more in TH Local WH?"
+        },
+        {
+          "question_id": "Q61",
+          "question": "- For VN, what is the comms between NN and Anbo right now?"
+        },
+        {
+          "question_id": "Q62",
+          "question": "NN has\r\n   benefits in terms of faster BWT right?"
+        },
+        {
+          "question_id": "Q63",
+          "question": "- For TH, what is the advantages of putting so much in NNWH?"
+        },
+        {
+          "question_id": "Q64",
+          "question": "Slide 28\r\n\r\n   - Where does the JIT fall within here?"
+        },
+        {
+          "question_id": "Q65",
+          "question": "Feels like JIT performance is\r\n   quite bad comparatively?"
+        },
+        {
+          "question_id": "Q66",
+          "question": "- Do we have results of the Not in SPU when it becomes an old SKU?"
+        },
+        {
+          "question_id": "Q67",
+          "question": "How\r\n   is the performance compared with SKUs in CSPU?"
+        },
+        {
+          "question_id": "Q68",
+          "question": "Slide 32 – 37\r\n\r\n   - I remember we wanted to improve the listing quality overall. How do I\r\n   understand what we will fix first, and the SKU coverage over time?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jinyu Du",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q14",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q21",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q22",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q23",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q24",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q25",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q26",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q27",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q28",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q29",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q30",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q31",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q32",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q33",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q34",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q35",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q36",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q37",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q38",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q39",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q40",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q41",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q42",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q43",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q44",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q45",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q46",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q47",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q48",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q49",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q50",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q51",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q52",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q53",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q54",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q55",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q56",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q57",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q58",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q59",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q60",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q61",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q62",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q63",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q64",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q65",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q66",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q67",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        },
+        {
+          "question_id": "Q68",
+          "answer": "Dear all,\r\n\r\nPlease find the follow-ups from yesterday's meeting. Let me know if you\r\nhave any questions, thank you!\r\n\r\n[image: image.png]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "thread-080",
+  "subject": "[For Read] KRJP P&L accuracy and profitablity Updates_20250728",
+  "date": "2025-07-28",
+  "deck_filename": "KRJP P&L Profitability and Accuracy Update_20250728.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "regional",
+    "cross-border"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Edric Tan Eng Tong",
+      "Faye Yan"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Faye Yan",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian,\r\n\r\nPls find tmr's updates on KRJP P&L (both MP and SLS) accuracy and\r\nprofitability Updates as attached, let me know if you have any questions.\r\nWe will be covering:\r\n\r\n   - KRJP P&L projection accuracy\r\n   - KRJP P&L profitability\r\n      - Negative P&L market Drill down\r\n      - SLS P&L margin across mkts review\r\n\r\nBest,\r\n\r\n*Faye Yan*\r\n\r\nShopee | Cross Border\r\n\r\n*Mobile:* +65 87767030\r\n\r\n*Address:* 5 Science Park Drive, Shopee Building, Singapore 118265"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Edric Tan Eng Tong",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian and Yuna,\r\n\r\nSummarizing the follow-up items from our KRJP sharing session yesterday:\r\n\r\nS/N\r\n\r\nKey Actions\r\n\r\nDetails\r\n\r\nPIC\r\n\r\nTimeline\r\n\r\n1\r\n\r\nSeller Paid Ads Investment\r\n\r\n1) To understand why paid ads is lower in countries like TH/PH vs. other\r\nmarket, and study on how to drive up ads investment\r\n\r\n2) To compare KR/CN beauty seller paid ads across markets\r\n\r\nKR Team\r\n\r\nCBBI\r\n\r\n8 Aug\r\n\r\n2\r\n\r\nAMS Split\r\n\r\nTo pull out AMS data and share with KR team\r\n\r\n   -\r\n\r\n   To identify if seller is spending more on AMS, and less on paid ads\r\n   -\r\n\r\n   To compare against CN sellers if trend is similar\r\n\r\nKR Team\r\n\r\nCBBI\r\n\r\n6 Aug\r\n\r\n\r\nWarmest regards,\r\n\r\nEdric Tan Eng Tong\r\n\r\nRegional Cross Border\r\n\r\nAddress 1 Fusionopolis Place\r\n<https://www.google.com/maps?q=1+fusionopolis+place&gs_lcp=CgZwc3ktYWIQAxgAMgUIABDJAzICCAAyAggAMgIIADICCAAyCAguEMcBEK8BMggILhDHARCvATIICC4QxwEQrwEyCAguEMcBEK8BMggILhDHARCvAToICAAQsQMQyQM6BQguELEDOgsILhCxAxDHARCjAjoCCC46BQgAELEDOggILhCxAxCDAToLCC4QsQMQxwEQrwE6CAguEMcBEKMCUKQFWMEKYO0QaABwAHgAgAFgiAGeBJIBATiYAQCgAQGqAQdnd3Mtd2l6&um=1&ie=UTF-8&sa=X&ved=2ahUKEwixv_696YHuAhVZ7HMBHSOGBbQQ_AUoAXoECBEQAw>,\r\nGalaxis Building #10-10, Singapore 138522"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "To understand why paid ads is lower in countries like TH/PH vs. other"
+        },
+        {
+          "question_id": "Q2",
+          "question": "To compare KR/CN beauty seller paid ads across markets"
+        }
+      ]
+    }
+  ]
+}

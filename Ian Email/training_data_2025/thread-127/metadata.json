@@ -1,0 +1,117 @@
+{
+  "id": "thread-127",
+  "subject": "[For Review] Dec CB Monthly Management Meeting",
+  "date": "2025-12-12",
+  "deck_filename": "[Dec'25] CB Monthly Management Meeting_vf2.pdf",
+  "deck_topic_tags": [
+    "product-launch",
+    "growth",
+    "cross-border",
+    "sip"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Max Goh Shi Long"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Max Goh Shi Long",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian & Jianghong,\r\n\r\nPlease find the attached V1 deck for the upcoming CB Management Meeting on\r\nTuesday 16th Dec, for your review.\r\n\r\nPreparation Timeline:\r\n\r\n   - Deck Draft 1: 12 Dec (Fri)\r\n   - Deck Draft 2: 15 Dec 4PM (Mon)\r\n   - Final Draft to Terence: 15 Dec 7PM (Mon)\r\n\r\nThe 4 topics below are still WIP and will be added in draft 2 on 15 Dec.\r\n\r\n   - CB Take Rate Increase\r\n   - CNLS Performance Update\r\n   - SIP Performance Update\r\n   - SLS Non-BSA Tender Update\r\n\r\nLet me know if you have any questions.\r\n\r\n\r\nMax Goh\r\n\r\nAddress: 1 Fusionopolis Place, #09-10, Galaxis, Singapore 138522"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong,\r\n\r\nPlease see updated slides for meeting with TP tomorrow.\r\n\r\nAll content is ready except for SIP section: Slide 87 and Slide 94. This\r\nwill be aligned separately with Ian before adding to final version.\r\n\r\nThe main agenda will be a recap of CB take rate increase plan and next\r\nsteps, as well as 2026 plan of various BUs.\r\n\r\nLet me know if any questions.\r\n\r\n\r\nOn Fri, Dec 12, 2025 at 10:19 PM Max Goh Shi Long <max.gohsl@shopee.com>\r\nwrote:\r\n\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB | MY & SG CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian, Jianghong,\r\n\r\nPlease see final version of slides attached, SIP slides have been included.\r\n\r\nLet me know for any questions."
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 8\r\n\r\n   - We probably need to adjust the number downwards taking into account\r\n   ads growth plan to be launched in Feb instead?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 10\r\n\r\n   - Similarly, this should take effect in Feb instead of Jan?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Why do we\r\n   not want to roll out in PH?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- We should also bring up legal concerns which we are trying to iron out\r\n   with legal at the moment?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 12\r\n\r\n   - For FBS, I thought we wanted to close the gap with SLS commissions?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Seems like we are not fully closing the gap?"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much softer than other\r\n   markets, local CB PIC still aligning with local country)\r\n   -\r\n\r\n   We should also bring up legal concerns which we are trying to iron out\r\n   with legal at the moment?\r\n   -\r\n\r\n   Added - legal is concerned with charging as “service fee” to all sellers\r\n   with no explicit opt-out route\r\n\r\n\r\n\r\nSlide 12\r\n\r\n   -\r\n\r\n   For FBS, I thought we wanted to close the gap with SLS commissions?\r\n   Seems like we are not fully closing the gap?\r\n   -\r\n\r\n   We had discussed this with local teams. For SG, MY and PH, they propose\r\n   to keep to the original plan of closing some but not all gap, and\r\n   observe impact to FBS orders. The rationale is that we rely on CB FBS to\r\n   drive up overall FBS penetration and there remain CB sellers not yet\r\n   acquired while platform FBS PRM has yet to fully kick in. Since the\r\n   commission differentiation worked well in 2025, propose to continue to\r\n   aggressively acquire remaining sellers and match FBS to SLS rates in Q2."
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much so"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much so"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much so"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much so"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\nPlease see new deck attached and response below.\r\n\r\nSlide 8\r\n\r\n   -\r\n\r\n   We probably need to adjust the number downwards taking into account ads\r\n   growth plan to be launched in Feb instead?\r\n   -\r\n\r\n   Adjusted\r\n\r\n\r\n\r\nSlide 10\r\n\r\n   -\r\n\r\n   Similarly, this should take effect in Feb instead of Jan? Why do we not\r\n   want to roll out in PH?\r\n   -\r\n\r\n   Adjusted, and PH wants to roll out same mechs as local (only for 15D\r\n   Auto TopUp active sellers set 2% threshold, which is much so"
+        }
+      ]
+    }
+  ]
+}

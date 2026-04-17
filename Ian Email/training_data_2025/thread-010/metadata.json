@@ -1,0 +1,244 @@
+{
+  "id": "thread-010",
+  "subject": "[For Review] Jan CB Monthly Management Meeting",
+  "date": "2025-01-20",
+  "deck_filename": "[Jan'25] CB Monthly Management Meeting_vf.pdf",
+  "deck_topic_tags": [
+    "finance",
+    "growth",
+    "marketing",
+    "data-analysis",
+    "shopee"
+  ],
+  "deck_summary": "",
+  "participants": {
+    "questioner": "Ian Ho",
+    "responders": [
+      "Jason Yu",
+      "Jianghong Liu"
+    ]
+  },
+  "qa_thread": [
+    {
+      "turn": 1,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH,\r\n\r\nPlease find attached deck for upcoming CB Management Meeting with Terence\r\nfor your review. A couple of slides WIP has yellow stickers, will be ready\r\nby 20th Jan before 2nd review.\r\n\r\nLet me know if you have any questions.\r\n\r\nTarget timeline to meeting as per below:\r\n\r\n   - 1st Review Reply - 20th Jan 6pm SGT\r\n   - 2nd Review Reply - 21st Jan, 6pm SGT\r\n   - 3rd Review Reply (if needed) - 22nd Jan, 12pm SGT\r\n   - Send to TP - 22nd Jan, Wed, 6pm SGT\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    },
+    {
+      "turn": 2,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi JH,\r\n\r\nPlease find responses to questions below. Have also attached V2 of the deck\r\nhere.\r\n\r\nSlide 51: Is there any reason why ADO% over platform increased but managed\r\nratio dropped (Jan vs Dec)? It means our managed CNLS grew less than the\r\nunmanaged pool during Dec campaign season?\r\nCNLS managed ratio dropped mainly as a number of previously managed shops\r\nhave dropped to unmanaged status during the local re-tiering process.\r\nAs seen from table below, managed shops no. remained relatively stable\r\nwhile unmanaged shop no. grew from 42,653 to 43,154 from Nov to Dec’24.\r\n(Note that the table on Slide 51 is based on Nov and Dec’24 full month\r\ndata). Specifically,\r\n\r\n   -\r\n\r\n   1,182 shops with 87k ADO moved from managed shop list to unmanaged,\r\n   which is the main reason for the drop in managed ratio.\r\n   -\r\n\r\n      The majority of these shops come from TH (557 shops with 40k ADO). We\r\n      have confirmed with TH local that these are the sellers who we have lost\r\n      contact with, i.e.sellers who have been not been in contact for\r\nat least 3\r\n      months\r\n      -\r\n\r\n      Another 225 shops with 22k ADO come from PH, which we are pending\r\n      Local seller performance team feedback. Will follow up and share findings\r\n      once hearing back\r\n      -\r\n\r\n   With another 667 shops of 57k ADO moving from unmanaged to managed,\r\n   overall ~30k net ADO moved from managed to unmanaged, roughly 1% of CNLS\r\n   universe ADO, i.e. 1% drop in managed ratio.\r\n\r\n\r\n\r\nSlide 66: Who is accountable for this? Local CB SBS warehouse manager or\r\nShaowen's Reg team?\r\nThe owner of this is Local WH Ops; They will plan for capacity using the\r\ninbound forecast sent by CN LFF Ops on a weekly basis and approve to adjust\r\nW+1 quota to cater to incoming demand spikes reasonably.\r\n\r\nSlide 82: Have we considered the \"removal of VAT\" and \"SPX discount\"\r\nfactors for TW in this version?\r\nYes, we have considered the two factors and updated the data already in\r\nthis version. The main reason for "
+        }
+      ]
+    },
+    {
+      "turn": 3,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q1",
+          "question": "Thanks.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - 1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?"
+        },
+        {
+          "question_id": "Q2",
+          "question": "Slide 20\r\n\r\n   - Will we be updating the slides to reflect how we will treat CSPUs that\r\n   have promised traffic vs that does not have?"
+        },
+        {
+          "question_id": "Q3",
+          "question": "Slide 40\r\n\r\n   - If we identify LFF + Livestream to be our key lever to grow, we should\r\n   be talking about how goals for this in the next few slides instead?"
+        },
+        {
+          "question_id": "Q4",
+          "question": "- How about Video?"
+        },
+        {
+          "question_id": "Q5",
+          "question": "Slide 63 – 67\r\n\r\n   - I do not understand the content here very well\r\n\r\n\r\n\r\nSlide 74\r\n\r\n   - This remains a slide that is hard to understand\r\n\r\n\r\n\r\nSlide 76\r\n\r\n   - We should do TW – SG and TW – MY?"
+        },
+        {
+          "question_id": "Q6",
+          "question": "Should we cater 1.5 hours for this meeting instead?"
+        },
+        {
+          "question_id": "Q7",
+          "question": "1 hour was probably too\r\nshort from the last experience?"
+        },
+        {
+          "question_id": "Q8",
+          "question": "*From:* Jason Yu <jason.yu@shopee.com>\r\n*Sent:* Monday, 20 January 2025 8:56 pm\r\n*To:* Ian Ho <hoi@sea.com>; Jianghong Liu <jianghong.liu@shopee.com>;\r\nKeljin Chua <keljin.chua@shopee.com>; Larry Lin <larry.lin@shopee.com>;\r\nCheng Derek <derek.cheng@shopee.com>; Leo Chen <leo.chenyh@shopee.com>;\r\nRuofei Wang <phyllis.wang@shopee.com>; Ning Li <ning.li@shopee.com>;\r\nChengchen Huo <chengchen.huo@shopee.com>; Shuning Wang <\r\nshuning.wang@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>; Faye Yan <\r\nfaye.yan@shopee.com>; Jiahao Chen <jiahao.chen@shopee.com>; Jinyu Du <\r\njinyu.du@shopee.com>; Yiru Zhao <yiru.zhao@shopee.com>; Ray Wang <\r\nray.wang01@shopee.com>; Cuiwei Sun <cuiwei.sun@shopee.com>; Max Goh Shi\r\nLong <max.gohsl@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>;\r\nJames Li [SZ] <james.li@shopee.com>; Shourou Li <shourou.li@shopee.com>\r\n*Subject:* Re: [For Review] Jan CB Monthly Management Meeting\r\n\r\n\r\n\r\nHi JH,\r\n\r\n\r\n\r\nPlease find responses to questions below. Have also attached V2 of the deck\r\nhere.\r\n\r\nSlide 51: Is there any reason why ADO% over platform increased but managed\r\nratio dropped (Jan vs Dec)?"
+        },
+        {
+          "question_id": "Q9",
+          "question": "It means our managed CNLS grew less than the\r\nunmanaged pool during Dec campaign season?"
+        },
+        {
+          "question_id": "Q10",
+          "question": "CNLS managed ratio dropped mainly as a number of previously managed shops\r\nhave dropped to unmanaged status during the local re-tiering process.\r\nAs seen from table below, managed shops no. remained relatively stable\r\nwhile unmanaged shop no. grew from 42,653 to 43,154 from Nov to Dec’24.\r\n(Note that the table on Slide 51 is based on Nov and Dec’24 full month\r\ndata). Specifically,\r\n\r\n   - 1,182 shops with 87k ADO moved from managed shop list to unmanaged,\r\n   which is the main reason for the drop in managed ratio.\r\n\r\n\r\n   - The majority of these shops come from TH (557 shops with 40k ADO). We\r\n      have confirmed with TH local that these are the sellers who we have lost\r\n      contact with, i.e.sellers who have been not been in contact for\r\nat least 3\r\n      months\r\n      - Another 225 shops with 22k ADO come from PH, which we are pending\r\n      Local seller performance team feedback. Will follow up and share findings\r\n      once hearing back\r\n\r\n\r\n   - With another 667 shops of 57k ADO moving from unmanaged to managed,\r\n   overall ~30k net ADO moved from managed to unmanaged, roughly 1% of CNLS\r\n   universe ADO, i.e. 1% drop in managed ratio.\r\n\r\n\r\n\r\nSlide 66: Who is accountable for this?"
+        },
+        {
+          "question_id": "Q11",
+          "question": "Local CB SBS warehouse manager or\r\nShaowen's Reg team?"
+        },
+        {
+          "question_id": "Q12",
+          "question": "The owner of this is Local WH Ops; They will plan for capacity using the\r\ninbound forecast sent by CN LFF Ops on a weekly basis and approve to adjust\r\nW+1 quota to cater to incoming demand spikes reasonably.\r\n\r\nSlide 82: Have we considered the \"removal of VAT\" and \"SPX discount\"\r\nfactors for TW in this version?"
+        },
+        {
+          "question_id": "Q13",
+          "question": "Yes, we have considered the two factors and updated the data already in\r\nthis version. The main reason for 1% YoY increase is due to XDD ramp up in\r\nTW and XDD LM rate is the most expensive (45 NTD) in TW 店配 now.\r\n\r\nShourou Li <shourou.li@shopee.com> Could you add one slide to summary our\r\ninitiative under \"Cost\", \"Speed\", \"Expansion\" and \"Long Term Capability\" 4\r\npillars?"
+        }
+      ]
+    },
+    {
+      "turn": 4,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q1",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11mil (change to -10mil\r\n\r\nper choice latest revision)\r\n\r\n\r\n\r\nSlide 20\r\n\r\n   -\r\n\r\n   Will we be updating the slides to reflect how we will treat CSPUs that\r\n   have promised traffic vs that does not have?\r\n   -\r\n\r\n   Yes, updated in deck as page 22-23.\r\n\r\n\r\n\r\nSlide 40\r\n\r\n   -\r\n\r\n   If we identify LFF + Livestream to be our key lever to grow, we should\r\n   be talking about how goals for this in the next few slides instead?\r\n   -\r\n\r\n   How about Video?\r\n   -\r\n\r\n   Sure, added new pages 43-46 to show KR’s LFF targets, LFF growth\r\n   drivers, LS target, Video targets\r\n\r\n\r\nSlide 63 – 67\r\n\r\n   -\r\n\r\n   I do not understand the content here very well\r\n   -\r\n\r\n   As discussed offline, have included new slides 65-67 on IB forecast\r\n   accuracy and utilization, as well as owners of the process; these are no\r\n   regret, first steps to improving the inbound planning process\r\n\r\n\r\nSlide 74 (Now 75)\r\n\r\n   -\r\n\r\n   This remains a slide that is hard to understand\r\n   -\r\n\r\n   Revised slides into the new iteration\r\n\r\n\r\n\r\nSlide 76 (Now 77)\r\n\r\n   -\r\n\r\n   We should do TW – SG and TW – MY?\r\n   -\r\n\r\n   Yes. TW-SG and TW-MY proposed timeline per below table\r\n   -\r\n\r\n   Next step to update William in next TWCB meeting to confirm go/no-go\r\n   decision for pilot and scale-up\r\n\r\n\r\n\r\nShould we cater 1.5 hours for this meeting instead? 1 hour was probably too\r\nshort from the last experience?\r\n\r\nYes the meeting will start 30min earlier, future meetings will be 1.5hrs.\r\nHave also invited Bingyu, Christin and Mohit"
+        },
+        {
+          "question_id": "Q2",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q3",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q4",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q5",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q6",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q7",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q8",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q9",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q10",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q11",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q12",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        },
+        {
+          "question_id": "Q13",
+          "answer": "Hi Ian,\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\nSlide 4\r\n\r\n   -\r\n\r\n   1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?\r\n\r\nsubmitted budget, lower topline than G-team version\r\n\r\nTable: Dec’24 Actuals vs Budget\r\n\r\nDeck\r\n\r\n\r\nTarget\r\n\r\nTarget\r\n\r\nActuals\r\n\r\nG-team/Chris version\r\n\r\n(Oct 24th)\r\n\r\nNov Official Budget\r\n\r\n(Nov 22nd)\r\n\r\nChoice ADO\r\n\r\n386k\r\n\r\n362k\r\n\r\n313k\r\n\r\nChoice Seller P&L\r\n\r\n-9.4mil\r\n\r\n-8.7mil\r\n\r\n-11m"
+        }
+      ]
+    },
+    {
+      "turn": 5,
+      "from": "Ian Ho",
+      "type": "follow_up_questions",
+      "content": [
+        {
+          "question_id": "Q14",
+          "question": "Thanks.\r\n\r\n\r\n\r\nFor Slide 20 -24, I got the SCS team to make some adjustments, can probably\r\nget from them when done.\r\n\r\n\r\n\r\n*From:* Jason Yu <jason.yu@shopee.com>\r\n*Sent:* Wednesday, 22 January 2025 12:49 pm\r\n*To:* Jianghong Liu <jianghong.liu@shopee.com>\r\n*Cc:* Ian Ho <hoi@sea.com>; Keljin Chua <keljin.chua@shopee.com>; Larry Lin\r\n<larry.lin@shopee.com>; Cheng Derek <derek.cheng@shopee.com>; Leo Chen <\r\nleo.chenyh@shopee.com>; Ruofei Wang <phyllis.wang@shopee.com>; Ning Li <\r\nning.li@shopee.com>; Chengchen Huo <chengchen.huo@shopee.com>; Shuning Wang\r\n<shuning.wang@shopee.com>; Yuna Kwon <yuna.kwon@shopee.com>; Faye Yan <\r\nfaye.yan@shopee.com>; Jiahao Chen <jiahao.chen@shopee.com>; Jinyu Du <\r\njinyu.du@shopee.com>; Yiru Zhao <yiru.zhao@shopee.com>; Ray Wang <\r\nray.wang01@shopee.com>; Cuiwei Sun <cuiwei.sun@shopee.com>; Max Goh Shi\r\nLong <max.gohsl@shopee.com>; Angela Hsu Yi-Han <angela.hsu@shopee.com>;\r\nJames Li [SZ] <james.li@shopee.com>; Shourou Li <shourou.li@shopee.com>\r\n*Subject:* Re: [For Review] Jan CB Monthly Management Meeting\r\n\r\n\r\n\r\nHi Ian,\r\n\r\n\r\n\r\nPlease find responses below and attached v0.3 of the deck attached.\r\n\r\n\r\n\r\nSlide 4\r\n\r\n   - 1P + Consignment targets here refer to what we submitted to G-Team or\r\n   most recent submission?"
+        },
+        {
+          "question_id": "Q15",
+          "question": "*>> This target is for Dec’24 month, and target here refer to the Nov\r\nsubmitted budget, lower topline than G-team version*\r\n\r\n*Table: Dec’24 Actuals vs Budget*\r\n\r\n*Deck*\r\n\r\n*Target*\r\n\r\n*Target*\r\n\r\n*Actuals*\r\n\r\n*G-team/Chris version *\r\n\r\n*(Oct 24th)*\r\n\r\n*Nov Official Budget*\r\n\r\n*(Nov 22nd)*\r\n\r\n*Choice ADO*\r\n\r\n*386k*\r\n\r\n*362k*\r\n\r\n*313k*\r\n\r\n*Choice Seller P&L*\r\n\r\n*-9.4mil*\r\n\r\n*-8.7mil*\r\n\r\n*-11mil (change to -10mil *\r\n\r\n*per choice latest revision) *\r\n\r\n\r\n\r\nSlide 20\r\n\r\n   - Will we be updating the slides to reflect how we will treat CSPUs that\r\n   have promised traffic vs that does not have?"
+        },
+        {
+          "question_id": "Q16",
+          "question": "- Yes, updated in deck as page 22-23.\r\n\r\n\r\n\r\nSlide 40\r\n\r\n   - If we identify LFF + Livestream to be our key lever to grow, we should\r\n   be talking about how goals for this in the next few slides instead?"
+        },
+        {
+          "question_id": "Q17",
+          "question": "- How about Video?"
+        },
+        {
+          "question_id": "Q18",
+          "question": "- Sure, added new pages 43-46 to show KR’s LFF targets, LFF growth\r\n   drivers, LS target, Video targets\r\n\r\n\r\n\r\nSlide 63 – 67\r\n\r\n   - I do not understand the content here very well\r\n   - As discussed offline, have included new slides 65-67 on IB forecast\r\n   accuracy and utilization, as well as owners of the process; these are no\r\n   regret, first steps to improving the inbound planning process\r\n\r\n\r\n\r\nSlide 74 (Now 75)\r\n\r\n   - This remains a slide that is hard to understand\r\n   - Revised slides into the new iteration\r\n\r\n\r\n\r\nSlide 76 (Now 77)\r\n\r\n   - We should do TW – SG and TW – MY?"
+        },
+        {
+          "question_id": "Q19",
+          "question": "- Yes. TW-SG and TW-MY proposed timeline per below table\r\n   - Next step to update William in next TWCB meeting to confirm go/no-go\r\n   decision for pilot and scale-up\r\n\r\n\r\n\r\nShould we cater 1.5 hours for this meeting instead?"
+        },
+        {
+          "question_id": "Q20",
+          "question": "1 hour was probably too\r\nshort from the last experience?"
+        }
+      ]
+    },
+    {
+      "turn": 6,
+      "from": "Jianghong Liu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "Q14",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q15",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q16",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q17",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q18",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q19",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        },
+        {
+          "question_id": "Q20",
+          "answer": "@Jason Yu <jason.yu@shopee.com> For slide 84 (SLS 2025 plan), could you ask\r\nShourou to use the latest slides I vetted?"
+        }
+      ]
+    },
+    {
+      "turn": 7,
+      "from": "Jason Yu",
+      "type": "answers",
+      "content": [
+        {
+          "question_id": "context",
+          "answer": "Hi Ian/JH\r\n\r\nPlease find latest deck attached with the following changes updated.\r\n\r\nSlide 18-22: Updated latest SCS content\r\nSlide 81-82: Updated with latest SLS framework slide from Shourou\r\n\r\nWill send to TP if there are no further questions.\r\n\r\nOn Wed, Jan 22, 2025 at 6:45 PM Jianghong Liu <jianghong.liu@shopee.com>\r\nwrote:\r\n\r\n\r\n-- \r\n*Jason YU*\r\n*Regional CB*\r\n*Mobile*: +65 90284825\r\n*Email*: jason.yu@shopee.com"
+        }
+      ]
+    }
+  ]
+}
